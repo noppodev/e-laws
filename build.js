@@ -1,33 +1,6 @@
-import fs from "node:fs";
-import path from "node:path";
-
-const lawsDir = path.resolve("laws");
-const files = fs.readdirSync(lawsDir)
-  .filter(name => name.toLowerCase().endsWith(".xml"))
-  .sort((a, b) => a.localeCompare(b, "ja"));
-
-function esc(s) {
-  return s.replace(/[&<>"']/g, c => ({
-    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&apos;"
-  }[c]));
-}
-
-const manifest = [];
-for (const file of files) {
-  const xml = fs.readFileSync(path.join(lawsDir, file), "utf8");
-  const title =
-    xml.match(/<Title>([\s\S]*?)<\/Title>/i)?.[1]?.trim() ||
-    xml.match(/<LawName>([\s\S]*?)<\/LawName>/i)?.[1]?.trim() ||
-    file.replace(/\.xml$/i, "");
-  const id = file.replace(/\.xml$/i, "");
-  manifest.push({ id, file, title });
-}
-
-fs.writeFileSync(
-  path.join(lawsDir, "index.json"),
-  JSON.stringify(manifest, null, 2) + "\n",
-  "utf8"
-);
-
-console.log(`e-Laws: ${manifest.length} law(s) indexed.`);
-for (const law of manifest) console.log(` - ${law.title} (${law.file})`);
+const fs=require('fs'),path=require('path');
+const dir=path.join(__dirname,'laws');
+const files=fs.readdirSync(dir).filter(f=>f.toLowerCase().endsWith('.xml')).sort();
+function text(xml,tag){const m=xml.match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</${tag}>`,'i'));return m?m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim():''}
+const out=files.map(file=>{const xml=fs.readFileSync(path.join(dir,file),'utf8');const title=text(xml,'Title')||text(xml,'LawTitle')||path.basename(file,'.xml');const type=text(xml,'Type')||'法令';const summary=text(xml,'Summary')||'';const searchText=xml.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();return {id:path.basename(file,'.xml'),file,title,type,summary,searchText}});
+fs.writeFileSync(path.join(dir,'index.json'),JSON.stringify(out,null,2)+'\n','utf8');console.log(`e-Laws: ${out.length} law(s) indexed.`);

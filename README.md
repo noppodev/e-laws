@@ -1,46 +1,22 @@
 # e-Laws
 
-架空国家向けの法令検索・法令情報提供システム。
+架空国家の法令検索・法令情報提供システム。
 
-## データの追加
+## 構成
 
-`laws/` に XML を追加するだけです。
+- `index.html` — UI・検索・表示
+- `build.js` — `laws/*.xml` から `laws/index.json` を自動生成
+- `laws/*.xml` — 法令の原本データ
+- `laws/index.json` — ビルド時に自動生成される一覧データ
 
-例:
+## 法律を追加する
 
-```text
-laws/
-├── constitution.xml
-├── some-law.xml
-└── another-law.xml
-```
+`laws/` にXMLを追加してpushするだけです。HTMLの変更は不要です。
 
-XML の `<Title>` を法令名として自動取得します。`<LawName>` もフォールバックとして利用します。
-
-## ローカル
-
-```bash
-npm run build
-```
-
-これで `laws/index.json` が自動生成されます。
-
-その後、任意の静的サーバーで公開できます。
+XMLには最低限 `<Title>` を入れてください。
 
 ## Cloudflare Pages
 
-GitHub とPagesを接続し、
+Build command: `npm run build`
 
-- Build command: `npm run build`
-- Build output directory: `.`
-
-で公開します。
-
-`laws/` にXMLを追加してpushすると、Pagesの自動デプロイにより一覧が更新されます。
-
-## PDF
-
-法令詳細画面の「PDF / 印刷」はブラウザの印刷機能を開きます。
-印刷画面で「PDFとして保存」を選べます。
-
-将来的に、e-Govのような正式な法令組版PDFを自動生成するビルド工程に置き換え可能です。
+Build output directory: `.`

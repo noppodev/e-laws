@@ -1,42 +1,23 @@
 <!doctype html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>e-Laws — 法令検索</title>
-  <link rel="stylesheet" href="css/style.css">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>e-Laws — 法令検索・法令情報提供システム</title>
+<meta name="description" content="e-Laws 法令検索・法令情報提供システム">
+<style>
+:root{--navy:#102a43;--blue:#1769aa;--ink:#17202a;--muted:#667085;--line:#d8dee6;--bg:#f4f6f8;--card:#fff;--accent:#e8f2fb;--max:1180px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Noto Sans JP","Yu Gothic",Meiryo,sans-serif;line-height:1.7}.top{height:5px;background:var(--blue)}header{background:#fff;border-bottom:1px solid var(--line)}.head{max-width:var(--max);margin:auto;padding:18px 22px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{display:flex;align-items:center;gap:13px;color:var(--navy);text-decoration:none}.mark{width:42px;height:42px;border-radius:8px;background:var(--navy);color:#fff;display:grid;place-items:center;font-weight:800;font-size:18px}.brand strong{display:block;font-size:22px;letter-spacing:.03em}.brand small{display:block;color:var(--muted);font-size:11px}.headnav{font-size:13px;color:var(--muted)}main{min-height:calc(100vh - 180px)}.hero{background:linear-gradient(135deg,#102a43 0%,#174a72 65%,#1769aa 100%);color:#fff}.hero-inner{max-width:var(--max);margin:auto;padding:58px 22px 64px}.eyebrow{font-size:12px;letter-spacing:.12em;opacity:.75}.hero h1{font-size:clamp(30px,5vw,52px);line-height:1.15;margin:8px 0 10px}.hero p{margin:0 0 28px;color:#dbeafe}.search{display:flex;background:#fff;border-radius:10px;padding:6px;box-shadow:0 12px 30px #0004;max-width:900px}.search input{flex:1;border:0;outline:0;padding:14px 15px;font-size:16px;min-width:0;color:var(--ink)}button{font:inherit}.search button{border:0;background:var(--blue);color:#fff;border-radius:7px;padding:0 24px;font-weight:700;cursor:pointer}.wrap{max-width:var(--max);margin:auto;padding:30px 22px}.toolbar{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:18px}.toolbar h2{margin:0;font-size:21px}.count{font-size:13px;color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.law-card{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px 21px;transition:.16s;box-shadow:0 1px 2px #00000008}.law-card:hover{border-color:#9dbbd5;transform:translateY(-1px);box-shadow:0 6px 18px #0000000c}.badge{display:inline-block;background:var(--accent);color:#15558a;border-radius:4px;padding:2px 7px;font-size:11px;font-weight:700;margin-bottom:8px}.law-card h3{font-size:17px;margin:0 0 5px}.law-card p{margin:0;color:var(--muted);font-size:13px}.empty{background:#fff;border:1px dashed #bcc7d3;border-radius:10px;padding:40px;text-align:center;color:var(--muted)}.crumb{font-size:13px;color:var(--muted);margin-bottom:16px}.detail{background:#fff;border:1px solid var(--line);border-radius:10px;padding:34px 38px}.detail-head{border-bottom:2px solid var(--navy);padding-bottom:20px;margin-bottom:28px}.detail h1{margin:0 0 8px;font-size:30px;color:var(--navy)}.meta{color:var(--muted);font-size:13px}.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}.actions button,.actions a{border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:6px;padding:8px 12px;text-decoration:none;font-size:13px;cursor:pointer}.actions .primary{background:var(--blue);border-color:var(--blue);color:#fff}.toc{background:#f7f9fb;border:1px solid var(--line);border-radius:8px;padding:18px 20px;margin-bottom:28px}.toc strong{display:block;margin-bottom:8px}.toc a{display:block;color:#15558a;text-decoration:none;font-size:14px;margin:3px 0}.article{max-width:850px;margin:0 auto;padding:10px 0 30px}.chapter{font-size:20px;color:var(--navy);border-bottom:1px solid var(--line);padding:24px 0 8px;margin:0}.article-box{margin:18px 0}.article-no{font-weight:800;color:var(--navy);margin-bottom:5px}.sentence{margin:0 0 5px;white-space:pre-wrap}.paragraph{margin:0 0 10px;padding-left:1em}.note{color:var(--muted);font-size:13px}.back{display:inline-block;margin-bottom:16px;color:#15558a;text-decoration:none}@media(max-width:700px){.head{padding:14px 16px}.headnav{display:none}.hero-inner{padding:40px 16px 46px}.wrap{padding:24px 16px}.search button{padding:0 17px}.grid{grid-template-columns:1fr}.detail{padding:22px 18px}.detail h1{font-size:24px}}
+@media print{header,.hero,.actions,.crumb,.toc,footer{display:none!important}body{background:#fff}.wrap{padding:0}.detail{border:0;padding:0}.detail-head{border-bottom:1px solid #000}.article{max-width:none}.chapter{break-after:avoid}.article-box{break-inside:avoid}}
+</style>
 </head>
-<body>
-<header class="site-header">
-  <div class="header-inner">
-    <a class="brand" href="./">e-Laws</a>
-    <span class="subtitle">法令検索・法令情報提供システム</span>
-  </div>
-</header>
-
-<main>
-  <section class="hero">
-    <h1>法令検索</h1>
-    <p>法令名・条文・キーワードから法令を検索できます。</p>
-    <form id="searchForm" class="search">
-      <input id="query" type="search" placeholder="法令名や条文を入力" autocomplete="off">
-      <button type="submit">検索</button>
-    </form>
-  </section>
-
-  <section class="content">
-    <div class="section-head">
-      <h2>法令一覧</h2>
-      <span id="count"></span>
-    </div>
-    <div id="results" class="results"></div>
-  </section>
-</main>
-
-<footer>
-  <span>e-Laws</span>
-  <span>法令情報提供システム</span>
-</footer>
-<script type="module" src="js/app.js"></script>
-</body>
-</html>
+<body><div class="top"></div><header><div class="head"><a class="brand" href="./"><span class="mark">e</span><span><strong>e-Laws</strong><small>法令検索・法令情報提供システム</small></span></a><div class="headnav">法令を検索・閲覧できます</div></div></header><main id="app"></main><footer><div class="head"><span>e-Laws</span><span>法令データはXMLを基礎データとして管理しています。</span></div></footer>
+<script>
+const $=s=>document.querySelector(s);let laws=[];
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const params=new URLSearchParams(location.search), lawId=params.get('law');
+async function loadIndex(){laws=await (await fetch('./laws/index.json',{cache:'no-store'})).json()}
+function searchPage(query=''){const q=query.trim().toLowerCase();const items=q?laws.filter(x=>(x.title+' '+x.type+' '+x.summary+' '+x.searchText).toLowerCase().includes(q)):laws;document.title=(q?`「${q}」の検索結果 — `:'')+'e-Laws';$('#app').innerHTML=`<section class="hero"><div class="hero-inner"><div class="eyebrow">LAWS &amp; REGULATIONS</div><h1>法令を検索</h1><p>法令名、条文、キーワードから法令情報を検索できます。</p><form class="search" id="searchForm"><input id="q" value="${esc(query)}" autocomplete="off" placeholder="法令名・条文・キーワードを入力"><button>検索</button></form></div></section><section class="wrap"><div class="toolbar"><h2>${q?`「${esc(query)}」の検索結果`:'法令一覧'}</h2><span class="count">${items.length}件</span></div><div id="results" class="grid">${items.length?items.map(x=>`<a class="law-card" href="?law=${encodeURIComponent(x.id)}"><span class="badge">${esc(x.type||'法令')}</span><h3>${esc(x.title)}</h3><p>${esc(x.summary||'法令本文を閲覧する')}</p></a>`).join(''):'<div class="empty">該当する法令が見つかりませんでした。</div>'}</div></section>`;$('#searchForm').onsubmit=e=>{e.preventDefault();history.pushState({},'',location.pathname+($('#q').value.trim()?'?q='+encodeURIComponent($('#q').value.trim()):''));searchPage($('#q').value)} }
+function xmlText(el,tag){return el.querySelector(tag)?.textContent?.trim()||''}
+function renderXml(xml,id,meta){const doc=new DOMParser().parseFromString(xml,'application/xml');const root=doc.documentElement;if(root.querySelector('parsererror'))throw Error('XML parse error');const title=xmlText(root,'Title')||meta.title;let html='';const toc=[];for(const ch of root.children){if(!/^Chapter$/i.test(ch.tagName))continue;const ct=xmlText(ch,'ChapterTitle');const articles=[...ch.children].filter(x=>/^Article$/i.test(x.tagName));if(ct)html+=`<h2 class="chapter" id="chapter-${esc(ch.getAttribute('Num')||'')}">${esc(ct)}</h2>`;articles.forEach(a=>{const n=a.getAttribute('Num')||'';toc.push([n,ct]);html+=`<section class="article-box" id="article-${esc(n)}"><div class="article-no">第${esc(n)}条</div>`;const ps=[...a.children].filter(x=>/^Paragraph$/i.test(x.tagName));if(ps.length){ps.forEach((p,i)=>{html+=`<p class="paragraph">${esc(p.textContent.trim())}</p>`})}else html+=`<p class="sentence">${esc(a.textContent.trim())}</p>`;html+='</section>'})}if(!html){html='<p class="note">このXMLは現在の表示形式に対応する章・条の構造を含んでいません。XMLをダウンロードして原本をご確認ください。</p>'}return `<section class="wrap"><a class="back" href="./">← 法令一覧へ戻る</a><article class="detail"><div class="detail-head"><div class="badge">${esc(meta.type||'法令')}</div><h1>${esc(title)}</h1><div class="meta">データファイル：${esc(meta.file)}</div><div class="actions"><a class="primary" download="${esc(meta.file)}" href="./laws/${encodeURIComponent(meta.file)}">XMLをダウンロード</a><button onclick="window.print()">PDF・印刷</button></div></div>${toc.length?`<nav class="toc"><strong>条文一覧</strong>${toc.map(x=>`<a href="#article-${esc(x[0])}">第${esc(x[0])}条${x[1]?' — '+esc(x[1]):''}</a>`).join('')}</nav>`:''}<div class="article">${html}</div></article></section>`}
+async function detailPage(){const meta=laws.find(x=>x.id===lawId);if(!meta){searchPage();return}try{const xml=await (await fetch('./laws/'+encodeURIComponent(meta.file))).text();$('#app').innerHTML=renderXml(xml,lawId,meta);document.title=meta.title+' — e-Laws'}catch(e){$('#app').innerHTML='<section class="wrap"><div class="empty">法令XMLを読み込めませんでした。</div></section>'}}
+(async()=>{try{await loadIndex();if(lawId)await detailPage();else searchPage(params.get('q')||'')}catch(e){$('#app').innerHTML='<section class="wrap"><div class="empty">法令データを読み込めませんでした。<br>laws/index.json が生成されているか確認してください。</div></section>'}})();
+</script></body></html>
