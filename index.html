@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>e-Laws — 法令検索</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="./">e-Laws</a>
+    <span class="subtitle">法令検索・法令情報提供システム</span>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>法令検索</h1>
+    <p>法令名・条文・キーワードから法令を検索できます。</p>
+    <form id="searchForm" class="search">
+      <input id="query" type="search" placeholder="法令名や条文を入力" autocomplete="off">
+      <button type="submit">検索</button>
+    </form>
+  </section>
+
+  <section class="content">
+    <div class="section-head">
+      <h2>法令一覧</h2>
+      <span id="count"></span>
+    </div>
+    <div id="results" class="results"></div>
+  </section>
+</main>
+
+<footer>
+  <span>e-Laws</span>
+  <span>法令情報提供システム</span>
+</footer>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
