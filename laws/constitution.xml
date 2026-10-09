@@ -1,346 +1,192 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
 <?xml version="1.0" encoding="UTF-8"?>
 <Constitution>
-
-  <Title>憲法</Title>
+  <Title>〇〇国憲法</Title>
 
   <Preamble>
-    〇〇国民は、正義と秩序による恒久の安寧を念願し、厳粛に選挙された国会における代表者である大統領への信託により本憲法を制定する。
-    そしてこの憲法に於いて主権が国民にあり、恒久的に人権が守られることをここに宣言する。
-    そもそも国民の権利は何者にも妨げられるものではなく正当な権利が保障されることは人類普遍の原理であり、この憲法はかかる原理に基づき我らはこれに反する一切の憲法及び法令を排除する。
-    〇〇国民は、諸国民の協和を強く祈願し、戦争の惨禍が起きることがないやうにすることを決意し恒久の平和を実現すべく行動するものである。
-    そして専制と隷従、圧迫と辺境を永遠に除去しようと努めている。
-    この崇高な理想を念願し国家国民の名誉にかけ実現することを誓ふ。
+    <Sentence>〇〇国民は、正義と秩序による恒久の安寧を念願し、厳粛に選挙された国会における代表者である大統領への信託により本憲法を制定する。</Sentence>
+    <Sentence>そしてこの憲法に於いて主権が国民にあり、恒久的に人権が守られることをここに宣言する。</Sentence>
+    <Sentence>そもそも国民の権利は何者にも妨げられるものではなく正当な権利が保障されることは人類普遍の原理であり、この憲法はかかる原理に基づき我らはこれに反する一切の憲法及び法令を排除する。</Sentence>
+    <Sentence>〇〇国民は、諸国民の協和を強く祈願し、戦争の惨禍が起きることがないやうにすることを決意し恒久の平和を実現すべく行動するものである。</Sentence>
+    <Sentence>そして専制と隷従、圧迫と辺境を永遠に除去しようと努めている。</Sentence>
+    <Sentence>この崇高な理想を念願し国家国民の名誉にかけ実現することを誓ふ。</Sentence>
   </Preamble>
 
   <Chapter Num="1">
     <ChapterTitle>大統領</ChapterTitle>
-
-    <Article Num="1">
-      <Sentence>〇〇国は国民により選出された大統領を元首とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
-      <Sentence>大統領は行政権を総攬する。</Sentence>
-    </Article>
-
-    <Article Num="3">
-      <Sentence>大統領は各省の大臣を任命する。</Sentence>
-    </Article>
-
-    <Article Num="4">
-      <Sentence>大統領は議会により採択された法令を忠実に執行する義務を負う。</Sentence>
-    </Article>
-
-    <Article Num="5">
-      <Sentence>大統領は有事の場合に於いて議会の承認を得ずに政府機関に対して命令を発することができる。</Sentence>
-    </Article>
-
-    <Article Num="6">
-      <Sentence>大統領は、法律を執行する為に、必要な命令を発し、または発させる。但し、命令を以て法律を変更することはできない。</Sentence>
-    </Article>
-
-    <Article Num="7">
-      <Sentence>大統領は陸海空軍を統帥する。</Sentence>
-    </Article>
-
-    <Article Num="8">
-      <Sentence>大統領は陸海空軍の編成及び常備兵額を定め議会の承認により之を適用する。</Sentence>
-    </Article>
-
+    <Article Num="1"><Sentence>〇〇国は国民により選出された大統領を元首とする。</Sentence></Article>
+    <Article Num="2"><Sentence>大統領は行政権を総攬する。</Sentence></Article>
+    <Article Num="3"><Sentence>大統領は各省の大臣を任命する。</Sentence></Article>
+    <Article Num="4"><Sentence>大統領は議会により採択された法令を忠実に執行する義務を負う。</Sentence></Article>
+    <Article Num="5"><Sentence>大統領は有事の場合に於いて議会の承認を得ずに政府機関に対して命令を発することができる。</Sentence></Article>
+    <Article Num="6"><Sentence>大統領は、法律を執行する為に、必要な命令を発し、または発させる。但し、命令を以て法律を変更することはできない。</Sentence></Article>
+    <Article Num="7"><Sentence>大統領は陸海空軍を統帥する。</Sentence></Article>
+    <Article Num="8"><Sentence>大統領は陸海空軍の編成及び常備兵額を定め議会の承認により之を適用する。</Sentence></Article>
     <Article Num="9">
-      <Paragraph Num="1">
-        <Sentence>大統領は戒厳を宣告する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>戒厳の要件及び効力は法律を以て之を定める。</Sentence>
-      </Paragraph>
+      <Sentence Num="1">大統領は戒厳を宣告する。</Sentence>
+      <Sentence Num="2">戒厳の要件及び効力は法律を以て之を定める。</Sentence>
     </Article>
-
-    <Article Num="10">
-      <Sentence>大統領は大赦、特赦、減刑及び復権を命ずる。</Sentence>
-    </Article>
-
-    <Article Num="11">
-      <Sentence>大統領は議会の解散を命令する。</Sentence>
-    </Article>
+    <Article Num="10"><Sentence>大統領は大赦、特赦、減刑及び復権を命ずる。</Sentence></Article>
+    <Article Num="11"><Sentence>大統領は議会の解散を命令する。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="2">
     <ChapterTitle>議会</ChapterTitle>
-
-    <Article Num="12">
-      <Sentence>立法権は議会に帰属する。</Sentence>
-    </Article>
-
-    <Article Num="13">
-      <Sentence>議会は、衆議院及び参議院の両議院で之を構成する。</Sentence>
-    </Article>
-
+    <Article Num="12"><Sentence>立法権は議会に帰属する。</Sentence></Article>
+    <Article Num="13"><Sentence>議会は、衆議院及び参議院の両議院で之を構成する。</Sentence></Article>
     <Article Num="14">
-      <Paragraph Num="1">
-        <Sentence>両議院は全国民を代表する選挙された議員で之を組織する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>両議院の議員の定数は法律で之を定める。</Sentence>
-      </Paragraph>
+      <Sentence Num="1">両議院は全国民を代表する選挙された議員で之を組織する。</Sentence>
+      <Sentence Num="2">両議院の議員の定数は法律で之を定める。</Sentence>
     </Article>
-
-    <Article Num="15">
-      <Sentence>衆議院議員のの任期は二年とする。但し、議会の解散の際には任期の満了を待つことなく解散する。</Sentence>
-    </Article>
-
-    <Article Num="16">
-      <Sentence>参議院議員の任期は四年とし、二年ごとに議員の半数を改選する。</Sentence>
-    </Article>
-
-    <Article Num="17">
-      <Sentence>選挙区、投票の方法等両議院の選挙に関わる事項は法律で之を定める。</Sentence>
-    </Article>
-
-    <Article Num="18">
-      <Sentence>何人も、同時に両議院の議員たることはできない。</Sentence>
-    </Article>
-
-    <Article Num="19">
-      <Sentence>議会の常会は、毎年二回之を召集する。</Sentence>
-    </Article>
-
-    <Article Num="20">
-      <Sentence>大統領は、議会の臨時会の召集を決定することができる。</Sentence>
-    </Article>
-
-    <Article Num="21">
-      <Sentence>議会が解散されたときは、解散の日から二十日以内に総選挙を行い、その日から三十日以内に議会の臨時会を召集しなくてはならない。</Sentence>
-    </Article>
-
-    <Article Num="22">
-      <Sentence>議員は、法律の定める場合を除いては、会期中その許諾なく逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。</Sentence>
-    </Article>
-
-    <Article Num="23">
-      <Sentence>議員は、院内で行った演説、討論又は表決について、院外で責任を問われない。但し、会期外の犯罪行為についてはこの限りではない。</Sentence>
-    </Article>
-
-    <Article Num="24">
-      <Sentence>議会は、議員の三分の一以上の出席がない場合、議事を開き議決をすることができない。</Sentence>
-    </Article>
-
+    <Article Num="15"><Sentence>衆議院議員のの任期は二年とする。但し、議会の解散の際には任期の満了を待つことなく解散する。</Sentence></Article>
+    <Article Num="16"><Sentence>参議院議員の任期は四年とし、二年ごとに議員の半数を改選する。</Sentence></Article>
+    <Article Num="17"><Sentence>選挙区、投票の方法等両議院の選挙に関わる事項は法律で之を定める。</Sentence></Article>
+    <Article Num="18"><Sentence>何人も、同時に両議院の議員たることはできない。</Sentence></Article>
+    <Article Num="19"><Sentence>議会の常会は、毎年二回之を召集する。</Sentence></Article>
+    <Article Num="20"><Sentence>大統領は、議会の臨時会の召集を決定することができる。</Sentence></Article>
+    <Article Num="21"><Sentence>議会が解散されたときは、解散の日から二十日以内に総選挙を行い、その日から三十日以内に議会の臨時会を召集しなくてはならない。</Sentence></Article>
+    <Article Num="22"><Sentence>議員は、法律の定める場合を除いては、会期中その許諾なく逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。</Sentence></Article>
+    <Article Num="23"><Sentence>議員は、院内で行った演説、討論又は表決について、院外で責任を問われない。但し、会期外の犯罪行為についてはこの限りではない。</Sentence></Article>
+    <Article Num="24"><Sentence>議会は、議員の三分の一以上の出席がない場合、議事を開き議決をすることができない。</Sentence></Article>
     <Article Num="25">
-      <Paragraph Num="1">
-        <Sentence>法律案は、この憲法に特別の掟のある場合を除いては、両議院で可決したとき法律となる。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>衆議院で可決し、参議院でこれと異なった議決をした法律案は、衆議院で三分の二以上の多数で再び可決したときは法律となる。</Sentence>
-      </Paragraph>
+      <Sentence Num="1">法律案は、この憲法に特別の掟のある場合を除いては、両議院で可決したとき法律となる。</Sentence>
+      <Sentence Num="2">衆議院で可決し、参議院でこれと異なった議決をした法律案は、衆議院で三分の二以上の多数で再び可決したときは法律となる。</Sentence>
     </Article>
   </Chapter>
 
   <Chapter Num="3">
     <ChapterTitle>国民の権利及び義務</ChapterTitle>
-
-    <Article Num="26">
-      <Sentence>〇〇国民たる要件は法律で之を定める。</Sentence>
-    </Article>
-
-    <Article Num="27">
-      <Sentence>国民は、法律の範囲内に於いて基本的人権を保持する。</Sentence>
-    </Article>
-
-    <Article Num="28">
-      <Sentence>この憲法で保障される自由及び権利は、私利私欲のために濫用してはならず、常に公共の福祉のためにこれを利用する責任を負う。</Sentence>
-    </Article>
-
-    <Article Num="29">
-      <Sentence>全ての国民は法のもとに平等であって、人種、性別、信条、社会的身分により、経済的又は社会的関係において差別されない。</Sentence>
-    </Article>
-
-    <Article Num="30">
-      <Sentence>いかなる特権階級も認めない。</Sentence>
-    </Article>
-
-    <Article Num="31">
-      <Sentence>思想の自由は保障される。</Sentence>
-    </Article>
-
-    <Article Num="32">
-      <Sentence>いかなる国民も、法律の範囲内に於いて居住、移転及び職業選択の自由を有す。</Sentence>
-    </Article>
-
-    <Article Num="33">
-      <Sentence>いかなる国民も平等に正しい教育を受ける権利を有す。</Sentence>
-    </Article>
-
-    <Article Num="34">
-      <Sentence>学問の自由は、之を保障する。</Sentence>
-    </Article>
-
-    <Article Num="35">
-      <Sentence>婚姻は両者の合意に基づき成立し、夫婦が同等の権利を保障されなくてはならない。</Sentence>
-    </Article>
-
-    <Article Num="36">
-      <Sentence>全ての国民は、健康で文化的な最低限度の生活を営む権利を有する。</Sentence>
-    </Article>
-
-    <Article Num="37">
-      <Sentence>国民は、法律の定めるところにより、納税の義務を負ふ。</Sentence>
-    </Article>
-
-    <Article Num="38">
-      <Sentence>何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。</Sentence>
-    </Article>
-
-    <Article Num="39">
-      <Sentence>何人も、裁判所において裁判を受ける権利を奪われない。</Sentence>
-    </Article>
+    <Article Num="26"><Sentence>〇〇国民たる要件は法律で之を定める。</Sentence></Article>
+    <Article Num="27"><Sentence>国民は、法律の範囲内に於いて基本的人権を保持する。</Sentence></Article>
+    <Article Num="28"><Sentence>この憲法で保障される自由及び権利は、私利私欲のために濫用してはならず、常に公共の福祉のためにこれを利用する責任を負う。</Sentence></Article>
+    <Article Num="29"><Sentence>全ての国民は法のもとに平等であって、人種、性別、信条、社会的身分により、経済的又は社会的関係において差別されない。</Sentence></Article>
+    <Article Num="30"><Sentence>いかなる特権階級も認めない。</Sentence></Article>
+    <Article Num="31"><Sentence>思想の自由は保障される。</Sentence></Article>
+    <Article Num="32"><Sentence>いかなる国民も、法律の範囲内に於いて居住、移転及び職業選択の自由を有す。</Sentence></Article>
+    <Article Num="33"><Sentence>いかなる国民も平等に正しい教育を受ける権利を有す。</Sentence></Article>
+    <Article Num="34"><Sentence>学問の自由は、之を保障する。</Sentence></Article>
+    <Article Num="35"><Sentence>婚姻は両者の合意に基づき成立し、夫婦が同等の権利を保障されなくてはならない。</Sentence></Article>
+    <Article Num="36"><Sentence>全ての国民は、健康で文化的な最低限度の生活を営む権利を有する。</Sentence></Article>
+    <Article Num="37"><Sentence>国民は、法律の定めるところにより、納税の義務を負ふ。</Sentence></Article>
+    <Article Num="38"><Sentence>何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。</Sentence></Article>
+    <Article Num="39"><Sentence>何人も、裁判所において裁判を受ける権利を奪われない。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="4">
     <ChapterTitle>軍事及び国防</ChapterTitle>
-
-    <Article Num="40">
-      <Sentence>国家は、国民の生命、財産及び主権を守るため、自衛のための軍事力を保持する。</Sentence>
-    </Article>
-
-    <Article Num="41">
-      <Sentence>大統領は、陸海空軍を統帥する。軍の編成及び統制は、法律の定めるところによる。</Sentence>
-    </Article>
-
-    <Article Num="42">
-      <Sentence>国家は、国防の目的を達成するために必要な最新鋭の兵器体系を開発し、及び保有する権利を有する。これには、海上、水中、空中、及び宇宙空間における防衛能力を含む。</Sentence>
-    </Article>
-
+    <Article Num="40"><Sentence>国家は、国民の生命、財産及び主権を守るため、自衛のための軍事力を保持する。</Sentence></Article>
+    <Article Num="41"><Sentence>大統領は、陸海空軍を統帥する。軍の編成及び統制は、法律の定めるところによる。</Sentence></Article>
+    <Article Num="42"><Sentence>国家は、国防の目的を達成するために必要な最新鋭の兵器体系を開発し、及び保有する権利を有する。これには、海上、水中、空中、及び宇宙空間における防衛能力を含む。</Sentence></Article>
     <Article Num="43">
-      <Paragraph Num="1">
-        <Sentence>有事又は国の存立が脅かされる緊急事態において、大統領は国家総動員を宣告することができる。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>国家総動員が宣告された場合、大統領は法令の定めるところにより、経済、産業、技術、及び国民生活の全てを国防のために統合運用する権限を有する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="3">
-        <Sentence>総動員の要件及び効力については、法律で之を定める。</Sentence>
-      </Paragraph>
+      <Sentence Num="1">有事又は国の存立が脅かされる緊急事態において、大統領は国家総動員を宣告することができる。</Sentence>
+      <Sentence Num="2">国家総動員が宣告された場合、大統領は法令の定めるところにより、経済、産業、技術、及び国民生活の全てを国防のために統合運用する権限を有する。</Sentence>
+      <Sentence Num="3">総動員の要件及び効力については、法律で之を定める。</Sentence>
     </Article>
-
-    <Article Num="44">
-      <Sentence>国防は国家の最優先事項であり、国家の資源は、必要に応じて軍事目的のために優先的に配分される。</Sentence>
-    </Article>
+    <Article Num="44"><Sentence>国防は国家の最優先事項であり、国家の資源は、必要に応じて軍事目的のために優先的に配分される。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="5">
     <ChapterTitle>司法</ChapterTitle>
-
-    <Article Num="45">
-      <Sentence>司法権の一切は、最高裁判所及びそれに属する下級裁判所に帰属する。</Sentence>
-    </Article>
-
-    <Article Num="46">
-      <Sentence>裁判官は公平かつ公正に裁判を行う義務を有す。</Sentence>
-    </Article>
-
-    <Article Num="47">
-      <Sentence>検察官は、最高裁判所の定める規則に従わなくてはならない。</Sentence>
-    </Article>
-
-    <Article Num="48">
-      <Sentence>最高裁判所長は、大統領により任命され、議会の承認を以て就任する。</Sentence>
-    </Article>
-
-    <Article Num="49">
-      <Sentence>最高裁判所の裁判官は、就任後初の衆議院議員総選挙の際に実施される国民審査により罷免することができる。</Sentence>
-    </Article>
-
-    <Article Num="50">
-      <Sentence>定期的に成人の中から選出した裁判員を裁判に参加させるものとする。</Sentence>
-    </Article>
-
-    <Article Num="51">
-      <Sentence>最高裁判所は、一切の法律、命令、規則又は処分が憲法に適合するかを判断する権限を有する終審裁判所である。</Sentence>
-    </Article>
+    <Article Num="45"><Sentence>司法権の一切は、最高裁判所及びそれに属する下級裁判所に帰属する。</Sentence></Article>
+    <Article Num="46"><Sentence>裁判官は公平かつ公正に裁判を行う義務を有す。</Sentence></Article>
+    <Article Num="47"><Sentence>検察官は、最高裁判所の定める規則に従わなくてはならない。</Sentence></Article>
+    <Article Num="48"><Sentence>最高裁判所長は、大統領により任命され、議会の承認を以て就任する。</Sentence></Article>
+    <Article Num="49"><Sentence>最高裁判所の裁判官は、就任後初の衆議院議員総選挙の際に実施される国民審査により罷免することができる。</Sentence></Article>
+    <Article Num="50"><Sentence>定期的に成人の中から選出した裁判員を裁判に参加させるものとする。</Sentence></Article>
+    <Article Num="51"><Sentence>最高裁判所は、一切の法律、命令、規則又は処分が憲法に適合するかを判断する権限を有する終審裁判所である。</Sentence></Article>
   </Chapter>
-
-  <Chapter Num="6">
-    <ChapterTitle>財政</ChapterTitle>
-
-    <Article Num="52">
-      <Paragraph Num="1">
-        <Sentence>国の財政は、国民の福祉と国家の安全を増進するため、厳正かつ効率的に管理されなければならない。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>国の歳出及び歳入は、大統領の作成する予算に基づいて議会の議決を経なければならない。</Sentence>
-      </Paragraph>
-    </Article>
-
-    <Article Num="53">
-      <Sentence>国家の決算は、毎年会計検査院の検査を経て、大統領が翌年度にこれを議会に提出しなければならない。</Sentence>
-    </Article>
-
-    <Article Num="54">
-      <Sentence>国は、経済活動の自由を保障し、国民が行う企業活動及び産業の発展を阻害してはならない。</Sentence>
-    </Article>
-
-    <Article Num="55">
-      <Sentence>国家の資産及び公的資金は、国家の発展、防衛、及び産業基盤の強化のために優先的に配分される。</Sentence>
-    </Article>
-
-    <Article Num="56">
-      <Sentence>新たな租税の賦課又は法律の定める範囲を超える債務の負担については、法律又は議会の議決によらなければならない。</Sentence>
-    </Article>
-
-    <Article Num="57">
-      <Sentence>国家総動員が宣告された場合、大統領は財政の全権を掌握し、予算の変更及び緊急的な資金運用を行うことができる。</Sentence>
-    </Article>
-  </Chapter>
-
-  <Chapter Num="7">
-    <ChapterTitle>改正</ChapterTitle>
-
-    <Article Num="58">
-      <Paragraph Num="1">
-        <Sentence>本憲法の改正は、両議院それぞれの総議員の過半数の賛成を経て、議会がこれを発議する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>発議された改正案は、国民投票を行い投票数のの三分の一の賛成により成立する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="3">
-        <Sentence>但し、国家の根幹に関わる重大な改正を除き、議会の承認のみを以て成立させる簡易改正の規定を別途法律で定めることができる。</Sentence>
-      </Paragraph>
-    </Article>
-  </Chapter>
-
-  <Chapter Num="8">
-    <ChapterTitle>最高法規</ChapterTitle>
-
-    <Article Num="59">
-      <Paragraph Num="1">
-        <Sentence>この憲法は、国の最高法規であって、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>国務に従事する大統領、国会議員、裁判官、その他の公務員は、この憲法を尊重し擁護する義務を負う。</Sentence>
-      </Paragraph>
-    </Article>
-  </Chapter>
-
-  <Chapter Num="9">
-    <ChapterTitle>修正条項</ChapterTitle>
-
-    <Article Num="1">
-      <Paragraph Num="1">
-        <Sentence>国家の基本的制度、国民の基本的権利、国家の安全その他国家の根幹に関する事項について、特別法を制定することができる。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>特別法は、憲法に反しない限り、通常の法律に優先する効力を有する。</Sentence>
-      </Paragraph>
-      <Paragraph Num="3">
-        <Sentence>特別法の制定及び改正には、両議院それぞれの総議員の三分の二以上の賛成を必要とする。</Sentence>
-      </Paragraph>
-      <Paragraph Num="4">
-        <Sentence>特別法の制定及び改正は、国民投票において有効投票の過半数の賛成を得なければ、その効力を生じない。</Sentence>
-      </Paragraph>
-      <Paragraph Num="5">
-        <Sentence>特別法は、憲法の一部を構成しないものとし、憲法に反することができない。</Sentence>
-      </Paragraph>
-    </Article>
-  </Chapter>
-
-</Constitution>
