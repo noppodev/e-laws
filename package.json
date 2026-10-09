@@ -1,1 +1,1 @@
-{"name":"e-laws","private":true,"scripts":{"build":"node build.js"}}
+{"scripts":{"build":"node build.js"},"dependencies":{"pdfkit":"^0.17.2","xml2js":"^0.6.2"}}
