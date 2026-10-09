@@ -16,5 +16,11 @@
     "title": "国会法",
     "filename": "national-diet-act.xml",
     "articleCount": 78
+  },
+  {
+    "id": "president",
+    "title": "大統領法",
+    "filename": "president.xml",
+    "articleCount": 56
   }
 ]
