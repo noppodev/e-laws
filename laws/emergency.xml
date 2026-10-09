@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>国家緊急事態対処特別法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、国家に重大な危機が発生し、通常の行政制度及び社会秩序によってこれに対処することが困難となった場合において、国家及び国民の安全を確保し、被害の拡大を防止し、速やかに平常の社会及び行政制度を回復するため、緊急事態への対処に必要な事項を定めることを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>基本原則</ArticleTitle>
+      <Sentence>緊急事態への対処は、憲法及び法律に従い、必要かつ合理的な範囲内で行わなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>緊急事態への対処に当たっては、国民の生命、身体及び基本的人権を最大限尊重しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>緊急事態を理由として、必要な範囲を超えて国民の権利を制限してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>憲法の優越</ArticleTitle>
+      <Sentence>緊急事態においても、憲法は最高法規として効力を有する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律その他の法律によって、憲法の効力を停止し、又はこれに反する措置をすることはできない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>緊急事態</ArticleTitle>
+      <Sentence>この法律において「緊急事態」とは、次の各号のいずれかに該当し、国家の存立、国民の生命若しくは身体、領土又は社会の基本的機能に重大な危険が生じ、又は生ずるおそれがある状態をいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　外国からの武力攻撃又はその明白な危険が発生したとき。</Sentence>
+        <Sentence>二　大規模な武力紛争その他国家の安全に重大な影響を及ぼす事態が発生したとき。</Sentence>
+        <Sentence>三　大規模な自然災害、重大な事故、感染症その他の災害により、国家の基本的機能が著しく損なわれたとき。</Sentence>
+        <Sentence>四　大規模なテロその他の重大な犯罪行為により、国民の生命又は国家の安全に重大な危険が生じたとき。</Sentence>
+        <Sentence>五　前各号に準ずる重大な危機が発生し、通常の行政手段による対処が著しく困難となったとき。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>緊急事態の宣言</ChapterTitle>
+
+    <Article Num="5">
+      <ArticleTitle>緊急事態の宣言</ArticleTitle>
+      <Sentence>緊急事態が発生したときは、大統領は、内閣の議を経て、緊急事態を宣言することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>緊急事態が急迫し、内閣の議を経る時間的余裕がないときは、大統領は、内閣の議を経ることなく宣言することができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前項の場合において、大統領は、宣言後速やかに内閣を招集しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>緊急事態宣言の内容</ArticleTitle>
+      <Sentence>緊急事態の宣言には、次に掲げる事項を明らかにしなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　緊急事態の原因及び状況</Sentence>
+        <Sentence>二　適用する地域</Sentence>
+        <Sentence>三　実施する対処措置の概要</Sentence>
+        <Sentence>四　宣言の期間</Sentence>
+        <Sentence>五　その他必要な事項</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>国会への通知</ArticleTitle>
+      <Sentence>大統領は、緊急事態を宣言したときは、直ちに国会に通知しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国会が閉会中である場合においても、大統領は、国会に通知しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>国会の承認</ArticleTitle>
+      <Sentence>緊急事態の宣言は、宣言の日から三十日以内に国会の承認を受けなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の承認を受けなかったときは、緊急事態の宣言は、その時点で効力を失う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国会は、緊急事態の承認に際し、その期間又は地域その他の事項について条件を付することができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>緊急事態の延長</ArticleTitle>
+      <Sentence>緊急事態の期間は、宣言の日から三十日を超えてはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領は、緊急事態を継続する必要があるときは、国会の承認を得て、その期間を延長することができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>延長の期間は、一回につき三十日を超えてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>緊急事態の終了</ArticleTitle>
+      <Sentence>緊急事態の原因が解消し、又は通常の行政手段によって対処することが可能となったときは、大統領は、速やかに緊急事態の宣言を解除しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国会は、緊急事態が継続する必要がないと認めるときは、緊急事態の解除を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>緊急対策本部</ChapterTitle>
+
+    <Article Num="11">
+      <ArticleTitle>緊急対策本部</ArticleTitle>
+      <Sentence>緊急事態が宣言されたときは、内閣に緊急対策本部を置く。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>本部長</ArticleTitle>
+      <Sentence>緊急対策本部の長は、大統領とする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>本部長は、緊急事態への対処について必要な指揮監督を行う。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>緊急対策本部の構成</ArticleTitle>
+      <Sentence>緊急対策本部は、大統領、国務大臣その他大統領が必要と認める者をもって組織する。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>地方公共団体との連携</ArticleTitle>
+      <Sentence>国及び地方公共団体は、緊急事態への対処について相互に連携しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、地方公共団体が行う緊急対策について必要な支援を行う。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>情報の収集及び報告</ArticleTitle>
+      <Sentence>緊急対策本部は、緊急事態の状況を把握するため、必要な情報を収集し、関係する行政機関に報告を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、正当な理由がない限り、前項の報告に応じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>緊急行政措置</ChapterTitle>
+
+    <Article Num="16">
+      <ArticleTitle>緊急行政措置</ArticleTitle>
+      <Sentence>大統領は、緊急事態に対処するため、憲法及び法律の定める範囲内で、行政機関に必要な措置を命ずることができる。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>行政機関の特例</ArticleTitle>
+      <Sentence>緊急事態において、行政機関の通常の手続によっては迅速な対処が困難である場合は、大統領は、法律の定める範囲内で、行政機関の事務及び権限の一部を変更し、又は他の行政機関に臨時に行わせることができる。</Sentence>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>公共施設等の使用</ArticleTitle>
+      <Sentence>緊急事態への対処に必要がある場合、行政機関は、法律の定めるところにより、公共施設、道路、港湾、空港その他の公共の施設を優先的に使用することができる。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>物資の確保</ArticleTitle>
+      <Sentence>緊急事態への対処に必要な物資について、国は、その確保、輸送、配分及び供給を行うことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、必要な場合には、法律の定めるところにより、民間事業者その他の者に物資の供給又は輸送について協力を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>通信及び情報</ArticleTitle>
+      <Sentence>緊急事態への対処に必要な場合、国は、法律の定めるところにより、通信及び情報の確保並びに重要な情報システムの保全について必要な措置を講ずることができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>国民生活の保護</ChapterTitle>
+
+    <Article Num="21">
+      <ArticleTitle>避難</ArticleTitle>
+      <Sentence>緊急事態により国民の生命又は身体に危険が生じるおそれがある場合、国及び地方公共団体は、住民の避難について必要な措置を講ずる。</Sentence>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>救援</ArticleTitle>
+      <Sentence>国及び地方公共団体は、緊急事態によって被害を受けた者に対し、救助、医療、食料、飲料水、衣料、住居その他必要な救援を行う。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>医療体制</ArticleTitle>
+      <Sentence>緊急事態において医療体制を維持するため、国は、医療機関その他の関係機関と連携し、医療従事者、医薬品、医療機器その他必要な資源を確保する。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>生活必需物資</ArticleTitle>
+      <Sentence>緊急事態において生活必需物資の不足又は著しい価格の高騰が生じるおそれがある場合、国は、その供給及び流通を確保するため必要な措置を講ずる。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>公共サービスの維持</ArticleTitle>
+      <Sentence>国及び地方公共団体は、電力、通信、水道、交通、医療、金融その他国民生活に必要な公共サービスの維持に努めなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>国民の権利の制限</ChapterTitle>
+
+    <Article Num="26">
+      <ArticleTitle>権利制限の原則</ArticleTitle>
+      <Sentence>緊急事態において国民の権利を制限する場合は、法律に明確な根拠があり、緊急事態への対処に必要かつ合理的な範囲に限らなければならない。</Sentence>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>差別的取扱いの禁止</ArticleTitle>
+      <Sentence>緊急事態への対処を理由として、正当な理由なく国民を差別的に取り扱ってはならない。</Sentence>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>身体の自由</ArticleTitle>
+      <Sentence>緊急事態においても、法律に定める場合を除き、国民の身体を拘束してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>緊急事態を理由として、司法手続その他法律上必要とされる手続を無期限に停止してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>表現及び報道</ArticleTitle>
+      <Sentence>緊急事態においても、表現及び報道の自由は尊重されなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、緊急事態への対処に必要な範囲を超えて、報道又は情報発信を禁止してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>通信の秘密</ArticleTitle>
+      <Sentence>緊急事態においても、通信の秘密は尊重されなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>通信の制限又は監視を行う場合は、法律に明確な根拠があり、緊急事態への対処に必要な範囲に限らなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>権利制限の終了</ArticleTitle>
+      <Sentence>緊急事態の終了後は、緊急事態を理由とする権利の制限を速やかに終了しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>国家動員及び防衛</ChapterTitle>
+
+    <Article Num="32">
+      <ArticleTitle>国家動員</ArticleTitle>
+      <Sentence>国家の防衛又は重大な危機への対処のため必要があるときは、大統領は、憲法及び法律の定めるところにより、国家の人的、物的及び経済的資源を動員することができる。</Sentence>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>軍の出動</ArticleTitle>
+      <Sentence>外国からの武力攻撃その他国家の安全に重大な危険が生じた場合、大統領は、憲法及び法律の定めるところにより、軍を出動させることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>軍は、緊急事態への対処に必要な範囲を超えて活動してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>軍の統制</ArticleTitle>
+      <Sentence>軍は、文民である大統領の指揮監督に服する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>軍その他の防衛機関は、憲法及び法律に従わなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>動員計画</ArticleTitle>
+      <Sentence>政府は、国家動員に必要な計画をあらかじめ作成し、必要に応じてこれを見直さなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>戒厳その他の特別措置</ChapterTitle>
+
+    <Article Num="36">
+      <ArticleTitle>戒厳</ArticleTitle>
+      <Sentence>大規模な武力攻撃その他の事態により、通常の行政機関による治安の維持が著しく困難となった場合には、大統領は、法律の定めるところにより、戒厳を宣言することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>戒厳の宣言は、適用する地域、期間及び実施する措置を明らかにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>戒厳地域</ArticleTitle>
+      <Sentence>戒厳は、緊急事態への対処に必要な地域に限って実施しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>戒厳の期間は、必要最小限のものとしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>戒厳下の行政</ArticleTitle>
+      <Sentence>戒厳地域においては、大統領は、法律の定めるところにより、行政機関及び軍その他の防衛機関に必要な権限を行使させることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の権限は、法律に定める範囲を超えて行使してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>戒厳における司法</ArticleTitle>
+      <Sentence>戒厳下においても、裁判所の司法権は尊重されなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>戒厳を理由として、裁判所の権限を法律の根拠なく停止してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>財政上の特例</ChapterTitle>
+
+    <Article Num="40">
+      <ArticleTitle>緊急支出</ArticleTitle>
+      <Sentence>緊急事態への対処に必要で、通常の予算手続によることが困難な場合には、政府は、法律の定めるところにより、緊急の支出を行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>予算の変更</ArticleTitle>
+      <Sentence>緊急事態への対処に必要がある場合、大統領は、法律の定めるところにより、既定の予算を変更し、又は必要な財政措置を講ずることができる。</Sentence>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>国会への報告</ArticleTitle>
+      <Sentence>政府は、緊急事態において行った財政上の措置について、速やかに国会に報告しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>緊急事態が終了した後、政府は、緊急事態における財政措置の全てについて国会に報告しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>国会による統制</ChapterTitle>
+
+    <Article Num="43">
+      <ArticleTitle>国会の権限</ArticleTitle>
+      <Sentence>国会は、緊急事態においても、その立法権及び憲法に定める権限を行使する。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>国会の召集</ArticleTitle>
+      <Sentence>国会が閉会中に緊急事態が発生した場合において、国会による審議が必要であるときは、大統領は、速やかに国会を召集しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>国会への報告</ArticleTitle>
+      <Sentence>大統領は、緊急事態において講じた主要な措置について、国会に報告しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国会は、政府に対して緊急事態への対処について必要な報告を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="46">
+      <ArticleTitle>国会による終了要求</ArticleTitle>
+      <Sentence>国会は、緊急事態が継続する必要がないと認めるときは、大統領に対し、緊急事態の宣言の解除を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領は、前項の要求について必要な検討を行い、その結果を国会に報告しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="11">
+    <ChapterTitle>司法による統制及び補償</ChapterTitle>
+
+    <Article Num="47">
+      <ArticleTitle>司法審査</ArticleTitle>
+      <Sentence>緊急事態において政府が行った行政上の措置についても、裁判所は、その適法性及び憲法適合性を審査することができる。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>違法な措置の取消し</ArticleTitle>
+      <Sentence>緊急事態における措置が憲法又は法律に違反するときは、裁判所は、その措置を取り消し、又はその他必要な救済を行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>損失の補償</ArticleTitle>
+      <Sentence>国が緊急事態への対処のため適法に財産を使用し、収用し、又はその他の特別な負担を国民に課したことにより通常生ずべき範囲を超える損失が生じた場合には、法律の定めるところにより、正当な補償を行う。</Sentence>
+    </Article>
+
+    <Article Num="50">
+      <ArticleTitle>国家賠償</ArticleTitle>
+      <Sentence>緊急事態においても、国又は地方公共団体の違法な行為によって国民に損害を与えた場合には、法律の定めるところにより、その責任を負う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="12">
+    <ChapterTitle>緊急事態の終了及び復旧</ChapterTitle>
+
+    <Article Num="51">
+      <ArticleTitle>解除</ArticleTitle>
+      <Sentence>大統領は、緊急事態の原因が解消したと認めるときは、緊急事態の宣言を解除しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>復旧</ArticleTitle>
+      <Sentence>政府は、緊急事態が終了したときは、国民生活、行政機能、社会基盤その他の被害を受けた機能を速やかに復旧しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>緊急措置の失効</ArticleTitle>
+      <Sentence>緊急事態を理由として行われた一時的な措置は、緊急事態の終了とともに、法律に別段の定めがある場合を除き、その効力を失う。</Sentence>
+    </Article>
+
+    <Article Num="54">
+      <ArticleTitle>事後検証</ArticleTitle>
+      <Sentence>政府は、緊急事態が終了した後、その原因、政府の対応、被害及び実施した措置について検証を行い、その結果を国会に報告しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>記録の保存</ArticleTitle>
+      <Sentence>政府は、緊急事態における意思決定及び行政上の措置について、必要な記録を作成し、保存しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="13">
+    <ChapterTitle>罰則及び補則</ChapterTitle>
+
+    <Article Num="56">
+      <ArticleTitle>職権濫用の禁止</ArticleTitle>
+      <Sentence>緊急事態において公務員は、緊急事態への対処に必要な範囲を超えて、その権限を行使してはならない。</Sentence>
+    </Article>
+
+    <Article Num="57">
+      <ArticleTitle>秘密の保持</ArticleTitle>
+      <Sentence>緊急事態への対処に関する職務上知り得た秘密については、法律に別段の定めがある場合を除き、正当な理由なく漏らしてはならない。</Sentence>
+    </Article>
+
+    <Article Num="58">
+      <ArticleTitle>国民の協力</ArticleTitle>
+      <Sentence>国民は、緊急事態への対処について、法律の定めるところにより、必要な協力を求められることがある。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の協力は、法律に根拠があり、かつ、必要かつ合理的な範囲でなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>地方公共団体への指示</ArticleTitle>
+      <Sentence>緊急事態への対処のため特に必要がある場合、大統領は、法律の定めるところにより、地方公共団体に対して必要な指示をすることができる。</Sentence>
+    </Article>
+
+    <Article Num="60">
+      <ArticleTitle>政令への委任</ArticleTitle>
+      <Sentence>この法律の施行に必要な事項は、政令で定める。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>他の法律との関係</ArticleTitle>
+      <Sentence>緊急事態への対処について他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="62">
+      <ArticleTitle>施行期日</ArticleTitle>
+      <Sentence>この法律は、公布の日から施行する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
