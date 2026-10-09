@@ -1,8 +1,8 @@
 [
   {
     "id": "constitution",
-    "title": "憲法",
+    "title": "constitution",
     "filename": "constitution.xml",
-    "articleCount": 59
+    "articleCount": 1
   }
 ]
