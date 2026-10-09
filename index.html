@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -393,10 +392,25 @@ function getArticleLabel(chapter, article) {
   const label = String(article.label || "").trim();
   const num = String(article.num || "").trim();
 
-  if (title) return title;
+  // Label属性がある場合は、修正条項などの固有表記を優先する。
   if (label) return label;
 
-  return num ? `第${num}条` : "条文";
+  // 条番号と見出しが両方ある場合は、両方を表示する。
+  if (num && title) {
+    return `第${num}条（${title}）`;
+  }
+
+  // 条番号だけがある場合。
+  if (num) {
+    return `第${num}条`;
+  }
+
+  // 見出しだけがある場合。
+  if (title) {
+    return title;
+  }
+
+  return "条文";
 }
 
 function getNodeLabel(node) {
@@ -720,7 +734,6 @@ async function loadLaw(id) {
     .replace(/^\uFEFF/, "")
     .trimStart();
 
-  // GitHub Pagesから実際に取得した内容を調査できるようにする。
   console.log("取得先:", response.url);
   console.log("HTTPステータス:", response.status);
   console.log("XML先頭:", JSON.stringify(xmlText.slice(0, 200)));
