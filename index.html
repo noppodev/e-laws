@@ -846,9 +846,36 @@ footer {
     display: block;
   }
 
+  .law-title-block,
+  .metadata-table,
+  .toc {
+    display: none !important;
+  }
+
+  .section[aria-labelledby="document-heading"] > .section-heading {
+    display: none !important;
+  }
+
   .law-document {
     font-size: 12pt;
     line-height: 1.8;
+  }
+
+  .preamble {
+    background: #fff;
+    border: 0;
+    padding: 0;
+    margin: 0 0 24px;
+  }
+
+  .chapter {
+    margin: 28px 0;
+  }
+
+  .chapter-title {
+    background: #fff;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #000;
   }
 
   .chapter,
@@ -1011,7 +1038,16 @@ function parseLawXml(xmlText) {
 
   const root = xml.documentElement;
   const title = getText(root.querySelector(":scope > Title"));
-  const preamble = getText(root.querySelector(":scope > Preamble"));
+
+  // 前文はXMLの子要素を保持する。
+  // textContentだけで処理すると構造を失うため、Sentence単位で表示する。
+  const preambleNode = root.querySelector(":scope > Preamble");
+  const preamble = preambleNode
+    ? [...preambleNode.children]
+        .filter(node => node.tagName === "Sentence")
+        .map(node => getText(node))
+        .join("\\n")
+    : "";
 
   // XMLの構造を保持し、Sentenceだけに依存しない。
   function parseNode(node) {
@@ -1502,14 +1538,13 @@ async function renderLawDetail(id) {
               XMLをダウンロード
             </a>
 
-            <a
+            <button
               class="btn btn-secondary"
-              href="laws/${encodeURIComponent(law.id)}.pdf"
-              target="_blank"
-              rel="noopener"
+              type="button"
+              id="pdf-law"
             >
-              PDFを表示
-            </a>
+              PDFとして保存
+            </button>
 
             <button
               class="btn btn-secondary"
@@ -1590,6 +1625,12 @@ async function renderLawDetail(id) {
 
     document
       .getElementById("print-law")
+      .addEventListener("click", () => {
+        window.print();
+      });
+
+    document
+      .getElementById("pdf-law")
       .addEventListener("click", () => {
         window.print();
       });
