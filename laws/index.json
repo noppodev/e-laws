@@ -10,5 +10,11 @@
     "title": "基本的人権保障特別法",
     "filename": "fundamental-rights-act.xml",
     "articleCount": 17
+  },
+  {
+    "id": "national-diet-act",
+    "title": "国会法",
+    "filename": "national-diet-act.xml",
+    "articleCount": 70
   }
 ]
