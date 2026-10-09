@@ -1,9 +1,14 @@
-name: Update law index
+name: Build laws
 
 on:
   push:
     paths:
       - "laws/*.xml"
+      - "build.js"
+      - "package.json"
+      - ".github/workflows/build-laws.yml"
+      - "fonts/**"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,18 +18,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - run: npm run build
+      - name: Install dependencies
+        run: npm install
 
-      - name: Update index.json
+      - name: Check Japanese font
+        run: |
+          if [ ! -f "fonts/NotoSansJP-Regular.ttf" ]; then
+            echo "ERROR: fonts/NotoSansJP-Regular.ttf がありません"
+            exit 1
+          fi
+
+      - name: Build laws
+        run: npm run build
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add laws/index.json
-          git diff --cached --quiet || git commit -m "Update law index"
-          git push
+
+          git add laws/index.json laws/*.pdf
+
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "chore: update generated law files"
+            git push
+          fi
