@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>大統領法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、憲法に基づき、大統領の地位及び権限、大統領府、内閣、国務大臣、行政機関その他大統領を中心とする行政組織について必要な事項を定め、行政の適正かつ効率的な運営を確保することを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>行政権の帰属</ArticleTitle>
+      <Sentence>行政権は、憲法の定めるところにより大統領に属する。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>行政の基本原則</ArticleTitle>
+      <Sentence>大統領及び行政機関は、憲法及び法律を誠実に遵守し、国民の利益のために行政を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>行政機関の法令遵守</ArticleTitle>
+      <Sentence>行政機関は、憲法及び法律に反する命令その他の行政上の措置をしてはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>大統領</ChapterTitle>
+
+    <Article Num="5">
+      <ArticleTitle>大統領</ArticleTitle>
+      <Sentence>大統領は、国家元首として国を代表し、行政権を行使する。</Sentence>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>大統領の権限</ArticleTitle>
+      <Sentence>大統領は、憲法及び法律に定めるところにより、次の権限を行使する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　法律を誠実に執行すること。</Sentence>
+        <Sentence>二　国務大臣を任命し、及び罷免すること。</Sentence>
+        <Sentence>三　行政機関を指揮監督すること。</Sentence>
+        <Sentence>四　大統領令を発すること。</Sentence>
+        <Sentence>五　内閣を統轄すること。</Sentence>
+        <Sentence>六　各省その他の行政機関の設置及び改廃を法律の定めるところにより行うこと。</Sentence>
+        <Sentence>七　その他憲法及び法律に定める権限を行使すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>大統領の職務</ArticleTitle>
+      <Sentence>大統領は、憲法及び法律に従い、その職務を公正かつ誠実に行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>大統領の行政指揮権</ArticleTitle>
+      <Sentence>大統領は、内閣及び各行政機関を指揮監督し、その事務の遂行について必要な指示をすることができる。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>大統領の任命権</ArticleTitle>
+      <Sentence>大統領は、憲法及び法律に別段の定めがある場合を除き、行政機関の長その他の国家公務員を任命する。</Sentence>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>罷免</ArticleTitle>
+      <Sentence>大統領は、法律に別段の定めがある場合を除き、自己が任命した行政機関の長その他の国家公務員を罷免することができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>大統領府</ChapterTitle>
+
+    <Article Num="11">
+      <ArticleTitle>大統領府</ArticleTitle>
+      <Sentence>大統領の職務を補佐し、大統領の政策及び行政上の重要事項を処理するため、大統領府を置く。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>大統領府の長</ArticleTitle>
+      <Sentence>大統領府に大統領府長官を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領府長官は、大統領を補佐し、大統領府の事務を統括する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>大統領府長官は、大統領が任命する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>大統領府の組織</ArticleTitle>
+      <Sentence>大統領府の内部組織及び所掌事務は、法律に別段の定めがある場合を除き、大統領令で定める。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>大統領補佐機関</ArticleTitle>
+      <Sentence>大統領は、政策、国家安全保障、外交、経済その他重要事項について助言及び補佐を行わせるため、大統領府に必要な機関を置くことができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>内閣</ChapterTitle>
+
+    <Article Num="15">
+      <ArticleTitle>内閣</ArticleTitle>
+      <Sentence>行政事務を総合的かつ統一的に処理するため、内閣を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>内閣は、大統領を長として組織する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>内閣の構成</ArticleTitle>
+      <Sentence>内閣は、大統領及び国務大臣をもって組織する。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>内閣の権限</ArticleTitle>
+      <Sentence>内閣は、次に掲げる事務を行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　法律を執行するための行政事務を処理すること。</Sentence>
+        <Sentence>二　政令を制定すること。</Sentence>
+        <Sentence>三　予算案を作成すること。</Sentence>
+        <Sentence>四　各省その他行政機関の事務を調整すること。</Sentence>
+        <Sentence>五　外交その他国家の重要な行政事務を処理すること。</Sentence>
+        <Sentence>六　その他法律に定める事務を処理すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>大統領による統轄</ArticleTitle>
+      <Sentence>大統領は、内閣を統轄し、内閣の事務を指揮監督する。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>内閣の決定</ArticleTitle>
+      <Sentence>内閣の重要な政策及び政令その他の重要事項は、内閣の議により決定する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>内閣の議は、大統領が主宰する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>閣議</ArticleTitle>
+      <Sentence>内閣の議を行うため、閣議を開く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>閣議は、大統領が招集する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>大統領は、必要に応じて国務大臣に閣議への出席及び説明を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>国務大臣</ChapterTitle>
+
+    <Article Num="21">
+      <ArticleTitle>国務大臣</ArticleTitle>
+      <Sentence>内閣に国務大臣を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国務大臣は、大統領を補佐し、所管する行政事務を担当する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>国務大臣の任免</ArticleTitle>
+      <Sentence>国務大臣は、大統領が任命する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領は、必要があると認めるときは、国務大臣を罷免することができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>国務大臣の職務</ArticleTitle>
+      <Sentence>国務大臣は、大統領の指揮監督を受け、所管する行政事務を管理する。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>国務大臣の責任</ArticleTitle>
+      <Sentence>国務大臣は、担当する行政事務について大統領に対して責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>国務大臣の兼任</ArticleTitle>
+      <Sentence>大統領は、必要があると認めるときは、一人の国務大臣に二以上の行政事務を担当させることができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>各省その他の行政機関</ChapterTitle>
+
+    <Article Num="26">
+      <ArticleTitle>各省</ArticleTitle>
+      <Sentence>行政事務を分担して処理するため、各省を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>各省の名称及び所掌事務は、法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>各省の長</ArticleTitle>
+      <Sentence>各省に大臣を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>各省の大臣は、国務大臣をもって充てる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>各省大臣の権限</ArticleTitle>
+      <Sentence>各省大臣は、大統領及び内閣の指揮監督を受け、その所管する行政事務を管理し、執行する。</Sentence>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>行政委員会等</ArticleTitle>
+      <Sentence>行政の公正性又は専門性を確保するため、必要な行政委員会その他の合議制機関を法律により設置することができる。</Sentence>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>独立行政機関</ArticleTitle>
+      <Sentence>法律により独立した権限を付与された行政機関は、その法律の定める範囲内において独立して職務を行う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>大統領令</ChapterTitle>
+
+    <Article Num="31">
+      <ArticleTitle>大統領令</ArticleTitle>
+      <Sentence>大統領は、憲法及び法律を執行するため、必要な事項について大統領令を発することができる。</Sentence>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>大統領令の限界</ArticleTitle>
+      <Sentence>大統領令は、憲法又は法律に反してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領令によって法律の規定を改正し、廃止し、又はその効力を変更することはできない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>大統領令の制定</ArticleTitle>
+      <Sentence>大統領令は、大統領が署名して公布することにより効力を生ずる。</Sentence>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>大統領令の事項</ArticleTitle>
+      <Sentence>大統領令には、行政機関の組織、行政事務の執行その他法律の執行に必要な事項を定めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国民の権利を制限し、又は義務を課す事項については、法律に根拠がある場合を除き、大統領令で定めてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>大統領令の無効</ArticleTitle>
+      <Sentence>憲法又は法律に反する大統領令は、その反する範囲において無効とする。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>政令</ChapterTitle>
+
+    <Article Num="36">
+      <ArticleTitle>政令</ArticleTitle>
+      <Sentence>内閣は、法律を執行するため、又は法律の委任に基づき、政令を制定することができる。</Sentence>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>政令の限界</ArticleTitle>
+      <Sentence>政令は、憲法及び法律に反してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>政令によって法律の規定を改正し、廃止し、又はその効力を変更することはできない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>政令の制定及び公布</ArticleTitle>
+      <Sentence>政令は、内閣の議を経て制定し、大統領が署名し、公布する。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>政令の効力</ArticleTitle>
+      <Sentence>政令は、法律の委任又は法律の執行に必要な事項について、法律の定める範囲内で効力を有する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>府省令その他の命令</ChapterTitle>
+
+    <Article Num="40">
+      <ArticleTitle>府省令</ArticleTitle>
+      <Sentence>各省大臣は、その所管する行政事務について、法律又は政令を執行するため、府省令を制定することができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>府省令の限界</ArticleTitle>
+      <Sentence>府省令は、憲法、法律又は政令に反してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>府省令によって国民の権利を制限し、又は義務を課す場合は、法律又は政令にその根拠がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>その他の行政命令</ArticleTitle>
+      <Sentence>行政機関の長は、法律、政令又は府省令を執行するため、必要な規則その他の命令を定めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の命令は、憲法、法律、政令又は府省令に反してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>行政機関の設置及び改廃</ChapterTitle>
+
+    <Article Num="43">
+      <ArticleTitle>行政機関の設置</ArticleTitle>
+      <Sentence>行政機関は、法律に基づいて設置する。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>行政機関の改廃</ArticleTitle>
+      <Sentence>行政機関の統合、分割、名称変更その他重要な改廃は、法律によって行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法律により権限を委任された場合は、その委任の範囲内で政令により行政機関の内部組織を定めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>行政事務の分担</ArticleTitle>
+      <Sentence>行政機関は、それぞれの所掌事務を明確にし、相互に連携して行政を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="46">
+      <ArticleTitle>行政機関相互の調整</ArticleTitle>
+      <Sentence>行政機関の所掌が重複し、又は行政事務の遂行について調整を必要とするときは、大統領及び内閣がこれを調整する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="11">
+    <ChapterTitle>非常時における行政</ChapterTitle>
+
+    <Article Num="47">
+      <ArticleTitle>緊急時の行政措置</ArticleTitle>
+      <Sentence>国家に重大な危機が発生し、通常の行政手続によってその危機に対処することが困難である場合には、大統領は、憲法及び国家緊急事態対処特別法の定めるところにより、必要な措置を講ずることができる。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>緊急命令</ArticleTitle>
+      <Sentence>前条の場合において、大統領は、憲法及び法律の定めるところにより、行政機関に対して必要な命令を発することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の命令は、国家緊急事態対処特別法に定める範囲を超えてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>平常時への復帰</ArticleTitle>
+      <Sentence>緊急事態が終了したときは、大統領は、速やかに通常の行政制度に復帰させなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="12">
+    <ChapterTitle>行政監督</ChapterTitle>
+
+    <Article Num="50">
+      <ArticleTitle>行政の監督</ArticleTitle>
+      <Sentence>大統領は、行政機関の活動について必要な監督を行う。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>報告</ArticleTitle>
+      <Sentence>大統領は、行政機関の長に対し、その所管する事務について報告を求めることができる。</Sentence>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>行政機関の義務</ArticleTitle>
+      <Sentence>行政機関は、大統領、内閣又は所管する国務大臣から適法に受けた指示を誠実に実施しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>違法な命令への対応</ArticleTitle>
+      <Sentence>行政機関の職員は、明らかに憲法又は法律に反する命令を実施してはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="13">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="54">
+      <ArticleTitle>行政組織の細則</ArticleTitle>
+      <Sentence>この法律に定めるもののほか、行政組織及び行政事務の細則は、法律、政令又は大統領令で定める。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>他の法律との関係</ArticleTitle>
+      <Sentence>大統領、内閣、国務大臣及び行政機関に関する事項について、他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="56">
+      <ArticleTitle>施行期日</ArticleTitle>
+      <Sentence>この法律は、公布の日から施行する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
