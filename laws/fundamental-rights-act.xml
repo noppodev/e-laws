@@ -1,0 +1,110 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>基本的人権保障特別法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、憲法に定める基本的人権の保障に関する基本原則を明らかにし、国民の権利及び自由を保護することを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>基本的人権の尊重</ArticleTitle>
+      <Sentence>国は、すべての国民の基本的人権を尊重し、その保障に努めなければならない。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>法令の適合</ArticleTitle>
+      <Sentence>通常の法律、命令その他の法令は、この法律の定める基本的人権の保障に反してはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>基本的人権の保障</ChapterTitle>
+
+    <Article Num="4">
+      <ArticleTitle>法の下の平等</ArticleTitle>
+      <Sentence>すべての国民は、法の下に平等であり、法律によって合理的な根拠なく差別されない。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>思想及び良心の自由</ArticleTitle>
+      <Sentence>思想及び良心の自由は、これを侵してはならない。</Sentence>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>表現の自由</ArticleTitle>
+      <Sentence>国民は、言論、出版その他の方法によって自己の意見及び思想を表現する自由を有する。</Sentence>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>信教の自由</ArticleTitle>
+      <Sentence>国民は、信教の自由を有し、宗教上の信仰又は不信仰を理由として不利益な取扱いを受けない。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>居住及び移転の自由</ArticleTitle>
+      <Sentence>国民は、法律に従い、居住、移転及び職業選択の自由を有する。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>身体の自由</ArticleTitle>
+      <Sentence>何人も、法律に定める適正な手続によらなければ、その身体の自由を制限されない。</Sentence>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>裁判を受ける権利</ArticleTitle>
+      <Sentence>国民は、権利又は自由を侵害されたときは、独立した裁判所に救済を求めることができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>基本的人権の制限</ChapterTitle>
+
+    <Article Num="11">
+      <ArticleTitle>権利制限の原則</ArticleTitle>
+      <Sentence>基本的人権の制限は、憲法及びこの法律に適合する場合に限り、認められる。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>制限の要件</ArticleTitle>
+      <Sentence>基本的人権を制限する措置は、正当な目的を有し、その目的を達成するために必要な範囲を超えてはならない。</Sentence>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>通常の法律による保障の縮減の禁止</ArticleTitle>
+      <Sentence>通常の法律は、この法律によって保障される基本的人権の内容を縮減し、又はその保障を実質的に妨げてはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>権利の救済</ChapterTitle>
+
+    <Article Num="14">
+      <ArticleTitle>救済を求める権利</ArticleTitle>
+      <Sentence>国民は、国又は公共団体による基本的人権の侵害について、裁判所その他法律で定める機関に救済を求めることができる。</Sentence>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>違法な措置の是正</ArticleTitle>
+      <Sentence>基本的人権を侵害する違法な行政上の措置は、法律に定める手続に従い、取り消し、停止し、又は是正することができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="16">
+      <ArticleTitle>他の法令との関係</ArticleTitle>
+      <Sentence>この法律に定める基本的人権の保障に関し、他の通常の法律とこの法律の規定が抵触するときは、憲法に反しない限り、この法律の規定を優先する。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>憲法との関係</ArticleTitle>
+      <Sentence>この法律は、憲法の一部を構成するものではなく、憲法に反してはならない。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
