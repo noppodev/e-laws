@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>国会法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、憲法の規定に基づき、国会の組織、権限及び運営に関する基本事項を定め、国会の適正かつ円滑な活動を確保することを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>国会の地位</ArticleTitle>
+      <Sentence>国会は、国の立法機関であり、国民を代表する機関として、憲法及び法律の定めるところにより、その権限を行使する。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>国会の構成</ArticleTitle>
+      <Sentence>国会は、衆議院及び参議院の両議院をもって構成する。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>独立性の尊重</ArticleTitle>
+      <Sentence>国会は、その議事及び運営について、憲法及び法律に反しない限り、自主的に決定する。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>法令の遵守</ArticleTitle>
+      <Sentence>国会及びその議員は、憲法及び法律を遵守しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>議員</ChapterTitle>
+
+    <Article Num="6">
+      <ArticleTitle>議員の地位</ArticleTitle>
+      <Sentence>両議院の議員は、全国民を代表する者として、その職務を行う。</Sentence>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>議員の定数</ArticleTitle>
+      <Sentence>衆議院及び参議院の議員の定数は、別に法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>議員の兼職禁止</ArticleTitle>
+      <Sentence>何人も、同時に衆議院及び参議院の双方の議員となることができない。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>議員の任期</ArticleTitle>
+      <Sentence>衆議院議員の任期は二年とし、衆議院の解散があったときは、その任期満了前に終了する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>参議院議員の任期は四年とし、二年ごとに議員の半数を改選する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>議員の資格</ArticleTitle>
+      <Sentence>議員の被選挙資格及びその確認に関する事項は、憲法及び別に法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>議員の辞職</ArticleTitle>
+      <Sentence>議員は、所属する議院の許可を得て辞職することができる。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>議員の資格争訟</ArticleTitle>
+      <Sentence>議員の資格に関する争訟は、憲法及び法律の定めるところにより、所属する議院が審査する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>資格の審査に当たっては、当該議員に意見を述べる機会を保障しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>議員の懲罰</ArticleTitle>
+      <Sentence>議院は、その秩序を乱した議員に対し、議院規則の定めるところにより、懲罰を科することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>懲罰は、その行為の性質及び程度に照らして相当なものでなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>議員の除名には、憲法及び法律の定める要件を満たさなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>議長及び役員</ChapterTitle>
+
+    <Article Num="14">
+      <ArticleTitle>議長及び副議長</ArticleTitle>
+      <Sentence>各議院は、その議員の中から議長及び副議長を選出する。</Sentence>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>議長の職務</ArticleTitle>
+      <Sentence>議長は、議院を代表し、議事を整理し、議院の秩序を保持する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>議長は、議院の議決及び議院規則に従い、その職務を行わなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>副議長の職務</ArticleTitle>
+      <Sentence>副議長は、議長に事故があるとき、又は議長が欠けたときに、その職務を行う。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>議長の中立性</ArticleTitle>
+      <Sentence>議長は、議事の運営に当たり、公平性を保ち、議員の発言及び議決への参加を不当に妨げてはならない。</Sentence>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>事務局</ArticleTitle>
+      <Sentence>各議院に、その事務を処理するため、事務局を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>事務局の組織及び運営に関する事項は、各議院の議院規則で定める。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>会期及び会議</ChapterTitle>
+
+    <Article Num="19">
+      <ArticleTitle>常会</ArticleTitle>
+      <Sentence>国会の常会は、毎年二回、憲法の定めるところにより召集する。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>臨時会</ArticleTitle>
+      <Sentence>臨時会は、憲法及び法律の定めるところにより召集する。</Sentence>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>会期の決定</ArticleTitle>
+      <Sentence>国会の会期は、法律の定めるところにより、国会が決定する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>会期の延長その他会期に関する事項は、両議院の議決によって定める。ただし、憲法に別段の定めがある場合は、この限りでない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>開会及び閉会</ArticleTitle>
+      <Sentence>国会の開会及び閉会は、憲法及び法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>議院の開議</ArticleTitle>
+      <Sentence>各議院は、議長が開議を宣告することによって会議を開始する。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>定足数</ArticleTitle>
+      <Sentence>各議院は、その総議員の三分の一以上の出席がなければ、議事を開き、又は議決することができない。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>議決の原則</ArticleTitle>
+      <Sentence>各議院の議事は、憲法に特別の定めがある場合を除き、出席議員の過半数で決する。</Sentence>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>表決への参加</ArticleTitle>
+      <Sentence>議員は、議院の議事に参加し、議決に加わる権利を有する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>議長は、法令又は議院規則に基づく正当な理由なく、議員の表決への参加を妨げてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>議事の公開</ArticleTitle>
+      <Sentence>各議院の会議は、公開することを原則とする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>秘密会を開く場合は、その必要性を認める合理的な理由がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>会議録</ArticleTitle>
+      <Sentence>各議院は、会議録を作成し、議事の経過及び議決の内容を記録しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>会議録は、秘密会に関する情報その他法律で非公開とすることが認められる情報を除き、国民が閲覧できるようにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>議院規則</ArticleTitle>
+      <Sentence>各議院は、議事その他の内部事項に関する規則を定めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>議院規則は、憲法及び法律に反してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>委員会</ChapterTitle>
+
+    <Article Num="30">
+      <ArticleTitle>委員会の設置</ArticleTitle>
+      <Sentence>各議院は、法案その他の議案を審査し、国政に関する事項を調査するため、委員会を設置することができる。</Sentence>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>常任委員会</ArticleTitle>
+      <Sentence>各議院は、継続的な審査及び調査を行うため、常任委員会を置くことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>常任委員会の名称、所管及び構成は、各議院の議院規則で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>特別委員会</ArticleTitle>
+      <Sentence>各議院は、特定の重要事項を審査又は調査するため、必要に応じて特別委員会を設置することができる。</Sentence>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>委員の選任</ArticleTitle>
+      <Sentence>委員会の委員は、各議院の議員の中から選任する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>委員の選任に当たっては、各議院の議員構成及び議院規則を考慮する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>委員長</ArticleTitle>
+      <Sentence>各委員会に委員長を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>委員長は、委員会の議事を整理し、その秩序を保持する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>委員会の審査</ArticleTitle>
+      <Sentence>委員会は、付託された議案及び調査事項について審査又は調査を行い、その結果を所属する議院に報告する。</Sentence>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>参考人の出席</ArticleTitle>
+      <Sentence>委員会は、審査又は調査のため必要があると認めるときは、専門的知識又は関係する経験を有する者に出席を求め、意見を聴くことができる。</Sentence>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>委員会の公開</ArticleTitle>
+      <Sentence>委員会の会議は、公開することを原則とする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>議院規則で定めるところにより、正当な理由がある場合には、非公開とすることができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>法律案及び議案</ChapterTitle>
+
+    <Article Num="38">
+      <ArticleTitle>法律案の提出</ArticleTitle>
+      <Sentence>法律案は、憲法及び法律の定めるところにより、国会に提出することができる。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>法律案の形式</ArticleTitle>
+      <Sentence>法律案には、法律の題名及び条文を記載しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法律案には、必要に応じて、制定又は改正の理由及びその内容を説明する資料を添付する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>法律案の付託</ArticleTitle>
+      <Sentence>提出された法律案は、議院の議決により、所管する委員会に付託することができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>法律案の審査</ArticleTitle>
+      <Sentence>委員会は、法律案の目的、必要性、実効性及び他の法令との整合性を審査する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法律案の審査に当たっては、憲法及び基本的人権保障特別法その他の関係法令との適合性を考慮しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>法律案の修正</ArticleTitle>
+      <Sentence>議院は、審議中の法律案について、議院規則の定めるところにより修正することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>修正案は、憲法及び法律に反してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>法律案の議決</ArticleTitle>
+      <Sentence>法律案は、憲法に別段の定めがある場合を除き、衆議院及び参議院の双方で可決されたとき、法律となる。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>両議院の議決が異なる場合</ArticleTitle>
+      <Sentence>衆議院と参議院で法律案の議決が異なる場合は、憲法の定めるところにより処理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>憲法の定める要件を満たすときは、衆議院は、参議院が否決した法律案を再可決することができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>議案の撤回</ArticleTitle>
+      <Sentence>提出者は、議院の議決により、提出した議案を撤回することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>議案が委員会に付託された後の撤回については、議院規則の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="46">
+      <ArticleTitle>法律の公布</ArticleTitle>
+      <Sentence>成立した法律の公布は、憲法及び法律の定めるところにより行う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>国政調査及び行政監督</ChapterTitle>
+
+    <Article Num="47">
+      <ArticleTitle>国政調査</ArticleTitle>
+      <Sentence>各議院は、国政に関する事項について調査を行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>資料の提出及び説明</ArticleTitle>
+      <Sentence>各議院は、国政調査に必要があると認めるときは、政府その他の関係機関に対し、資料の提出又は説明を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>資料の提出又は説明を拒む場合は、法律上認められる正当な理由を示さなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>大臣等の出席</ArticleTitle>
+      <Sentence>各議院又はその委員会は、審査又は調査のため必要があると認めるときは、法律の定めるところにより、国務大臣その他の政府関係者に出席及び説明を求めることができる。</Sentence>
+    </Article>
+
+    <Article Num="50">
+      <ArticleTitle>政府への意見表明</ArticleTitle>
+      <Sentence>国会は、国政に関する事項について、議決その他の方法により、政府に対して意見を表明することができる。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>調査権の限界</ArticleTitle>
+      <Sentence>国政調査権の行使に当たっては、憲法及び法律を遵守し、基本的人権、司法の独立及び正当な秘密の保護を不当に侵害してはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>議員の権利及び義務</ChapterTitle>
+
+    <Article Num="52">
+      <ArticleTitle>発言の自由</ArticleTitle>
+      <Sentence>議員は、議院における発言及び審議への参加について、憲法及び法律の保障を受ける。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>発言の制限</ArticleTitle>
+      <Sentence>議長及び委員長は、議事の秩序を維持するため必要な範囲で発言を整理することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の措置は、議員の意見表明を不当に抑圧する目的で行ってはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="54">
+      <ArticleTitle>議員の義務</ArticleTitle>
+      <Sentence>議員は、国民全体の利益を考慮し、誠実にその職務を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>利益相反の防止</ArticleTitle>
+      <Sentence>議員は、その職務に関して私的な利益を不当に優先してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>利益相反の申告及び防止に関する詳細は、別に法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="56">
+      <ArticleTitle>議員の逮捕等</ArticleTitle>
+      <Sentence>議員の逮捕その他の身体の自由に関する措置については、憲法及び法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="57">
+      <ArticleTitle>議員の発言等に関する免責</ArticleTitle>
+      <Sentence>議員が議院において行った演説、討論又は表決については、憲法の定めるところにより、その責任を問われない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>大統領及び国会の関係</ChapterTitle>
+
+    <Article Num="58">
+      <ArticleTitle>大統領による議会の召集</ArticleTitle>
+      <Sentence>大統領による国会の召集は、憲法及び法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>議会の解散</ArticleTitle>
+      <Sentence>国会の解散は、憲法の定めるところにより、大統領がこれを行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>解散に伴う選挙及び国会の召集については、憲法及び選挙に関する法律の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="60">
+      <ArticleTitle>大統領への報告</ArticleTitle>
+      <Sentence>国会は、その議決及び国政に関する重要事項について、必要に応じて大統領に通知することができる。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>大統領の権限の限界</ArticleTitle>
+      <Sentence>大統領は、憲法及び法律に従ってその権限を行使しなければならず、国会の立法権を不当に侵害してはならない。</Sentence>
+    </Article>
+
+    <Article Num="62">
+      <ArticleTitle>法律の執行</ArticleTitle>
+      <Sentence>大統領及び政府は、成立し公布された法律を誠実に執行しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領は、法律を執行するための命令を制定することができる。ただし、その命令によって法律を改正し、又は法律に反する規定を設けてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>国会の財政及び運営</ChapterTitle>
+
+    <Article Num="63">
+      <ArticleTitle>国会の経費</ArticleTitle>
+      <Sentence>国会の運営に必要な経費は、国の予算に計上する。</Sentence>
+    </Article>
+
+    <Article Num="64">
+      <ArticleTitle>予算の審議</ArticleTitle>
+      <Sentence>国会は、憲法及び財政に関する法律の定めるところにより、国の予算を審議し、議決する。</Sentence>
+    </Article>
+
+    <Article Num="65">
+      <ArticleTitle>国会の会計</ArticleTitle>
+      <Sentence>国会の経費は、適正かつ効率的に使用しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国会の会計に関する事項は、法律及び議院規則の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="66">
+      <ArticleTitle>国会の情報公開</ArticleTitle>
+      <Sentence>国会は、国民による国政の監視及び参加に資するため、議事、議決その他の活動に関する情報を積極的に公開するよう努めなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>情報の公開に当たっては、個人の権利、国の安全その他法律で保護される利益に配慮する。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="11">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="67">
+      <ArticleTitle>議院規則との関係</ArticleTitle>
+      <Sentence>各議院は、この法律の範囲内で、その議事及び内部運営に関する規則を定めることができる。</Sentence>
+    </Article>
+
+    <Article Num="68">
+      <ArticleTitle>他の法令との関係</ArticleTitle>
+      <Sentence>この法律の規定は、憲法及び基本的人権保障特別法その他の上位又は優先して適用される法令に反しないよう解釈し、適用しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="69">
+      <ArticleTitle>委任</ArticleTitle>
+      <Sentence>この法律の施行に必要な事項は、憲法及び法律に反しない限り、各議院の議院規則その他適法な規則で定める。</Sentence>
+    </Article>
+
+    <Article Num="70">
+      <ArticleTitle>施行</ArticleTitle>
+      <Sentence>この法律は、公布の日から施行する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
