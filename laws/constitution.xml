@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Constitution>
   <Title>〇〇国憲法</Title>
+
   <Preamble>
     <Sentence>〇〇国民は、正義と秩序による恒久の安寧を念願し、厳粛に選挙された国会における代表者である大統領への信託により本憲法を制定する。</Sentence>
     <Sentence>そしてこの憲法に於いて主権が国民にあり、恒久的に人権が守られることをここに宣言する。</Sentence>
@@ -20,10 +21,7 @@
     <Article Num="6"><Sentence>大統領は、法律を執行する為に、必要な命令を発し、または発させる。但し、命令を以て法律を変更することはできない。</Sentence></Article>
     <Article Num="7"><Sentence>大統領は陸海空軍を統帥する。</Sentence></Article>
     <Article Num="8"><Sentence>大統領は陸海空軍の編成及び常備兵額を定め議会の承認により之を適用する。</Sentence></Article>
-    <Article Num="9">
-      <Sentence Num="1">大統領は戒厳を宣告する。</Sentence>
-      <Sentence Num="2">戒厳の要件及び効力は法律を以て之を定める。</Sentence>
-    </Article>
+    <Article Num="9"><Sentence Num="1">大統領は戒厳を宣告する。</Sentence><Sentence Num="2">戒厳の要件及び効力は法律を以て之を定める。</Sentence></Article>
     <Article Num="10"><Sentence>大統領は大赦、特赦、減刑及び復権を命ずる。</Sentence></Article>
     <Article Num="11"><Sentence>大統領は議会の解散を命令する。</Sentence></Article>
   </Chapter>
@@ -32,10 +30,7 @@
     <ChapterTitle>議会</ChapterTitle>
     <Article Num="12"><Sentence>立法権は議会に帰属する。</Sentence></Article>
     <Article Num="13"><Sentence>議会は、衆議院及び参議院の両議院で之を構成する。</Sentence></Article>
-    <Article Num="14">
-      <Sentence Num="1">両議院は全国民を代表する選挙された議員で之を組織する。</Sentence>
-      <Sentence Num="2">両議院の議員の定数は法律で之を定める。</Sentence>
-    </Article>
+    <Article Num="14"><Sentence Num="1">両議院は全国民を代表する選挙された議員で之を組織する。</Sentence><Sentence Num="2">両議院の議員の定数は法律で之を定める。</Sentence></Article>
     <Article Num="15"><Sentence>衆議院議員のの任期は二年とする。但し、議会の解散の際には任期の満了を待つことなく解散する。</Sentence></Article>
     <Article Num="16"><Sentence>参議院議員の任期は四年とし、二年ごとに議員の半数を改選する。</Sentence></Article>
     <Article Num="17"><Sentence>選挙区、投票の方法等両議院の選挙に関わる事項は法律で之を定める。</Sentence></Article>
@@ -46,10 +41,7 @@
     <Article Num="22"><Sentence>議員は、法律の定める場合を除いては、会期中その許諾なく逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。</Sentence></Article>
     <Article Num="23"><Sentence>議員は、院内で行った演説、討論又は表決について、院外で責任を問われない。但し、会期外の犯罪行為についてはこの限りではない。</Sentence></Article>
     <Article Num="24"><Sentence>議会は、議員の三分の一以上の出席がない場合、議事を開き議決をすることができない。</Sentence></Article>
-    <Article Num="25">
-      <Sentence Num="1">法律案は、この憲法に特別の掟のある場合を除いては、両議院で可決したとき法律となる。</Sentence>
-      <Sentence Num="2">衆議院で可決し、参議院でこれと異なった議決をした法律案は、衆議院で三分の二以上の多数で再び可決したときは法律となる。</Sentence>
-    </Article>
+    <Article Num="25"><Sentence Num="1">法律案は、この憲法に特別の掟のある場合を除いては、両議院で可決したとき法律となる。</Sentence><Sentence Num="2">衆議院で可決し、参議院でこれと異なった議決をした法律案は、衆議院で三分の二以上の多数で再び可決したときは法律となる。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="3">
@@ -75,11 +67,7 @@
     <Article Num="40"><Sentence>国家は、国民の生命、財産及び主権を守るため、自衛のための軍事力を保持する。</Sentence></Article>
     <Article Num="41"><Sentence>大統領は、陸海空軍を統帥する。軍の編成及び統制は、法律の定めるところによる。</Sentence></Article>
     <Article Num="42"><Sentence>国家は、国防の目的を達成するために必要な最新鋭の兵器体系を開発し、及び保有する権利を有する。これには、海上、水中、空中、及び宇宙空間における防衛能力を含む。</Sentence></Article>
-    <Article Num="43">
-      <Sentence Num="1">有事又は国の存立が脅かされる緊急事態において、大統領は国家総動員を宣告することができる。</Sentence>
-      <Sentence Num="2">国家総動員が宣告された場合、大統領は法令の定めるところにより、経済、産業、技術、及び国民生活の全てを国防のために統合運用する権限を有する。</Sentence>
-      <Sentence Num="3">総動員の要件及び効力については、法律で之を定める。</Sentence>
-    </Article>
+    <Article Num="43"><Sentence Num="1">有事又は国の存立が脅かされる緊急事態において、大統領は国家総動員を宣告することができる。</Sentence><Sentence Num="2">国家総動員が宣告された場合、大統領は法令の定めるところにより、経済、産業、技術、及び国民生活の全てを国防のために統合運用する権限を有する。</Sentence><Sentence Num="3">総動員の要件及び効力については、法律で之を定める。</Sentence></Article>
     <Article Num="44"><Sentence>国防は国家の最優先事項であり、国家の資源は、必要に応じて軍事目的のために優先的に配分される。</Sentence></Article>
   </Chapter>
 
@@ -96,10 +84,7 @@
 
   <Chapter Num="6">
     <ChapterTitle>財政</ChapterTitle>
-    <Article Num="52">
-      <Sentence Num="1">国の財政は、国民の福祉と国家の安全を増進するため、厳正かつ効率的に管理されなければならない。</Sentence>
-      <Sentence Num="2">国の歳出及び歳入は、大統領の作成する予算に基づいて議会の議決を経なければならない。</Sentence>
-    </Article>
+    <Article Num="52"><Sentence Num="1">国の財政は、国民の福祉と国家の安全を増進するため、厳正かつ効率的に管理されなければならない。</Sentence><Sentence Num="2">国の歳出及び歳入は、大統領の作成する予算に基づいて議会の議決を経なければならない。</Sentence></Article>
     <Article Num="53"><Sentence>国家の決算は、毎年会計検査院の検査を経て、大統領が翌年度にこれを議会に提出しなければならない。</Sentence></Article>
     <Article Num="54"><Sentence>国は、経済活動の自由を保障し、国民が行う企業活動及び産業の発展を阻害してはならない。</Sentence></Article>
     <Article Num="55"><Sentence>国家の資産及び公的資金は、国家の発展、防衛、及び産業基盤の強化のために優先的に配分される。</Sentence></Article>
@@ -109,19 +94,12 @@
 
   <Chapter Num="7">
     <ChapterTitle>改正</ChapterTitle>
-    <Article Num="58">
-      <Sentence Num="1">本憲法の改正は、両議院それぞれの総議員の過半数の賛成を経て、議会がこれを発議する。</Sentence>
-      <Sentence Num="2">発議された改正案は、国民投票を行い投票数のの三分の一の賛成により成立する。</Sentence>
-      <Sentence Num="3">但し、国家の根幹に関わる重大な改正を除き、議会の承認のみを以て成立させる簡易改正の規定を別途法律で定めることができる。</Sentence>
-    </Article>
+    <Article Num="58"><Sentence Num="1">本憲法の改正は、両議院それぞれの総議員の過半数の賛成を経て、議会がこれを発議する。</Sentence><Sentence Num="2">発議された改正案は、国民投票を行い投票数のの三分の一の賛成により成立する。</Sentence><Sentence Num="3">但し、国家の根幹に関わる重大な改正を除き、議会の承認のみを以て成立させる簡易改正の規定を別途法律で定めることができる。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="8">
     <ChapterTitle>最高法規</ChapterTitle>
-    <Article Num="59">
-      <Sentence Num="1">この憲法は、国の最高法規であって、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。</Sentence>
-      <Sentence Num="2">国務に従事する大統領、国会議員、裁判官、その他の公務員は、この憲法を尊重し擁護する義務を負う。</Sentence>
-    </Article>
+    <Article Num="59"><Sentence Num="1">この憲法は、国の最高法規であって、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。</Sentence><Sentence Num="2">国務に従事する大統領、国会議員、裁判官、その他の公務員は、この憲法を尊重し擁護する義務を負う。</Sentence></Article>
   </Chapter>
 
   <Chapter Num="9">
