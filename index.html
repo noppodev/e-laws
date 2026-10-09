@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -392,7 +393,6 @@ function getArticleLabel(chapter, article) {
   const label = String(article.label || "").trim();
   const num = String(article.num || "").trim();
 
-  // XMLに条文名が指定されていれば、それを優先する。
   if (title) return title;
   if (label) return label;
 
@@ -416,12 +416,6 @@ function getNodeLabel(node) {
     return title || num || (node.tag === "SupplProvision" ? "附則" : node.tag);
   }
 
-  /*
-   * XMLのタイトルに番号まで含まれている場合は重複させない。
-   * 例：
-   * Num="2", ChapterTitle="第二章" → 第二章
-   * Num="2", ChapterTitle="議会"   → 第2章 議会
-   */
   const alreadyNumbered = title &&
     new RegExp(
       `^(第)?[0-9０-９一二三四五六七八九十百]+${prefix}(\\s|$)`
@@ -487,10 +481,6 @@ function parseLawXml(xmlText) {
     throw new Error(`XMLの構文エラー：${detail}`);
   }
 
-  /*
-   * Constitution形式とLaw形式の両方を受け付ける。
-   * ルート直下に章や条文がある形式も、LawBody/MainProvision形式も対応。
-   */
   const rootTag = root.localName;
 
   const lawBody =
@@ -540,11 +530,6 @@ function parseLawXml(xmlText) {
     ...titleTags
   ];
 
-  /*
-   * 既知の章・条文は階層構造として読み込む。
-   * 未知のラッパー要素の内側に章や条文がある場合も、
-   * その階層をたどって内容を取得する。
-   */
   function readStructure(parent) {
     const result = [];
 
@@ -589,10 +574,6 @@ function parseLawXml(xmlText) {
         continue;
       }
 
-      /*
-       * 条文・章を内包する未知の要素は中身を探索する。
-       * それ以外の要素は一般XMLノードとして保持する。
-       */
       const containsStructure = [...element.children].some(child =>
         child.localName === "Article" ||
         containerTags.includes(child.localName) ||
@@ -614,7 +595,6 @@ function parseLawXml(xmlText) {
 
   const structure = readStructure(provision);
 
-  // 附則は本文と区別しつつ、目次・条文数の集計に含める。
   const supplements = directChildren(lawBody, ["SupplProvision"])
     .map(element => ({
       kind: "container",
@@ -629,7 +609,6 @@ function parseLawXml(xmlText) {
       children: readStructure(element)
     }));
 
-  // 前文は構造本文から分離して表示する。
   const preamble = preambleNode
     ? [...preambleNode.children].map(parseXmlNode)
     : [];
@@ -733,7 +712,19 @@ async function loadLaw(id) {
     );
   }
 
-  const xmlText = await response.text();
+  let xmlText = await response.text();
+
+  // UTF-8 BOMとXML宣言前の空白を除去する。
+  // XMLファイルそのものは変更しない。
+  xmlText = xmlText
+    .replace(/^\uFEFF/, "")
+    .trimStart();
+
+  // GitHub Pagesから実際に取得した内容を調査できるようにする。
+  console.log("取得先:", response.url);
+  console.log("HTTPステータス:", response.status);
+  console.log("XML先頭:", JSON.stringify(xmlText.slice(0, 200)));
+
   const parsed = parseLawXml(xmlText);
   const result = { ...law, ...parsed };
 
@@ -916,7 +907,6 @@ async function renderLawSearch(query = "") {
     normalizeText(law.id).includes(q)
   );
 
-  // 法令名・IDで見つからなければ、本文も検索する。
   if (q && results.length === 0) {
     const searches = await Promise.allSettled(
       state.laws.map(law => loadLaw(law.id))
@@ -974,7 +964,6 @@ function renderTextNode(node, path = "node") {
 
   const own = escapeHtml(node.ownText || "");
 
-  // 見出し情報は親要素で表示するため、ここでは重複させない。
   if ([
     "ArticleTitle",
     "ChapterTitle",
@@ -1037,10 +1026,6 @@ function renderTextNode(node, path = "node") {
     return `<div class="xml-block">${own}${content}</div>`;
   }
 
-  /*
-   * 未知の要素も捨てずに中身を表示する。
-   * XMLに新しい要素が追加されても本文を失いにくくする。
-   */
   if (content || own) {
     return `<div class="xml-block">${own}${content}</div>`;
   }
@@ -1123,7 +1108,7 @@ function renderStructure(nodes, parentPath = "law") {
   }).join("");
 }
 
-function renderToc(nodes, parentPath = "toc") {
+function renderToc(nodes, parentPath = "law") {
   if (!nodes?.length) return "";
 
   return nodes.map((node, index) => {
@@ -1174,7 +1159,6 @@ async function renderLawDetail(id, version) {
   try {
     const law = await loadLaw(id);
 
-    // 読み込み中に別のページへ移動した場合は古い結果を表示しない。
     if (version !== state.routeVersion) return;
 
     const toc = renderToc(law.structure);
@@ -1408,7 +1392,18 @@ async function init() {
   }
 }
 
-window.addEventListener("hashchange", router);
+/*
+ * #/ から始まるURLはページ遷移として処理する。
+ * #toc-section、#law-... などのページ内リンクは
+ * router() に渡さず、ブラウザー標準のアンカー移動に任せる。
+ */
+window.addEventListener("hashchange", () => {
+  if (!location.hash.startsWith("#/")) {
+    return;
+  }
+
+  router();
+});
 
 init();
 </script>
