@@ -176,7 +176,8 @@
       <ArticleTitle>無効及び取消し</ArticleTitle>
       <Sentence>法律行為が無効である場合、その行為は初めから効力を生じない。</Sentence>
       <Paragraph Num="2">
-        <Sentence>取り消すことのできる法律行為は、適法に取り消されたとき、その効力を失う。</Sentence>
+       <Sentence>取り消すことのできる法律行為は、適法に取り消されたとき、その効力を失う。</Sentence>
+      </Paragraph>
     </Article>
 
     <Article Num="32">
