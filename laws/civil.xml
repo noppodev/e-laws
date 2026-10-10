@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>民法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>基本原則</ArticleTitle>
+      <Sentence>私権は、公共の福祉に適合しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>権利の行使及び義務の履行は、信義に従い誠実に行わなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>権利の濫用は、これを許さない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>権利能力</ArticleTitle>
+      <Sentence>私権の享有は、出生に始まる。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>成年</ArticleTitle>
+      <Sentence>成年は、法律の定める年齢に達した時に始まる。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>住所</ArticleTitle>
+      <Sentence>各人の生活の本拠をその者の住所とする。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>未成年者の法律行為</ArticleTitle>
+      <Sentence>未成年者が法律行為をするには、その法定代理人の同意を得なければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項に反する法律行為は、法律の定めるところにより、取り消すことができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>成年被後見人</ArticleTitle>
+      <Sentence>事理を弁識する能力を欠く常況にある者については、法律の定めるところにより、成年後見人を置くことができる。</Sentence>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>行為能力の制限</ArticleTitle>
+      <Sentence>被保佐人その他行為能力を制限された者の法律行為については、法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>失踪</ArticleTitle>
+      <Sentence>不在者の生死が一定期間明らかでないときは、法律の定めるところにより、失踪の宣告をすることができる。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>法人</ArticleTitle>
+      <Sentence>法人は、法律の定めるところにより、権利を有し、義務を負う。</Sentence>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>法人の設立</ArticleTitle>
+      <Sentence>法人は、法律の定める要件に従って設立することができる。</Sentence>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>法人の能力</ArticleTitle>
+      <Sentence>法人は、定款その他その目的の範囲内において、権利を有し、義務を負う。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>代理</ArticleTitle>
+      <Sentence>代理人がその権限内において本人のためにした意思表示は、本人に対して直接その効力を生ずる。</Sentence>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>無権代理</ArticleTitle>
+      <Sentence>代理権のない者がした法律行為は、本人が追認しなければ、本人に対してその効力を生じない。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>条件及び期限</ArticleTitle>
+      <Sentence>法律行為には、法律の定めるところにより、条件又は期限を付することができる。</Sentence>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>期間の計算</ArticleTitle>
+      <Sentence>期間の計算方法その他期間に関する事項は、法律の定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>物</ChapterTitle>
+
+    <Article Num="16">
+      <ArticleTitle>物の定義</ArticleTitle>
+      <Sentence>この法律において物とは、有体物をいう。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>不動産及び動産</ArticleTitle>
+      <Sentence>土地及びその定着物は不動産とし、それ以外の物は動産とする。</Sentence>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>所有権</ArticleTitle>
+      <Sentence>所有者は、法令の制限内において、所有物を使用し、収益し、及び処分する権利を有する。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>所有権の制限</ArticleTitle>
+      <Sentence>所有権は、公共の福祉及び他人の権利を害しない範囲で行使しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>共有</ArticleTitle>
+      <Sentence>一つの物を数人で所有するときは、各共有者はその持分に応じた権利を有する。</Sentence>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>占有</ArticleTitle>
+      <Sentence>自己のためにする意思をもって物を所持する者は、占有者として法律の保護を受ける。</Sentence>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>占有の保護</ArticleTitle>
+      <Sentence>占有を不当に妨害され、又はこれを奪われた者は、法律の定めるところにより、その回復その他必要な請求をすることができる。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>所有権の取得</ArticleTitle>
+      <Sentence>所有権は、法律行為その他法律の定める原因によって取得する。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>所有権の移転</ArticleTitle>
+      <Sentence>所有権の移転は、当事者の意思表示その他法律の定める要件によってその効力を生ずる。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>共有物の管理</ArticleTitle>
+      <Sentence>共有物の管理に関する事項は、法律又は共有者間の合意により定める。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>法律行為及び契約</ChapterTitle>
+
+    <Article Num="26">
+      <ArticleTitle>契約自由の原則</ArticleTitle>
+      <Sentence>何人も、法令に反しない限り、自由に契約を締結し、その内容を定めることができる。</Sentence>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>意思表示</ArticleTitle>
+      <Sentence>意思表示は、その意思を表示した時から法律の定めるところにより効力を生ずる。</Sentence>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>錯誤</ArticleTitle>
+      <Sentence>意思表示に重要な錯誤があり、その錯誤が法律の定める要件を満たすときは、その意思表示を取り消すことができる。</Sentence>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>詐欺又は強迫</ArticleTitle>
+      <Sentence>詐欺又は強迫によってされた意思表示は、法律の定めるところにより、取り消すことができる。</Sentence>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>公序良俗</ArticleTitle>
+      <Sentence>公の秩序又は善良の風俗に反する法律行為は、無効とする。</Sentence>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>無効及び取消し</ArticleTitle>
+      <Sentence>法律行為が無効である場合、その行為は初めから効力を生じない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>取り消すことのできる法律行為は、適法に取り消されたとき、その効力を失う。</Sentence>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>契約の成立</ArticleTitle>
+      <Sentence>契約は、申込みとこれに対する承諾の意思表示が合致することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>契約上の義務</ArticleTitle>
+      <Sentence>契約が成立したときは、当事者はその内容に従って義務を履行しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>契約の解除</ArticleTitle>
+      <Sentence>当事者の一方が契約上の義務を履行しないときは、相手方は法律の定めるところにより、契約を解除することができる。</Sentence>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>危険負担</ArticleTitle>
+      <Sentence>契約の目的物が当事者の責めに帰することのできない事由によって失われた場合の負担については、法律又は契約の定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>債権</ChapterTitle>
+
+    <Article Num="36">
+      <ArticleTitle>債権の内容</ArticleTitle>
+      <Sentence>債権者は、債務者に対して、一定の行為をすること、又はしないことを請求する権利を有する。</Sentence>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>債務の履行</ArticleTitle>
+      <Sentence>債務者は、契約その他の法律上の原因に基づく義務を、その内容に従って履行しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>履行遅滞</ArticleTitle>
+      <Sentence>債務者が履行すべき時期にその義務を履行しないときは、法律の定めるところにより、履行遅滞の責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>履行不能</ArticleTitle>
+      <Sentence>債務の履行が不能となった場合には、法律の定めるところにより、その責任を定める。</Sentence>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>損害賠償</ArticleTitle>
+      <Sentence>債務者がその債務を履行しないことによって債権者に損害を生じさせたときは、法律の定めるところにより、その損害を賠償する責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>弁済</ArticleTitle>
+      <Sentence>債務の履行その他法律の定める原因によって、債権は消滅する。</Sentence>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>相殺</ArticleTitle>
+      <Sentence>当事者双方が同種の債権を有するときは、法律の定める要件の下で、相殺によって債務を消滅させることができる。</Sentence>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>債権譲渡</ArticleTitle>
+      <Sentence>債権者は、法律又は契約に別段の定めがある場合を除き、その債権を他人に譲渡することができる。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>保証</ArticleTitle>
+      <Sentence>保証人は、主たる債務者がその債務を履行しない場合に、法律の定める範囲でその履行の責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>連帯債務</ArticleTitle>
+      <Sentence>数人の債務者が同一の債務について連帯して責任を負う場合には、各債務者は法律の定めるところにより、その全額について履行の責任を負う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>契約各則</ChapterTitle>
+
+    <Article Num="46">
+      <ArticleTitle>売買</ArticleTitle>
+      <Sentence>売買は、当事者の一方がある財産権を相手方に移転することを約し、相手方がその代金を支払うことを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="47">
+      <ArticleTitle>贈与</ArticleTitle>
+      <Sentence>贈与は、当事者の一方が無償で財産を与える意思を表示し、相手方がこれを受諾することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>賃貸借</ArticleTitle>
+      <Sentence>賃貸借は、当事者の一方がある物を使用及び収益させることを約し、相手方がその対価を支払うことを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>使用貸借</ArticleTitle>
+      <Sentence>使用貸借は、当事者の一方が無償である物を使用及び収益させ、相手方がその物を返還することを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="50">
+      <ArticleTitle>請負</ArticleTitle>
+      <Sentence>請負は、当事者の一方がある仕事を完成することを約し、相手方がその結果に対して報酬を支払うことを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>委任</ArticleTitle>
+      <Sentence>委任は、当事者の一方が法律行為その他の事務を相手方に委託し、相手方がこれを承諾することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>寄託</ArticleTitle>
+      <Sentence>寄託は、当事者の一方が相手方のために物を保管することを約し、これを受け取ることによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>組合</ArticleTitle>
+      <Sentence>組合は、各当事者が出資をして共同の事業を営むことを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="54">
+      <ArticleTitle>和解</ArticleTitle>
+      <Sentence>和解は、当事者が互いに譲歩してその間に存在する争いをやめることを約することによって成立する。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>消費者契約</ArticleTitle>
+      <Sentence>消費者と事業者との間の契約については、消費者の利益を適切に保護するため、法律に特別の定めを置くことができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>不法行為</ChapterTitle>
+
+    <Article Num="56">
+      <ArticleTitle>一般的不法行為</ArticleTitle>
+      <Sentence>故意又は過失によって他人の権利又は法律上保護される利益を侵害した者は、その損害を賠償する責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="57">
+      <ArticleTitle>損害の範囲</ArticleTitle>
+      <Sentence>損害賠償は、侵害によって通常生ずべき損害その他法律の定める損害を対象とする。</Sentence>
+    </Article>
+
+    <Article Num="58">
+      <ArticleTitle>精神上の損害</ArticleTitle>
+      <Sentence>他人の身体、自由、名誉その他人格的利益を侵害した者は、法律の定めるところにより、精神上の損害についても賠償する責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>正当防衛</ArticleTitle>
+      <Sentence>他人の不法な侵害に対して自己又は他人の権利を守るため、やむを得ずした行為については、法律の定めるところにより、損害賠償の責任を免除又は軽減することができる。</Sentence>
+    </Article>
+
+    <Article Num="60">
+      <ArticleTitle>緊急避難</ArticleTitle>
+      <Sentence>現在の危難を避けるため、やむを得ず他人の利益を侵害した場合には、法律の定めるところにより、その責任を免除又は軽減することができる。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>使用者責任</ArticleTitle>
+      <Sentence>ある事業のために他人を使用する者は、その被用者が事業の執行について第三者に加えた損害について、法律の定めるところにより賠償する責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="62">
+      <ArticleTitle>工作物等の責任</ArticleTitle>
+      <Sentence>建物その他の工作物の設置又は保存に瑕疵があって他人に損害を生じさせたときは、その占有者又は所有者は法律の定めるところにより責任を負う。</Sentence>
+    </Article>
+
+    <Article Num="63">
+      <ArticleTitle>共同不法行為</ArticleTitle>
+      <Sentence>数人が共同して他人に損害を加えたときは、各自が連帯してその損害を賠償する責任を負う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>親族</ChapterTitle>
+
+    <Article Num="64">
+      <ArticleTitle>婚姻</ArticleTitle>
+      <Sentence>婚姻は、当事者双方の合意によって成立し、法律の定めるところにより届け出なければ、その効力を生じない。</Sentence>
+    </Article>
+
+    <Article Num="65">
+      <ArticleTitle>婚姻の平等</ArticleTitle>
+      <Sentence>婚姻関係にある者は、互いに平等な権利を有し、協力して共同生活を営むものとする。</Sentence>
+    </Article>
+
+    <Article Num="66">
+      <ArticleTitle>離婚</ArticleTitle>
+      <Sentence>婚姻は、当事者の合意又は裁判によって、法律の定めるところにより解消することができる。</Sentence>
+    </Article>
+
+    <Article Num="67">
+      <ArticleTitle>親子関係</ArticleTitle>
+      <Sentence>親子関係の成立及びその効力については、法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="68">
+      <ArticleTitle>親権</ArticleTitle>
+      <Sentence>父母その他法律に定める者は、子の利益を最も優先して、子を養育し、教育する権利及び義務を負う。</Sentence>
+    </Article>
+
+    <Article Num="69">
+      <ArticleTitle>養子縁組</ArticleTitle>
+      <Sentence>養子縁組は、法律の定める要件及び手続によって成立する。</Sentence>
+    </Article>
+
+    <Article Num="70">
+      <ArticleTitle>扶養</ArticleTitle>
+      <Sentence>直系親族その他法律に定める親族は、互いにその生活に必要な扶養をする義務を負う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>相続</ChapterTitle>
+
+    <Article Num="71">
+      <ArticleTitle>相続の開始</ArticleTitle>
+      <Sentence>相続は、死亡によって開始する。</Sentence>
+    </Article>
+
+    <Article Num="72">
+      <ArticleTitle>相続人</ArticleTitle>
+      <Sentence>相続人となる者の範囲及び順位は、法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="73">
+      <ArticleTitle>相続財産</ArticleTitle>
+      <Sentence>相続人は、相続開始の時から、被相続人に属した一切の権利義務を承継する。ただし、その性質上承継することのできないものを除く。</Sentence>
+    </Article>
+
+    <Article Num="74">
+      <ArticleTitle>相続分</ArticleTitle>
+      <Sentence>共同相続人の相続分は、法律又は被相続人の遺言によって定める。</Sentence>
+    </Article>
+
+    <Article Num="75">
+      <ArticleTitle>遺言</ArticleTitle>
+      <Sentence>遺言は、法律の定める方式に従ってしなければ、その効力を生じない。</Sentence>
+    </Article>
+
+    <Article Num="76">
+      <ArticleTitle>遺留分</ArticleTitle>
+      <Sentence>一定の相続人には、法律の定めるところにより、遺産について一定の割合の権利を保障することができる。</Sentence>
+    </Article>
+
+    <Article Num="77">
+      <ArticleTitle>相続の放棄</ArticleTitle>
+      <Sentence>相続人は、法律の定める期間及び方式に従い、相続を放棄することができる。</Sentence>
+    </Article>
+
+    <Article Num="78">
+      <ArticleTitle>遺産分割</ArticleTitle>
+      <Sentence>共同相続人は、法律の定めるところにより、遺産の分割を請求することができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>時効</ChapterTitle>
+
+    <Article Num="79">
+      <ArticleTitle>取得時効</ArticleTitle>
+      <Sentence>一定期間、平穏かつ公然と他人の物を占有した者は、法律の定める要件を満たすことにより、その所有権を取得することができる。</Sentence>
+    </Article>
+
+    <Article Num="80">
+      <ArticleTitle>消滅時効</ArticleTitle>
+      <Sentence>権利を一定期間行使しないときは、法律の定めるところにより、その権利について消滅時効が成立する。</Sentence>
+    </Article>
+
+    <Article Num="81">
+      <ArticleTitle>時効の援用</ArticleTitle>
+      <Sentence>時効による利益を受ける者は、法律の定めるところにより、その時効を援用することができる。</Sentence>
+    </Article>
+
+    <Article Num="82">
+      <ArticleTitle>時効の更新及び完成猶予</ArticleTitle>
+      <Sentence>時効の完成を妨げ、又はその期間を更新する事由については、法律の定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="83">
+      <ArticleTitle>私法関係の基本原則</ArticleTitle>
+      <Sentence>この法律に定めのない私法上の事項については、慣習その他一般に認められた法理に従い、最も適正に解決しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="84">
+      <ArticleTitle>特別法との関係</ArticleTitle>
+      <Sentence>この法律の規定は、他の法律に特別の定めがある場合には、その定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="85">
+      <ArticleTitle>施行</ArticleTitle>
+      <Sentence>この法律の施行に必要な事項は、別に法律又は命令で定める。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
