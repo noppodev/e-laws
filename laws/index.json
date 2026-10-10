@@ -6,6 +6,12 @@
     "articleCount": 60
   },
   {
+    "id": "election",
+    "title": "公職選挙法",
+    "filename": "election.xml",
+    "articleCount": 83
+  },
+  {
     "id": "emergency",
     "title": "国家緊急事態対処特別法",
     "filename": "emergency.xml",
