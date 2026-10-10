@@ -54,6 +54,12 @@
     "articleCount": 78
   },
   {
+    "id": "nationality-act",
+    "title": "国籍法",
+    "filename": "nationality-act.xml",
+    "articleCount": 43
+  },
+  {
     "id": "president",
     "title": "大統領法",
     "filename": "president.xml",
