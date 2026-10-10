@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>国籍法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、国民たる要件、国籍の取得、保持、選択、離脱、喪失及び再取得並びに国籍に関する手続その他国籍制度の基本的事項を定め、国籍に関する法律関係の明確化、無国籍の防止及び個人の権利の保護を図ることを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>国籍の基本原則</ArticleTitle>
+      <Sentence>国籍は、国民としての法的地位を示すものであり、その取得、保持又は喪失は、この法律の定めるところによる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>何人も、法律に定める根拠及び手続によらなければ、国籍を取得し、又は喪失させられることはない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍に関する処分及び手続においては、個人の尊厳、法の下の平等、適正な手続及び司法による救済を保障しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍の取得、保持又は喪失に関する判断に当たっては、出生、親子関係、本人の意思、生活の実態その他この法律に定める事情を考慮しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「国民」とは、この法律の規定により国籍を有する者をいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「外国人」とは、国籍を有しない者を除き、国民以外の国の国籍を有する者をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>この法律において「無国籍者」とは、いずれの国の法令によってもその国の国民と認められない者をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>この法律において「国籍行政庁」とは、大統領法その他の法律に基づき国籍に関する事務を所掌する行政機関をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>この法律において「国籍取得の届出」とは、この法律の規定により国籍を取得する意思その他必要な事項を国籍行政庁に届け出ることをいう。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>国籍に関する記録</ArticleTitle>
+      <Sentence>国籍行政庁は、国籍の取得、変更、選択、離脱、喪失及び再取得に関する事実を正確に記録し、管理しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の記録は、国籍に関する法律上の地位を確認するために用いるものとし、記録の未作成、遅延又は誤記のみを理由として、法律上既に生じた国籍の取得又は喪失の効力を否定してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>何人も、自己の国籍に関する記録について、その内容の開示、訂正又は必要な証明を求めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍に関する記録の管理及び利用に当たっては、個人情報を適切に保護し、法令に定める目的を超えて利用してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>出生その他による国籍の取得</ChapterTitle>
+
+    <Article Num="5">
+      <ArticleTitle>出生による国籍の取得</ArticleTitle>
+      <Sentence>子は、次の各号のいずれかに該当するときは、出生によって国籍を取得する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　出生の時に、父又は母のいずれかが国民であるとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>二　出生前に父が死亡した場合において、その父が死亡の時に国民であったとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>三　国内で出生した場合において、父母がともに知れないとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>四　国内で出生した場合において、父母がともに無国籍者であるとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <Sentence>出生による国籍の取得は、出生の時にその効力を生ずる。ただし、出生時に国籍取得の要件を満たしていたことが後に確認された場合も、同様とする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>出生時の親子関係の確認</ArticleTitle>
+      <Sentence>前条の規定における父又は母との関係は、法律上の親子関係に基づいて判断する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>出生後に親子関係が認知、裁判その他法律上有効な方法によって確認された場合において、その親子関係が出生時から存在したものと認められるときは、前条の規定の適用に当たっては、出生時からその親子関係が存在したものとして取り扱う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>親子関係に争いがある場合には、国籍行政庁は、関係資料を調査し、必要に応じて司法機関の判断を求める機会を保障しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>親子関係が虚偽の認知その他の不正な手段によって作出されたことが確定した場合には、その認知のみを根拠として国籍取得の要件を満たすものとしてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>認知された子の国籍取得</ArticleTitle>
+      <Sentence>国民である父又は母から認知された子は、その認知に係る親子関係が法律上有効であり、次の各号の要件を満たすときは、国籍行政庁への届出によって国籍を取得することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　認知をした父又は母が、子の出生の時に国民であったこと。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>二　認知をした父又は母が、届出の時に国民であること、又は死亡の時に国民であったこと。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>三　届出をする者が、届出の時に十八歳未満であること。ただし、本人が成年に達した後であっても、未成年である間に届出をすることができなかったことについて正当な理由があるときは、成年に達した日から二年以内に限り、届出をすることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>前各項の規定による国籍の取得は、届出が適法に受理された時に効力を生ずる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>養子縁組等の取扱い</ArticleTitle>
+      <Sentence>養子縁組その他の親子関係に関する法律行為は、それ自体によって国籍を取得させるものではない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の法律行為によって法律上の親子関係が成立し、かつ、他の条文に定める国籍取得の要件を満たす場合には、その条文の定めるところによる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>養子縁組その他の法律行為が国籍取得のみを目的として仮装されたものであることが認められる場合には、その法律行為のみを根拠として国籍を取得することはできない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>遺棄された子及び親が不明な子の保護</ArticleTitle>
+      <Sentence>国内で発見された子について、父母がともに知れず、又はその国籍を確認することができない場合には、国籍行政庁は、無国籍となることを防止するため、出生地、発見された場所、保護の経緯その他の事情を調査しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の子が国内で出生したと認められる場合には、第五条の規定を適用する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>出生地その他の事実が直ちに確認できないことのみを理由として、子に必要な保護又は国籍に関する手続を拒んではならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>調査の結果、出生地又は親子関係に関する新たな事実が判明した場合には、国籍行政庁は、その事実に基づき国籍に関する記録を適切に処理しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>出生による外国籍の取得及び国籍の留保</ArticleTitle>
+      <Sentence>出生によって国籍を取得した者が、同時に外国の国籍を取得した場合であっても、そのことのみを理由として国籍を失わない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国外で出生し、出生によって外国の国籍を取得した子については、出生の事実及び国籍取得の事実を国籍行政庁に届け出ることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前項の届出がされなかったことのみを理由として、国籍を出生時にさかのぼって失わせてはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国外出生者に関する届出の期間、方法及び必要書類は、本人が届出を行う現実的な機会を確保し、かつ、無国籍を生じさせないように定めなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>帰化による国籍の取得</ChapterTitle>
+
+    <Article Num="11">
+      <ArticleTitle>帰化</ArticleTitle>
+      <Sentence>外国人は、この法律の定めるところにより、帰化によって国籍を取得することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>帰化は、本人の自由な意思に基づく申請により行うものとする。ただし、法定代理人が本人に代わって申請することができる場合は、この法律の定めるところによる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>帰化の許可は、法律に定める要件及び審査手続に従って行わなければならず、行政機関の恣意によって行ってはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>帰化の一般的要件</ArticleTitle>
+      <Sentence>国籍行政庁は、次の各号の要件をすべて満たす者について、帰化を許可することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　引き続き五年以上、国内に適法に住所を有していること。ただし、正当な理由による一時的な出国は、住所の継続性を当然には失わせない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>二　十八歳以上であり、かつ、本人の本国法その他適用される法令に照らして、帰化の申請に必要な行為能力を有すること。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>三　法令を遵守し、社会の一員として生活する意思を有すると認められること。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>四　自己及び生計を同じくする家族について、適法な手段により安定した生計を営むことができると認められること。ただし、障害、疾病、失業その他本人の責めに帰することのできない事情のみを理由として、要件を満たさないものとしてはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <Sentence>五　国籍取得後に国民としての権利及び義務を理解し、法秩序を尊重する意思を有すること。</Sentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <Sentence>六　申請に際して、重要な事実を偽り、又は重要な事実を故意に隠していないこと。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>帰化要件の特例</ArticleTitle>
+      <Sentence>国籍行政庁は、次の各号のいずれかに該当する者について、前条第一項第一号又は第二号の要件を緩和することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　国民であった者の子又は孫である者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>二　国民の配偶者であり、国内に生活の本拠を有する者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>三　国民の子として国内で養育されている者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>四　国内で出生し、長期間にわたり国内に生活の本拠を有している者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <Sentence>五　無国籍者又は国籍を失うおそれがある者であって、国籍の取得による保護が特に必要である者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <Sentence>六　国に対して特に顕著な貢献をした者その他国籍を付与する特別の公益上の理由がある者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <Sentence>前各項の特例を適用する場合には、緩和する要件、その理由及び判断の基準を明らかにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>帰化の申請</ArticleTitle>
+      <Sentence>帰化を申請する者は、氏名、生年月日、出生地、現在の国籍、住所、親子関係、在留状況、生計の状況その他審査に必要な事項を記載した申請書を国籍行政庁に提出しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、審査に必要な範囲で、本人確認資料、出生及び親子関係に関する資料、住所及び在留に関する資料その他必要な書類の提出を求めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>申請者が外国の公的機関から必要な書類を取得することが困難である場合には、国籍行政庁は、他の信頼できる資料による証明を認めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍行政庁は、申請に不備がある場合には、相当の期間を定めて補正を求めなければならない。ただし、補正が不可能であることが明らかな場合は、この限りでない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>帰化の審査</ArticleTitle>
+      <Sentence>国籍行政庁は、帰化の申請を受理したときは、申請者の本人性、親子関係、住所、在留状況、法令遵守の状況その他法定の要件に関する事実を調査しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>調査は、申請の審査に必要な範囲で行い、申請者の私生活及び個人情報を不当に侵害してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>申請者に不利益な判断の基礎となる事実がある場合には、国籍行政庁は、緊急の必要がある場合その他正当な理由がある場合を除き、本人にその内容を示し、意見及び資料を提出する機会を与えなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍行政庁は、申請を受理した日から一年以内に、許可又は不許可の判断をするよう努めなければならない。やむを得ない理由により期間内に判断できない場合には、申請者に遅延の理由及び見込みを通知しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>帰化の許可及び効力</ArticleTitle>
+      <Sentence>国籍行政庁は、帰化の要件を満たすと認めるときは、帰化を許可する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>帰化を許可したときは、国籍行政庁は、本人に許可の事実、国籍取得の効力発生日及び必要な手続を通知しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>帰化による国籍取得は、許可の通知が本人に到達した日に効力を生ずる。ただし、通知において別の日を定めることが法律上認められる場合は、その日とする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>帰化の許可を受けた者について、国籍行政庁は、国籍に関する記録を作成し、国籍取得を証明する書面を交付しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>帰化の不許可</ArticleTitle>
+      <Sentence>国籍行政庁は、帰化を許可しないときは、申請者に対し、不許可の旨及びその理由を文書で通知しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>不許可の理由には、満たされない要件、認定した主要な事実及び判断の根拠を示さなければならない。ただし、法令により保護される第三者の情報その他正当な秘密を明らかにすることができない場合は、その部分を除くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>不許可の処分は、国籍行政庁が申請者の国籍、出身、思想、信条、性別、障害その他法令上保護される属性のみを理由として行ってはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>不許可の処分を受けた者は、法令に定める不服申立て又は司法上の救済を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>重国籍及び国籍の選択</ChapterTitle>
+
+    <Article Num="18">
+      <ArticleTitle>重国籍の取扱い</ArticleTitle>
+      <Sentence>国民が出生その他本人の意思によらない事由によって外国の国籍を取得した場合には、そのことのみを理由として国籍を失わない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、重国籍者に対し、外国の国籍を有することのみを理由として、国民としての権利を不当に制限し、又は義務を不当に加重してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>重国籍に関する国際的な法律関係については、適用される条約及び法律の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>国籍選択の対象及び期限</ArticleTitle>
+      <Sentence>国民が外国の国籍を有する場合には、国籍行政庁は、国籍の選択が必要となる場合及びその期限について、本人に分かりやすい方法で通知するものとする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍の選択を義務付ける場合には、その対象者、選択期限、選択の方法及び期限を徒過した場合の法的効果を法律で明確に定めなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍の選択に関する義務を定める場合であっても、本人に選択のための十分な期間及び現実的な機会を与えなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>本人が未成年者である場合には、その年齢、判断能力、法定代理人の関与及び本人の意思を考慮し、本人に過度の不利益を生じさせないようにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>国籍選択の方法</ArticleTitle>
+      <Sentence>国籍の選択は、本人の意思を確認できる書面又は電磁的方法による届出によって行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍を保持する意思を表示したことのみをもって、外国の国籍が当然に喪失したものとしてはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>外国の国籍を離脱することが本人の意思によっても法的又は事実上困難である場合には、国籍行政庁は、その事情を調査し、本人に不可能な行為を強制してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍選択の届出が適法に受理されたときは、国籍行政庁は、その受理及び法的効果を本人に通知しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>国籍選択の期限の徒過</ArticleTitle>
+      <Sentence>国籍選択の期限までに選択をしなかった者に対しては、国籍行政庁は、まず書面により選択を求め、選択期限及び期限徒過の法的効果を通知しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の通知には、本人が選択又は説明を行うための相当な期間を設けなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>本人が期限内に選択できなかったことについて、未成年、意思表示を妨げる事情、通知の不達その他正当な理由がある場合には、国籍行政庁は、期限の延長又は選択機会の回復を認めなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍選択の期限を徒過したことのみを理由として、本人に通知及び意見陳述の機会を与えず、直ちに国籍を喪失させてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>国籍の離脱、喪失及び再取得</ChapterTitle>
+
+    <Article Num="22">
+      <ArticleTitle>国籍の離脱</ArticleTitle>
+      <Sentence>国民は、外国の国籍を有し、又は他の国籍を取得することが確実である場合には、国籍行政庁に届け出ることによって、国籍を離脱することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、離脱の届出が本人の自由な意思に基づくものであること及び離脱によって無国籍となるおそれがないことを確認しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍の離脱は、届出が適法に受理され、本人に受理の通知が到達した時に効力を生ずる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>本人が未成年者である場合には、法定代理人の関与及び本人の意思を確認し、本人の利益を害することのないようにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>国籍の喪失</ArticleTitle>
+      <Sentence>国籍は、次の各号のいずれかに該当する場合に限り、失われる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>一　本人が自由な意思により国籍を離脱し、前条の規定による離脱の効力が生じたとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>二　本人が自由な意思により外国の国籍を取得し、かつ、その取得が確定した場合であって、国籍の保持を認めないことが法律に明記されているとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>三　国籍選択に関する法律上の要件及び適正な手続を経て、国籍を喪失させる処分が確定したとき。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>前各項の規定にかかわらず、本人が無国籍となる場合には、国際法上の義務及び無国籍の防止に関する法律の趣旨に照らし、国籍の喪失を認めてはならない。ただし、本人が自由な意思により国籍を離脱し、他の国籍を有することが確認された場合は、この限りでない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <Sentence>国籍行政庁は、国籍の喪失に関する処分を行う前に、本人に事実を示し、意見及び証拠を提出する機会を与えなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>外国の公職等への就任</ArticleTitle>
+      <Sentence>国民が外国の公職に就任し、又は外国の政府若しくは公的機関に勤務したことのみを理由として、国籍を喪失しない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>外国の公職等への就任が国の安全又は法令上の義務と具体的に抵触する場合には、その取扱いは、国籍の喪失とは別に、当該事項を規律する法律の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>国籍喪失の確認及び通知</ArticleTitle>
+      <Sentence>国籍行政庁は、国籍が喪失したと判断した場合には、その法的根拠、認定した事実、効力発生日及び不服申立ての方法を記載した文書を本人に通知しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>本人の所在が判明しない場合には、合理的な調査を尽くした上で、法律に定める方法により通知することができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍喪失の事実又は効力に争いがある場合には、本人は、国籍行政庁に確認を求め、又は司法機関にその確認を求めることができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>国籍の再取得</ArticleTitle>
+      <Sentence>過去に国籍を有していた者は、国籍を喪失した経緯、現在の国籍及び生活の実態その他の事情を考慮し、この法律の定めるところにより、国籍の再取得を申請することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>未成年である間に国籍を喪失した者、国籍喪失に関する通知を受けなかった者又は本人の意思によらず国籍を喪失した者については、再取得の要件を緩和しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍行政庁は、再取得の申請を審査するに当たり、本人が無国籍であること又は無国籍となるおそれがあることを重要な考慮要素としなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>再取得を許可しない場合には、国籍行政庁は、その理由を文書で示さなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>国籍の確認及び証明</ChapterTitle>
+
+    <Article Num="27">
+      <ArticleTitle>国籍の確認</ArticleTitle>
+      <Sentence>自己の国籍の有無又は国籍に関する法律上の地位に疑義がある者は、国籍行政庁に対し、その確認を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、確認の申請を受けたときは、出生、親子関係、国籍取得又は喪失に関する記録その他必要な資料を調査し、合理的な期間内に判断しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>確認の申請をした者に対し、国籍行政庁は、調査の進捗及び追加資料の必要性について、必要に応じて通知するものとする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>国籍の証明</ArticleTitle>
+      <Sentence>国籍行政庁は、国籍を有する者又は正当な利害関係を有する者から請求があったときは、国籍の有無及び取得又は喪失の時期を証明する書面を交付しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の証明書には、請求の目的に必要な事項のみを記載し、不要な個人情報を記載してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍に関する記録が存在しない場合又は記録が不完全である場合には、国籍行政庁は、他の信頼できる資料を考慮して証明の可否を判断しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>証明書の交付を拒否する場合には、その理由を文書で示さなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>記録の訂正</ArticleTitle>
+      <Sentence>国籍に関する記録に誤りがある場合には、本人又は正当な利害関係を有する者は、国籍行政庁に対し、記録の訂正を請求することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、訂正の請求を受けたときは、関係資料を調査し、訂正するか否かを判断しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>訂正によって第三者の法律上の地位に重大な影響が生じるおそれがある場合には、国籍行政庁は、法律上許される範囲で当該第三者に意見を述べる機会を与えることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>訂正を拒否する場合には、国籍行政庁は、その理由及び不服申立ての方法を文書で通知しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>届出及び審査の手続</ChapterTitle>
+
+    <Article Num="30">
+      <ArticleTitle>届出の方法</ArticleTitle>
+      <Sentence>この法律に基づく申請及び届出は、書面又は国籍行政庁が定める安全な電磁的方法によって行うことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、申請者又は届出人の本人確認を行うに当たり、目的に照らして必要かつ相当な方法を用いなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>通信手段の利用が困難である者、障害のある者その他特別な事情がある者に対しては、合理的な代替手段を用意しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>届出又は申請を受理したときは、国籍行政庁は、受理した事項及び受理日を記録し、本人に受理を証する書面又は電磁的記録を交付しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>未成年者の届出及び申請</ArticleTitle>
+      <Sentence>十五歳未満の者がこの法律に基づく届出又は申請を行う場合には、法定代理人が本人に代わって行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>十五歳以上の未成年者については、本人が届出又は申請を行うことができる。ただし、法律に特別の定めがある場合は、この限りでない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>法定代理人と本人との利益が相反する場合その他法定代理人が本人の利益を適切に代表することができない場合には、国籍行政庁は、適切な独立の代理又は支援を受ける機会を確保しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>未成年者に関する判断に当たっては、その年齢及び成熟度に応じて本人の意見を聴き、本人の最善の利益を考慮しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>事実の調査及び資料の提出</ArticleTitle>
+      <Sentence>国籍行政庁は、この法律に基づく申請又は届出の審査に必要な範囲で、本人その他関係者に対し、説明又は資料の提出を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>資料の提出を求める場合には、その必要性及び提出期限を明らかにしなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>申請者が合理的な努力をしても資料を提出できない場合には、国籍行政庁は、他の資料による証明又は提出期限の延長を認めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍行政庁は、資料の提出がないことのみを理由として直ちに不利益な判断をしてはならず、提出できない事情及び他の証拠の有無を考慮しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>審査の公正及び記録</ArticleTitle>
+      <Sentence>国籍行政庁は、この法律に基づく審査を公正かつ中立に行い、判断の基礎となる主要な事実及び理由を記録しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>審査に関与する職員が申請者と特別な利害関係を有する場合その他公正な判断を妨げるおそれがある場合には、当該職員を審査から除外するなど必要な措置を講じなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍行政庁は、審査に必要な情報を適切に管理し、法律に定める場合を除き、本人の同意なく第三者に提供してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>不服申立て及び司法上の救済</ChapterTitle>
+
+    <Article Num="34">
+      <ArticleTitle>不服申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又は不作為に不服がある者は、法律に定めるところにより、不服申立てをすることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>不服申立てを受ける機関は、原処分に関与した者から独立した立場で審査を行うよう努めなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>不服申立ての期間、方式、審査手続及び裁決の方法は、本人が実効的に不服を申し立てることができるよう、法律に定めるところによる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>不服申立ての手続においては、本人に主張及び証拠を提出する機会を与え、判断の理由を示さなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>司法上の救済</ArticleTitle>
+      <Sentence>国籍の取得、喪失、帰化の許否、記録の訂正その他この法律に基づく処分又は不作為について、法律上の利益を有する者は、裁判所に救済を求めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の救済を求める権利は、不服申立てを経たことのみを理由として制限されず、法律に定める場合を除き、行政上の手続の終了を待たなければ行使できないものとしてはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>裁判所は、国籍に関する処分の適法性、事実認定、手続の公正及び法令の適用を審査する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>国籍に関する判断によって本人の身分、家族関係又は権利に重大な影響が生ずる場合には、裁判所は、必要に応じて迅速な審理その他実効的な救済のための措置を講ずることができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>処分の取消し及び訂正</ArticleTitle>
+      <Sentence>国籍行政庁は、国籍に関する処分が法令に違反し、重要な事実の誤認に基づき、又は適正な手続を欠いて行われたことが判明した場合には、法律の定めるところにより、その処分を取り消し、変更し、又は訂正しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>処分の取消し、変更又は訂正に当たっては、本人及び第三者の法律上の地位に与える影響を考慮し、必要な通知及び手続上の保障を行わなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍行政庁は、裁判所の確定した判断に従い、必要な記録の訂正その他の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>不正行為への対応及び雑則</ChapterTitle>
+
+    <Article Num="37">
+      <ArticleTitle>虚偽の申請等</ArticleTitle>
+      <Sentence>国籍の取得、帰化、国籍の離脱その他この法律に基づく手続において、重要な事実について虚偽の申告をし、偽造された資料を提出し、又は重要な事実を故意に隠した者については、国籍行政庁は、その申請又は届出を拒否し、又は法律に定める手続により処分を取り消すことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の措置を講ずるに当たっては、虚偽の内容、その重要性、本人の故意の有無及び本人が意見を述べる機会を有していたかを考慮しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>虚偽の申請又は届出があったことのみを理由として、本人の家族その他当該行為に関与していない者の国籍を喪失させてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>国籍取得の効力の否定の制限</ArticleTitle>
+      <Sentence>国籍取得の効力を否定する場合には、その根拠、要件及び手続を法律に明確に定めなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍行政庁は、単なる記録の不備、行政機関の過誤又は本人の責めに帰することのできない届出の遅延のみを理由として、既に生じた国籍取得の効力を否定してはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍取得の効力を否定することが本人を無国籍にする場合には、無国籍の防止、本人の意思及び家族関係への影響を特に慎重に考慮しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>罰則との関係</ArticleTitle>
+      <Sentence>この法律に違反する行為に対する刑事罰は、刑法その他の法律に定めるところによる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律の規定のみを根拠として刑罰を科すことはできない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍行政庁は、犯罪の疑いがある事実を把握した場合であっても、法令に基づく権限及び手続によらず、捜索、押収その他の強制的な措置を行ってはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>期間の計算及び期間の回復</ArticleTitle>
+      <Sentence>この法律に定める期間の計算方法は、法律に別段の定めがある場合を除き、一般の期間計算に関する法令の定めるところによる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>災害、重大な疾病、通信の途絶、通知の不達その他本人の責めに帰することのできない事情によって期間内に届出又は申請をすることができなかった場合には、国籍行政庁は、相当と認める範囲で期間の延長又は手続上の救済を認めなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>国籍に関する情報の提供</ArticleTitle>
+      <Sentence>国籍行政庁は、国籍の取得、選択、離脱、喪失及び再取得に関する要件並びに手続について、国民及び申請をしようとする者が容易に理解できる方法により情報を提供しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>情報の提供に当たっては、必要に応じて複数の言語、障害のある者に配慮した形式その他利用しやすい方法を用いるものとする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国籍行政庁は、申請者が手続を理解し、必要な申請又は届出を行うことができるよう、相談及び案内の体制を整備するものとする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>他の法律との関係</ArticleTitle>
+      <Sentence>国籍の取得、保持、選択、離脱、喪失及び再取得については、この法律に特別の定めがある場合を除き、この法律の定めるところによる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍に関する手続について、行政手続、司法救済、個人情報の保護その他の事項を定める一般法がある場合には、この法律に特別の定めがある場合を除き、その一般法を適用する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>この法律の規定は、憲法及び特別法に反するように解釈してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>委任</ArticleTitle>
+      <Sentence>この法律の施行に必要な届出の様式、証明書の形式、記録の管理その他の技術的事項は、法律の趣旨及び本人の権利を害しない範囲で、法令の定めるところによる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国籍の取得又は喪失の実体的要件、帰化の基本的要件、国籍選択の義務及び国籍喪失の効果その他国民の法的地位に重大な影響を及ぼす事項を、行政機関の内部規則のみによって定めてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+</Law>
