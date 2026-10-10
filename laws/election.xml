@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>公職選挙法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、大統領、国会議員並びに地方公共団体の長及び議会の議員を選挙する制度を確立し、選挙が国民の自由な意思に基づき公正かつ適正に行われることを確保し、もって民主政治の健全な発展を図ることを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>適用範囲</ArticleTitle>
+      <Sentence>この法律は、大統領選挙、衆議院議員選挙、参議院議員選挙、都道府県の長及び議会の議員の選挙並びに市町村の長及び議会の議員の選挙について適用する。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>公職の定義</ArticleTitle>
+      <Sentence>この法律において「公職」とは、大統領、衆議院議員、参議院議員、都道府県の長、都道府県の議会の議員、市町村の長及び市町村の議会の議員の職をいう。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>選挙の基本原則</ArticleTitle>
+      <Sentence>公職の選挙は、普通選挙、平等選挙、自由選挙及び秘密選挙の原則に従って行わなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>何人も、選挙人の自由な意思による投票を妨げてはならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>選挙の管理及び執行は、公正かつ中立に行われなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>選挙事務の管理</ArticleTitle>
+      <Sentence>選挙に関する事務は、この法律に特別の定めがある場合を除き、独立した選挙管理機関が管理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙管理機関は、選挙の管理及び執行に当たり、大統領、国会、政党その他の者から不当な干渉を受けてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>選挙に関する情報の公表</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙の期日、候補者、投票方法、開票結果その他選挙に必要な情報を、国民に分かりやすい方法で公表しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>選挙の公正確保</ArticleTitle>
+      <Sentence>国及び地方公共団体は、選挙の公正を確保するため、必要な制度及び環境の整備に努めなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>公務員は、その職務上の地位を利用して、特定の候補者又は政党のために選挙運動を行ってはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>選挙の秘密</ArticleTitle>
+      <Sentence>何人も、選挙人が誰に投票したかを知るために、投票の秘密を侵してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙管理機関その他選挙事務に従事する者は、職務上知り得た投票に関する秘密を漏らしてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>選挙権及び被選挙権</ChapterTitle>
+
+    <Article Num="9">
+      <ArticleTitle>選挙権</ArticleTitle>
+      <Sentence>国民は、満十八歳に達したときは、この法律の定めるところにより、公職の選挙において投票する権利を有する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙権は、法律に明確な根拠がある場合を除き、制限してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>大統領の被選挙権</ArticleTitle>
+      <Sentence>大統領の被選挙権は、満三十五歳以上の国民が有する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領の被選挙権を有する者は、法律の定めるところにより、大統領選挙に立候補することができる。</Sentence>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>国会議員の被選挙権</ArticleTitle>
+      <Sentence>衆議院議員の被選挙権は満二十五歳以上の国民が、参議院議員の被選挙権は満三十歳以上の国民が有する。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>地方公共団体の長の被選挙権</ArticleTitle>
+      <Sentence>都道府県及び市町村の長の被選挙権は、満三十歳以上の国民が有する。</Sentence>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>地方議会議員の被選挙権</ArticleTitle>
+      <Sentence>地方公共団体の議会の議員の被選挙権は、満二十五歳以上の国民が有する。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>被選挙権の欠格事由</ArticleTitle>
+      <Sentence>公職の被選挙権は、法律に定める重大な欠格事由に該当する場合を除き、制限してはならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>欠格事由は、民主政治及び選挙の公正を確保するために必要な範囲に限らなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>選挙権及び被選挙権の平等</ArticleTitle>
+      <Sentence>何人も、人種、信条、性別、社会的身分、財産又は収入によって、選挙権又は被選挙権について不合理な差別を受けない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>選挙管理機関</ChapterTitle>
+
+    <Article Num="16">
+      <ArticleTitle>中央選挙管理委員会</ArticleTitle>
+      <Sentence>国の選挙を統一的に管理するため、独立した中央選挙管理委員会を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>中央選挙管理委員会は、大統領選挙及び国会議員選挙を管理し、地方公共団体の選挙管理機関と連携して選挙制度の統一的な運用を図る。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>地方選挙管理委員会</ArticleTitle>
+      <Sentence>都道府県及び市町村に、それぞれの区域における選挙を管理するため、選挙管理委員会を置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>地方選挙管理委員会は、地方公共団体の長及び議会の議員の選挙を管理する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>選挙管理機関の権限</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙人名簿の管理、立候補の受付、投票及び開票の管理、当選人の決定その他選挙に関する事務を行う。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>選挙管理機関の中立性</ArticleTitle>
+      <Sentence>選挙管理機関及びその職員は、選挙に関して特定の候補者又は政党を支持し、若しくは不当に不利益に取り扱ってはならない。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>選挙事務の監査</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙事務の適正を確保するため、必要な記録を作成し、保存しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙事務の執行状況は、法律の定めるところにより監査することができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>選挙人名簿</ChapterTitle>
+
+    <Article Num="21">
+      <ArticleTitle>選挙人名簿</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙権を有する者を登録するため、選挙人名簿を作成し、管理しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>選挙人名簿の登録</ArticleTitle>
+      <Sentence>選挙人名簿への登録は、国民の資格及び住所その他法律で定める事項に基づいて行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙管理機関は、登録に必要な情報を正確に保ち、重複登録及び不正登録を防止しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>名簿の閲覧及び訂正</ArticleTitle>
+      <Sentence>選挙人は、法律の定めるところにより、自己の登録内容を確認し、誤りがあるときは訂正を求めることができる。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>個人情報の保護</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙人名簿に記載された個人情報を適正に管理し、選挙事務に必要な範囲を超えて利用し、又は提供してはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>選挙期日及び立候補</ChapterTitle>
+
+    <Article Num="25">
+      <ArticleTitle>選挙期日の決定</ArticleTitle>
+      <Sentence>選挙の期日は、憲法及び各公職に関する法律の定めるところにより決定する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙管理機関は、選挙の期日を十分な期間をもって公示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>大統領選挙の期日</ArticleTitle>
+      <Sentence>大統領選挙は、任期満了による場合には任期満了前に行い、欠員による場合には法律の定めるところにより速やかに行う。</Sentence>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>国会議員選挙の期日</ArticleTitle>
+      <Sentence>国会議員選挙は、任期満了、衆議院の解散又は欠員その他法律に定める事由が生じた場合に行う。</Sentence>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>地方選挙の期日</ArticleTitle>
+      <Sentence>地方公共団体の長及び議会の議員の選挙は、任期満了又は欠員その他法律に定める事由が生じた場合に行う。</Sentence>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>立候補の届出</ArticleTitle>
+      <Sentence>公職に立候補しようとする者は、選挙管理機関に対し、法律の定めるところにより立候補の届出をしなければならない。</Sentence>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>立候補の確認</ArticleTitle>
+      <Sentence>選挙管理機関は、立候補の届出を受けたときは、被選挙権その他の法定要件を確認し、適法な届出を受理しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立候補の届出を受理しない場合には、その理由を本人に通知しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>候補者の公表</ArticleTitle>
+      <Sentence>選挙管理機関は、立候補の届出が受理された候補者の氏名その他法律で定める事項を公表しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>大統領選挙</ChapterTitle>
+
+    <Article Num="32">
+      <ArticleTitle>大統領の選挙方法</ArticleTitle>
+      <Sentence>大統領は、国民による直接選挙によって選出する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>大統領選挙は、全国を一つの選挙区として行う。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>大統領選挙の投票</ArticleTitle>
+      <Sentence>選挙人は、大統領候補者のうち一人の氏名を投票用紙に記載して投票する。</Sentence>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>大統領選挙の当選人</ArticleTitle>
+      <Sentence>大統領選挙において、有効投票の過半数を得た候補者があるときは、その候補者を当選人とする。</Sentence>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>大統領選挙の決選投票</ArticleTitle>
+      <Sentence>前条の規定により当選人を決定することができないときは、得票数の上位二人の候補者について決選投票を行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>決選投票において有効投票の多数を得た候補者を当選人とする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>決選投票の期日及び実施に必要な事項は、選挙管理機関が法律の定めるところにより定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>大統領選挙の再選挙</ArticleTitle>
+      <Sentence>大統領選挙について選挙の全部又は一部が無効となり、当選人を決定することができないときは、法律の定めるところにより再選挙を行う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>国会議員選挙</ChapterTitle>
+
+    <Article Num="37">
+      <ArticleTitle>国会議員の選挙</ArticleTitle>
+      <Sentence>衆議院議員及び参議院議員は、国民の直接選挙によって選出する。</Sentence>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>選挙区及び選挙方法</ArticleTitle>
+      <Sentence>衆議院議員及び参議院議員の選挙区、定数並びに選挙方法は、憲法及び法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>衆議院議員選挙</ArticleTitle>
+      <Sentence>衆議院議員の選挙は、衆議院の解散又は任期満了その他法律に定める事由が生じた場合に行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>衆議院議員の選挙は、選挙人が候補者又は政党その他法律で認められた政治団体に投票する方法により行うことができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>参議院議員選挙</ArticleTitle>
+      <Sentence>参議院議員の選挙は、任期満了又は欠員その他法律に定める事由が生じた場合に行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>参議院議員の選挙は、選挙区選挙又は比例代表選挙その他法律で定める方法により行うことができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>国会議員選挙の当選人</ArticleTitle>
+      <Sentence>国会議員選挙の当選人は、選挙区又は選挙方法ごとに、法律の定めるところにより決定する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>地方公共団体の選挙</ChapterTitle>
+
+    <Article Num="42">
+      <ArticleTitle>地方公共団体の長の選挙</ArticleTitle>
+      <Sentence>都道府県及び市町村の長は、それぞれの地方公共団体の住民による直接選挙によって選出する。</Sentence>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>地方議会議員の選挙</ArticleTitle>
+      <Sentence>都道府県及び市町村の議会の議員は、それぞれの地方公共団体の住民による直接選挙によって選出する。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>地方選挙の区域及び定数</ArticleTitle>
+      <Sentence>地方公共団体の長及び議会の議員の選挙区、定数その他選挙の実施に必要な事項は、この法律及び地方自治に関する法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>地方選挙の当選人</ArticleTitle>
+      <Sentence>地方公共団体の長及び議会の議員の当選人は、選挙の種類及び選挙方法に応じ、法律の定めるところにより決定する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>投票及び開票</ChapterTitle>
+
+    <Article Num="46">
+      <ArticleTitle>投票の原則</ArticleTitle>
+      <Sentence>選挙は、選挙人が自ら投票することによって行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>投票は、選挙人の自由な意思に基づき、秘密を保って行わなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="47">
+      <ArticleTitle>投票所</ArticleTitle>
+      <Sentence>選挙管理機関は、選挙人が安全かつ円滑に投票できるよう、必要な投票所を設置する。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>投票用紙</ArticleTitle>
+      <Sentence>投票用紙の様式及び記載方法は、選挙の種類に応じ、選挙管理機関が法律の定めるところにより定める。</Sentence>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>投票の補助</ArticleTitle>
+      <Sentence>疾病、障害その他の事情により自ら投票用紙に記載することが困難な選挙人については、法律の定めるところにより投票を補助することができる。</Sentence>
+    </Article>
+
+    <Article Num="50">
+      <ArticleTitle>期日前投票及び不在者投票</ArticleTitle>
+      <Sentence>選挙人は、投票日に投票することが困難である場合、法律の定めるところにより、期日前投票又は不在者投票を行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>開票</ArticleTitle>
+      <Sentence>投票の開票は、選挙管理機関の管理の下で、公正かつ正確に行わなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>開票は、法律に別段の定めがある場合を除き、公開して行う。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>投票の有効及び無効</ArticleTitle>
+      <Sentence>投票の有効及び無効は、投票用紙の記載その他法律に定める基準に従って判定する。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>開票結果の公表</ArticleTitle>
+      <Sentence>選挙管理機関は、開票が終了したときは、投票総数、有効投票数、無効投票数及び候補者ごとの得票数その他必要な事項を公表しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>選挙運動</ChapterTitle>
+
+    <Article Num="54">
+      <ArticleTitle>選挙運動の自由</ArticleTitle>
+      <Sentence>選挙運動は、憲法及び法律の定めるところにより、自由に行うことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国及び地方公共団体は、正当な選挙運動を不当に制限してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>選挙運動の期間</ArticleTitle>
+      <Sentence>選挙運動は、法律で定める期間内に行わなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>選挙運動の期間及び方法は、選挙の公正を確保しつつ、候補者及び政党等の政治的表現の自由を尊重して定めなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="56">
+      <ArticleTitle>選挙運動の方法</ArticleTitle>
+      <Sentence>候補者及び政党その他法律で認められた政治団体は、演説、文書、印刷物、放送、インターネットその他法律で定める方法により選挙運動を行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="57">
+      <ArticleTitle>選挙運動における虚偽事項の禁止</ArticleTitle>
+      <Sentence>何人も、選挙の公正を害する目的で、候補者に関する重要な事項について虚偽であることを知りながら情報を公表してはならない。</Sentence>
+    </Article>
+
+    <Article Num="58">
+      <ArticleTitle>買収及び利益供与の禁止</ArticleTitle>
+      <Sentence>何人も、投票を得若しくは得させる目的又は投票をし若しくはしないことの対価として、金銭、物品その他の利益を供与し、申し込み、又は約束してはならない。</Sentence>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>選挙運動への不当な圧力の禁止</ArticleTitle>
+      <Sentence>何人も、暴行、脅迫、威迫その他不当な方法によって、候補者の立候補、選挙運動又は選挙人の投票を妨げてはならない。</Sentence>
+    </Article>
+
+    <Article Num="60">
+      <ArticleTitle>公務員の地位利用の禁止</ArticleTitle>
+      <Sentence>公務員は、その職務上の地位又は権限を利用して、特定の候補者又は政党の選挙運動を行ってはならない。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>選挙運動の費用</ArticleTitle>
+      <Sentence>候補者及び政党その他法律で認められた政治団体は、選挙運動に関する収入及び支出を適正に記録し、法律の定めるところにより報告しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="62">
+      <ArticleTitle>選挙運動費用の公開</ArticleTitle>
+      <Sentence>選挙運動に関する収入及び支出の報告は、選挙の公正及び政治活動の透明性を確保するため、法律の定めるところにより公開する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="11">
+    <ChapterTitle>当選人及び選挙の効力</ChapterTitle>
+
+    <Article Num="63">
+      <ArticleTitle>当選人の決定</ArticleTitle>
+      <Sentence>選挙管理機関は、開票結果に基づき、法律の定めるところにより当選人を決定する。</Sentence>
+    </Article>
+
+    <Article Num="64">
+      <ArticleTitle>当選人の告示</ArticleTitle>
+      <Sentence>選挙管理機関は、当選人を決定したときは、その氏名その他必要な事項を告示しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="65">
+      <ArticleTitle>当選の無効</ArticleTitle>
+      <Sentence>当選人が被選挙権を有しない場合又は選挙の結果に重大な影響を及ぼす違法行為があった場合には、法律の定めるところにより、その当選を無効とすることができる。</Sentence>
+    </Article>
+
+    <Article Num="66">
+      <ArticleTitle>選挙の無効</ArticleTitle>
+      <Sentence>選挙の管理又は執行に重大な違法があり、その結果に影響を及ぼすおそれがある場合には、法律の定めるところにより、選挙の全部又は一部を無効とすることができる。</Sentence>
+    </Article>
+
+    <Article Num="67">
+      <ArticleTitle>再選挙</ArticleTitle>
+      <Sentence>選挙の全部又は一部が無効となった場合その他当選人を決定することができない場合には、法律の定めるところにより再選挙を行う。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="12">
+    <ChapterTitle>選挙に関する争訟</ChapterTitle>
+
+    <Article Num="68">
+      <ArticleTitle>選挙に関する異議の申立て</ArticleTitle>
+      <Sentence>選挙人、候補者その他法律で定める者は、選挙の管理、執行又は当選人の決定について違法があると認めるときは、法律の定めるところにより、異議を申し立てることができる。</Sentence>
+    </Article>
+
+    <Article Num="69">
+      <ArticleTitle>選挙訴訟</ArticleTitle>
+      <Sentence>選挙に関する争訟については、法律の定めるところにより、裁判所に訴えを提起することができる。</Sentence>
+    </Article>
+
+    <Article Num="70">
+      <ArticleTitle>司法審査</ArticleTitle>
+      <Sentence>選挙に関する行政機関の判断は、憲法及び法律の定めるところにより、裁判所の司法審査に服する。</Sentence>
+    </Article>
+
+    <Article Num="71">
+      <ArticleTitle>迅速な審理</ArticleTitle>
+      <Sentence>選挙に関する争訟は、選挙結果及び公職の継続性に重大な影響を及ぼすことに鑑み、裁判所は、可能な限り迅速に審理しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="13">
+    <ChapterTitle>罰則</ChapterTitle>
+
+    <Article Num="72">
+      <ArticleTitle>買収等の罪</ArticleTitle>
+      <Sentence>第五十八条の規定に違反した者は、法律の定めるところにより処罰する。</Sentence>
+    </Article>
+
+    <Article Num="73">
+      <ArticleTitle>選挙妨害の罪</ArticleTitle>
+      <Sentence>第五十九条の規定に違反し、暴行、脅迫その他不当な方法によって選挙を妨害した者は、法律の定めるところにより処罰する。</Sentence>
+    </Article>
+
+    <Article Num="74">
+      <ArticleTitle>投票の秘密を侵害する罪</ArticleTitle>
+      <Sentence>第八条の規定に違反して投票の秘密を侵害した者は、法律の定めるところにより処罰する。</Sentence>
+    </Article>
+
+    <Article Num="75">
+      <ArticleTitle>選挙事務の妨害</ArticleTitle>
+      <Sentence>正当な理由なく選挙事務を妨害し、又は選挙管理機関の職務の執行を不当に妨げた者は、法律の定めるところにより処罰する。</Sentence>
+    </Article>
+
+    <Article Num="76">
+      <ArticleTitle>虚偽の届出等</ArticleTitle>
+      <Sentence>選挙に関して虚偽の届出をし、又は選挙管理機関に虚偽の情報を提供した者は、法律の定めるところにより処罰する。</Sentence>
+    </Article>
+
+    <Article Num="77">
+      <ArticleTitle>罰則の定め</ArticleTitle>
+      <Sentence>この章に定めるもののほか、この法律に違反する行為に対する罰則は、別に法律で定める。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="14">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="78">
+      <ArticleTitle>選挙制度の整備</ArticleTitle>
+      <Sentence>国は、選挙の公正、透明性及び利便性を確保するため、選挙制度及び選挙事務の継続的な改善に努めなければならない。</Sentence>
+    </Article>
+
+    <Article Num="79">
+      <ArticleTitle>障害者等への配慮</ArticleTitle>
+      <Sentence>選挙管理機関は、障害のある者、高齢者その他投票に特別の配慮を必要とする者が投票に参加できるよう、必要な措置を講じなければならない。</Sentence>
+    </Article>
+
+    <Article Num="80">
+      <ArticleTitle>選挙情報の提供</ArticleTitle>
+      <Sentence>選挙管理機関は、候補者の情報、投票方法その他選挙に関する情報を、公平かつ適切な方法で選挙人に提供するよう努めなければならない。</Sentence>
+    </Article>
+
+    <Article Num="81">
+      <ArticleTitle>委任</ArticleTitle>
+      <Sentence>この法律の施行に必要な事項は、政令で定める。</Sentence>
+    </Article>
+
+    <Article Num="82">
+      <ArticleTitle>他の法律との関係</ArticleTitle>
+      <Sentence>公職の選挙について他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="83">
+      <ArticleTitle>施行期日</ArticleTitle>
+      <Sentence>この法律は、公布の日から施行する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
