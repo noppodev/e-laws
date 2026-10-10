@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>刑事訴訟法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、刑事事件について、事案の真相を明らかにするとともに、個人の基本的人権を保障し、適正かつ公正な刑事手続を実現することを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>刑事手続の原則</ArticleTitle>
+      <Sentence>刑事事件の捜査、起訴、裁判及び刑の執行は、この法律その他の法令に従い、適正に行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>適正手続</ArticleTitle>
+      <Sentence>何人も、法律の定める適正な手続によらなければ、その身体、自由その他の権利を制限されない。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>裁判所の管轄</ArticleTitle>
+      <Sentence>刑事事件は、法律の定める管轄を有する裁判所がこれを裁判する。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>当事者の平等</ArticleTitle>
+      <Sentence>刑事裁判において、検察官及び被告人は、法律の定める範囲内で、公平にその権利を行使することができる。</Sentence>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>公正な裁判</ArticleTitle>
+      <Sentence>何人も、独立した公平な裁判所による公正な公開裁判を受ける権利を有する。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>捜査</ChapterTitle>
+
+    <Article Num="7">
+      <ArticleTitle>捜査の原則</ArticleTitle>
+      <Sentence>捜査機関は、犯罪の捜査を行うに当たり、必要かつ相当な方法によらなければならない。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>捜査機関</ArticleTitle>
+      <Sentence>犯罪の捜査は、警察その他法律に定める捜査機関が行う。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>検察官の指揮</ArticleTitle>
+      <Sentence>検察官は、犯罪の捜査について、必要な範囲で警察その他の捜査機関を指揮することができる。</Sentence>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>任意捜査</ArticleTitle>
+      <Sentence>捜査は、強制の処分によらない限り、必要な調査その他の方法により行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>強制処分の法定主義</ArticleTitle>
+      <Sentence>強制の処分は、この法律その他の法律に特別の定めがある場合に限り、これを行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>令状主義</ArticleTitle>
+      <Sentence>逮捕、捜索、差押えその他法律に定める強制処分は、裁判官が発する令状によらなければならない。</Sentence>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>現行犯</ArticleTitle>
+      <Sentence>現に犯罪を行い、又は行い終わった者は、令状によらないで逮捕することができる。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>逮捕状</ArticleTitle>
+      <Sentence>被疑者を逮捕するには、裁判官の発する逮捕状によらなければならない。</Sentence>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>逮捕の要件</ArticleTitle>
+      <Sentence>逮捕状は、被疑者が罪を犯したことを疑うに足りる相当な理由があり、かつ、逮捕の必要があると認められる場合に発する。</Sentence>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>逮捕時の告知</ArticleTitle>
+      <Sentence>被疑者を逮捕するときは、犯罪事実の要旨及び弁護人を選任することができる旨を告げなければならない。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>拘束時間</ArticleTitle>
+      <Sentence>被疑者の身体の拘束は、法律に定める期間を超えて継続してはならない。</Sentence>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>勾留</ArticleTitle>
+      <Sentence>被疑者について、逃亡し、又は罪証を隠滅すると疑うに足りる相当な理由があるときは、裁判官は勾留状を発することができる。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>勾留の取消し</ArticleTitle>
+      <Sentence>勾留の理由又は必要性がなくなったときは、裁判所は勾留を取り消さなければならない。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>接見交通</ArticleTitle>
+      <Sentence>被疑者又は被告人は、弁護人と立会人なくして接見し、及び通信することができる。ただし、法律に特別の定めがある場合を除く。</Sentence>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>取調べ</ArticleTitle>
+      <Sentence>取調べは、被疑者の意思を不当に抑圧することなく、適正な方法で行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>黙秘権の告知</ArticleTitle>
+      <Sentence>被疑者の取調べに際しては、自己の意思に反して供述する必要がないことを告げなければならない。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>捜索及び差押え</ArticleTitle>
+      <Sentence>捜索又は差押えは、犯罪の捜査上必要がある場合に限り、裁判官の発する令状により行うことができる。</Sentence>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>捜索差押許可状</ArticleTitle>
+      <Sentence>捜索差押許可状には、捜索する場所、差し押さえる物その他必要な事項を記載しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>証拠の保全</ArticleTitle>
+      <Sentence>証拠が失われ、又は変更されるおそれがあるときは、法律の定めるところにより、その保全をすることができる。</Sentence>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>捜査記録</ArticleTitle>
+      <Sentence>捜査機関は、捜査の経過及び結果を適正に記録しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>違法捜査の禁止</ArticleTitle>
+      <Sentence>捜査機関は、法律に違反する方法によって捜査を行ってはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>起訴</ChapterTitle>
+
+    <Article Num="28">
+      <ArticleTitle>公訴の提起</ArticleTitle>
+      <Sentence>公訴は、検察官がこれを提起する。</Sentence>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>起訴の判断</ArticleTitle>
+      <Sentence>検察官は、犯罪の嫌疑及び証拠その他の事情を総合的に考慮し、公訴を提起するかどうかを判断する。</Sentence>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>起訴状</ArticleTitle>
+      <Sentence>公訴を提起するときは、検察官は起訴状を裁判所に提出しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>起訴状の記載</ArticleTitle>
+      <Sentence>起訴状には、被告人の氏名、犯罪事実その他法律に定める事項を記載しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>不起訴</ArticleTitle>
+      <Sentence>検察官は、犯罪の嫌疑がないとき、又は公訴を提起する必要がないと認めるときは、公訴を提起しないことができる。</Sentence>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>起訴の取消し</ArticleTitle>
+      <Sentence>検察官は、法律の定める場合に限り、公訴を取り消すことができる。</Sentence>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>公訴時効</ArticleTitle>
+      <Sentence>犯罪について公訴を提起することができる期間は、犯罪の種類及び刑の重さに応じて法律で定める。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>公判</ChapterTitle>
+
+    <Article Num="35">
+      <ArticleTitle>公判の開始</ArticleTitle>
+      <Sentence>裁判所は、公訴の提起を受けたときは、法律の定めるところにより公判を開始する。</Sentence>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>公判期日</ArticleTitle>
+      <Sentence>公判期日は、被告人その他の訴訟関係人に通知しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>公開裁判</ArticleTitle>
+      <Sentence>裁判の対審及び判決は、原則として公開の法廷で行う。</Sentence>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>公開の制限</ArticleTitle>
+      <Sentence>裁判所は、法律に定める場合に限り、公益又は当事者の権利を守るため、対審を非公開とすることができる。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>被告人の出廷</ArticleTitle>
+      <Sentence>被告人は、法律に定める場合を除き、公判期日に出廷しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>被告人の権利</ArticleTitle>
+      <Sentence>被告人は、公判において、自己の主張及び証拠を提出し、検察官の主張及び証拠に対して意見を述べることができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>弁護人</ArticleTitle>
+      <Sentence>被告人は、いつでも弁護人を選任することができる。</Sentence>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>国選弁護人</ArticleTitle>
+      <Sentence>被告人が弁護人を選任することができない場合その他法律に定める場合には、国は弁護人を付する。</Sentence>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>証拠調べ</ArticleTitle>
+      <Sentence>裁判所は、当事者の請求又は職権により、必要な証拠を取り調べることができる。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>証人尋問</ArticleTitle>
+      <Sentence>証人は、裁判所の定めるところにより、尋問を受けなければならない。</Sentence>
+    </Article>
+
+    <Article Num="45">
+      <ArticleTitle>証人の宣誓</ArticleTitle>
+      <Sentence>証人は、法律の定める場合を除き、真実を述べることを誓わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="46">
+      <ArticleTitle>被告人の供述</ArticleTitle>
+      <Sentence>被告人は、自己に不利益な供述を強要されない。</Sentence>
+    </Article>
+
+    <Article Num="47">
+      <ArticleTitle>自白の証拠能力</ArticleTitle>
+      <Sentence>強制、拷問、脅迫その他不当に得られた自白は、証拠とすることができない。</Sentence>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>自白のみの有罪</ArticleTitle>
+      <Sentence>被告人の自白が唯一の証拠である場合には、その自白のみを根拠として有罪の判決をすることができない。</Sentence>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>違法収集証拠</ArticleTitle>
+      <Sentence>重大な違法行為によって収集された証拠であって、その使用が適正な裁判を害すると認められるものは、証拠とすることができない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>判決</ChapterTitle>
+
+    <Article Num="50">
+      <ArticleTitle>判決</ArticleTitle>
+      <Sentence>裁判所は、審理を終えたときは、判決をしなければならない。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>無罪判決</ArticleTitle>
+      <Sentence>被告事件について犯罪の証明がないときは、裁判所は無罪の判決をしなければならない。</Sentence>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>有罪判決</ArticleTitle>
+      <Sentence>被告事件について犯罪の証明があるときは、裁判所は法律に従って刑を言い渡す。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>判決の理由</ArticleTitle>
+      <Sentence>判決には、主文及びその理由を示さなければならない。</Sentence>
+    </Article>
+
+    <Article Num="54">
+      <ArticleTitle>判決の宣告</ArticleTitle>
+      <Sentence>判決は、公開の法廷でこれを宣告する。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>一事不再理</ArticleTitle>
+      <Sentence>確定した判決を受けた者について、同一の犯罪について重ねて刑事責任を問うことはできない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>上訴</ChapterTitle>
+
+    <Article Num="56">
+      <ArticleTitle>上訴の権利</ArticleTitle>
+      <Sentence>検察官及び被告人その他法律に定める者は、法律の定めるところにより、裁判に対して上訴することができる。</Sentence>
+    </Article>
+
+    <Article Num="57">
+      <ArticleTitle>控訴</ArticleTitle>
+      <Sentence>第一審の判決に不服がある者は、法律の定めるところにより、控訴することができる。</Sentence>
+    </Article>
+
+    <Article Num="58">
+      <ArticleTitle>上告</ArticleTitle>
+      <Sentence>控訴審の判決に対しては、法律の定めるところにより、最高裁判所に上告することができる。</Sentence>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>上訴の効果</ArticleTitle>
+      <Sentence>上訴が適法に提起されたときは、法律に定める場合を除き、裁判の確定を妨げる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>再審</ChapterTitle>
+
+    <Article Num="60">
+      <ArticleTitle>再審</ArticleTitle>
+      <Sentence>確定した有罪判決について、法律に定める重大な事由があるときは、再審を請求することができる。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>再審による無罪</ArticleTitle>
+      <Sentence>再審において犯罪の証明がないときは、裁判所は無罪の判決をしなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>刑の執行</ChapterTitle>
+
+    <Article Num="62">
+      <ArticleTitle>刑の執行</ArticleTitle>
+      <Sentence>刑の執行は、確定した裁判に基づき、法律の定めるところにより行う。</Sentence>
+    </Article>
+
+    <Article Num="63">
+      <ArticleTitle>執行の停止</ArticleTitle>
+      <Sentence>刑の執行は、法律に定める事由がある場合には、その全部又は一部を停止することができる。</Sentence>
+    </Article>
+
+    <Article Num="64">
+      <ArticleTitle>刑の執行機関</ArticleTitle>
+      <Sentence>刑の執行は、法律に定める行政機関がこれを行う。</Sentence>
+    </Article>
+
+    <Article Num="65">
+      <ArticleTitle>受刑者の処遇</ArticleTitle>
+      <Sentence>受刑者は、人として尊重され、法律に基づき適正な処遇を受ける。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>少年事件</ChapterTitle>
+
+    <Article Num="66">
+      <ArticleTitle>少年事件の特則</ArticleTitle>
+      <Sentence>少年が関係する刑事事件については、少年の健全な育成及び更生を考慮し、法律に特別の定めを置くことができる。</Sentence>
+    </Article>
+
+    <Article Num="67">
+      <ArticleTitle>少年の手続保障</ArticleTitle>
+      <Sentence>少年について刑事手続を行う場合には、その年齢及び発達の程度に応じ、適切な手続上の配慮をしなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="68">
+      <ArticleTitle>費用</ArticleTitle>
+      <Sentence>刑事手続に要する費用については、法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="69">
+      <ArticleTitle>国際協力</ArticleTitle>
+      <Sentence>外国との刑事司法上の協力については、条約その他の法令に定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="70">
+      <ArticleTitle>規則</ArticleTitle>
+      <Sentence>この法律の施行に必要な事項は、最高裁判所規則その他の法令で定める。</Sentence>
+    </Article>
+
+  </Chapter>
+</Law>
