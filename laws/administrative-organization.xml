@@ -38,7 +38,7 @@
     <Article Num="4">
       <ArticleTitle>行政機関の設置及び権限の法定</ArticleTitle>
       <Paragraph Num="1">
-        <Sentence>行政機関の設置、廃止及び主要な所掌事務並びに国民に対して権利を制限し、又は義務を課する権限は、法律に基づかなければならない。</Sentence>
+        <Sentence>行政機関の設置、廃止及び主要な所掌事務並びに国民に対して権利を制限し、又は義務を課する権限は、法律に基づかなければならない。ただし、この法律又は他の法律の委任に基づく政令で定めることができる事項については、この限りでない。</Sentence>
       </Paragraph>
       <Paragraph Num="2">
         <Sentence>行政機関は、法令に明示された権限又は法令により適法に委任された権限に基づいて、その事務を処理するものとする。</Sentence>
@@ -374,9 +374,15 @@
         <Sentence>特定の行政事務を継続的かつ専門的に処理するため必要がある場合には、法律又は法律の委任に基づく政令の定めるところにより、庁を置くことができる。</Sentence>
       </Paragraph>
       <Paragraph Num="2">
-        <Sentence>庁は、法律又は政令の定めるところにより、各省の外局として、又は独立した行政機関として設置することができる。</Sentence>
+        <Sentence>庁は、法律又は法律の委任に基づく政令の定めるところにより、各省の外局として、又は独立した行政機関として設置することができる。</Sentence>
       </Paragraph>
       <Paragraph Num="3">
+        <Sentence>庁の設置を定める法律又は政令は、その名称、設置目的、所掌事務及び所属関係その他必要な事項を定めるものとする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>前項の政令は、法律の委任の範囲内で制定しなければならず、法律で定めるべき事項を定め、又は法律の規定を改廃することはできない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
         <Sentence>庁の長は、法令の定めるところにより、その所掌事務を統括する。</Sentence>
       </Paragraph>
     </Article>
@@ -517,6 +523,9 @@
         <Sentence>委員会、庁その他の行政機関の設置又は廃止は、憲法又は法律に特別の定めがある場合を除き、法律又は法律の委任に基づく政令によって行う。</Sentence>
       </Paragraph>
       <Paragraph Num="3">
+        <Sentence>前項の政令は、この法律又は他の法律の委任の範囲内で制定するものとし、当該行政機関の名称、設置目的、所掌事務、組織及び他の行政機関との関係その他設置に必要な事項を定めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
         <Sentence>行政機関の設置又は廃止に当たっては、所掌事務の継続性、職員の身分、財産及び文書の承継について必要な措置を定めなければならない。</Sentence>
       </Paragraph>
     </Article>
@@ -552,21 +561,4 @@
       </Paragraph>
       <Paragraph Num="2">
         <Sentence>この法律は、憲法に定める各機関の権限及び地位を変更するものと解してはならない。</Sentence>
-      </Paragraph>
-    </Article>
-
-    <Article Num="43">
-      <ArticleTitle>政令への委任</ArticleTitle>
-      <Paragraph Num="1">
-        <Sentence>この法律の施行に必要な事項は、法律に特別の定めがある場合を除き、政令で定める。</Sentence>
-      </Paragraph>
-    </Article>
-
-    <Article Num="44">
-      <ArticleTitle>施行期日</ArticleTitle>
-      <Paragraph Num="1">
-        <Sentence>この法律は、公布の日から起算して三十日を経過した日から施行する。</Sentence>
-      </Paragraph>
-    </Article>
-  </Chapter>
-</Law>
+      </
