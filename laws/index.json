@@ -1,5 +1,11 @@
 [
   {
+    "id": "administrative-organization",
+    "title": "行政組織法",
+    "filename": "administrative-organization.xml",
+    "articleCount": 44
+  },
+  {
     "id": "civil",
     "title": "民法",
     "filename": "civil.xml",
