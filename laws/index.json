@@ -12,6 +12,12 @@
     "articleCount": 61
   },
   {
+    "id": "criminal-procedure",
+    "title": "刑事訴訟法",
+    "filename": "criminal-procedure.xml",
+    "articleCount": 70
+  },
+  {
     "id": "criminal",
     "title": "刑法",
     "filename": "criminal.xml",
