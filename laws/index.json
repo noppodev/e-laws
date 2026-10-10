@@ -6,6 +6,12 @@
     "articleCount": 60
   },
   {
+    "id": "court",
+    "title": "裁判所法",
+    "filename": "court.xml",
+    "articleCount": 61
+  },
+  {
     "id": "election",
     "title": "公職選挙法",
     "filename": "election.xml",
