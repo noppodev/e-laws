@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>裁判所法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、憲法の定める司法制度を実施するため、裁判所の組織、権限、裁判官その他司法に関する基本的事項を定めることを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>司法権</ArticleTitle>
+      <Sentence>司法権は、最高裁判所及びこの法律に定める下級裁判所に属する。</Sentence>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>裁判所の種類</ArticleTitle>
+      <Sentence>裁判所は、最高裁判所、地方裁判所、家庭裁判所及び簡易裁判所とする。</Sentence>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>裁判所の独立</ArticleTitle>
+      <Sentence>裁判所は、法律に基づき独立してその職権を行い、行政機関その他の機関から干渉を受けない。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>裁判所の公開</ArticleTitle>
+      <Sentence>裁判の対審及び判決は、原則として公開の法廷で行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>裁判所は、法律の定める場合に限り、対審を非公開とすることができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>最高裁判所</ChapterTitle>
+
+    <Article Num="6">
+      <ArticleTitle>最高裁判所</ArticleTitle>
+      <Sentence>最高裁判所は、司法権の最高機関として、全国に一箇所置く。</Sentence>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>最高裁判所の構成</ArticleTitle>
+      <Sentence>最高裁判所は、最高裁判所長官及び十四人の最高裁判所裁判官でこれを構成する。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>最高裁判所長官</ArticleTitle>
+      <Sentence>最高裁判所長官は、最高裁判所を代表し、その司法行政を統括する。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>最高裁判所の権限</ArticleTitle>
+      <Sentence>最高裁判所は、憲法及び法律に定めるところにより、すべての裁判所の裁判について終審として裁判する。</Sentence>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>違憲審査権</ArticleTitle>
+      <Sentence>最高裁判所は、法律、命令、規則又は処分が憲法に適合するかどうかを判断する権限を有する。</Sentence>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>最高裁判所規則</ArticleTitle>
+      <Sentence>最高裁判所は、訴訟に関する手続、裁判所の内部規律及び司法事務の処理について、規則を定めることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>最高裁判所規則は、法律及び憲法に反してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>最高裁判所の大法廷及び小法廷</ArticleTitle>
+      <Sentence>最高裁判所は、大法廷及び小法廷に分かれて裁判を行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>各法廷の構成及び審理の方法は、最高裁判所規則で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>大法廷の審理</ArticleTitle>
+      <Sentence>最高裁判所は、憲法判断その他重要な事項について、大法廷で審理する。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>最高裁判所長官の任命</ArticleTitle>
+      <Sentence>最高裁判所長官は、大統領が任命し、議会の承認を受けなければならない。</Sentence>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>最高裁判所裁判官の任命</ArticleTitle>
+      <Sentence>最高裁判所裁判官は、大統領が任命する。</Sentence>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>最高裁判所裁判官の国民審査</ArticleTitle>
+      <Sentence>最高裁判所裁判官は、就任後最初に行われる衆議院議員総選挙の際に、国民の審査を受ける。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の審査において罷免を可とする投票が有効投票の過半数に達したときは、その裁判官は罷免される。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国民審査の方法その他必要な事項は、公職選挙法で定める。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>下級裁判所</ChapterTitle>
+
+    <Article Num="17">
+      <ArticleTitle>地方裁判所</ArticleTitle>
+      <Sentence>地方裁判所は、第一審裁判所として、民事及び刑事の事件を裁判する。</Sentence>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>家庭裁判所</ArticleTitle>
+      <Sentence>家庭裁判所は、家庭に関する事件その他法律で定める事件を裁判する。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>簡易裁判所</ArticleTitle>
+      <Sentence>簡易裁判所は、軽微な民事及び刑事の事件その他法律で定める事件を裁判する。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>高等裁判所</ArticleTitle>
+      <Sentence>高等裁判所は、地方裁判所、家庭裁判所及び簡易裁判所の裁判に対する上訴その他法律で定める事件を裁判する。</Sentence>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>高等裁判所の設置</ArticleTitle>
+      <Sentence>高等裁判所は、必要な地域に置く。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>高等裁判所の名称、位置及び管轄区域は、法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>下級裁判所の設置</ArticleTitle>
+      <Sentence>地方裁判所、家庭裁判所及び簡易裁判所の設置、名称、位置及び管轄区域は、法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>裁判所間の審級</ArticleTitle>
+      <Sentence>裁判は、法律の定めるところにより、原則として三審制による。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>裁判官</ChapterTitle>
+
+    <Article Num="24">
+      <ArticleTitle>裁判官の職責</ArticleTitle>
+      <Sentence>裁判官は、憲法及び法律にのみ拘束され、公平かつ公正にその職務を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>裁判官の任命</ArticleTitle>
+      <Sentence>下級裁判所の裁判官は、最高裁判所の指名した者の名簿に基づき、大統領が任命する。</Sentence>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>裁判官の任期</ArticleTitle>
+      <Sentence>裁判官の任期その他その身分に関する事項は、憲法及び法律の定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>裁判官の身分保障</ArticleTitle>
+      <Sentence>裁判官は、法律に定める場合を除き、その意思に反して罷免され、又はその職を失うことがない。</Sentence>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>裁判官の懲戒</ArticleTitle>
+      <Sentence>裁判官の懲戒は、裁判によらなければならない。</Sentence>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>裁判官の政治的活動</ArticleTitle>
+      <Sentence>裁判官は、その職務の公正を損なうおそれのある政治的活動をしてはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>検察</ChapterTitle>
+
+    <Article Num="30">
+      <ArticleTitle>検察官</ArticleTitle>
+      <Sentence>検察官は、犯罪の捜査及び公訴の提起その他法律に定める職務を行う。</Sentence>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>検察制度</ArticleTitle>
+      <Sentence>検察官の組織、任命、職務及び権限は、法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>検察官の職務</ArticleTitle>
+      <Sentence>検察官は、法令に従い、犯罪の捜査及び公訴の提起を適正に行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>検察官の独立</ArticleTitle>
+      <Sentence>検察官は、その職務を行うに当たり、法令に従い、公正かつ中立でなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>裁判員制度</ChapterTitle>
+
+    <Article Num="34">
+      <ArticleTitle>裁判員</ArticleTitle>
+      <Sentence>裁判所は、法律の定めるところにより、成人の国民から選任した裁判員を裁判に参加させる。</Sentence>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>裁判員の選任</ArticleTitle>
+      <Sentence>裁判員は、選挙人名簿に登録された国民の中から、法律の定める方法により選任する。</Sentence>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>裁判員の職務</ArticleTitle>
+      <Sentence>裁判員は、裁判官とともに事実を認定し、法律の定めるところにより刑の判断に関与する。</Sentence>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>裁判員の公平性</ArticleTitle>
+      <Sentence>裁判員は、何人からも干渉を受けることなく、公平かつ公正にその職務を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>裁判員の守秘義務</ArticleTitle>
+      <Sentence>裁判員は、裁判員として知り得た秘密を漏らしてはならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>裁判所の事務</ChapterTitle>
+
+    <Article Num="39">
+      <ArticleTitle>司法行政</ArticleTitle>
+      <Sentence>司法行政は、最高裁判所が統括する。</Sentence>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>司法行政の分掌</ArticleTitle>
+      <Sentence>最高裁判所は、司法行政事務を必要な機関に分掌させることができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>裁判所書記官</ArticleTitle>
+      <Sentence>各裁判所に裁判所書記官を置く。</Sentence>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>裁判所書記官の職務</ArticleTitle>
+      <Sentence>裁判所書記官は、裁判所の訴訟手続その他の事務を取り扱う。</Sentence>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>裁判所職員</ArticleTitle>
+      <Sentence>裁判所には、裁判官、裁判所書記官その他必要な職員を置く。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>裁判所職員の任命</ArticleTitle>
+      <Sentence>裁判所職員の任命、給与、服務その他必要な事項は、法律及び最高裁判所規則で定める。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>裁判手続の基本原則</ChapterTitle>
+
+    <Article Num="45">
+      <ArticleTitle>裁判を受ける権利</ArticleTitle>
+      <Sentence>何人も、法律の定めるところにより、裁判所において裁判を受ける権利を有する。</Sentence>
+    </Article>
+
+    <Article Num="46">
+      <ArticleTitle>適正な裁判</ArticleTitle>
+      <Sentence>裁判所は、適正かつ迅速に裁判を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="47">
+      <ArticleTitle>弁護人</ArticleTitle>
+      <Sentence>刑事事件において、被告人は、法律の定めるところにより弁護人を依頼することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>被告人が自ら弁護人を依頼することができない場合には、法律の定めるところにより国が弁護人を付する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="48">
+      <ArticleTitle>裁判記録</ArticleTitle>
+      <Sentence>裁判所は、裁判に関する記録を作成し、法律の定めるところによりこれを保存する。</Sentence>
+    </Article>
+
+    <Article Num="49">
+      <ArticleTitle>判決の公開</ArticleTitle>
+      <Sentence>判決は、公開の法廷で言い渡さなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>裁判所の管轄</ChapterTitle>
+
+    <Article Num="50">
+      <ArticleTitle>民事事件</ArticleTitle>
+      <Sentence>民事事件の裁判所の管轄は、民事訴訟法その他の法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="51">
+      <ArticleTitle>刑事事件</ArticleTitle>
+      <Sentence>刑事事件の裁判所の管轄は、刑事訴訟法その他の法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="52">
+      <ArticleTitle>行政事件</ArticleTitle>
+      <Sentence>行政事件の裁判所の管轄は、行政事件訴訟法その他の法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="53">
+      <ArticleTitle>特別の裁判所の禁止</ArticleTitle>
+      <Sentence>特別の裁判所は、これを設置することができない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="10">
+    <ChapterTitle>司法と他機関との関係</ChapterTitle>
+
+    <Article Num="54">
+      <ArticleTitle>行政機関との関係</ArticleTitle>
+      <Sentence>行政機関は、裁判所の司法権の行使を妨げてはならない。</Sentence>
+    </Article>
+
+    <Article Num="55">
+      <ArticleTitle>議会との関係</ArticleTitle>
+      <Sentence>議会は、個別の裁判について、その裁判の内容に干渉してはならない。</Sentence>
+    </Article>
+
+    <Article Num="56">
+      <ArticleTitle>裁判の尊重</ArticleTitle>
+      <Sentence>国の機関及び地方公共団体その他の公的機関は、確定した裁判を尊重しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="11">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="57">
+      <ArticleTitle>司法研修</ArticleTitle>
+      <Sentence>裁判官、検察官及び弁護士となろうとする者に必要な司法研修については、法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="58">
+      <ArticleTitle>法律の制定</ArticleTitle>
+      <Sentence>裁判所の組織及び裁判手続に関する基本的事項については、この法律及びその他の法律で定める。</Sentence>
+    </Article>
+
+    <Article Num="59">
+      <ArticleTitle>最高裁判所規則への委任</ArticleTitle>
+      <Sentence>この法律に定めるもののほか、裁判所の内部規律及び司法事務の処理に必要な事項は、最高裁判所規則で定める。</Sentence>
+    </Article>
+
+    <Article Num="60">
+      <ArticleTitle>法律との関係</ArticleTitle>
+      <Sentence>最高裁判所規則その他の裁判所の規則は、憲法及び法律に反してはならない。</Sentence>
+    </Article>
+
+    <Article Num="61">
+      <ArticleTitle>施行</ArticleTitle>
+      <Sentence>この法律は、公布の日から施行する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
