@@ -12,6 +12,12 @@
     "articleCount": 61
   },
   {
+    "id": "criminal",
+    "title": "刑法",
+    "filename": "criminal.xml",
+    "articleCount": 70
+  },
+  {
     "id": "election",
     "title": "公職選挙法",
     "filename": "election.xml",
