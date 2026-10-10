@@ -1,0 +1,574 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>行政組織法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>（目的）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>この法律は、大統領の統括の下における国の行政機関の設置、組織、所掌事務及び相互の関係並びに行政運営の基本原則を定めることにより、行政の民主的かつ効率的な運営を確保し、もって国民の利益及び国家の適正な運営に資することを目的とする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>（行政機関の定義）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>この法律において「行政機関」とは、国の行政事務を分掌し、又はその事務を処理するために設置される省、委員会、庁その他の機関をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関には、法律の定めるところにより、独立してその権限を行使する機関及び他の行政機関の所轄の下に置かれる機関を含む。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>（行政運営の原則）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、憲法及び法律を遵守し、公共の利益のため、公正かつ誠実にその事務を遂行しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、その所掌事務の遂行に当たり、相互に協力し、行政目的の達成に必要な連絡及び調整を行わなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>行政機関は、その権限を濫用してはならず、法令に基づく権限の範囲を超えて国民の権利及び利益を侵害してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>（行政機関の設置及び権限の法定）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の設置、廃止及び主要な所掌事務並びに国民に対して権利を制限し、又は義務を課する権限は、法律に基づかなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、法令に明示された権限又は法令により適法に委任された権限に基づいて、その事務を処理するものとする。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>大統領及び行政機関</ChapterTitle>
+
+    <Article Num="5">
+      <ArticleTitle>（大統領の行政統括権）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>大統領は、憲法及び法律の定めるところにより、国の行政を統括する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>大統領は、行政全体の一貫性を確保するため、行政機関に対して、その所掌事務の範囲内で必要な指揮監督を行うことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前二項の規定は、憲法又は法律により独立して権限を行使するものとされた機関の権限を侵害するものと解してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="6">
+      <ArticleTitle>（行政機関の責任）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各行政機関の長は、法令の定めるところにより、その機関の所掌事務を統括し、所属職員を指揮監督する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>各行政機関の長は、その所掌事務の遂行及び所属職員の職務上の行為について、法令の定めるところにより責任を負う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>行政機関の長は、法令に反する命令を発してはならず、所属職員に対して法令に反する行為を命じてはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>（行政機関相互の関係）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、所掌事務が相互に関連する場合には、必要な情報を共有し、事務の重複及び行政上の空白を防止するため、相互に協議するものとする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関相互の所掌事務について疑義又は争いが生じたときは、当該行政機関の長が協議して解決するものとする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前項の協議によって解決しないときは、大統領は、憲法及び法律の定める権限の範囲内で、必要な調整を行うことができる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>（行政機関の長の任免）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の長の任命及び解任は、憲法又は法律に特別の定めがある場合を除き、大統領が行う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の規定は、国会その他の機関がその権限に基づいて選任し、又は任命することとされた者については、適用しない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>省の設置及び所掌事務</ChapterTitle>
+
+    <Article Num="9">
+      <ArticleTitle>（省の設置）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>国の行政事務を分掌させるため、次に掲げる省を置く。</Sentence>
+        <Sentence>一　内務省</Sentence>
+        <Sentence>二　外務省</Sentence>
+        <Sentence>三　財務省</Sentence>
+        <Sentence>四　法務省</Sentence>
+        <Sentence>五　教育文化省</Sentence>
+        <Sentence>六　厚生労働省</Sentence>
+        <Sentence>七　産業経済省</Sentence>
+        <Sentence>八　国土交通省</Sentence>
+        <Sentence>九　環境資源省</Sentence>
+        <Sentence>十　国防省</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>各省の所掌事務は、この法律及び各省の所掌事務に関する法律の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>（内務省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>内務省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　地方行政制度及び地方公共団体との連絡調整に関すること。</Sentence>
+        <Sentence>二　住民登録及び戸籍その他の住民に関する基本的な行政制度に関すること。</Sentence>
+        <Sentence>三　警察制度及び国内の公共の安全に関すること。</Sentence>
+        <Sentence>四　消防制度及び火災予防に関すること。</Sentence>
+        <Sentence>五　災害予防及び災害応急対策に関する行政機関相互の調整に関すること。</Sentence>
+        <Sentence>六　選挙制度の運営に関する行政事務に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、他の省の所掌に属しない国内行政に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="11">
+      <ArticleTitle>（外務省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>外務省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　外国及び外国政府との外交関係に関すること。</Sentence>
+        <Sentence>二　条約その他の国際約束の締結及び実施に関する外交上の事務に関すること。</Sentence>
+        <Sentence>三　国際機関への参加及び国際協力に関すること。</Sentence>
+        <Sentence>四　海外における国民の保護及び支援に関すること。</Sentence>
+        <Sentence>五　外国人の入国及び在留に関する政策について、関係行政機関との連絡調整を行うこと。</Sentence>
+        <Sentence>六　前各号に掲げるもののほか、外交及び国際関係に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>（財務省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>財務省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　国の予算及び決算の編成並びに財政運営に関すること。</Sentence>
+        <Sentence>二　国税その他の国の歳入に関すること。</Sentence>
+        <Sentence>三　国債その他の国の債務に関すること。</Sentence>
+        <Sentence>四　国有財産の管理及び処分に関すること。</Sentence>
+        <Sentence>五　通貨、金融制度及び外国為替に関する政策に関すること。</Sentence>
+        <Sentence>六　関税及び税関行政に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、国の財政及び財務に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>（法務省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>法務省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　法令の制定及び改廃に関する法制上の調査及び助言に関すること。</Sentence>
+        <Sentence>二　民事及び刑事の法制度の整備に関すること。</Sentence>
+        <Sentence>三　検察制度及び刑事司法に関する行政事務に関すること。</Sentence>
+        <Sentence>四　犯罪者の処遇及び矯正に関すること。</Sentence>
+        <Sentence>五　国籍及び国民の身分関係に関する法制度の運用に関すること。</Sentence>
+        <Sentence>六　人権の擁護及び法的支援に関する行政事務に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、法務及び司法制度に関する行政事務に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>（教育文化省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>教育文化省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　学校教育制度及び教育行政に関すること。</Sentence>
+        <Sentence>二　教育課程及び教職員制度に関すること。</Sentence>
+        <Sentence>三　学術研究及び科学技術の基礎的研究の振興に関すること。</Sentence>
+        <Sentence>四　文化、芸術及び文化財の保護に関すること。</Sentence>
+        <Sentence>五　生涯学習及び社会教育に関すること。</Sentence>
+        <Sentence>六　前各号に掲げるもののほか、教育及び文化の振興に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>（厚生労働省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>厚生労働省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　医療制度及び公衆衛生に関すること。</Sentence>
+        <Sentence>二　社会保障、社会保険及び社会福祉に関すること。</Sentence>
+        <Sentence>三　年金制度及び高齢者福祉に関すること。</Sentence>
+        <Sentence>四　雇用、労働条件及び職業能力の開発に関すること。</Sentence>
+        <Sentence>五　労働者の安全及び健康の確保に関すること。</Sentence>
+        <Sentence>六　感染症その他の健康危機への対応に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、国民の健康、福祉及び労働に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>（産業経済省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>産業経済省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　産業政策及び経済産業の振興に関すること。</Sentence>
+        <Sentence>二　中小企業及び新規事業の育成に関すること。</Sentence>
+        <Sentence>三　貿易及び通商政策に関すること。ただし、外交上の事務を除く。</Sentence>
+        <Sentence>四　エネルギーの安定供給及びエネルギー産業に関すること。</Sentence>
+        <Sentence>五　技術革新、知的財産及び産業競争力の向上に関すること。</Sentence>
+        <Sentence>六　消費生活及び製品の安全に関する産業行政上の事務に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、産業及び経済の発展に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>（国土交通省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>国土交通省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　国土計画及び国土の利用に関すること。</Sentence>
+        <Sentence>二　道路、鉄道、港湾及び空港の整備及び管理に関すること。</Sentence>
+        <Sentence>三　公共交通及び物流に関すること。</Sentence>
+        <Sentence>四　住宅、建築及び都市整備に関すること。</Sentence>
+        <Sentence>五　河川、海岸及び治水に関すること。</Sentence>
+        <Sentence>六　海上交通及び航空交通の安全に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、国土の整備及び交通に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="18">
+      <ArticleTitle>（環境資源省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>環境資源省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　環境保全及び公害防止に関すること。</Sentence>
+        <Sentence>二　気候変動対策及び温室効果ガスの排出削減に関すること。</Sentence>
+        <Sentence>三　自然環境、生物多様性及び野生生物の保護に関すること。</Sentence>
+        <Sentence>四　廃棄物の処理及び資源循環に関すること。</Sentence>
+        <Sentence>五　水資源及び自然資源の持続可能な利用に関すること。</Sentence>
+        <Sentence>六　前各号に掲げるもののほか、環境及び資源の保全に関すること。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>（国防省の所掌事務）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>国防省は、次に掲げる事務をつかさどる。</Sentence>
+        <Sentence>一　国の防衛政策及び防衛計画に関すること。</Sentence>
+        <Sentence>二　陸軍、海軍及び空軍の管理、整備及び運営に関すること。</Sentence>
+        <Sentence>三　防衛に必要な人員、装備、施設及び物資の確保に関すること。</Sentence>
+        <Sentence>四　防衛に関する情報の収集及び分析に関すること。</Sentence>
+        <Sentence>五　防衛に関する研究開発及び技術基盤の整備に関すること。</Sentence>
+        <Sentence>六　他の行政機関との防衛上の連絡調整に関すること。</Sentence>
+        <Sentence>七　前各号に掲げるもののほか、国防及び軍事行政に関すること。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>国防省は、憲法に定める大統領の統帥権及び防衛に関する他の法律の規定に従い、その所掌事務を遂行する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>陸軍、海軍及び空軍の指揮系統並びに作戦上の指揮及び統合運用については、別に法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>（所掌事務の共管）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>複数の省に関係する事務については、関係する各省がそれぞれの所掌事務に応じて処理する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の場合において、主たる所掌省が明らかでないときは、関係する各省は協議して処理方法を定める。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前項の協議が調わないときは、大統領は、必要な調整を行うことができる。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>省の内部組織</ChapterTitle>
+
+    <Article Num="21">
+      <ArticleTitle>（大臣）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各省に、その長として大臣を置く。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>大臣は、大統領の指揮監督の下に、当該省の事務を統括し、所属職員を指揮監督する。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>大臣は、法令に基づき、その所掌事務に関する政策を立案し、実施し、及び評価する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="22">
+      <ArticleTitle>（副大臣その他の補佐職）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各省に、必要に応じて副大臣その他の大臣を補佐する職を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>副大臣その他の補佐職の設置、任免、職務及び権限は、法律又は法律の委任に基づく政令で定める。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>副大臣その他の補佐職は、大臣の命を受け、その職務を行う。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>（局及び部）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各省に、その所掌事務を分掌させるため、局、部その他の内部組織を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>局、部その他の内部組織の設置、所掌事務及び相互の関係は、法律又は法律の委任に基づく政令で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="24">
+      <ArticleTitle>（職員）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関には、その所掌事務を遂行するために必要な職員を置く。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>職員の任用、服務、給与、懲戒その他の身分上の事項については、別に法律で定める。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>職員は、法令及び適法な職務上の命令に従い、誠実にその職務を遂行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>（内部規程）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各省の大臣は、法令の範囲内で、当該省の事務処理及び内部組織の運営に必要な規程を定めることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の規程は、法律又は政令に反してはならず、国民に新たな義務を課し、又は国民の権利を制限する根拠としてはならない。ただし、法律に特別の定めがある場合は、この限りでない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>委員会及び庁</ChapterTitle>
+
+    <Article Num="26">
+      <ArticleTitle>（委員会の設置）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>特定の行政事務について、合議制による判断、専門的な審査又は公正な処理を確保する必要がある場合には、法律の定めるところにより、委員会を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>委員会の権限、組織、委員の任免及び任期その他必要な事項は、当該委員会を設置する法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>（独立して権限を行使する委員会）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>公正性、中立性又は専門的判断の独立性を確保するため必要がある場合には、法律の定めるところにより、特定の権限を独立して行使する委員会を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の委員会は、その独立した権限の行使について、大統領その他の行政機関から不当な干渉を受けない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>独立して権限を行使する委員会については、法律に特別の定めがある場合を除き、その権限の行使に関する指揮監督を行うことができない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>（庁の設置）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>特定の行政事務を継続的かつ専門的に処理するため必要がある場合には、法律又は法律の委任に基づく政令の定めるところにより、庁を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>庁は、法律又は政令の定めるところにより、各省の外局として、又は独立した行政機関として設置することができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>庁の長は、法令の定めるところにより、その所掌事務を統括する。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="29">
+      <ArticleTitle>（行政機関の附属機関）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関には、審議会、調査会その他の附属機関を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>附属機関は、法令に基づき、調査、審議、審査又は意見の提出を行う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>附属機関は、法律に特別の定めがある場合を除き、行政機関の権限を自ら行使することができない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>地方行政機関及び行政事務の実施</ChapterTitle>
+
+    <Article Num="30">
+      <ArticleTitle>（地方支分部局）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、その所掌事務を地方において処理するため必要がある場合には、法律又は法律の委任に基づく政令の定めるところにより、地方支分部局を置くことができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>地方支分部局の名称、位置、管轄区域及び所掌事務は、法令で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>（地方公共団体との関係）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>国の行政機関は、地方公共団体の事務について、法律に根拠がある場合を除き、地方公共団体に対して指揮監督を行うことができない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>国の行政機関は、地方公共団体と連携し、国と地方の行政事務が円滑に遂行されるよう努めなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>国と地方公共団体との間の権限及び費用負担の関係は、憲法及び法律の定めるところによる。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>（事務の委任）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の長は、法令に特別の定めがある場合に限り、その権限に属する事務の一部を他の行政機関又はその職員に委任することができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の委任は、委任する事務の範囲及び委任を受ける者を明確にして行わなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>委任を受けた者は、委任された範囲を超えて権限を行使してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="33">
+      <ArticleTitle>（事務の補助及び代行）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の長は、法令の定めるところにより、その職務の一部を補助させることができる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関の長が欠けたとき、又は事故があるときにその職務を代行する者及び代行の範囲は、法律又は法律の委任に基づく政令で定める。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>前項の規定は、憲法又は法律に別段の定めがある場合における大統領その他の職についての継承又は代行の規定を変更するものではない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>行政運営及び情報管理</ChapterTitle>
+
+    <Article Num="34">
+      <ArticleTitle>（行政運営の効率化）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、その所掌事務について、必要性、効率性及び国民への影響を考慮し、行政運営の改善に努めなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、事務の重複を避け、行政資源を適切に配分するため、定期的にその組織及び事務の実施状況を検証するものとする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>（情報の共有及び管理）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、所掌事務の遂行に必要な情報を、法令に従い適正に収集、管理及び利用しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、個人情報、秘密情報その他法令により保護される情報について、漏えい、滅失、毀損及び不正利用を防止するために必要な措置を講じなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>行政機関相互の情報提供は、法令上の根拠及び提供の目的を明確にし、必要な範囲で行うものとする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>（行政文書の作成及び保存）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、意思決定及び事務処理の経過を合理的に確認できるよう、法令の定めるところにより行政文書を作成し、保存しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政文書の保存期間、移管、廃棄及び公開については、別に法律で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="37">
+      <ArticleTitle>（行政情報の公開）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関は、行政運営の透明性を確保するため、法令の定めるところにより、その保有する情報を公開するものとする。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の規定は、国の安全、外交上の利益、個人の権利利益その他法令により保護される利益を不当に害する情報について、法令に基づく公開の制限を妨げるものではない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>（行政機関の評価及び報告）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>各行政機関の長は、その所掌事務の実施状況及び行政目的の達成状況を把握し、必要に応じて改善措置を講じなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、法律の定めるところにより、その事務の実施状況について国会その他の監督権限を有する機関に報告しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>行政機関の設置及び改廃</ChapterTitle>
+
+    <Article Num="39">
+      <ArticleTitle>（行政機関の設置及び廃止）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>省の設置又は廃止は、法律によって行う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>委員会、庁その他の行政機関の設置又は廃止は、憲法又は法律に特別の定めがある場合を除き、法律又は法律の委任に基づく政令によって行う。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>行政機関の設置又は廃止に当たっては、所掌事務の継続性、職員の身分、財産及び文書の承継について必要な措置を定めなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>（組織改編に伴う事務の承継）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の設置、廃止又は所掌事務の変更があった場合には、当該事務に係る権利義務、行政文書、財産及び事務処理上の地位は、法令に特別の定めがある場合を除き、当該事務を承継する行政機関に引き継がれる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の場合において、処分、申請、審査その他の手続が継続中であるときは、法令に特別の定めがある場合を除き、承継した行政機関がこれを引き継ぐ。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>（組織改編に関する公示）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の設置、廃止又は所掌事務の変更を行う場合には、国民及び関係機関に必要な情報を周知するため、法令の定めるところにより、その内容及び施行日を公示しなければならない。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>前項の公示は、国民の権利義務に重大な影響を及ぼす場合には、特にその周知に努めなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>雑則</ChapterTitle>
+
+    <Article Num="42">
+      <ArticleTitle>（他の法律との関係）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>行政機関の権限、組織及び運営について他の法律に特別の定めがあるときは、その定めるところによる。</Sentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <Sentence>この法律は、憲法に定める各機関の権限及び地位を変更するものと解してはならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>（政令への委任）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>この法律の施行に必要な事項は、法律に特別の定めがある場合を除き、政令で定める。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>（施行期日）</ArticleTitle>
+      <Paragraph Num="1">
+        <Sentence>この法律は、公布の日から起算して三十日を経過した日から施行する。</Sentence>
+      </Paragraph>
+    </Article>
+  </Chapter>
+</Law>
+```
