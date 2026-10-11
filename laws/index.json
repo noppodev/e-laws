@@ -6,6 +6,12 @@
     "articleCount": 44
   },
   {
+    "id": "administrative-procedure",
+    "title": "行政手続法",
+    "filename": "administrative-procedure.xml",
+    "articleCount": 44
+  },
+  {
     "id": "civil",
     "title": "民法",
     "filename": "civil.xml",
@@ -82,6 +88,12 @@
     "title": "国会法",
     "filename": "national-diet-act.xml",
     "articleCount": 78
+  },
+  {
+    "id": "national-public-service",
+    "title": "国家公務員法",
+    "filename": "national-public-service.xml",
+    "articleCount": 70
   },
   {
     "id": "nationality-act",
