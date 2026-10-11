@@ -84,6 +84,12 @@
     "articleCount": 76
   },
   {
+    "id": "local-public-service",
+    "title": "地方公務員法",
+    "filename": "local-public-service.xml",
+    "articleCount": 200
+  },
+  {
     "id": "martial-law",
     "title": "国家の安全及び公共の秩序を維持するための戒厳の宣告、実施及び解除並びに戒厳下における行政その他の特例に関する法律",
     "filename": "martial-law.xml",
