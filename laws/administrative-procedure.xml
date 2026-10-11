@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>行政手続法</Title>
+
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、行政機関が行う処分、行政指導及び届出に関する手続並びに命令等を定める手続について共通する事項を定めることにより、行政運営における公正の確保と透明性の向上を図り、もって国民の権利利益の保護に資することを目的とする。</Sentence>
+    </Article>
+
+    <Article Num="2">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「法令」とは、憲法、法律、政令、条例その他の規範をいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「行政機関」とは、国の行政機関及び法律により行政上の権限を有する機関をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>この法律において「処分」とは、行政機関が法令に基づき、特定の者に対し、直接にその権利義務その他の法的地位を形成し、又はその範囲を確定する行為をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>この法律において「申請」とは、法令に基づき、行政機関の許可、認可、免許その他自己に対して何らかの利益を付与する処分を求める行為をいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <Sentence>この法律において「行政指導」とは、行政機関がその任務又は所掌事務の範囲内において一定の行政目的を実現するため特定の者に一定の作為又は不作為を求める指導、勧告、助言その他の行為であって処分に該当しないものをいう。</Sentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <Sentence>この法律において「届出」とは、行政機関に対し一定の事項を通知する行為であって、法令により直接に当該通知が義務付けられているものをいう。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="3">
+      <ArticleTitle>適用除外</ArticleTitle>
+      <Sentence>次に掲げる処分及び行政指導については、この法律の規定の全部又は一部を適用しないことができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>高度の政策的判断を要する事項について、法律又は政令に特別の定めがある場合。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>緊急事態において、国民の生命、身体又は財産を保護するため緊急に行う必要がある場合。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>行政機関内部の組織、人事その他の内部的事項に関する行為である場合。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="4">
+      <ArticleTitle>基本原則</ArticleTitle>
+      <Sentence>行政機関は、行政手続を行うに当たっては、国民の権利利益を尊重し、公正かつ適正にその職務を遂行しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="5">
+      <ArticleTitle>情報の公開</ArticleTitle>
+      <Sentence>行政機関は、行政手続の公正及び透明性を確保するため、法令に定めるところにより、行政手続に関する情報を公開するよう努めなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="2">
+    <ChapterTitle>申請に対する処分</ChapterTitle>
+
+    <Article Num="6">
+      <ArticleTitle>審査基準</ArticleTitle>
+      <Sentence>行政機関は、申請により求められた許可、認可その他の処分をするかどうかについて判断するために必要な基準を定めるものとする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の基準は、できる限り具体的なものとしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="7">
+      <ArticleTitle>申請の受付</ArticleTitle>
+      <Sentence>行政機関は、申請がその事務所に到達したときは、法令に定める形式上の要件に適合しない場合を除き、これを受理しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="8">
+      <ArticleTitle>標準処理期間</ArticleTitle>
+      <Sentence>行政機関は、申請がその事務所に到達してから当該申請に対する処分をするまでに通常要すべき標準的な期間を定めるよう努めるものとする。</Sentence>
+    </Article>
+
+    <Article Num="9">
+      <ArticleTitle>理由の提示</ArticleTitle>
+      <Sentence>行政機関は、申請に対する拒否処分をするときは、申請者に対し、その理由を示さなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>前項の理由は、処分の内容及び根拠となる法令の規定を明らかにして示すものとする。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="10">
+      <ArticleTitle>複数の行政機関に関係する申請</ArticleTitle>
+      <Sentence>行政機関は、申請に関係する他の行政機関と必要な連絡及び調整を行い、申請者に過度の負担を生じさせないよう努めなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="3">
+    <ChapterTitle>不利益処分</ChapterTitle>
+
+    <Article Num="11">
+      <ArticleTitle>不利益処分の基準</ArticleTitle>
+      <Sentence>行政機関は、不利益処分をするかどうか又はどのような不利益処分をするかについて判断するために必要な基準を定めるよう努めるものとする。</Sentence>
+    </Article>
+
+    <Article Num="12">
+      <ArticleTitle>聴聞及び弁明の機会</ArticleTitle>
+      <Sentence>行政機関は、許可の取消しその他重大な不利益処分をしようとするときは、あらかじめ当該処分の名宛人となるべき者に対し、意見を述べる機会を与えなければならない。</Sentence>
+    </Article>
+
+    <Article Num="13">
+      <ArticleTitle>聴聞の通知</ArticleTitle>
+      <Sentence>行政機関は、聴聞を行うときは、相当の期間をおいて、当該処分の名宛人となるべき者に対し、処分の原因となる事実、根拠となる法令及び聴聞の日時及び場所を通知しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="14">
+      <ArticleTitle>聴聞の主宰</ArticleTitle>
+      <Sentence>聴聞は、行政機関が指定する職員が主宰する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>主宰者は、聴聞の公正な進行を確保しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="15">
+      <ArticleTitle>証拠の提出</ArticleTitle>
+      <Sentence>聴聞の当事者は、事実を証明するため、証拠を提出することができる。</Sentence>
+    </Article>
+
+    <Article Num="16">
+      <ArticleTitle>聴聞調書</ArticleTitle>
+      <Sentence>行政機関は、聴聞について、その経過及び結果を記録した調書を作成しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="17">
+      <ArticleTitle>処分の理由</ArticleTitle>
+      <Sentence>行政機関は、不利益処分をするときは、処分の理由を示さなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="4">
+    <ChapterTitle>行政指導</ChapterTitle>
+
+    <Article Num="18">
+      <ArticleTitle>行政指導の一般原則</ArticleTitle>
+      <Sentence>行政指導は、相手方の任意の協力によって実現されるものでなければならず、行政機関は、行政指導に従わないことを理由として不利益な取扱いをしてはならない。</Sentence>
+    </Article>
+
+    <Article Num="19">
+      <ArticleTitle>行政指導の明確化</ArticleTitle>
+      <Sentence>行政指導を行う職員は、その趣旨、目的及び内容を相手方に明確に示さなければならない。</Sentence>
+    </Article>
+
+    <Article Num="20">
+      <ArticleTitle>行政指導の方式</ArticleTitle>
+      <Sentence>行政指導を口頭で行った場合において、相手方から書面の交付を求められたときは、当該職員は、正当な理由がない限り、これを交付しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="21">
+      <ArticleTitle>行政指導の中止等</ArticleTitle>
+      <Sentence>行政指導が法令に定める要件を満たさないことその他正当な理由がないことについて相手方から指摘された場合、行政機関は、必要な調査を行い、行政指導を継続することが適当でないと認めるときは、これを中止しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="5">
+    <ChapterTitle>届出</ChapterTitle>
+
+    <Article Num="22">
+      <ArticleTitle>届出の受理</ArticleTitle>
+      <Sentence>法令に定める届出については、届出が行政機関に到達したときに、当該届出をすべき手続上の義務が履行されたものとする。</Sentence>
+    </Article>
+
+    <Article Num="23">
+      <ArticleTitle>届出の補正</ArticleTitle>
+      <Sentence>行政機関は、届出の内容に形式上の不備があるときは、届出をした者に対し、相当の期間を定めてその補正を求めることができる。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="6">
+    <ChapterTitle>命令等を定める手続</ChapterTitle>
+
+    <Article Num="24">
+      <ArticleTitle>命令等の案の公示</ArticleTitle>
+      <Sentence>行政機関は、政令、省令その他一般的な規範を定めようとするときは、特に緊急を要する場合を除き、その案をあらかじめ公示しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="25">
+      <ArticleTitle>意見の提出</ArticleTitle>
+      <Sentence>何人も、前条の規定により公示された案について、行政機関に対し意見を提出することができる。</Sentence>
+    </Article>
+
+    <Article Num="26">
+      <ArticleTitle>意見の提出期間</ArticleTitle>
+      <Sentence>意見の提出期間は、原則として公示の日から三十日以上とする。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>行政機関は、特別の事情があるときは、前項の期間を短縮することができる。この場合において、その理由を明らかにしなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+
+    <Article Num="27">
+      <ArticleTitle>提出意見の考慮</ArticleTitle>
+      <Sentence>行政機関は、命令等を定めるときは、提出された意見を十分に考慮しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="28">
+      <ArticleTitle>結果の公示</ArticleTitle>
+      <Sentence>行政機関は、命令等を定めたときは、その内容、提出された意見及びこれらに対する行政機関の考え方を公示するものとする。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="7">
+    <ChapterTitle>行政手続における情報</ChapterTitle>
+
+    <Article Num="29">
+      <ArticleTitle>記録の作成</ArticleTitle>
+      <Sentence>行政機関は、重要な行政手続について、その経過を明らかにするため必要な記録を作成しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="30">
+      <ArticleTitle>記録の保存</ArticleTitle>
+      <Sentence>行政機関は、前条の記録を、法令に定める期間保存しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="31">
+      <ArticleTitle>電子的手続</ArticleTitle>
+      <Sentence>行政機関は、行政手続について、情報通信技術を活用し、電子的方法による申請、届出その他の手続を利用できるよう努めなければならない。</Sentence>
+    </Article>
+
+    <Article Num="32">
+      <ArticleTitle>本人確認</ArticleTitle>
+      <Sentence>行政機関は、電子的方法により行政手続を行う場合において、必要があると認めるときは、適切な方法により手続を行う者の本人確認を行うものとする。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="8">
+    <ChapterTitle>救済及び監督</ChapterTitle>
+
+    <Article Num="33">
+      <ArticleTitle>不服の申出</ArticleTitle>
+      <Sentence>行政手続に関する処分その他の行為について、法令に定める不服申立ての手続がある場合には、行政機関は、その手続を適切に案内しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="34">
+      <ArticleTitle>行政手続の監督</ArticleTitle>
+      <Sentence>各行政機関の長は、当該行政機関における行政手続がこの法律及びその他の法令に従って適正に行われるよう必要な監督を行わなければならない。</Sentence>
+    </Article>
+
+    <Article Num="35">
+      <ArticleTitle>行政手続の改善</ArticleTitle>
+      <Sentence>行政機関は、行政手続の実施状況を定期的に検証し、必要があると認めるときは、その簡素化、迅速化及び透明性の向上のため必要な措置を講ずるものとする。</Sentence>
+    </Article>
+
+    <Article Num="36">
+      <ArticleTitle>行政手続の適正確保</ArticleTitle>
+      <Sentence>行政機関の職員は、行政手続を行うに当たり、法令を遵守し、事実を正確に把握し、公正な判断を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+
+  <Chapter Num="9">
+    <ChapterTitle>補則</ChapterTitle>
+
+    <Article Num="37">
+      <ArticleTitle>関係機関との協力</ArticleTitle>
+      <Sentence>行政機関は、行政手続を適正かつ効率的に行うため、必要に応じて他の行政機関その他の関係機関と協力しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="38">
+      <ArticleTitle>国民への配慮</ArticleTitle>
+      <Sentence>行政機関は、行政手続を行うに当たり、国民に不必要な負担を課すことのないよう配慮しなければならない。</Sentence>
+    </Article>
+
+    <Article Num="39">
+      <ArticleTitle>手続の標準化</ArticleTitle>
+      <Sentence>行政機関は、行政手続の統一性及び予測可能性を確保するため、可能な限り手続の標準化を図るものとする。</Sentence>
+    </Article>
+
+    <Article Num="40">
+      <ArticleTitle>規則の整備</ArticleTitle>
+      <Sentence>行政機関は、この法律を施行するため必要な事項について、規則その他の規程を定めることができる。</Sentence>
+    </Article>
+
+    <Article Num="41">
+      <ArticleTitle>施行規則</ArticleTitle>
+      <Sentence>この法律の施行に関し必要な事項は、政令で定める。</Sentence>
+    </Article>
+
+    <Article Num="42">
+      <ArticleTitle>適用上の留意</ArticleTitle>
+      <Sentence>この法律の規定は、行政機関がその権限を適正に行使することを妨げるように解釈してはならない。</Sentence>
+    </Article>
+
+    <Article Num="43">
+      <ArticleTitle>他の法令との関係</ArticleTitle>
+      <Sentence>行政手続について他の法令に特別の定めがあるときは、その定めるところによる。</Sentence>
+    </Article>
+
+    <Article Num="44">
+      <ArticleTitle>委任</ArticleTitle>
+      <Sentence>この法律に定めるもののほか、この法律の施行に必要な事項は、政令又は行政機関の規則で定める。</Sentence>
+    </Article>
+  </Chapter>
+
+  <SupplementaryProvisions>
+    <SupplementaryProvision Num="1">
+      <Sentence>この法律は、公布の日から三十日を経過した日から施行する。</Sentence>
+    </SupplementaryProvision>
+  </SupplementaryProvisions>
+</Law>
