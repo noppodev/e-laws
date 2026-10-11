@@ -60,6 +60,12 @@
     "articleCount": 17
   },
   {
+    "id": "martial-law",
+    "title": "国家の安全及び公共の秩序を維持するための戒厳の宣告、実施及び解除並びに戒厳下における行政その他の特例に関する法律",
+    "filename": "martial-law.xml",
+    "articleCount": 45
+  },
+  {
     "id": "national-diet-act",
     "title": "国会法",
     "filename": "national-diet-act.xml",
