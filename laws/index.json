@@ -24,6 +24,12 @@
     "articleCount": 85
   },
   {
+    "id": "commercial",
+    "title": "商法",
+    "filename": "commercial.xml",
+    "articleCount": 250
+  },
+  {
     "id": "constitution",
     "title": "憲法",
     "filename": "constitution.xml",
