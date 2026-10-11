@@ -66,6 +66,12 @@
     "articleCount": 45
   },
   {
+    "id": "national-defense",
+    "title": "国防法",
+    "filename": "national-defense.xml",
+    "articleCount": 73
+  },
+  {
     "id": "national-diet-act",
     "title": "国会法",
     "filename": "national-diet-act.xml",
