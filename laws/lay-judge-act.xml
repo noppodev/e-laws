@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>裁判員法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、国民の中から選定された裁判員が裁判官と共に刑事裁判を行う制度の確立に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>裁判員に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「裁判員」とは、地方裁判所において裁判官と共に公判審理に出席し、事実の認定及び量刑を判断する国民をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「裁判員裁判対象事件」とは、法定刑が死刑、無期又は故意の犯罪行為により被害者を死亡させた重大事件をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、国民の中から選定された裁判員が裁判官と共に刑事裁判を行う制度の確立に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、最高裁判所長及び法務大臣が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>最高裁判所長及び法務大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、国民の中から選定された裁判員が裁判官と共に刑事裁判を行う制度の確立に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>裁判員の選任手続及び資格要件</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>裁判員の職権と地位</ArticleTitle>
+      <Sentence>裁判員は、裁判官と対等の資格で評議に出席し、意見を述べ、評決に参加する。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>選任資格（有権者）</ArticleTitle>
+      <Sentence>衆議院議員の選挙権を有する国民は、裁判員となる資格を有する。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>欠格事由の規定</ArticleTitle>
+      <Sentence>国家公務員法等により公務に就くことができない者、禁錮以上の刑に処せられた者は選任されない。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>就職禁止の職種</ArticleTitle>
+      <Sentence>国会議員、国務大臣、裁判官、検察官、弁護士、警察官、自衛官等は裁判員となることができない。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>事件に関する不適格</ArticleTitle>
+      <Sentence>被告人又は被害者の親族、証人、告訴人等は、当該事件の裁判員となることができない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>辞退事由の範囲</ArticleTitle>
+      <Sentence>七十歳以上の者、学生、重病者、介護に従事する者、重要な事業上の支障がある者は辞退できる。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>裁判員候補者名簿の調製</ArticleTitle>
+      <Sentence>地方裁判所は、毎年、管内の選挙管理委員会が作成した名簿から候補者を選定する。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>呼出し及び質問票の送付</ArticleTitle>
+      <Sentence>事件ごとに候補者を抽出し、質問票を送付した上で裁判所に呼び出す。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>選任期日における審尋</ArticleTitle>
+      <Sentence>裁判官、検察官及び弁護人は、不公平な裁判をするおそれの有無を審査する。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>理由なし忌避の権利</ArticleTitle>
+      <Sentence>検察官及び被告人側は、理由を付さずに一定数（四人）の候補者を忌避することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>裁判員の員数、宣誓及び身分保障</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>合議体の構成（原則裁判官三人・裁判員六人）</ArticleTitle>
+      <Sentence>地方裁判所の合議体は、裁判官三人及び裁判員六人をもって構成する。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>補充裁判員の選任</ArticleTitle>
+      <Sentence>長期裁判に備え、裁判員に事故があるときに代わる補充裁判員を選任できる。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>裁判員の宣誓義務</ArticleTitle>
+      <Sentence>選任された裁判員は、法廷において良心に従い公平誠実に職務を行う旨を宣誓する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>職務専念義務と出頭義務</ArticleTitle>
+      <Sentence>裁判員は、指定されたすべての公判期日及び評議に出頭しなければならない。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>裁判員の保護及び不利益取扱いの禁止</ArticleTitle>
+      <Sentence>事業主は、従業員が裁判員の職務に従事したことを理由として解雇等の不利益処分をしてはならない。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>身辺の安全確保</ArticleTitle>
+      <Sentence>警察及び裁判所は、裁判員及びその家族に対する接触、脅迫を防止する厳重な警戒を行う。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>旅費及び日当の支給</ArticleTitle>
+      <Sentence>裁判員及び候補者に対し、国の費用により適正な旅費、宿泊料及び日当を支給する。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>守秘義務の厳格保持</ArticleTitle>
+      <Sentence>裁判員は、評議の秘密及び職務上知り得た他人の個人情報を漏らしてはならない。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>解任の手続</ArticleTitle>
+      <Sentence>不公正な行為又は重大な職務怠慢があった裁判員は、裁判所の決定により解任される。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>任期の終了</ArticleTitle>
+      <Sentence>判決の言渡しが終了したときは、裁判員の任務は当然に終了する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>公判前整理手続及び審理の進行</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>公判前整理手続の必置</ArticleTitle>
+      <Sentence>裁判員裁判の前に、裁判官、検察官、弁護人が争点及び証拠を厳格に整理する。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>証拠開示の促進</ArticleTitle>
+      <Sentence>検察官は、公判前整理手続において、証明予定事実に係る証拠を全面的に開示する。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>連日的開廷の原則</ArticleTitle>
+      <Sentence>審理は、裁判員の負担を軽減し記憶を新鮮に保つため、連日開廷して集中審理する。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>分かりやすい法廷審理</ArticleTitle>
+      <Sentence>書面の朗読を避け、法廷での口頭陳述、スライド、実物証拠の提示を主とする。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>裁判員による質問権</ArticleTitle>
+      <Sentence>裁判員は、裁判長の許可を得て、証人、鑑定人及び被告人に直接質問することができる。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>冒頭陳述の明確化</ArticleTitle>
+      <Sentence>検察官及び弁護人は、平易な言葉で事件の全体像と主張を説明しなければならない。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>専門的証拠の平易な解説</ArticleTitle>
+      <Sentence>法医学、精神鑑定、ＤＮＡ鑑定等の難解な証拠は、専門家が分かりやすく解説する。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>中間的な評議の実施</ArticleTitle>
+      <Sentence>一日の審理終了後、裁判官と裁判員がその日の印象と疑問点を確認する中間評議を行う。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>裁判長の争点解説義務</ArticleTitle>
+      <Sentence>裁判長は、法律上の要件及び証拠裁判主義の原則を裁判員に平易に説示しなければならない。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>被害者参加制度との調和</ArticleTitle>
+      <Sentence>犯罪被害者が法廷で意見を陳述する際、裁判員の心証に不当な偏見を与えないよう配慮する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>評議、評決及び判決言渡し</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>評議の非公開</ArticleTitle>
+      <Sentence>事実の認定、法令の適用及び量刑に関する評議は、秘密とし非公開で行う。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>評決の多数決基準（双方票を含む過半数）</ArticleTitle>
+      <Sentence>評決は、合議体の過半数（五人以上）による。ただし、裁判官と裁判員の双方の意見を各一人以上含まなければならない。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>無罪の推定の貫徹</ArticleTitle>
+      <Sentence>合理的な疑いを超える証明がないときは、被告人に有利に無罪の評決を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>有罪認定後の量刑評議</ArticleTitle>
+      <Sentence>有罪と決したときは、情状、前科、被害感情を考慮して適正な量刑を合議する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>量刑データベースの参照</ArticleTitle>
+      <Sentence>同種事案における過去の判決傾向をグラフ等で提示し、極端な量刑の乖離を防ぐ。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>死刑の選択に関する厳格多数決</ArticleTitle>
+      <Sentence>死刑を科すべき旨の評決には、より慎重な議論と全員の一致に近い合意を求める。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>判決書の作成</ArticleTitle>
+      <Sentence>裁判官が評議の結果に基づき判決書を起草し、事実及び量刑の理由を明記する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>判決言渡しの立会い</ArticleTitle>
+      <Sentence>裁判員は法廷に出頭し、裁判長による判決主文の言渡しに立ち会う。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>言渡し後の記者会見（感想の表明）</ArticleTitle>
+      <Sentence>職務終了後、裁判員は自己の感想を自由に報道陣に語ることができる（評議の秘密を除く）。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>上訴審（控訴審）における尊重</ArticleTitle>
+      <Sentence>高等裁判所は、裁判員裁判の事実認定及び量刑を、著しい不合理がない限り最大限に尊重する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>威迫・接触の禁止及び罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>裁判員威迫の重罪</ArticleTitle>
+      <Sentence>裁判員又はその親族に対し、威迫、強要又は請託の行為をした者は、五年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>請託の罪</ArticleTitle>
+      <Sentence>裁判員に対し、有利又は不利な裁判をさせる目的で請託をした者は、二年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>守秘義務違反の罪</ArticleTitle>
+      <Sentence>評議の秘密を漏らした裁判員は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>不出頭の過料</ArticleTitle>
+      <Sentence>正当な理由なく選任期日又は公判期日に出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>虚偽陳述の過料</ArticleTitle>
+      <Sentence>選任手続の質問において虚偽の申述をした候補者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>職務宣誓拒絶の過料</ArticleTitle>
+      <Sentence>正当な理由なく宣誓を拒んだ裁判員は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>身元公表の禁止違反</ArticleTitle>
+      <Sentence>裁判員の氏名、住所等を無断で新聞等に公表した者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>裁判官の指導責任</ArticleTitle>
+      <Sentence>裁判長は、評議において裁判員が自由に意見を述べられる環境を作る義務を負う。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>精神的負担のケア窓口</ArticleTitle>
+      <Sentence>重大残虐事件の審理に従事した裁判員に対し、国の費用で心理カウンセリングを提供する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>施行状況の五年ごとの見直し</ArticleTitle>
+      <Sentence>最高裁判所及び政府は、制度の実施状況を不断に検証し、必要な法改正を講ずる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>最高裁判所長及び法務大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

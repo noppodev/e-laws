@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>保険業法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、保険業の健全な運営、保険契約者の保護及び保険募集の適正化に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>保険業に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「保険業」とは、人の生存若しくは死亡又は一定の偶然の事故による損害を填補する引受業務をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「保険契約者」とは、保険者との間で保険契約を締結する者をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、保険業の健全な運営、保険契約者の保護及び保険募集の適正化に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>金融庁長官は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、金融庁長官が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>金融庁長官は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>金融庁長官は、保険業の健全な運営、保険契約者の保護及び保険募集の適正化に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>金融庁長官は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>金融庁長官の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>金融庁長官及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>金融庁長官は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>金融庁長官は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>金融庁長官は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>保険会社の免許及び形態</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>免許の原則</ArticleTitle>
+      <Sentence>保険業は、金融庁長官の免許を受けた株式会社又は相互会社でなければ営めない。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>相互会社の形態</ArticleTitle>
+      <Sentence>保険契約者を社員とする相互会社の設立及び社員総会の運営を規定する。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>最低資本金基準</ArticleTitle>
+      <Sentence>保険会社の資本金又は基金の総額は、十億円以上でなければならない。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>生命保険と損害保険の兼業禁止</ArticleTitle>
+      <Sentence>同一の保険会社が生命保険業と損害保険業を兼営することはできない。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>定款及び約款の認可</ArticleTitle>
+      <Sentence>定款、業務方法書、普通保険約款及び保険料率算出方法書は認可を要する。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>外国保険会社の特例</ArticleTitle>
+      <Sentence>外国保険事業者が国内で引受けを行う場合の支店免許手続を定める。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>商号の使用制限</ArticleTitle>
+      <Sentence>保険会社でない者は、その名称中に保険会社たる文字を使用してはならない。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>主要株主の適格審査</ArticleTitle>
+      <Sentence>保険会社の総議決権の二十パーセント以上を保有する株主を審査する。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>取締役等の兼職制限</ArticleTitle>
+      <Sentence>常務に従事する役員は、当局の承認なく他の営利企業に従事できない。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>保険契約者総代会</ArticleTitle>
+      <Sentence>相互会社において、社員総会に代わる総代会を設置することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>業務の範囲及び資産運用規制</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>保険会社の固有業務</ArticleTitle>
+      <Sentence>保険の引受け及び資産の運用を固有業務とする。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>付随業務の範囲</ArticleTitle>
+      <Sentence>他の保険会社の業務の代理、保証、国債等の売買等を行うことができる。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>資産運用の健全性原則</ArticleTitle>
+      <Sentence>預金者の保護と同様、資産運用は安全性、収益性及び流動性を確保して行う。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>貸付け及び有価証券投資の制限</ArticleTitle>
+      <Sentence>同一人に対する貸付限度額及び株式保有割合の上限規制を設ける。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>不動産保有の制限</ArticleTitle>
+      <Sentence>業務上直接必要なものを除き、投機的な不動産保有を禁止する。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>子会社の保有規制</ArticleTitle>
+      <Sentence>保険会社が子会社とすることができる法人の範囲を厳格に限定する。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>責任準備金の積立て</ArticleTitle>
+      <Sentence>将来の保険金支払に備え、保険料積立金等の責任準備金を積み立てなければならない。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>支払備金の計上</ArticleTitle>
+      <Sentence>既に発生した事故に係る未払保険金に対し、支払備金を計上する。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>契約者配当の適正化</ArticleTitle>
+      <Sentence>相互会社社員又は有配当契約者に対する配当は、適正な利益分配基準による。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>信託の活用</ArticleTitle>
+      <Sentence>契約者保護のため、資産の一部を信託会社に保全信託させることができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>保険募集の取締り及び募集人登録</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>保険募集人の登録</ArticleTitle>
+      <Sentence>保険募集を行う代理店及び外交員は、当局の登録を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>重要事項の説明義務</ArticleTitle>
+      <Sentence>契約締結に先立ち、保険料、保険金支払事由、免責事由等を書面で説明する。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>虚偽告知の禁止</ArticleTitle>
+      <Sentence>契約者に対し、事実と異なることを告げ、又は重要事項を告げないことを禁止する。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>不当な乗換えの禁止</ArticleTitle>
+      <Sentence>不利益を及ぼす方法により既存契約を解約させ、新契約に加入させてはならない。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>特別の利益の提供禁止</ArticleTitle>
+      <Sentence>保険料の割引、割戻しその他特別の利益を提供して勧誘してはならない。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>意向把握義務</ArticleTitle>
+      <Sentence>顧客のニーズを的確に把握し、これに合致した保険商品を提案しなければならない。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>クーリングオフ制度</ArticleTitle>
+      <Sentence>契約者は、申込日から八日以内であれば、無条件で申込みを撤回できる。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>苦情処理体制の整備</ArticleTitle>
+      <Sentence>募集人は、顧客からの相談及び苦情に適切に対処する窓口を置かなければならない。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>代理店の監督責任</ArticleTitle>
+      <Sentence>保険会社は、その委託した保険代理店の業務について指導監督責任を負う。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>無資格募集の禁止</ArticleTitle>
+      <Sentence>登録を受けない者が保険の募集を行うことは、絶対にしてはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>財務健全性及び早期是正措置</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>ソルベンシー・マージン比率</ArticleTitle>
+      <Sentence>大災害や急激な株価下落等の通常予測不能なリスクに対する支払余力比率を維持する。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>早期是正措置の発令</ArticleTitle>
+      <Sentence>比率が二百パーセントを下回ったときは、当局は業務改善計画を命ずる。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>保険計理人の選任</ArticleTitle>
+      <Sentence>数理計算の適正を期するため、資格を有する保険計理人を選任しなければならない。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>計理人の意見書提出</ArticleTitle>
+      <Sentence>保険計理人は、毎期末、責任準備金の積立てが適正であるかの意見書を提出する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>業務報告書の提出と公開</ArticleTitle>
+      <Sentence>事業年度終了後、詳細な事業報告書を提出し、一般にディスクローズする。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>利益供与の禁止</ArticleTitle>
+      <Sentence>特定の契約者に対し、不当に有利な引受け又は便宜を提供してはならない。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>内部監査の義務</ArticleTitle>
+      <Sentence>健全な業務運営を確保するため、専任の内部監査部門を置かなければならない。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>反社会的勢力の排除</ArticleTitle>
+      <Sentence>保険契約からの反社会的勢力排除条項を定め、不当な保険金請求を阻止する。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>臨時実地検査</ArticleTitle>
+      <Sentence>金融庁検査官は、保険会社及び代理店に対し、随時実地検査を実施する。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>業務改善命令及び停止</ArticleTitle>
+      <Sentence>法令違反があるときは、業務の改善命令又は停止処分を科する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>破綻処理及び保険契約者保護機構</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>保険契約者保護機構の設置</ArticleTitle>
+      <Sentence>万一の保険会社破綻時に備え、全保険会社を会員とする保護機構を置く。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>破綻時の補償割合</ArticleTitle>
+      <Sentence>生命保険の責任準備金の九十パーセント（損害保険は原則八十〜百％）を補償する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>救済保険会社への資金援助</ArticleTitle>
+      <Sentence>破綻会社の契約を引き受ける救済保険会社に対し、機構から資金を贈与する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>保険契約の移転手続</ArticleTitle>
+      <Sentence>破綻した保険会社は、裁判所及び当局の監督下で他社に契約を包括移転する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>契約条件の変更</ArticleTitle>
+      <Sentence>破綻処理に伴い、予定利率の引下げ等の契約条件の変更を行うことができる。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>金融整理管財人の業務</ArticleTitle>
+      <Sentence>破綻保険会社に管財人を派遣し、資産の保全及び債務整理を主導させる。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>役員の責任追及</ArticleTitle>
+      <Sentence>破綻を招いた経営陣に対し、厳格な損害賠償請求及び刑事告発を行う。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>無免許営業の罰則</ArticleTitle>
+      <Sentence>免許を受けずに保険業を営んだ者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>特別利益提供の罰則</ArticleTitle>
+      <Sentence>特別の利益を提供して募集した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の業務に関して違反行為があったときは、その法人に対しても罰金刑を科する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>金融庁長官は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>金融庁長官の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>金融庁長官は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>金融庁長官は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>金融庁長官は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>金融庁長官は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>金融庁長官は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>金融庁長官は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>金融庁長官は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

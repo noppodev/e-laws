@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>著作権法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、著作物並びに実演、レコード、放送等の権利の保護及び公正な利用による文化の発展に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>著作権に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「著作物」とは、思想又は感情を創作的に表現したものであって、文芸、学術、美術又は音楽の範囲に属するものをいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「著作権」とは、著作物の複製、上演、演奏、上映、公衆送信、翻案等を独占的かつ排他的に行う財産的権利をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、著作物並びに実演、レコード、放送等の権利の保護及び公正な利用による文化の発展に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、文化庁長官及び文部科学大臣が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>文化庁長官及び文部科学大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、著作物並びに実演、レコード、放送等の権利の保護及び公正な利用による文化の発展に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>著作物の範囲及び著作者の権利</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>保護を受ける著作物の例示</ArticleTitle>
+      <Sentence>小説、論文、楽曲、絵画、彫刻、建築、写真、映画、コンピュータプログラム等を保護する。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>無方式主義の原則</ArticleTitle>
+      <Sentence>著作権の発生には、いかなる登録、納本その他の手続も要しない。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>二次的著作物の保護</ArticleTitle>
+      <Sentence>翻訳、編曲、映画化等により創作された二次的著作物も独立して保護される。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>編集著作物及びデータベース</ArticleTitle>
+      <Sentence>素材の選択又は配列に創作性がある編集物及びデータベースは著作物とする。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>保護されない著作物</ArticleTitle>
+      <Sentence>憲法その他の法令、裁判所の判決、官公庁の通達、単純な事実の伝達等は著作権の目的とならない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>共同著作物の特例</ArticleTitle>
+      <Sentence>二人以上が共同して創作し分離利用できない著作物は、全員の合意により権利を行使する。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>職務著作の帰属</ArticleTitle>
+      <Sentence>法人の発意に基づき従業員が職務上作成した著作物は、特段の定めがない限り法人が著作者となる。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>映画の著作物の特例</ArticleTitle>
+      <Sentence>映画の著作権は、製作者に帰属し、監督、脚本家等の創作者には相当の報酬を受ける権利を認める。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>著作者人格権の一身専属性</ArticleTitle>
+      <Sentence>公表権、氏名表示権及び同一性保持権は、著作者の一身に専属し、譲渡できない。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>同一性保持権の制限</ArticleTitle>
+      <Sentence>プログラムのバグ修正、建築物の増改築等、やむを得ない改変は同一性保持権を侵害しない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>著作財産権の支分権及び存続期間</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>複製権</ArticleTitle>
+      <Sentence>著作物を印刷、写真、複写、録音、録画等により有形的に再製する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>上演権及び演奏権</ArticleTitle>
+      <Sentence>公衆に直接見せ又は聞かせる目的で著作物を上演又は演奏する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>上映権及び公衆送信権</ArticleTitle>
+      <Sentence>スクリーン等に映写する権利、及びインターネット等により送信する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>口述権及び展示権</ArticleTitle>
+      <Sentence>言語の著作物を朗読する権利、及び美術・写真の原作品を公に展示する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>頒布権及び譲渡権</ArticleTitle>
+      <Sentence>映画の著作物の複製物を頒布する権利、及び原作品等を公衆に譲渡する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>貸与権及び翻訳・翻案権</ArticleTitle>
+      <Sentence>商業用複製物を貸与する権利、及び著作物を翻訳、編曲、変形、脚色する権利を専有する。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>著作権の存続期間</ArticleTitle>
+      <Sentence>著作権は、著作者の生存中及びその死後七十年（無名・団体名義は公表後七十年）存続する。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>映画の存続期間</ArticleTitle>
+      <Sentence>映画の著作権は、公表後七十年をもって消滅する。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>共有著作権の行使</ArticleTitle>
+      <Sentence>共有に係る著作権は、全員の合意によらなければ行使できず、正当な理由なく合意を拒めない。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>著作権の譲渡及び質権設定</ArticleTitle>
+      <Sentence>著作権は、その全部又は一部を譲渡し、又は質権の目的とすることができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>著作権の制限（公正利用及び自由利用）</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>私的使用のための複製</ArticleTitle>
+      <Sentence>家庭内その他個人的に使用する目的であれば、適法に公表された著作物を複製できる。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>図書館等における複製</ArticleTitle>
+      <Sentence>公立図書館等は、利用者の調査研究のため一部分を一人につき一部提供できる。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>引用の要件</ArticleTitle>
+      <Sentence>報道、批評、研究等の正当な目的のため、公正な慣行に合致し引用部分が主従関係にあれば引用できる。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>教科用図書等への掲載</ArticleTitle>
+      <Sentence>公教育の教科書への掲載は、文化庁長官への届出と適正な補償金の支払により許諾なく行える。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>学校教育における利用</ArticleTitle>
+      <Sentence>授業の過程において担当教員及び児童生徒が必要な限度で複製又は公衆送信できる。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>試験問題としての複製</ArticleTitle>
+      <Sentence>入学試験等の問題として著作物を複製又は送信することができる。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>視覚障害者等のための利用</ArticleTitle>
+      <Sentence>点字への翻案、音声読み上げ用データの作成等、福祉のための利用を認める。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>営利を目的としない上演等</ArticleTitle>
+      <Sentence>入場料を取らず、実演家に報酬を支払わない無料の上演等は許諾なく行える。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>時事問題に関する報道</ArticleTitle>
+      <Sentence>日々の事件の報道のためにやむを得ない限度において、事件を構成する著作物を利用できる。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>情報解析（ＡＩ学習）のための利用</ArticleTitle>
+      <Sentence>コンピュータによる情報解析の用に供する場合、著作物に表現された思想感情を享受しない利用は自由とする。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>著作隣接権（実演家、レコード製作者、放送事業者）</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>著作隣接権の保護期間</ArticleTitle>
+      <Sentence>実演、レコードの固定、放送が行われた時から七十年間存続する。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>実演家の権利</ArticleTitle>
+      <Sentence>録音録画権、送信可能化権、商業用レコードの二次使用料を受ける権利を専有する。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>実演家人格権</ArticleTitle>
+      <Sentence>実演家は、その氏名を表示する権利及び実演の同一性を保持する権利を有する。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>レコード製作者の権利</ArticleTitle>
+      <Sentence>レコードの複製権、送信可能化権及び商業用貸与権を専有する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>放送事業者の権利</ArticleTitle>
+      <Sentence>放送の同時再放送権、有線送信権、テレビジョン放送の上映権を専有する。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>有線放送事業者の権利</ArticleTitle>
+      <Sentence>有線放送の再放送権及び録音録画権を保護する。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>私的録音録画補償金制度</ArticleTitle>
+      <Sentence>デジタル機器を用いて私的複製を行う者から機器代金等を通じて補償金を徴収する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>著作権等管理事業者の登録</ArticleTitle>
+      <Sentence>著作権の信託管理を業として行う団体（ＪＡＳＲＡＣ等）は、文化庁の登録を受ける。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>使用料規程の認可</ArticleTitle>
+      <Sentence>管理事業者は、公正な著作権使用料規程を定め、文化庁長官に届け出なければならない。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>裁定による利用</ArticleTitle>
+      <Sentence>著作権者の所在が不明な場合、文化庁長官の裁定を受け供託金を納めて著作物を利用できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>侵害に対する救済措置及び罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>差止請求及び廃棄請求</ArticleTitle>
+      <Sentence>著作権者は、自己の権利を侵害する者に対し、侵害の停止及び侵害物の廃棄を請求できる。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>損害額の推定規定</ArticleTitle>
+      <Sentence>侵害者が販売した数量に正規の利益額を乗じた額、又はライセンス料相当額を損害と推定する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>著作者人格権侵害の回復措置</ArticleTitle>
+      <Sentence>著作者人格権を侵害した者に対し、謝罪広告の掲載等の名誉回復措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>技術的保護手段の回避禁止</ArticleTitle>
+      <Sentence>コピーガードを解除する装置又はプログラムの販売を厳格に禁止する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>海賊版サイトの差止め</ArticleTitle>
+      <Sentence>インターネット上で大規模に著作権を侵害する違法サイトに対し、ドメイン差止めを命ずる。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>故意の侵害に対する刑罰</ArticleTitle>
+      <Sentence>著作権を故意に侵害した者は、十年以下の拘禁刑若しくは一千万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>法人の重罰金（三億円以下）</ArticleTitle>
+      <Sentence>法人の業務に関して著作権侵害の罪を犯したときは、その法人に対し三億円以下の罰金を科する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>著作者人格権侵害の罰則</ArticleTitle>
+      <Sentence>著作者人格権を侵害した者は、五年以下の拘禁刑又は五百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>違法ダウンロードの罰則</ArticleTitle>
+      <Sentence>有償の著作物が違法に配信されていることを知りながらダウンロードした者を処罰する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>親告罪の特例</ArticleTitle>
+      <Sentence>営利目的の大規模な海賊版事案については、著作権者の告訴を要せず公訴を提起できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>文化庁長官及び文部科学大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

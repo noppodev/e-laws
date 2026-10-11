@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>出入国管理及び難民認定法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、本邦に入国・出国するすべての人の公正な管理及び難民の適正な庇護認定に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>出入国管理及び難民認定に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「在留資格」とは、外国人が本邦に入国し在留して行うことができる活動又は身分上の地位をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「難民」とは、人種、宗教、国籍、政治的意見等を理由に迫害を受けるおそれがある条約上の難民をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、本邦に入国・出国するすべての人の公正な管理及び難民の適正な庇護認定に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、法務大臣及び出入国在留管理庁長官が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法務大臣及び出入国在留管理庁長官は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、本邦に入国・出国するすべての人の公正な管理及び難民の適正な庇護認定に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>出入国の審査及び在留資格の決定</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>出入国港の指定</ArticleTitle>
+      <Sentence>外国人は、法務大臣が指定する正規の出入国港において出入国審査を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>旅券及び査証の確認</ArticleTitle>
+      <Sentence>有効なパスポート及び在外公館が発給したビザを携帯していなければ上陸できない。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>入国審査官の審査権限</ArticleTitle>
+      <Sentence>審査官は、上陸目的、在留期間、滞在費用の確実性を実地に面接審査する。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>生体識別情報の提供義務</ArticleTitle>
+      <Sentence>上陸申請を行う十六歳以上の外国人は、指紋及び顔写真を提供しなければならない。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>在留資格の決定及び上陸許可</ArticleTitle>
+      <Sentence>活動内容に応じた所定の在留資格（就労、留学、公用等）を決定し上陸を許可する。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>在留カードの交付</ArticleTitle>
+      <Sentence>中長期在留者に対し、顔写真、氏名、在留資格、期限を記載した在留カードを交付する。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>上陸拒否事由の法定</ArticleTitle>
+      <Sentence>重大犯罪の前科者、不法滞在歴のある者、感染症罹患者等は上陸を拒絶する。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>特別審理官の口頭審理</ArticleTitle>
+      <Sentence>上陸を拒絶された外国人は、特別審理官に対し口頭審理を請求できる。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>法務大臣への異議申出</ArticleTitle>
+      <Sentence>特別審理官の判定に不服があるときは、法務大臣に対し異議を申し出ることができる。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>特別上陸許可の裁量</ArticleTitle>
+      <Sentence>人道上の特別な配慮を要するときは、法務大臣が特例として上陸を許可できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>在留管理及び活動制限の規律</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>在留資格の取消制度</ArticleTitle>
+      <Sentence>偽りの申告により許可を得たとき、又は資格外活動のみを行っているときは在留資格を取り消す。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>在留期間の更新手続</ArticleTitle>
+      <Sentence>在留期間満了後も継続滞在を希望するときは、事前に期間更新許可を申請する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>在留資格の変更許可</ArticleTitle>
+      <Sentence>留学から就労への移行等、活動目的を変更するときは事前に変更許可を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>資格外活動の許可</ArticleTitle>
+      <Sentence>本来の資格の活動を阻害しない範囲で、週二十八時間以内のアルバイト等を許可する。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>住居地の届出義務</ArticleTitle>
+      <Sentence>住所を定めた日から十四日以内に、市町村の窓口を経て住居地を届け出なければならない。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>在留カードの常時携帯義務</ArticleTitle>
+      <Sentence>十六歳以上の外国人は、外出時に常に在留カードを携帯し提示に応じなければならない。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>所属機関の変更届出</ArticleTitle>
+      <Sentence>勤務先企業又は修学先大学を変更したときは、十四日以内に入管庁に届け出る。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>高度外国人材の優遇措置</ArticleTitle>
+      <Sentence>学歴、職歴、年収に応じたポイント制により、永住要件の緩和等の優遇を与える。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>外国人雇用状況の届出</ArticleTitle>
+      <Sentence>事業主は、外国人を雇用又は離職させたときは、ハローワークを通じて届け出なければならない。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>不法就労助長行為の禁止</ArticleTitle>
+      <Sentence>不法滞在者又は無資格者を雇用し、又は斡旋した事業主を重罪に処する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>退去強制（強制送還）手続及び収容</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>退去強制事由の類型</ArticleTitle>
+      <Sentence>不法入国者、オーバーステイ（不法残留者）、重罪による実刑判決確定者を強制送還する。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>入国警備官の調査権限</ArticleTitle>
+      <Sentence>警備官は、違反嫌疑者を調査し、関係者に質問し、臨検捜索を行うことができる。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>収容令状の発付手続</ArticleTitle>
+      <Sentence>身柄拘束の必要があるときは、首席審査官が発する収容令状により入国者収容所に収容する。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>仮放免制度の運用</ArticleTitle>
+      <Sentence>人道上の理由、健康状態を考慮し、保証金を納付させて身柄収容を一時解除する。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>口頭審理及び判定</ArticleTitle>
+      <Sentence>特別審理官が違反事実の有無を審理し、退去強制該当性を判定する。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>退去強制令状の発付</ArticleTitle>
+      <Sentence>確定した判定に基づき、所長が退去強制令状を発付し、母国等へ強制送還する。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>在留特別許可（在特）</ArticleTitle>
+      <Sentence>日本国民と結婚している等、特別の情状があるときは、大臣の裁量で特別に在留を許可する。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>送還先国の選定</ArticleTitle>
+      <Sentence>国籍国、本国、又は本人が希望する安全な第三国を送還先とする。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>監理措置制度の導入</ArticleTitle>
+      <Sentence>身元保証人たる監理人の下で、施設に収容せず社会生活を送りながら退去手続を進める。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>自見出国（出国命令制度）</ArticleTitle>
+      <Sentence>自ら出頭した不法残留者に対し、身柄を収容せず簡易な手続で出国させる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>難民認定制度及び補完的保護</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>難民認定の申請手続</ArticleTitle>
+      <Sentence>迫害の恐れがある外国人は、いつでも法務大臣に対し難民認定を申請できる。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>難民調査官の調査</ArticleTitle>
+      <Sentence>客観的な母国情勢、人権報告書を精査し、申請者に対し詳細な面接聴取を行う。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>難民認定の基準</ArticleTitle>
+      <Sentence>難民条約及び議定書の定義に厳格に従い、人種、宗教、政治的迫害の蓋然性を審査する。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>仮滞在の許可</ArticleTitle>
+      <Sentence>不法滞在中の者であっても、難民申請を行ったときは一時的に身柄送還を停止する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>難民審査参与員制度</ArticleTitle>
+      <Sentence>不認定処分に対する審査請求は、元裁判官、学者、外交官等の参与員が審理する。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>補完的保護対象者の認定</ArticleTitle>
+      <Sentence>条約上の難民に準じ、戦争、内戦の武力紛争から逃れてきた避難民を認定保護する。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>難民旅行証明書の交付</ArticleTitle>
+      <Sentence>認定された難民に対し、外国旅行を可能とする難民旅行証明書を交付する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>定住支援及び日本語教育</ArticleTitle>
+      <Sentence>認定難民に対し、生活費の支給、日本語講習、職業紹介等の包括的定住支援を行う。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>不認定処分に対する訴訟</ArticleTitle>
+      <Sentence>裁判所に不認定処分の取消訴訟を提起し、独立の司法判断を仰ぐことができる。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>追放及び送還の禁止（ノン・ルフールマン）</ArticleTitle>
+      <Sentence>生命又は自由が脅かされる国への強制送還は、絶対にしてはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>国境監視、密航防止及び罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>不法入国・不法上陸の罪</ArticleTitle>
+      <Sentence>正規の手続を経ずに入国した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>不法残留の罪</ArticleTitle>
+      <Sentence>在留期間を経過して不法に滞在した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>不法就労助長罪の刑罰</ArticleTitle>
+      <Sentence>不法滞在者を雇用した事業主は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>集団密航の重罪</ArticleTitle>
+      <Sentence>営利目的で多数の外国人を不法に入国させた手引き者は、五年以上の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>偽造在留カード所持等の罪</ArticleTitle>
+      <Sentence>偽造カードを行使し、又は所持した者は、五年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>退去強制妨害の罪</ArticleTitle>
+      <Sentence>送還機内で暴れるなどして強制送還を妨害した者は、一年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>港湾・空港の特別合同警戒</ArticleTitle>
+      <Sentence>税関、警察、海上保安庁と連携し、貨物船コンテナの密航捜索を常時行う。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>密航輸送船の拿捕没収</ArticleTitle>
+      <Sentence>集団密航に使用された船舶又は航空機は、裁判により国庫に没収する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>国際テロリストの入国遮断</ArticleTitle>
+      <Sentence>インターポール等の国際情報に基づき、テロ容疑者の上陸を空港で即座に遮断する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>国際人権諸条約の誠実遵守</ArticleTitle>
+      <Sentence>出入国管理行政は、国際人権規約及び子どもの権利条約を忠実に遵守して行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>法務大臣及び出入国在留管理庁長官は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

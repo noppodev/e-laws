@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>少年法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、非行のある少年の性格の矯正及び環境の調整に関する保護処分並びに刑事事件の特則に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>少年に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「少年」とは、二十歳に満たない者をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「保護処分」とは、家庭裁判所の決定に基づき少年の健全育成のために課される教育的措置をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、非行のある少年の性格の矯正及び環境の調整に関する保護処分並びに刑事事件の特則に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、家庭裁判所及び法務大臣が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>家庭裁判所及び法務大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、非行のある少年の性格の矯正及び環境の調整に関する保護処分並びに刑事事件の特則に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>保護事件の調査及び審判</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>家庭裁判所の管轄</ArticleTitle>
+      <Sentence>少年の保護事件は、少年の行為地、住所、居所又は現在地を管轄する家庭裁判所が管轄する。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>通告及び送致</ArticleTitle>
+      <Sentence>何人も、非行少年を発見したときは、これを家庭裁判所に通告することができる。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>家庭裁判所調査官の調査</ArticleTitle>
+      <Sentence>調査官は、少年の性格、経歴、素行、家庭環境その他について医学・心理学的調査を行う。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>観護措置の決定</ArticleTitle>
+      <Sentence>審判を行うため必要があるときは、少年を少年鑑別所に送致する観護措置を決定できる。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>観護措置の期間</ArticleTitle>
+      <Sentence>鑑別所送致の期間は、原則として二週間とし、特に必要なときは最長八週間まで更新できる。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>付添人の選任</ArticleTitle>
+      <Sentence>保護者又は少年は、弁護士を付添人に選任することができ、国選付添人制度も保障される。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>審判の非公開</ArticleTitle>
+      <Sentence>少年の審判は、非公開で行い、親身で厳粛な雰囲気において実施しなければならない。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>不開始決定</ArticleTitle>
+      <Sentence>審判に付することができず、又は付する必要がないと認めるときは、審判を開始しない決定をする。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>試験観察の実施</ArticleTitle>
+      <Sentence>処分を決する前に、少年を調査官の観察に付し、一定期間その行動を見極めることができる。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>被害者の意見聴取</ArticleTitle>
+      <Sentence>家庭裁判所は、申出があるときは、被害者又はその遺族の心情及び意見を聴取しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>保護処分の決定及び種類</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>保護処分の三種類</ArticleTitle>
+      <Sentence>保護処分は、保護観察所の保護観察に付すること、児童自立支援施設等に送致すること、及び少年院に送致することとする。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>保護観察の実施</ArticleTitle>
+      <Sentence>保護観察官及び保護司が、家庭に留まる少年の生活指導及び遵守事項の履行を監督する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>少年院の種別</ArticleTitle>
+      <Sentence>少年の年齢、心身の障害、犯罪的傾向の進度に応じ、第一種から第四種の少年院に収容する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>少年院における矯正教育</ArticleTitle>
+      <Sentence>生活指導、教科指導、職業能力開発、体育等を通じて少年の社会復帰を支援する。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>保護処分の取消し</ArticleTitle>
+      <Sentence>本人に虚偽の申述等重大な隠蔽があったときは、決定を取り消し再審判を行う。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>抗告の手続</ArticleTitle>
+      <Sentence>決定に重大な事実誤認又は法令違反があるときは、少年又は付添人は二週間以内に高等裁判所に抗告できる。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>再抗告の制限</ArticleTitle>
+      <Sentence>憲法違反又は重大な判例違反がある場合に限り、最高裁判所に再抗告できる。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>前科とならない原則</ArticleTitle>
+      <Sentence>保護処分の決定を受けた少年は、法律上いかなる資格制限も受けず、前科とならない。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>推知報道の禁止</ArticleTitle>
+      <Sentence>少年の氏名、年齢、職業、容貌等によってその者が本人であると推知できる記事を新聞等に掲載してはならない。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>被害者への通知制度</ArticleTitle>
+      <Sentence>家庭裁判所は、被害者の請求により、決定の主文及び理由の要旨を通知しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>特定少年（十八歳・十九歳）の特則</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>特定少年の位置づけ</ArticleTitle>
+      <Sentence>民法上の成年となった十八歳及び十九歳の少年を「特定少年」として特別の規律を適用する。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>検察官送致（逆送）の原則</ArticleTitle>
+      <Sentence>特定少年が死刑、無期又は短期一年以上の拘禁刑に当たる罪を犯したときは、原則として検察官に送致する。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>検察官送致後の刑事手続</ArticleTitle>
+      <Sentence>逆送された事件は、通常の地方裁判所において公開の刑事裁判により審理される。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>不定期刑の不適用</ArticleTitle>
+      <Sentence>特定少年に対する刑事裁判においては、刑の短期と長期を定める不定期刑を科さず、定期刑を言い渡す。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>推知報道の解禁</ArticleTitle>
+      <Sentence>特定少年が起訴された後は、実名及び顔写真の報道を解禁する。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>特定少年の保護処分の特則</ArticleTitle>
+      <Sentence>保護観察に付する場合であっても、遵守事項違反に対する制裁手続を厳格化する。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>更生支援の継続</ArticleTitle>
+      <Sentence>刑事処分を受けた特定少年であっても、少年院に併設された特別施設での矯正処遇を認める。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>虞犯規定の不適用</ArticleTitle>
+      <Sentence>特定少年については、将来罪を犯すおそれのみを理由とする虞犯事件としては取り扱わない。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>裁判員裁判の対象</ArticleTitle>
+      <Sentence>特定少年の重大事件は、成人と同様に国民から選任された裁判員裁判の対象となる。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>再犯防止重点指導</ArticleTitle>
+      <Sentence>特定少年には、自己の行為の重大性を直視させる特別の償い教育を集中実施する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>少年の刑事事件の特則</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>刑事訴訟法の準用</ArticleTitle>
+      <Sentence>検察官送致後の手続については、別段の定めがある場合を除き、通常の刑事訴訟法を準用する。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>死刑の緩和</ArticleTitle>
+      <Sentence>罪を犯すとき十八歳未満であった者に対しては、死刑を科すべきときは無期拘禁刑を科する。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>無期刑の緩和</ArticleTitle>
+      <Sentence>無期拘禁刑を科すべきときは、十年以上二十年以下の有期拘禁刑を科することができる。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>不定期刑の言渡し</ArticleTitle>
+      <Sentence>少年に有期拘禁刑を科するときは、短期と長期を定めて不定期刑を言い渡す。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>換刑処分の禁止</ArticleTitle>
+      <Sentence>少年の受刑者に対し、罰金を完納できない場合であっても労役場に留置してはならない。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>刑の執行の分離</ArticleTitle>
+      <Sentence>少年の受刑者は、成人の受刑者と完全に分離して少年刑務所に収容する。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>仮釈放の特則</ArticleTitle>
+      <Sentence>不定期刑の受刑者は、短期の三分の一を経過した後は仮釈放を許すことができる。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>刑の消滅の特例</ArticleTitle>
+      <Sentence>少年のときに受けた刑の執行を受け終わったときは、将来に向かって刑の言渡しを受けなかったものとみなす。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>勾留場所の特例</ArticleTitle>
+      <Sentence>少年の被疑者を勾留するときは、原則として警察署の留置場ではなく少年鑑別所に勾留する。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>裁判官の配慮義務</ArticleTitle>
+      <Sentence>公判廷においては、少年の心情を害することのないよう特に温情をもって取り調べなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>雑則及び推知報道違反の罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>推知報道違反の罰則</ArticleTitle>
+      <Sentence>少年の氏名等を不正に公表した出版社の代表者又は編集人は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>保護者の監督責任勧告</ArticleTitle>
+      <Sentence>家庭裁判所は、非行の原因が保護者の著しい監護怠慢にあるときは、保護者に対し指導を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>関係機関の協議会</ArticleTitle>
+      <Sentence>家庭裁判所、児童相談所、警察署、少年鑑別所は、地域少年保護連絡協議会を常設する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>児童福祉法との調整</ArticleTitle>
+      <Sentence>十四歳未満の触法少年については、まず児童相談所等の行政手続による措置を先行させる。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>調査官の専門職能向上</ArticleTitle>
+      <Sentence>調査官には、精神医学、心理学、社会学の高度な研修を義務付ける。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>鑑別結果の尊重</ArticleTitle>
+      <Sentence>裁判官は、鑑別所が作成した資質鑑別結果の医学的所見を最大限に尊重する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>審判の記録の永久保存</ArticleTitle>
+      <Sentence>保護事件の記録は、プライバシー保護のため厳重に封印し、歴史的統計を除き公開してはならない。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>恩赦の特例</ArticleTitle>
+      <Sentence>少年受刑者に対する特赦及び減刑の基準は、成人に比して弾力的に運用する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>更生保護施設への収容委託</ArticleTitle>
+      <Sentence>身寄りのない出院少年について、民間の自立準備ホーム等への収容を委託する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>学校との連携</ArticleTitle>
+      <Sentence>復学を希望する少年について、教育委員会は差別なく受入れを保障しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>家庭裁判所及び法務大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

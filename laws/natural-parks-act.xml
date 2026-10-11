@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>自然公園法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、優れた自然の風景地を保護するとともに、その利用の増進を図り、国民の保健及び教養に資するに関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>自然公園に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「国立公園」とは、我が国の風景を代表するに足りる傑出した自然の風景地であって、環境大臣が指定するものをいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「公園計画」とは、自然公園の保護又は利用のための規制、施策及び施設計画を定めたマスタープランをいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、優れた自然の風景地を保護するとともに、その利用の増進を図り、国民の保健及び教養に資するに関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、環境大臣及び都道府県知事が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>環境大臣及び都道府県知事は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、優れた自然の風景地を保護するとともに、その利用の増進を図り、国民の保健及び教養に資するに関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>自然公園の指定及び公園計画</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>自然公園の区分</ArticleTitle>
+      <Sentence>自然公園は、国立公園、国定公園及び都道府県立自然公園の三種とする。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>国立公園の指定要件</ArticleTitle>
+      <Sentence>国家を代表する原生自然、景観美を有する地域を、環境大臣が関係審議会の議を経て指定する。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>国定公園の指定手続</ArticleTitle>
+      <Sentence>国立公園に準ずる優れた風景地を、関係都道府県知事の申出により環境大臣が指定する。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>公園計画の策定</ArticleTitle>
+      <Sentence>各公園ごとに、風致景観の保護のための規制計画と、利用施設計画を策定する。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>計画の定期見直し（五年ごと）</ArticleTitle>
+      <Sentence>環境動態及び利用状況の変化に応じ、概ね五年ごとに公園計画の点検と改訂を行う。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>地権者等への配慮</ArticleTitle>
+      <Sentence>公園計画を策定するにあたっては、関係住民及び農林漁業者の生活の安定に配慮しなければならない。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>境界標の設置</ArticleTitle>
+      <Sentence>公園の区域境界には、現地に明確な標柱及び案内板を設置しなければならない。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>公園事業の執行</ArticleTitle>
+      <Sentence>歩道、野営場、ビジターセンター、公衆便所等の整備は、国又は地方自治体が主導して行う。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>公園事業の認可</ArticleTitle>
+      <Sentence>民間事業者が休泊施設、索道（ロープウェイ）等を整備するときは、大臣等の認可を要する。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>公園事業の廃止と原状回復</ArticleTitle>
+      <Sentence>事業を廃止するときは、自然景観を損なわないよう工作物を撤去し緑化しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>地域地区制による景観保護規制</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>地種区分の体系</ArticleTitle>
+      <Sentence>特別保護地区、第一種から第三種特別地域、海域公園地区及び普通地域に区分指定する。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>特別保護地区の絶対保全</ArticleTitle>
+      <Sentence>学術的価値の高い原生地域において、一切の現状変更、植物採取、動物捕獲を禁止する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>特別地域の許可制</ArticleTitle>
+      <Sentence>工作物の新築、木竹の伐採、土地の開墾、鉱物の掘採は、環境大臣の許可を要する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>第一種特別地域の厳格基準</ArticleTitle>
+      <Sentence>現在の自然景観を極力維持するため、原則として新たな工作物の建築を認めない。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>第二種及び第三種特別地域</ArticleTitle>
+      <Sentence>農林漁業との調和を図り、一定規模以下の住宅、観光施設の建築を基準適合で許可する。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>海域公園地区の保護</ArticleTitle>
+      <Sentence>サンゴ礁等の海中景観を守るため、海底の形状変更、熱帯魚の捕獲、工作物設置を制限する。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>普通地域の届出制</ArticleTitle>
+      <Sentence>一定規模を超える工作物の建築、土地の造成を行うときは、事前に届出を要する。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>行為の停止命令</ArticleTitle>
+      <Sentence>無許可で景観を損なう行為に着手した者に対し、直ちに工事の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>自然再生事業の認可</ArticleTitle>
+      <Sentence>荒廃した湿原、干潟の生態系を回復させる自然再生事業計画を審査認定する。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>景観保全協定の締結</ArticleTitle>
+      <Sentence>地域の土地所有者相互の間で、自然美を保護するための民間協定を締結できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>生態系の保護及び動植物の捕獲規制</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>指定植物の採取禁止</ArticleTitle>
+      <Sentence>高山植物等の保護のため、大臣が指定した植物の採取、伐採を厳禁とする。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>指定動物の捕獲禁止</ArticleTitle>
+      <Sentence>ライチョウ等の希少野生動物を捕獲し、殺傷し、又は卵を採取してはならない。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>指定外来生物の防除</ArticleTitle>
+      <Sentence>生態系を破壊する特定外来生物の公園内への持込みを禁止し、積極的な駆除を行う。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>車両・スノーモービルの乗り入れ規制</ArticleTitle>
+      <Sentence>湿原及び高山植物の群落への四輪駆動車、スノーモービルの乗入れを禁止する。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>ペット等の放し飼い禁止</ArticleTitle>
+      <Sentence>野生動物への感染症伝播及び捕食を防ぐため、犬等の放し飼いを禁止する。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>木竹の植栽規制</ArticleTitle>
+      <Sentence>外来樹種等の植栽により在来の森林景観を改変してはならない。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>餌付けの禁止</ArticleTitle>
+      <Sentence>野生のクマ、サル等の生態を狂わせ人身被害を誘発する餌付け行為を固く禁ずる。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>夜間照明の規制（星空保護）</ArticleTitle>
+      <Sentence>野生動物の概日リズムを守るため、サーチライト等の過度な投光照明を制限する。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>自然観察路の維持</ArticleTitle>
+      <Sentence>植生の踏み荒らしを防ぐため、木道及び指定登山道から外れた歩行を制限する。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>火入れ及び焚き火の禁止</ArticleTitle>
+      <Sentence>山火事の発生を未然に防止するため、指定キャンプ場以外の場所での焚き火を禁止する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>公園利用の増進、施設管理及びオーバーツーリズム対策</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>ビジターセンターの運営</ArticleTitle>
+      <Sentence>展示室、映像ホールを設け、自然解説員（パークレンジャー）が教育活動を行う。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>利用拠点の適正配置</ArticleTitle>
+      <Sentence>過度な混雑を避け、交通結節点と自然体験エリアを有機的に結ぶ動線を整備する。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>マイカー規制の実施</ArticleTitle>
+      <Sentence>紅葉期、登山ハイシーズンにおいて、シャトルバス以外の自家用車の進入を遮断する。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>利用調整地区の指定</ArticleTitle>
+      <Sentence>過剰な観光客（オーバーツーリズム）から脆弱な自然を守るため、立入人数制限地区を指定する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>立入認定制度の運用</ArticleTitle>
+      <Sentence>利用調整地区に立ち入ろうとする者は、事前予約及び環境保護講習の受講を要する。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>入域料（環境協力金）の徴収</ArticleTitle>
+      <Sentence>公園の清掃、公衆トイレの維持管理費に充てるため、利用者から適正な協賛金を徴収する。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>遭難救助体制の確立</ArticleTitle>
+      <Sentence>山岳遭難の防止のため、登山届の提出を義務付け、救助隊との連携回線を常設する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>バリアフリー自然体験</ArticleTitle>
+      <Sentence>車椅子でも周遊できるユニバーサルデザイン木道を主要景勝地に整備する。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>エコツアーガイドの認定</ArticleTitle>
+      <Sentence>地域の自然と文化を深く解説する優良なガイド事業者を公的に認定する。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>清掃美化とゴミ持ち帰り運動</ArticleTitle>
+      <Sentence>「自分のゴミは自分で持ち帰る」マナーを徹底させ、ゴミ箱を原則撤去する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>国立公園管理官（パークレンジャー）の職務及び罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>環境省パークレンジャーの身分</ArticleTitle>
+      <Sentence>国家公務員たる自然保護官を主要国立公園に常駐させ、現場監理を委ねる。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>特別司法警察職員への指定</ArticleTitle>
+      <Sentence>自然保護官に、公園法違反事件の捜査・送検を行う司法警察権を付与する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>現状回復命令権</ArticleTitle>
+      <Sentence>違法に造成された土地、無断工作物に対し、自己の費用で原状に回復することを命ずる。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>代執行の実施</ArticleTitle>
+      <Sentence>命令に従わない違反工作物は、行政代執行法に基づき強制撤去する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>特別保護地区内無許可行為の罪</ArticleTitle>
+      <Sentence>特別保護地区で木を伐採し、又は動植物を捕獲した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>指定植物採取の罪</ArticleTitle>
+      <Sentence>指定された高山植物等を採取した者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>原状回復命令違反の罪</ArticleTitle>
+      <Sentence>環境大臣の原状回復命令に違反した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>車両乗り入れ違反の過料</ArticleTitle>
+      <Sentence>禁止区域に自動車・バイクを乗り入れた者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の業務に関して無許可開発等の罪を犯したときは、その法人に対し五千万円以下の罰金を科する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>世界の自然遺産との調和</ArticleTitle>
+      <Sentence>世界遺産条約に基づく世界自然遺産の保護区と一体的な厳正保全を完遂する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>環境大臣及び都道府県知事は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

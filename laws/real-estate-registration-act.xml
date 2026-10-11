@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>不動産登記法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、不動産の表示及び権利関係の公示並びに取引の安全確保に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>不動産登記に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「不動産登記」とは、土地及び建物について物理的現況及び権利関係を登記簿に記録することをいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「登記記録」とは、一筆の土地又は一個の建物ごとに調製される電磁的記録をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、不動産の表示及び権利関係の公示並びに取引の安全確保に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、法務大臣及び法務局が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法務大臣及び法務局は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、不動産の表示及び権利関係の公示並びに取引の安全確保に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>法務大臣及び法務局の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>法務大臣及び法務局及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>登記簿の編成及び登記所</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>一不動産一登記記録の原則</ArticleTitle>
+      <Sentence>一筆の土地又は一個の建物ごとに一個の登記記録を備えなければならない。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>登記所の管轄</ArticleTitle>
+      <Sentence>不動産の所在地を管轄する法務局、地方法務局又は出張所が管轄登記所となる。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>登記官の配置</ArticleTitle>
+      <Sentence>登記官は、登記の申請を審査し、登記記録に登記事項を記録する権限を有する。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>登記記録の構成</ArticleTitle>
+      <Sentence>登記記録は、表示に関する登記を記録する表題部と、権利に関する登記を記録する権利部に分ける。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>甲区及び乙区の区分</ArticleTitle>
+      <Sentence>権利部は、所有権に関する事項を記録する甲区と、所有権以外の権利を記録する乙区に分ける。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>地図及び図面の備付け</ArticleTitle>
+      <Sentence>登記所には、土地の区画を明確にする公図（地図）及び建物図面を備え付けなければならない。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>電磁的記録による管理</ArticleTitle>
+      <Sentence>登記簿は、高度の暗号化を施した国家不動産総合情報ネットワークにより管理する。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>登記事項証明書の交付</ArticleTitle>
+      <Sentence>何人も、所定の手数料を納付して、登記事項証明書の交付を請求することができる。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>登記事項の閲覧請求</ArticleTitle>
+      <Sentence>何人も、電磁的記録に記録された登記事項の概要をオンラインで閲覧できる。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>登記官の除斥</ArticleTitle>
+      <Sentence>登記官は、自己又は配偶者が当事者である登記事件を取り扱うことができない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>表示に関する登記（土地及び建物）</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>土地の表題登記の義務</ArticleTitle>
+      <Sentence>新たに生じた土地（埋立地等）の所有者は、一月以内に表題登記を申請しなければならない。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>地番及び地目の決定</ArticleTitle>
+      <Sentence>土地には地番を付し、田、畑、宅地、山林等の地目を定める。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>地積の測定と求積</ArticleTitle>
+      <Sentence>地積は、地積測量図に基づき平米単位で厳格に記録する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>分筆及び合筆の登記</ArticleTitle>
+      <Sentence>一筆の土地を二筆以上に分ける分筆、又は二筆以上の土地を合わせる合筆を行う。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>合筆制限の原則</ArticleTitle>
+      <Sentence>所有者が異なる土地、地目が異なる土地等は合筆することができない。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>建物の表題登記の義務</ArticleTitle>
+      <Sentence>建物を新築した者は、一月以内に表題登記を申請しなければならない。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>家屋番号の指定</ArticleTitle>
+      <Sentence>建物には、一個ごとに家屋番号を付して特定する。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>建物の構造及び床面積</ArticleTitle>
+      <Sentence>建物の所在、構造及び各階の床面積を正確に記録する。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>区分建物の特例（マンション）</ArticleTitle>
+      <Sentence>専有部分と敷地利用権の一体化を図る敷地権の登記を行う。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>滅失登記の義務</ArticleTitle>
+      <Sentence>建物が倒壊又は解体されたときは、一月以内に滅失登記を申請しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>権利に関する登記の手続通則</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>共同申請の原則</ArticleTitle>
+      <Sentence>権利に関する登記は、登記権利者と登記義務者が共同して申請しなければならない。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>単独申請の例外</ArticleTitle>
+      <Sentence>判決による登記、相続による登記等は、登記権利者が単独で申請できる。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>申請情報の提供</ArticleTitle>
+      <Sentence>申請書には、当事者、不動産の表示、登記原因及びその日付を記載しなければならない。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>登記識別情報の交付</ArticleTitle>
+      <Sentence>登記が完了したときは、新たな登記名義人に対し登記識別情報（秘密暗号キー）を通知する。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>登記原因証明情報の提出</ArticleTitle>
+      <Sentence>売買契約書、遺産分割協議書等の登記原因を証する書面を提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>印鑑証明書の添付</ArticleTitle>
+      <Sentence>登記義務者の本人確認のため、実印の印鑑証明書又は電子的公的認証を添付する。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>登記識別情報の提供義務</ArticleTitle>
+      <Sentence>権利を失う登記義務者は、自己の登記識別情報を提供しなければならない。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>事前通知制度</ArticleTitle>
+      <Sentence>識別情報を提供できないときは、登記官が登記義務者本人に書面で事前通知を行う。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>本人確認情報の作成</ArticleTitle>
+      <Sentence>弁護士又は司法書士が作成した本人確認情報により、事前通知を省略できる。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>登記の順位番号</ArticleTitle>
+      <Sentence>同一不動産についてされた権利の登記の順位は、登記記録の同区内では順位番号による。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>所有権、抵当権その他の権利の登記</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>所有権保存登記</ArticleTitle>
+      <Sentence>表題部所有者又はその相続人は、最初に所有権の保存登記を申請できる。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>所有権移転登記</ArticleTitle>
+      <Sentence>売買、贈与等により所有権が移転したときは、所有権移転登記を行う。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>相続登記の申請義務化</ArticleTitle>
+      <Sentence>相続によって不動産を取得した者は、三年以内に相続登記を申請しなければならない。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>買戻しの特約の登記</ArticleTitle>
+      <Sentence>売買契約と同時に買戻しの特約を登記することにより、第三者に対抗できる。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>地上権及び賃借権の登記</ArticleTitle>
+      <Sentence>他人の土地を使用するため、地上権又は不動産賃借権の登記を行う。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>抵当権の設定登記</ArticleTitle>
+      <Sentence>金銭債権を担保するため、被担保債権の額、利息等を記載して抵当権を設定する。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>根抵当権の登記</ArticleTitle>
+      <Sentence>一定の範囲に属する不特定の債権を極度額の限度で担保する根抵当権を設定する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>元本確定の登記</ArticleTitle>
+      <Sentence>根抵当権の担保すべき元本が確定したときは、その旨の登記を行う。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>仮登記の効力</ArticleTitle>
+      <Sentence>手続上の要件が具備しないときは仮登記をし、本登記の順位を保全する。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>差押えの登記嘱託</ArticleTitle>
+      <Sentence>裁判所又は税務署からの嘱託に基づき、差押え又は仮差押えの登記を記録する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>不服申立て及び司法書士の職権</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>登記官の処分に対する異議</ArticleTitle>
+      <Sentence>登記の却下処分に不服がある者は、法務局長に対し異議を申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>異議申立ての手続</ArticleTitle>
+      <Sentence>異議申立書を管轄登記所に提出し、登記官が相当と認めないときは上級庁に進達する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>裁判所への抗告</ArticleTitle>
+      <Sentence>法務局長の決定に不服があるときは、地方裁判所に抗告することができる。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>司法書士の代理権</ArticleTitle>
+      <Sentence>登記申請の代理業務は、国家資格を有する司法書士又は弁護士に委任する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>登記情報の漏洩禁止</ArticleTitle>
+      <Sentence>登記官及び関係職員は、職務上知り得た個人情報を漏洩してはならない。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>虚偽登記申請の罪</ArticleTitle>
+      <Sentence>虚偽の申述をして不実の登記をさせた者は、刑法上の公正証書原本不実記載罪で処断する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>登記識別情報不正取得の罪</ArticleTitle>
+      <Sentence>不正の手段により他人の登記識別情報を取得した者は、二年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>相続登記義務違反の過料</ArticleTitle>
+      <Sentence>正当な理由なく相続登記を怠った者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>公図損壊の罪</ArticleTitle>
+      <Sentence>登記所に備え付けられた地図又は登記簿を損壊した者は、三年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>登録免許税の納付</ArticleTitle>
+      <Sentence>登記申請に際しては、法令の定める適正な登録免許税を納付しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>法務大臣及び法務局の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>法務大臣及び法務局は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

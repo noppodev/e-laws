@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>道路交通法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、道路における危険の防止、安全かつ円滑な交通の確保及び交通公害の防止に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>道路交通に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「車両等」とは、自動車、原動機付自転車、軽車両及びトロリーバスをいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「運転」とは、道路において、車両等をその本来の用い方に従って用いることをいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、道路における危険の防止、安全かつ円滑な交通の確保及び交通公害の防止に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、国家公安委員会及び警察庁長官が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国家公安委員会及び警察庁長官は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、道路における危険の防止、安全かつ円滑な交通の確保及び交通公害の防止に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>道路の通行区分及び信号の遵守</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>左側通行の原則</ArticleTitle>
+      <Sentence>車両は、歩道と車道の区別のある道路においては車道を通行し、道路の左側を通行しなければならない。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>信号機の効力</ArticleTitle>
+      <Sentence>道路を通行する歩行者及び車両は、公安委員会が設置した信号機の表示する信号に従わなければならない。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>警察官の手信号</ArticleTitle>
+      <Sentence>警察官が手信号により指示するときは、信号機の表示にかかわらずその指示が優先する。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>歩行者用道路の保護</ArticleTitle>
+      <Sentence>歩行者専用道路に車両が進入してはならず、歩道と車道の区別のない道路では歩行者が優先する。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>横断歩道における優先</ArticleTitle>
+      <Sentence>横断歩道を歩行者が横断しようとしているときは、車両は一時停止しなければならない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>通行帯の遵守</ArticleTitle>
+      <Sentence>二以上の車両通行帯がある道路では、最も右側の通行帯は追越しのために空けておかなければならない。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>追越しの方法と制限</ArticleTitle>
+      <Sentence>追越しは右側を通行して行い、交差点、トンネル、急カーブ等では追越しをしてはならない。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>割り込み等の禁止</ArticleTitle>
+      <Sentence>進行中の車両の前方に強引に割り込み、又は不当に急停止をしてはならない。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>緊急自動車の優先</ArticleTitle>
+      <Sentence>パトカー、消防車、救急車等の緊急自動車が接近したときは、左側に寄って進路を譲らなければならない。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>踏切の通過方法</ArticleTitle>
+      <Sentence>踏切を通過するときは、直前で一時停止し、左右の安全と対向車線の余力を確認しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>速度制限、酒気帯び及び過労運転の禁止</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>法定速度の遵守</ArticleTitle>
+      <Sentence>自動車は、道路標識による制限速度、又は政令で定める法定最高速度（一般道六十キロ、高速百キロ）を超えてはならない。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>急ブレーキの禁止</ArticleTitle>
+      <Sentence>危険を防止するためやむを得ない場合を除き、急ブレーキをかけてはならない。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>車間距離の保持</ArticleTitle>
+      <Sentence>同一方向に進行するときは、前車が急停止しても追突を回避できる必要な車間距離を保たなければならない。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>酒気帯び運転の絶対禁止</ArticleTitle>
+      <Sentence>何人も、酒気を帯びて車両等を運転してはならない。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>酒類提供者等の責任</ArticleTitle>
+      <Sentence>運転するおそれのある者に酒類を提供し、又は車両を貸与した者も同罪として処罰する。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>同乗者の処罰</ArticleTitle>
+      <Sentence>運転者が酒気を帯びていることを知りながら、自己を運送させた同乗者も処罰する。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>麻薬等運転の禁止</ArticleTitle>
+      <Sentence>麻薬、覚醒剤等の影響により正常な運転ができない状態で運転してはならない。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>過労運転の禁止</ArticleTitle>
+      <Sentence>過労、病気その他の理由により正常な運転ができないおそれがある状態で運転してはならない。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>あおり運転（妨害運転）の禁止</ArticleTitle>
+      <Sentence>他の車両の通行を妨害する目的で異常な接近、急制動、蛇行運転等をしてはならない。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>携帯電話等の使用禁止（ながら運転）</ArticleTitle>
+      <Sentence>運転中に携帯電話を手で保持して通話し、又は画像を注視してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>駐車・停車規制及び事故時の措置</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>停車及び駐車の禁止場所</ArticleTitle>
+      <Sentence>交差点、横断歩道、坂の頂上付近、トンネル内等は駐停車を禁止する。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>駐車禁止場所</ArticleTitle>
+      <Sentence>車庫の出入口、消防用施設の前等は駐車を禁止する。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>放置車両の確認と標章</ArticleTitle>
+      <Sentence>運転者が車両を離れて直ちに運転できない放置車両に対し、警察官は放置標章を取り付ける。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>車両移動命令とレッカー移動</ArticleTitle>
+      <Sentence>交通の妨害となる放置車両を、警察署長はレッカー車で移動保管させることができる。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>放置違反金の納付命令</ArticleTitle>
+      <Sentence>運転者を特定できないときは、車両の使用者（所有者）に対し放置違反金の納付を命ずる。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>交通事故発生時の緊急措置</ArticleTitle>
+      <Sentence>事故が起きたときは、直ちに運転を停止し、負傷者を救護し、道路上の危険を防止しなければならない。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>警察官への報告義務</ArticleTitle>
+      <Sentence>事故の運転者は、直ちに事故の発生日時、負傷者の数、損壊の程度を最寄りの警察署に報告しなければならない。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>ひき逃げの加重処罰</ArticleTitle>
+      <Sentence>負傷者の救護措置を怠って逃走した運転者は、殺人罪に準ずる極めて重い刑罰に処する。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>事故物件の保全</ArticleTitle>
+      <Sentence>当事者は、警察官が臨場するまで、事故現場の痕跡を保全するよう努めなければならない。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>自賠責保険の証明書携帯</ArticleTitle>
+      <Sentence>強制自動車損害賠償責任保険証明書を車両に備え付けておかなければ運行できない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>運転免許制度、点数制度及び行政処分</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>免許の区分</ArticleTitle>
+      <Sentence>普通、準中型、中型、大型、特殊、自動二輪及び二種免許（旅客運送用）に区分する。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>適性試験の合格要件</ArticleTitle>
+      <Sentence>視力、聴力、色彩識別能力及び運動能力の基準に合格しなければならない。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>仮免許制度</ArticleTitle>
+      <Sentence>道路上で練習運転を行うため、指導員同乗を条件とする仮運転免許を交付する。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>指定自動車教習所の指定</ArticleTitle>
+      <Sentence>基準を満たす民間の教習所を指定し、卒業生の実地試験を免除する。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>免許証の有効期間と更新</ArticleTitle>
+      <Sentence>優良運転者は五年、一般運転者は三年ごとに更新講習を受けて更新する。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>点数制度の運用</ArticleTitle>
+      <Sentence>違反行為及び事故ごとに一定の点数を付加し、累積点数に応じて処分を行う。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>免許の効力停止（免停）</ArticleTitle>
+      <Sentence>一定基準の点数に達した者に対し、三十日から百八十日の期間を定めて免許の効力を停止する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>免許の取消し（免取）</ArticleTitle>
+      <Sentence>重大違反又は累積点数が高点に達した者に対し、免許を取り消し欠格期間を科す。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>初心運転者期間制度</ArticleTitle>
+      <Sentence>普通免許取得後一年の間に一定の違反をした者に対し、再試験及び講習を課す。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>高齢者講習及び認知機能検査</ArticleTitle>
+      <Sentence>七十五歳以上の高齢運転者に対し、更新時に認知機能検査及び実車技能検査を義務付ける。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>罰則及び反則金制度（青切符・赤切符）</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>交通反則通告制度（青切符）</ArticleTitle>
+      <Sentence>軽微な交通違反に対し、一定期間内に反則金を納付すれば刑事訴追を免除する。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>反則金の国庫帰属</ArticleTitle>
+      <Sentence>納付された反則金は、すべて道路安全施設の整備財源に充てられる。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>重大違反の刑事裁判（赤切符）</ArticleTitle>
+      <Sentence>無免許、飲酒、過速等の重大違反は、反則金制度を適用せず直ちに刑事裁判に付する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>酒酔い運転の罪</ArticleTitle>
+      <Sentence>正常な運転ができない状態で運転した者は、五年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>妨害運転の罪（あおり運転）</ArticleTitle>
+      <Sentence>著しい交通の危険を生じさせた妨害運転者は、五年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>無免許運転の罪</ArticleTitle>
+      <Sentence>免許を受けないで運転した者は、三年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>救護義務違反の罪（ひき逃げ）</ArticleTitle>
+      <Sentence>負傷者を救護しなかったときは、十年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>過失運転致死傷罪との併合</ArticleTitle>
+      <Sentence>人を死傷させた場合は、自動車運転死傷処罰法の定めるところにより処断する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>自動車の使用制限命令</ArticleTitle>
+      <Sentence>放置違反金を納付しない使用者に対し、一定期間その自動車の運行を禁止する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>車両の没収規定</ArticleTitle>
+      <Sentence>無免許、悪質な暴走行為に用いられた車両は、裁判により没収することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>国家公安委員会及び警察庁長官は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

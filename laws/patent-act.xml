@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>特許法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、産業上利用可能な発明の保護及び利用並びに技術開発の促進に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>特許に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「発明」とは、自然法則を利用した技術的思想の創作のうち高度のものをいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「特許権」とは、設定の登録により発生し、業として特許発明を独占的かつ排他的に実施できる権利をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、産業上利用可能な発明の保護及び利用並びに技術開発の促進に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、特許庁長官及び経済産業大臣が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>特許庁長官及び経済産業大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、産業上利用可能な発明の保護及び利用並びに技術開発の促進に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>特許要件及び出願手続</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>産業上の利用可能性及び新規性</ArticleTitle>
+      <Sentence>産業上利用できる発明をした者は、公然知られたものを除き、特許を受けることができる。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>進歩性の要件</ArticleTitle>
+      <Sentence>その技術分野における通常の知識を有する者が容易に発明できたものは、特許を受けることができない。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>先願主義の徹底</ArticleTitle>
+      <Sentence>同一の発明について異なった日に二以上の特許出願があったときは、最先の出願人のみが特許を受けられる。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>出願書類の提出</ArticleTitle>
+      <Sentence>願書に特許請求の範囲、明細書、図面及び要約書を添付して特許庁長官に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>明細書の記載要件</ArticleTitle>
+      <Sentence>明細書は、当事者が容易にその実施をすることができる程度に明確かつ十分に記載しなければならない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>出願公開の制度</ArticleTitle>
+      <Sentence>特許出願の日から一年六月を経過したときは、特許公報によりその出願を一般に公開する。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>出願審査の請求</ArticleTitle>
+      <Sentence>出願の日から三年以内に審査請求をしなければ、その出願は取り下げたものとみなす。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>補正の制限</ArticleTitle>
+      <Sentence>願書等に記載した事項の補正は、当初の明細書の要旨を変更するものであってはならない。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>分割出願及び変更出願</ArticleTitle>
+      <Sentence>二以上の発明を含む出願は、所定の要件を満たす場合に限り、新たな出願として分割できる。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>優先権の主張</ArticleTitle>
+      <Sentence>パリ条約の同盟国に出願した日から一年以内に自国に出願するときは、優先権を主張できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>特許権の設定、効力及び存続期間</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>設定の登録</ArticleTitle>
+      <Sentence>特許料を納付したときは、特許原簿に特許権の設定の登録を行い、権利が発生する。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>特許証の交付</ArticleTitle>
+      <Sentence>特許権が登録されたときは、特許権者に対し特許証を交付する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>存続期間の原則</ArticleTitle>
+      <Sentence>特許権の存続期間は、特許出願の日から二十年をもって終了する。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>医薬品等の存続期間延長</ArticleTitle>
+      <Sentence>安全確認のため長期間を要する医薬品等については、最長五年の存続期間延長を認める。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>特許権の効力範囲</ArticleTitle>
+      <Sentence>特許権者は、業としてその特許発明の生産、使用、譲渡、輸出入を独占する。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>効力の及ばない範囲</ArticleTitle>
+      <Sentence>試験又は研究のためにする実施、単に領空を通過する航空機等には効力が及ばない。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>専用実施権の設定</ArticleTitle>
+      <Sentence>特許権者は、他人のためにその範囲を定めて専用実施権を設定することができる。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>通常実施権の許諾</ArticleTitle>
+      <Sentence>特許権者は、他人に通常実施権を許諾し、実施料を受け取ることができる。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>先使用権の成立</ArticleTitle>
+      <Sentence>出願時に善意でその発明の実施である事業を行っていた者は、無償の通常実施権を有する。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>職務発明の帰属と対価</ArticleTitle>
+      <Sentence>従業者が職務上行った発明について使用者が特許を受けたときは、従業者に対し相当の経済的利益を与えなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>権利侵害に対する救済手段</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>差止請求権</ArticleTitle>
+      <Sentence>特許権者は、自己の権利を侵害する者又は侵害するおそれのある者に対し、侵害の停止又は予防を請求できる。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>廃棄除却請求</ArticleTitle>
+      <Sentence>差止めと共に、侵害行為を組成した物の廃棄及び設備の除却を請求することができる。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>損害賠償額の推定規定</ArticleTitle>
+      <Sentence>侵害者が得た利益の額又は実施料相当額を特許権者の損害の額と推定する。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>過失の推定</ArticleTitle>
+      <Sentence>特許権を侵害した者は、その侵害行為について過失があったものと推定する。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>生産方法の推定</ArticleTitle>
+      <Sentence>出願前に公然知られていない物を生産する方法の発明については、同一の物はその方法により生産されたものと推定する。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>書類提出命令</ArticleTitle>
+      <Sentence>裁判所は、損害計算のため、当事者に対し必要な帳簿書類の提出を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>秘密保持命令</ArticleTitle>
+      <Sentence>訴訟において営業秘密が開示される場合、相手方に対し訴訟外での開示を禁止する秘密保持命令を発する。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>信用の回復措置</ArticleTitle>
+      <Sentence>故意又は過失により特許権者の信用を害した者に対し、謝罪広告の掲載等を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>仮処分の発令</ArticleTitle>
+      <Sentence>急迫の損害を避けるため、裁判所は製品の製造販売差止めの仮処分を迅速に決定する。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>不当訴訟に対する反訴</ArticleTitle>
+      <Sentence>無効理由が明白な特許権に基づく権利行使に対し、相手方は損害賠償を反訴請求できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>特許異議申立て及び特許無効審判</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>特許異議の申立て</ArticleTitle>
+      <Sentence>特許掲載公報の発行日から六月以内に限り、何人も特許異議の申立てをすることができる。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>取消決定の手続</ArticleTitle>
+      <Sentence>審判官の合議体は、特許に瑕疵があると認めるときは、特許の取消決定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>特許無効審判の請求</ArticleTitle>
+      <Sentence>利害関係人は、特許が新規性若しくは進歩性を欠くとき、無効審判を請求できる。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>無効の効力</ArticleTitle>
+      <Sentence>特許を無効にすべき旨の審決が確定したときは、特許権は初めから存在しなかったものとみなす。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>訂正審判の請求</ArticleTitle>
+      <Sentence>特許権者は、特許請求の範囲の減縮等のため、訂正審判を請求することができる。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>審判合議体の構成</ArticleTitle>
+      <Sentence>審判は、三人又は五人の特許庁上席審判官の合議体によって審理される。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>審決等に対する訴訟</ArticleTitle>
+      <Sentence>審決に不服がある者は、知的財産高等裁判所に出訴しなければならない。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>国際特許出願（ＰＣＴ）</ArticleTitle>
+      <Sentence>特許協力条約に基づく国際出願は、所定の手続を経て国内出願とみなされる。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>裁定による実施権</ArticleTitle>
+      <Sentence>不実施又は公益上の重大な必要性があるときは、経済産業大臣の裁定により強制実施権を設定できる。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>秘密特許制度</ArticleTitle>
+      <Sentence>国防上極めて重大な技術発明については、大統領令に基づき出願公開を留保し保全措置をとる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>弁理士の関与及び罰則</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>弁理士の代理権</ArticleTitle>
+      <Sentence>特許出願、審判及び知財訴訟における補佐人は、資格を有する弁理士に委任することができる。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>特許原簿の公開</ArticleTitle>
+      <Sentence>特許原簿は、何人も謄本の交付又は閲覧を請求することができる。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>特許侵害の罪</ArticleTitle>
+      <Sentence>特許権又は専用実施権を故意に侵害した者は、十年以下の拘禁刑若しくは一千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>法人の加重罰金</ArticleTitle>
+      <Sentence>法人の業務に関して特許侵害の罪を犯したときは、その法人に対し三億円以下の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>詐欺の行為の罪</ArticleTitle>
+      <Sentence>偽りその他不正の行為により特許又は審決を受けた者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>虚偽表示の罪</ArticleTitle>
+      <Sentence>特許にかかるものでない物品に特許表示を付した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>秘密漏示の罪</ArticleTitle>
+      <Sentence>特許庁職員又は審判官が職務上知った出願中の発明の秘密を漏らしたときは、一年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>宣誓した証人の偽証罪</ArticleTitle>
+      <Sentence>審判手続において宣誓した証人が虚偽の陳述をしたときは、三月以上十年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>証拠不提出に対する過料</ArticleTitle>
+      <Sentence>裁判所の書類提出命令に従わない者に対し、二十万円以下の過料を科する。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>国際的技術流出の防止</ArticleTitle>
+      <Sentence>重要特許技術を不正に外国に持ち出した者は、国家安全保障上の重罪として処断する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>特許庁長官及び経済産業大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

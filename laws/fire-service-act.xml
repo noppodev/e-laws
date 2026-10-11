@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>消防法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、火災の予防、警戒及び鎮圧並びに火災、地震等の災害による被害の軽減と人命の救助に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>消防に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「消防対象物」とは、山林又は舟車、工作物その他これらに類する物件をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「特定防火対象物」とは、劇場、百貨店、ホテル、病院等、不特定多数の者が出入する建築物をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、火災の予防、警戒及び鎮圧並びに火災、地震等の災害による被害の軽減と人命の救助に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、総務大臣及び消防庁長官が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>総務大臣及び消防庁長官は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、火災の予防、警戒及び鎮圧並びに火災、地震等の災害による被害の軽減と人命の救助に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>火災の予防、立入検査及び火気規制</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>火災予防の責務</ArticleTitle>
+      <Sentence>すべての国民は、火気の取扱いに注意し、火災の発生を未然に防止する義務を負う。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>消防吏員の立入検査権</ArticleTitle>
+      <Sentence>消防職員は、火災予防のため、劇場、店舗、工場等に立ち入り、消防用設備を検査できる。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>火災予防措置命令</ArticleTitle>
+      <Sentence>危険物、放置可燃物の除去、火気使用の停止を建物の関係者に命ずることができる。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>屋外の火気使用制限</ArticleTitle>
+      <Sentence>強風警報又は乾燥注意報が発令されているときは、たき火等の屋外火気使用を禁止する。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>消防同意制度</ArticleTitle>
+      <Sentence>建築確認を申請するにあたっては、事前に消防署長の同意を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>消防用設備の設置義務</ArticleTitle>
+      <Sentence>延べ床面積等に応じ、消火器、屋内消火栓、スプリンクラー設備等を設置しなければならない。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>自動火災報知設備の維持</ArticleTitle>
+      <Sentence>火災の煙又は熱を自動感知して全館に警報を発する設備を常時正常に維持する。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>避難器具の設置</ArticleTitle>
+      <Sentence>二階以上の階には、避難はしご、救助袋、緩降機等の避難器具を常備しなければならない。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>誘導灯の点灯義務</ArticleTitle>
+      <Sentence>非常口及び避難通路には、停電時も点灯する誘導灯を常時点灯させておく。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>消防用設備の定期点検報告</ArticleTitle>
+      <Sentence>消防設備士による年二回の点検を実施し、結果を消防署長に報告しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>防火管理者及び消防計画</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>防火管理者の選任義務</ArticleTitle>
+      <Sentence>一定規模以上の建物の管理権原者は、有資格者から防火管理者を選任しなければならない。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>防火管理者の責務</ArticleTitle>
+      <Sentence>消防計画の作成、消火通報避難訓練の実施、消防設備の点検監理を一元的に統括する。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>消防計画の届出</ArticleTitle>
+      <Sentence>防火管理者は、作成した消防計画を管轄の消防署長に届け出なければならない。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>定期的な避難訓練の義務</ArticleTitle>
+      <Sentence>特定防火対象物においては、年二回以上の消火訓練及び避難訓練を実施しなければならない。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>避難通路の維持管理</ArticleTitle>
+      <Sentence>廊下、階段、避難口に物品を放置し、又は防火戸の閉鎖を妨げてはならない。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>統括防火管理者の制度</ArticleTitle>
+      <Sentence>複数のテナントが入居する雑居ビルにおいては、建物全体を統括する管理者を置く。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>防災管理者の選任（大規模建築物）</ArticleTitle>
+      <Sentence>高層建築物や地下街においては、地震等に対応する防災管理者を置く。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>自衛消防組織の編成</ArticleTitle>
+      <Sentence>大規模事業所においては、初期消火及び応急救護を行う自衛消防隊を編成する。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>防炎物品の使用義務</ArticleTitle>
+      <Sentence>カーテン、じゅうたん、暗幕等は、政令で定める防炎性能を有するものを使用する。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>防火対象物定期点検報告</ArticleTitle>
+      <Sentence>専門機関による防火安全基準の適合調査を受け、優良マークを掲示する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>危険物の規制及び安全管理</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>危険物の指定類別</ArticleTitle>
+      <Sentence>第一類（酸化性固体）から第六類（酸化性液体）までの危険物の基準を定める。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>指定数量の制度</ArticleTitle>
+      <Sentence>危険物ごとに指定数量を定め、これを超える数量の貯蔵又は取扱いは許可施設に限る。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>製造所等の設置許可</ArticleTitle>
+      <Sentence>危険物製造所、貯蔵所（ガソリンスタンド等）、取扱所の設置は知事等の許可を要する。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>構造及び設備の安全基準</ArticleTitle>
+      <Sentence>防爆壁、消火設備、地下二重殻タンク等の厳格な基準を遵守しなければならない。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>危険物取扱者の必置</ArticleTitle>
+      <Sentence>甲種、乙種又は丙種の資格を有する危険物取扱者が立ち会わなければ扱ってはならない。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>危険物保安監督者の選任</ArticleTitle>
+      <Sentence>施設全体の安全管理を指揮する保安監督者を選任し、届け出なければならない。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>定期内部点検の実施</ArticleTitle>
+      <Sentence>配管、タンクの漏洩の有無について、年一回以上の精密点検を行い記録を保存する。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>移送取扱所の安全（パイプライン）</ArticleTitle>
+      <Sentence>危険物パイプラインの巡視点検及び緊急遮断バルブの遠隔制御を維持する。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>危険物の運搬基準</ArticleTitle>
+      <Sentence>タンクローリーによる運搬時は、消火器の携帯及び政令で定める技術基準を遵守する。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>流出事故時の緊急応急措置</ArticleTitle>
+      <Sentence>危険物が漏洩したときは、直ちに消防署に通報し、拡散防止の応急措置をとる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>火災警戒、消防活動及び救助救急</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>消防通信の指令管制</ArticleTitle>
+      <Sentence>一一九番通報を一元的に受信し、直ちに最適な消防隊・救急隊に出動指令を発令する。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>火災現場への緊急出動</ArticleTitle>
+      <Sentence>消防車は、赤色警光灯及びサイレンを用いて緊急走行し、現場に急行する。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>消防水利の確保</ArticleTitle>
+      <Sentence>消火栓、防火水槽、河川等の水利を指定し、常時取水可能な状態に維持管理する。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>消防警戒区域の設定</ArticleTitle>
+      <Sentence>火災現場の周囲に警戒線を設定し、一般人の立入りを禁止し、退去を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>消防対象物の破壊処分</ArticleTitle>
+      <Sentence>延焼を防止するため緊急の必要があるときは、延焼中の建物又は延焼のおそれのある建物を破壊できる。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>緊急使用権</ArticleTitle>
+      <Sentence>消火活動のため必要なときは、他人の土地、建物、水源を一時使用することができる。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>救助隊（レスキュー隊）の活動</ArticleTitle>
+      <Sentence>交通事故、建物崩壊等の災害から人命を救出する高度救助資機材部隊を運用する。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>救急業務の実施体制</ArticleTitle>
+      <Sentence>傷病者を速やかに観察処置し、適切な医療機関に緊急搬送する。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>救急救命士の医療行為</ArticleTitle>
+      <Sentence>医師の具体的指示の下、心肺停止患者に対する気道確保、輸液、除細動を実施する。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>火災原因の調査義務</ArticleTitle>
+      <Sentence>消火後、消防署長は直ちに火災の原因及び損害の程度を綿密に調査しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>罰則及び即時是正命令違反の罪</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>危険物無許可貯蔵の罪</ArticleTitle>
+      <Sentence>指定数量以上の危険物を無許可で貯蔵した者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>是正命令違反の罪（防火戸閉鎖等）</ArticleTitle>
+      <Sentence>避難通路の物品撤去命令等に違反した者は、二年以下の拘禁刑又は二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>危険物流出の罪</ArticleTitle>
+      <Sentence>過失により危険物を流出させ公共の危険を生じさせた者は、一年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>消火活動妨害の罪</ArticleTitle>
+      <Sentence>消防隊の消火活動を暴行、脅迫又は放水妨害等により妨げた者は重罰に処する。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>火災虚偽通報の罪</ArticleTitle>
+      <Sentence>虚偽の火災通報又は救急通報をした者は、五十万円以下の罰金又は科料に処する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>立入検査拒否の過料</ArticleTitle>
+      <Sentence>消防吏員の立入検査を拒み、妨げ、又は忌避した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>消防用設備未設置の罪</ArticleTitle>
+      <Sentence>スプリンクラー等の重要設備を設置しなかった管理者は、一年以下の拘禁刑に処する。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>法人の加重両罰規定</ArticleTitle>
+      <Sentence>法人の業務に関して危険物等の重大違反があったときは、その法人に対し一億円以下の罰金を科する。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>消防団員の公務災害補償</ArticleTitle>
+      <Sentence>非常勤の消防団員が活動中に死傷したときは、国及び自治体が完全な補償を行う。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>消防国際救助隊の派遣</ArticleTitle>
+      <Sentence>海外の大規模震災に際し、国際消防救助隊（ＩＲＴ）を直ちに現地に緊急派遣する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>総務大臣及び消防庁長官は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>

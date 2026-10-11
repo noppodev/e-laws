@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law>
+  <Title>会社法</Title>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>目的</ArticleTitle>
+      <Sentence>この法律は、株式会社、持分会社その他の企業の設立、組織、運営、計算及び資金調達に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>基本理念</ArticleTitle>
+      <Sentence>会社に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>定義</ArticleTitle>
+      <Sentence>この法律において「株式会社」とは、細分化された株式を発行し、株主がその出資額を限度として有限責任を負う法人をいうをいう。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>この法律において「取締役会」とは、すべての取締役で構成され、会社の業務執行の決定及び職務の執行を監督する機関をいうをいう。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>国の責務</ArticleTitle>
+      <Sentence>国は、大統領の指導統括の下、株式会社、持分会社その他の企業の設立、組織、運営、計算及び資金調達に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>地方自治体の協力</ArticleTitle>
+      <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>事業者の責務</ArticleTitle>
+      <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>国民の理解と協力</ArticleTitle>
+      <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>国際的協調の推進</ArticleTitle>
+      <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
+      <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
+    <Article Num="11">
+      <ArticleTitle>主務大臣の権限</ArticleTitle>
+      <Sentence>この法律に規定する事務は、法務大臣及び裁判所が管理統理する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>法務大臣及び裁判所は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="12">
+      <ArticleTitle>基本方針の策定</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、株式会社、持分会社その他の企業の設立、組織、運営、計算及び資金調達に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="13">
+      <ArticleTitle>基本方針の改定手続</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+    </Article>
+    <Article Num="14">
+      <ArticleTitle>関係審議会の設置</ArticleTitle>
+      <Sentence>法務大臣及び裁判所の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+    </Article>
+    <Article Num="15">
+      <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
+      <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
+    </Article>
+    <Article Num="16">
+      <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
+      <Sentence>法務大臣及び裁判所及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+    </Article>
+    <Article Num="17">
+      <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+    </Article>
+    <Article Num="18">
+      <ArticleTitle>資料提出等の要求</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+    </Article>
+    <Article Num="19">
+      <ArticleTitle>年次報告書の提出</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+    </Article>
+    <Article Num="20">
+      <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
+      <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>株式会社の設立及び定款</ChapterTitle>
+    <Article Num="21">
+      <ArticleTitle>設立方法</ArticleTitle>
+      <Sentence>株式会社は、発起人が定款を作成し、全株式を引き受けて設立する。</Sentence>
+    </Article>
+    <Article Num="22">
+      <ArticleTitle>定款の認証</ArticleTitle>
+      <Sentence>株式会社の定款は、公証人の認証を受けなければ、その効力を生じない。</Sentence>
+    </Article>
+    <Article Num="23">
+      <ArticleTitle>必要的記載事項</ArticleTitle>
+      <Sentence>定款には、目的、商号、本店の所在地、設立時発行株式数及び発起人の氏名を記載しなければならない。</Sentence>
+    </Article>
+    <Article Num="24">
+      <ArticleTitle>変態設立事項</ArticleTitle>
+      <Sentence>現物出資、財産引受、発起人の特別利益等は、定款に記載しなければ効力を有しない。</Sentence>
+    </Article>
+    <Article Num="25">
+      <ArticleTitle>現物出資の調査</ArticleTitle>
+      <Sentence>現物出資があるときは、裁判所が選任した検査役の調査を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="26">
+      <ArticleTitle>出資の履行</ArticleTitle>
+      <Sentence>発起人は、引き受けた株式の全額を銀行等の払込取扱機関に払い込まなければならない。</Sentence>
+    </Article>
+    <Article Num="27">
+      <ArticleTitle>払込保管証明書</ArticleTitle>
+      <Sentence>払込取扱機関は、発起人の請求により、払込金額の保管証明書を交付しなければならない。</Sentence>
+    </Article>
+    <Article Num="28">
+      <ArticleTitle>設立時役員の選任</ArticleTitle>
+      <Sentence>発起人は、払込み完了後、遅滞なく設立時取締役を選任しなければならない。</Sentence>
+    </Article>
+    <Article Num="29">
+      <ArticleTitle>設立の登記</ArticleTitle>
+      <Sentence>株式会社は、本店の所在地において設立の登記をすることによって成立する。</Sentence>
+    </Article>
+    <Article Num="30">
+      <ArticleTitle>設立無効の訴え</ArticleTitle>
+      <Sentence>設立に重大な瑕疵があるときは、株主等は設立後二年以内に限り訴えをもって無効を主張できる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>株式、株主の権利及び株式移転</ChapterTitle>
+    <Article Num="31">
+      <ArticleTitle>株主の有限責任</ArticleTitle>
+      <Sentence>株主の責任は、その有する株式の引受価額を限度とする。</Sentence>
+    </Article>
+    <Article Num="32">
+      <ArticleTitle>株式の譲渡自由</ArticleTitle>
+      <Sentence>株主は、その有する株式を自由に他に譲渡することができる。</Sentence>
+    </Article>
+    <Article Num="33">
+      <ArticleTitle>譲渡制限株式</ArticleTitle>
+      <Sentence>定款をもって、株式の譲渡につき取締役会の承認を要する旨の制限を設けることができる。</Sentence>
+    </Article>
+    <Article Num="34">
+      <ArticleTitle>株主名簿の作成</ArticleTitle>
+      <Sentence>会社は、株主名簿を作成し、株主の氏名、住所及び持株数を記載しなければならない。</Sentence>
+    </Article>
+    <Article Num="35">
+      <ArticleTitle>名義書換の効力</ArticleTitle>
+      <Sentence>株式の譲渡は、株主名簿に取得者の氏名を記載しなければ、会社に対抗することができない。</Sentence>
+    </Article>
+    <Article Num="36">
+      <ArticleTitle>種類株式の発行</ArticleTitle>
+      <Sentence>配当、残余財産の分配、議決権等について異なる権利内容を有する種類株式を発行できる。</Sentence>
+    </Article>
+    <Article Num="37">
+      <ArticleTitle>自己株式の取得</ArticleTitle>
+      <Sentence>会社は、株主総会の決議に基づき、分配可能額の範囲内において自己株式を取得することができる。</Sentence>
+    </Article>
+    <Article Num="38">
+      <ArticleTitle>単元株制度</ArticleTitle>
+      <Sentence>定款により、一定数の株式をもって株主が一個の議決権を行使できる単元株式数を定めることができる。</Sentence>
+    </Article>
+    <Article Num="39">
+      <ArticleTitle>新株予約権の発行</ArticleTitle>
+      <Sentence>会社は、株式の交付を受けることができる新株予約権を発行することができる。</Sentence>
+    </Article>
+    <Article Num="40">
+      <ArticleTitle>株式の消却及び併合</ArticleTitle>
+      <Sentence>会社は、株主総会の特別決議により、株式の併合又は消却を行うことができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>機関（株主総会、取締役会及び監査役）</ChapterTitle>
+    <Article Num="41">
+      <ArticleTitle>株主総会の権限</ArticleTitle>
+      <Sentence>株主総会は、会社法に規定する事項及び会社の組織に関する一切の重要事項を決定する。</Sentence>
+    </Article>
+    <Article Num="42">
+      <ArticleTitle>定時総会の招集</ArticleTitle>
+      <Sentence>定時株主総会は、毎事業年度の終了後一定の時期に招集しなければならない。</Sentence>
+    </Article>
+    <Article Num="43">
+      <ArticleTitle>議決権の行使</ArticleTitle>
+      <Sentence>株主は、一株につき一個の議決権を有する。書面又は電磁的方法による行使も可能とする。</Sentence>
+    </Article>
+    <Article Num="44">
+      <ArticleTitle>取締役の員数及び任期</ArticleTitle>
+      <Sentence>取締役会設置会社には、三名以上の取締役を置き、任期は原則として二年とする。</Sentence>
+    </Article>
+    <Article Num="45">
+      <ArticleTitle>取締役の忠実義務</ArticleTitle>
+      <Sentence>取締役は、法令及び定款並びに株主総会の決議を遵守し、会社のため忠実に職務を執行しなければならない。</Sentence>
+    </Article>
+    <Article Num="46">
+      <ArticleTitle>競業避止及び利益相反取引</ArticleTitle>
+      <Sentence>取締役が会社の事業と競業する取引又は会社と取引をするときは、取締役会の承認を要する。</Sentence>
+    </Article>
+    <Article Num="47">
+      <ArticleTitle>代表取締役の選定</ArticleTitle>
+      <Sentence>取締役会は、取締役の中から会社を代表する代表取締役を選任しなければならない。</Sentence>
+    </Article>
+    <Article Num="48">
+      <ArticleTitle>監査役の職務権限</ArticleTitle>
+      <Sentence>監査役は、取締役の職務の執行を監査し、監査報告書を作成しなければならない。</Sentence>
+    </Article>
+    <Article Num="49">
+      <ArticleTitle>社外取締役の必置</ArticleTitle>
+      <Sentence>一定規模以上の大会社においては、独立した社外取締役を一名以上置かなければならない。</Sentence>
+    </Article>
+    <Article Num="50">
+      <ArticleTitle>役員の損害賠償責任</ArticleTitle>
+      <Sentence>取締役又は監査役が任務を怠ったときは、会社に対しこれによって生じた損害を賠償する連帯責任を負う。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>計算、配当及び資本金の管理</ChapterTitle>
+    <Article Num="51">
+      <ArticleTitle>会計帳簿の作成</ArticleTitle>
+      <Sentence>会社は、法務省令で定めるところにより、適時に正確な会計帳簿を作成しなければならない。</Sentence>
+    </Article>
+    <Article Num="52">
+      <ArticleTitle>計算書類の作成</ArticleTitle>
+      <Sentence>毎事業年度、貸借対照表、損益計算書、株主資本等変動計算書及び個別注記表を作成する。</Sentence>
+    </Article>
+    <Article Num="53">
+      <ArticleTitle>剰余金の配当要件</ArticleTitle>
+      <Sentence>剰余金の配当は、純資産額から資本金及び法定準備金を控除した分配可能額を超えてはならない。</Sentence>
+    </Article>
+    <Article Num="54">
+      <ArticleTitle>資本準備金の積立て</ArticleTitle>
+      <Sentence>配当を行うときは、配当額の十分の一以上を資本準備金又は利益準備金として積み立てなければならない。</Sentence>
+    </Article>
+    <Article Num="55">
+      <ArticleTitle>会計監査人の監査</ArticleTitle>
+      <Sentence>大会社は、公認会計士又は監査法人たる会計監査人による財務監査を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="56">
+      <ArticleTitle>計算書類の承認と公告</ArticleTitle>
+      <Sentence>取締役は、定時総会に計算書類を提出して承認を受け、遅滞なく貸借対照表を公告しなければならない。</Sentence>
+    </Article>
+    <Article Num="57">
+      <ArticleTitle>資本金の減少手続</ArticleTitle>
+      <Sentence>資本金を減少するときは、株主総会の特別決議及び債権者異議申述手続を経なければならない。</Sentence>
+    </Article>
+    <Article Num="58">
+      <ArticleTitle>会社の解散事由</ArticleTitle>
+      <Sentence>定款所定の存続期間の満了、株主総会の決議、破産手続開始又は解散命令により解散する。</Sentence>
+    </Article>
+    <Article Num="59">
+      <ArticleTitle>清算人の選任</ArticleTitle>
+      <Sentence>解散した会社は、清算株式会社となり、取締役が当然に清算人となる。</Sentence>
+    </Article>
+    <Article Num="60">
+      <ArticleTitle>残余財産の分配</ArticleTitle>
+      <Sentence>清算人は、債務を完済した後でなければ、会社の残余財産を株主に分配してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>組織再編（合併、会社分割、株式交換）</ChapterTitle>
+    <Article Num="61">
+      <ArticleTitle>合併の類型</ArticleTitle>
+      <Sentence>二以上の会社が契約に基づき一つの会社となる合併は、吸収合併又は新設合併とする。</Sentence>
+    </Article>
+    <Article Num="62">
+      <ArticleTitle>合併契約の締結</ArticleTitle>
+      <Sentence>合併をする会社は、合併契約を締結し、株主総会の承認を受けなければならない。</Sentence>
+    </Article>
+    <Article Num="63">
+      <ArticleTitle>債権者保護手続</ArticleTitle>
+      <Sentence>合併に異議のある債権者は、一定期間内に異議を述べることができ、会社は弁済又は担保提供を要する。</Sentence>
+    </Article>
+    <Article Num="64">
+      <ArticleTitle>反対株主の買取請求権</ArticleTitle>
+      <Sentence>合併に反対する株主は、会社に対し自己の有する株式を公正な価格で買い取ることを請求できる。</Sentence>
+    </Article>
+    <Article Num="65">
+      <ArticleTitle>吸収分割の手続</ArticleTitle>
+      <Sentence>事業の全部又は一部を他の会社に承継させる吸収分割契約を締結し、登記を経て成立する。</Sentence>
+    </Article>
+    <Article Num="66">
+      <ArticleTitle>新設分割の手続</ArticleTitle>
+      <Sentence>一又は二以上の会社がその事業を新設する会社に承継させる新設分割を行うことができる。</Sentence>
+    </Article>
+    <Article Num="67">
+      <ArticleTitle>株式交換の手続</ArticleTitle>
+      <Sentence>株式会社がその発行済株式の全部を他の会社に取得させる株式交換を行うことができる。</Sentence>
+    </Article>
+    <Article Num="68">
+      <ArticleTitle>組織変更の手続</ArticleTitle>
+      <Sentence>株式会社は、総株主の同意により、持分会社（合同会社等）に組織変更することができる。</Sentence>
+    </Article>
+    <Article Num="69">
+      <ArticleTitle>組織再編無効の訴え</ArticleTitle>
+      <Sentence>組織再編の効力発生日から六月以内に限り、訴えをもってのみ無効を主張することができる。</Sentence>
+    </Article>
+    <Article Num="70">
+      <ArticleTitle>特別背任罪等の適用</ArticleTitle>
+      <Sentence>取締役等が自己の利益を図り会社に損害を与えたときは、刑法及び会社法の重罰規定により処断する。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
+    <Article Num="71">
+      <ArticleTitle>報告の徴収</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+    </Article>
+    <Article Num="72">
+      <ArticleTitle>立入検査の権限</ArticleTitle>
+      <Sentence>法務大臣及び裁判所の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="73">
+      <ArticleTitle>立入検査の制限</ArticleTitle>
+      <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+    </Article>
+    <Article Num="74">
+      <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
+      <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
+    </Article>
+    <Article Num="75">
+      <ArticleTitle>業務改善勧告</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+    </Article>
+    <Article Num="76">
+      <ArticleTitle>業務改善命令</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="77">
+      <ArticleTitle>業務停止命令</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+    </Article>
+    <Article Num="78">
+      <ArticleTitle>許可又は登録の取消し</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+    </Article>
+    <Article Num="79">
+      <ArticleTitle>行政処分の公表</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+    </Article>
+    <Article Num="80">
+      <ArticleTitle>事前の聴聞手続</ArticleTitle>
+      <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
+    <Article Num="81">
+      <ArticleTitle>審査請求の申立て</ArticleTitle>
+      <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
+    </Article>
+    <Article Num="82">
+      <ArticleTitle>不服申立期間の教示</ArticleTitle>
+      <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
+    </Article>
+    <Article Num="83">
+      <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+    </Article>
+    <Article Num="84">
+      <ArticleTitle>処分の執行停止</ArticleTitle>
+      <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
+    </Article>
+    <Article Num="85">
+      <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
+      <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
+    </Article>
+    <Article Num="86">
+      <ArticleTitle>民事調停委員会の設置</ArticleTitle>
+      <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
+    </Article>
+    <Article Num="87">
+      <ArticleTitle>調停の申立て手続</ArticleTitle>
+      <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="88">
+      <ArticleTitle>調停の効力と執行力</ArticleTitle>
+      <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
+    </Article>
+    <Article Num="89">
+      <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
+      <Sentence>法務大臣及び裁判所は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+    </Article>
+    <Article Num="90">
+      <ArticleTitle>公益通報者の保護</ArticleTitle>
+      <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>罰則</ChapterTitle>
+    <Article Num="91">
+      <ArticleTitle>最重刑規定</ArticleTitle>
+      <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+    </Article>
+    <Article Num="92">
+      <ArticleTitle>重大命令違反の罪</ArticleTitle>
+      <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="93">
+      <ArticleTitle>無許可営業の罪</ArticleTitle>
+      <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="94">
+      <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
+      <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="95">
+      <ArticleTitle>秘密漏洩の罪</ArticleTitle>
+      <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="96">
+      <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
+      <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
+    </Article>
+    <Article Num="97">
+      <ArticleTitle>法人の両罰規定</ArticleTitle>
+      <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
+    </Article>
+    <Article Num="98">
+      <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
+      <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="99">
+      <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
+      <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
+    </Article>
+    <Article Num="100">
+      <ArticleTitle>過料の裁判管轄</ArticleTitle>
+      <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
