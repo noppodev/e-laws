@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Law>
+  <Title>国家公務員法</Title>
+  <SupplementaryProvisions>
+    <SupplementaryProvision Num="1">
+      <Sentence>この法律は、公布の日から三十日を経過した日から施行する。</Sentence>
+    </SupplementaryProvision>
+  </SupplementaryProvisions>
+  <Chapter Num="1">
+    <ChapterTitle>総則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>国家公務員の基本的地位</ArticleTitle>
+      <Sentence>国家公務員は、全体の奉仕者として、公共の利益のために勤務しなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>国家公務員は、職務の遂行に当たっては、法令を遵守し、政治的中立性及び公平性を保持しなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>適用範囲</ArticleTitle>
+      <Sentence>この法律は、法律に別段の定めがある場合を除き、国の行政機関に勤務する職員について適用する。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>裁判官、国会議員その他法律により別に身分が定められている者については、この法律の規定の全部又は一部を適用しない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>平等取扱い</ArticleTitle>
+      <Sentence>何人も、公務員の採用、昇任、給与その他の人事上の取扱いについて、合理的な理由なく差別的な取扱いを受けてはならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>能力及び実績の原則</ArticleTitle>
+      <Sentence>国家公務員の任用及び人事上の取扱いは、その職務を遂行する能力及び勤務実績を基礎として行わなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="2">
+    <ChapterTitle>人事行政機関</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>人事行政の基本機関</ArticleTitle>
+      <Sentence>国家公務員の人事行政を適正に行うため、中央人事委員会を置く。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>中央人事委員会の独立性</ArticleTitle>
+      <Sentence>中央人事委員会は、その職務の遂行に当たり、他の行政機関から独立して権限を行使する。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>中央人事委員会の権限</ArticleTitle>
+      <Sentence>中央人事委員会は、国家公務員の採用試験、勤務条件、人事制度その他人事行政に関する事項について、必要な調査、勧告及び規則の制定を行う。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>人事行政に関する報告</ArticleTitle>
+      <Sentence>中央人事委員会は、毎年、人事行政の運営状況について国会に報告しなければならない。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>人事制度の改善</ArticleTitle>
+      <Sentence>中央人事委員会は、国家公務員制度について継続的に調査し、その改善に必要な措置を勧告することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="3">
+    <ChapterTitle>任用</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>任用の原則</ArticleTitle>
+      <Sentence>国家公務員の任用は、公開、公平かつ適正な手続により行わなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>採用試験</ArticleTitle>
+      <Sentence>国家公務員の採用は、原則として公開された試験によって行う。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>試験は、職務の遂行に必要な知識、能力及び適性を公平に判定するものでなければならない。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>採用資格</ArticleTitle>
+      <Sentence>国家公務員の採用を受けることができる者は、法令に定める資格を有する者とする。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>欠格事由</ArticleTitle>
+      <Sentence>次の各号のいずれかに該当する者は、国家公務員となることができない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>成年被後見人その他法令により公務への就任を制限されている者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <Sentence>禁錮以上の刑に処せられ、その執行を終わるまで又は執行を受けることがなくなるまでの者。</Sentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <Sentence>公務員としての職務を著しく不正に行ったことにより、法令に基づき公務への就任を禁止されている者。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>条件付任用</ArticleTitle>
+      <Sentence>新たに採用された職員については、一定期間を条件付任用期間とすることができる。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>任命権者は、条件付任用期間中の勤務実績その他の事情を考慮し、正式な任用を行うものとする。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>昇任</ArticleTitle>
+      <Sentence>職員の昇任は、職務遂行能力、勤務実績その他必要な事項を総合的に考慮して行う。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>転任及び配置転換</ArticleTitle>
+      <Sentence>任命権者は、行政上必要があるときは、職員をその職務又は勤務する行政機関を変更することができる。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>任命権者</ArticleTitle>
+      <Sentence>職員の任命は、法令に定める任命権者が行う。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>任命の効力</ArticleTitle>
+      <Sentence>職員の任命は、任命権者が任命の内容を明示した日から効力を生ずる。</Sentence>
+    </Article>
+    <Article Num="10">
+      <ArticleTitle>職員の身分証明</ArticleTitle>
+      <Sentence>行政機関は、職員の身分を明らかにするため、必要な身分証明書を交付することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="4">
+    <ChapterTitle>勤務条件</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>勤務時間</ArticleTitle>
+      <Sentence>職員の勤務時間は、職務の性質及び行政運営の必要性を考慮して定める。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>休憩</ArticleTitle>
+      <Sentence>職員には、勤務時間に応じて適切な休憩時間を与えなければならない。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>休日</ArticleTitle>
+      <Sentence>職員には、法令又は規則に定めるところにより、休日を与えなければならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>休暇</ArticleTitle>
+      <Sentence>職員は、年次休暇、病気休暇、出産その他特別の事情による休暇を受けることができる。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>安全及び健康</ArticleTitle>
+      <Sentence>任命権者は、職員の安全及び健康を確保するため、必要な措置を講じなければならない。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>職場環境</ArticleTitle>
+      <Sentence>行政機関は、職員がその能力を十分に発揮できるよう、良好な職場環境の整備に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>育児及び介護への配慮</ArticleTitle>
+      <Sentence>任命権者は、職員が育児又は家族の介護を行う場合には、勤務時間その他の勤務条件について必要な配慮をしなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="5">
+    <ChapterTitle>給与</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>給与の原則</ArticleTitle>
+      <Sentence>職員の給与は、その職務の種類及び責任の程度、勤務条件その他の事情を考慮して定めなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>給与の支給</ArticleTitle>
+      <Sentence>職員の給与は、法令に定めるところにより、原則として通貨で支給する。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>給与の減額</ArticleTitle>
+      <Sentence>職員の給与は、法令に定める場合を除き、本人の同意なく減額してはならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>手当</ArticleTitle>
+      <Sentence>職員には、職務又は勤務条件に応じ、法令に定めるところにより各種の手当を支給することができる。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>退職手当</ArticleTitle>
+      <Sentence>職員が退職した場合には、法令に定めるところにより退職手当を支給することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="6">
+    <ChapterTitle>服務</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>服務の根本基準</ArticleTitle>
+      <Sentence>職員は、国民全体の奉仕者として、公共の利益のために誠実かつ公正に職務を遂行しなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>法令及び上司の命令に従う義務</ArticleTitle>
+      <Sentence>職員は、その職務を遂行するに当たり、法令及び職務上の適法な命令に従わなければならない。</Sentence>
+      <Paragraph Num="2">
+        <Sentence>職員は、明らかに違法な命令については、その命令の適法性を確認するため必要な措置を講ずるものとする。</Sentence>
+      </Paragraph>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>職務専念義務</ArticleTitle>
+      <Sentence>職員は、法律又は規則に特別の定めがある場合を除き、その勤務時間及び職務上の注意力をその職責の遂行のために用いなければならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>秘密を守る義務</ArticleTitle>
+      <Sentence>職員は、職務上知ることのできた秘密を漏らしてはならない。その職を退いた後も、同様とする。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>信用失墜行為の禁止</ArticleTitle>
+      <Sentence>職員は、その官職の信用を傷つけ、又は公務全体の不名誉となるような行為をしてはならない。</Sentence>
+    </Article>
+    <Article Num="6">
+      <ArticleTitle>職務上の利益の取得禁止</ArticleTitle>
+      <Sentence>職員は、職務に関して自己又は第三者の利益を図るため、地位又は権限を利用してはならない。</Sentence>
+    </Article>
+    <Article Num="7">
+      <ArticleTitle>政治的中立</ArticleTitle>
+      <Sentence>職員は、職務の遂行に当たり、特定の政党その他の政治的団体の利益のためにその権限を行使してはならない。</Sentence>
+    </Article>
+    <Article Num="8">
+      <ArticleTitle>営利企業への従事制限</ArticleTitle>
+      <Sentence>職員は、任命権者の許可を受けなければ、営利を目的とする事業を自ら営み、又は報酬を得て事業若しくは事務に従事してはならない。</Sentence>
+    </Article>
+    <Article Num="9">
+      <ArticleTitle>贈与等の禁止</ArticleTitle>
+      <Sentence>職員は、その職務に関して、相手方から金銭、物品その他の利益の供与を受け、又はその供与を要求してはならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="7">
+    <ChapterTitle>懲戒</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>懲戒事由</ArticleTitle>
+      <Sentence>職員が法令又は職務上の義務に違反し、若しくは職務を怠り、又は公務員としてふさわしくない非行をした場合には、懲戒処分を行うことができる。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>懲戒処分の種類</ArticleTitle>
+      <Sentence>懲戒処分は、戒告、減給、停職又は免職とする。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>懲戒処分の基準</ArticleTitle>
+      <Sentence>懲戒処分は、違反行為の内容、結果、故意又は過失の程度その他の事情を考慮して、公正に行わなければならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>懲戒手続</ArticleTitle>
+      <Sentence>懲戒処分を行う場合には、処分の対象となる職員に対し、事実及び処分の理由を示すものとする。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>懲戒処分の公表</ArticleTitle>
+      <Sentence>重大な懲戒処分については、公共の利益のため必要がある場合に限り、その概要を公表することができる。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="8">
+    <ChapterTitle>分限</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>分限処分</ArticleTitle>
+      <Sentence>職員がその職務を十分に遂行することができない場合その他法令に定める事由がある場合には、降任、休職、免職その他の分限処分を行うことができる。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>身分保障</ArticleTitle>
+      <Sentence>職員は、法律に定める事由による場合でなければ、その意に反して降任、休職又は免職をされない。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>休職</ArticleTitle>
+      <Sentence>職員が長期にわたり職務を遂行することができない場合には、法令に定めるところにより休職とすることができる。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>分限処分の理由</ArticleTitle>
+      <Sentence>分限処分を行う場合には、処分の対象となる職員に対し、その理由を明示しなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="9">
+    <ChapterTitle>研修及び能力開発</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>研修の実施</ArticleTitle>
+      <Sentence>行政機関は、職員の能力及び専門性を向上させるため、必要な研修を実施しなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>自己啓発</ArticleTitle>
+      <Sentence>職員は、職務に必要な知識及び能力の向上に努めなければならない。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>人事評価</ArticleTitle>
+      <Sentence>任命権者は、職員の勤務実績及び能力を適正に評価し、その結果を人事上の取扱いに活用するものとする。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="10">
+    <ChapterTitle>職員の権利及び救済</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>苦情の申出</ArticleTitle>
+      <Sentence>職員は、勤務条件その他職務上の取扱いについて不利益を受けたと認めるときは、中央人事委員会その他法令に定める機関に苦情を申し出ることができる。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>不利益取扱いの禁止</ArticleTitle>
+      <Sentence>職員が正当な理由により苦情を申し出たことを理由として、不利益な取扱いをしてはならない。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>不服申立て</ArticleTitle>
+      <Sentence>職員は、懲戒処分その他の人事上の処分について、法令に定めるところにより不服を申し立てることができる。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>救済手続の公正</ArticleTitle>
+      <Sentence>職員に対する救済手続は、公正かつ迅速に行われなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="11">
+    <ChapterTitle>退職及び再就職</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>退職</ArticleTitle>
+      <Sentence>職員は、法令に定めるところにより、任意に退職することができる。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>定年</ArticleTitle>
+      <Sentence>職員の定年は、法令に定めるところにより定める。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>再任用</ArticleTitle>
+      <Sentence>退職した職員について、行政運営上必要がある場合には、法令に定めるところにより再任用することができる。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>退職後の行為の制限</ArticleTitle>
+      <Sentence>職員は、退職後においても、在職中に知り得た秘密を利用して不正に自己又は第三者の利益を図ってはならない。</Sentence>
+    </Article>
+    <Article Num="5">
+      <ArticleTitle>再就職の透明性</ArticleTitle>
+      <Sentence>一定の地位にあった職員の再就職については、行政の公正性に対する国民の信頼を損なわないよう、必要な透明性を確保するものとする。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="12">
+    <ChapterTitle>公務員倫理</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>倫理の基本原則</ArticleTitle>
+      <Sentence>職員は、国民の信頼を確保するため、高い倫理意識を持って職務を遂行しなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>利害関係者との関係</ArticleTitle>
+      <Sentence>職員は、職務上の利害関係者との関係において、公正な判断を妨げるおそれのある行為をしてはならない。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>倫理規程</ArticleTitle>
+      <Sentence>行政機関は、職務の性質に応じ、職員が遵守すべき倫理に関する規程を定めるものとする。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>倫理違反の報告</ArticleTitle>
+      <Sentence>職員は、他の職員による重大な倫理違反を知ったときは、適切な機関に報告するよう努めなければならない。</Sentence>
+    </Article>
+  </Chapter>
+  <Chapter Num="13">
+    <ChapterTitle>雑則</ChapterTitle>
+    <Article Num="1">
+      <ArticleTitle>公務能率の向上</ArticleTitle>
+      <Sentence>行政機関は、行政事務の効率化及び質の向上を図り、限られた行政資源を適正に活用しなければならない。</Sentence>
+    </Article>
+    <Article Num="2">
+      <ArticleTitle>デジタル化</ArticleTitle>
+      <Sentence>行政機関は、情報通信技術を活用し、公務の効率化及び国民に対する行政サービスの向上を図るものとする。</Sentence>
+    </Article>
+    <Article Num="3">
+      <ArticleTitle>人事情報の管理</ArticleTitle>
+      <Sentence>行政機関は、職員の人事に関する情報を適正に管理し、その秘密を保持しなければならない。</Sentence>
+    </Article>
+    <Article Num="4">
+      <ArticleTitle>規則への委任</ArticleTitle>
+      <Sentence>この法律の施行に関し必要な事項は、政令又は中央人事委員会の規則で定める。</Sentence>
+    </Article>
+  </Chapter>
+</Law>
