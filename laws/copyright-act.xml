@@ -4,51 +4,22 @@
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、著作物並びに実演、レコード、放送等の権利の保護及び公正な利用による文化の発展に関する基本原則、権利義務及び手続規範を定めることにより、公正な社会秩序の維持及び国民の福祉の増進を図り、もって国家の調和ある発展に寄与することを目的とする。</Sentence>
-    </Article>
-    <Article Num="2">
-      <ArticleTitle>基本理念</ArticleTitle>
-      <Sentence>著作権に係る制度の運用及び施策の実施は、国民の正当な権利利益を最大限に尊重しつつ、公共の福祉、法治主義及び国家の安全との調和を図ることを旨としなければならない。</Sentence>
-      <Paragraph Num="2">
-        <Sentence>関係当事者は、信義誠実の原則に従い、誠実にその義務を履行しなければならない。</Sentence>
-      </Paragraph>
-    </Article>
-    <Article Num="3">
-      <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「著作物」とは、思想又は感情を創作的に表現したものであって、文芸、学術、美術又は音楽の範囲に属するものをいう。</Sentence>
-      <Paragraph Num="2">
-        <Sentence>この法律において「著作権」とは、著作物の複製、上演、演奏、上映、公衆送信、翻案等を独占的かつ排他的に行う財産的権利をいう。</Sentence>
-      </Paragraph>
-    </Article>
-    <Article Num="4">
-      <ArticleTitle>国の責務</ArticleTitle>
-      <Sentence>国は、大統領の指導統括の下、著作物並びに実演、レコード、放送等の権利の保護及び公正な利用による文化の発展に関する施策を総合的かつ計画的に策定し、これを迅速に実施する責務を負う。</Sentence>
-      <Paragraph Num="2">
-        <Sentence>国は、施策の推進に必要な法制上、財政上及び税制上の措置を講じなければならない。</Sentence>
-      </Paragraph>
-    </Article>
-    <Article Num="5">
       <ArticleTitle>地方自治体の協力</ArticleTitle>
       <Sentence>地方自治体は、国の施策と協調し、その地域の実情に応じた必要な措置を講ずるよう努めるものとする。</Sentence>
     </Article>
-    <Article Num="6">
+    <Article Num="2">
       <ArticleTitle>事業者の責務</ArticleTitle>
       <Sentence>関係事業者は、法令を遵守し、利用者の利益の保護、安全の確保及び公正な競争秩序の維持に努めなければならない。</Sentence>
     </Article>
-    <Article Num="7">
+    <Article Num="3">
       <ArticleTitle>国民の理解と協力</ArticleTitle>
       <Sentence>国民は、この法律の趣旨を正しく理解し、国及び地方自治体が実施する施策に協力するよう努めるものとする。</Sentence>
     </Article>
-    <Article Num="8">
+    <Article Num="4">
       <ArticleTitle>国際的協調の推進</ArticleTitle>
       <Sentence>国は、国際機関及び諸外国と密接に連携し、国際的基準に合致した法制度の整備及び国際協力の推進に努める。</Sentence>
     </Article>
-    <Article Num="9">
-      <ArticleTitle>情報の公開と説明責任</ArticleTitle>
-      <Sentence>文化庁長官及び教育文化大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
-    </Article>
-    <Article Num="10">
+    <Article Num="5">
       <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
       <Sentence>国の安全保障上重大な支障がある場合又は他の法律に特別の定めがある場合は、その定めるところによる。</Sentence>
     </Article>

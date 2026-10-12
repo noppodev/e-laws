@@ -1,29 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>国家の安全及び公共の秩序を維持するための戒厳の宣告、実施及び解除並びに戒厳下における行政その他の特例に関する法律</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、憲法第九条及び国家緊急事態対処特別法の規定に基づき、戒厳の宣告、効力、実施及び解除その他戒厳に関する必要な事項を定め、国家の安全及び公共の秩序を確保するとともに、戒厳下における行政の適正な運営並びに国民の権利及び利益の保護を図ることを目的とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
-      <ArticleTitle>定義</ArticleTitle>
-      <Paragraph Num="1">
-        <Sentence>この法律において「戒厳」とは、大規模な武力攻撃その他国家の存立又は公共の秩序に重大な危険を及ぼす事態に対処するため、特定の地域について、法律の定めるところにより、通常の行政制度に特例を設ける措置をいう。</Sentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <Sentence>この法律において「戒厳地域」とは、戒厳の宣告により戒厳の効力が及ぶものとされた地域をいう。</Sentence>
-      </Paragraph>
-      <Paragraph Num="3">
-        <Sentence>この法律において「戒厳司令官」とは、戒厳地域における戒厳業務を統括する者として、大統領が任命する者をいう。</Sentence>
-      </Paragraph>
-    </Article>
-
-    <Article Num="3">
       <ArticleTitle>基本原則</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>戒厳は、国家の安全及び公共の秩序を維持するために必要な場合に限り、必要かつ合理的な範囲内で実施しなければならない。</Sentence>
@@ -35,8 +15,7 @@
         <Sentence>戒厳は、通常の行政制度による対処が可能となったときは、速やかに解除しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
-    <Article Num="4">
+    <Article Num="2">
       <ArticleTitle>憲法及び法律の優越</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>戒厳下においても、憲法及び法律は、その効力を失わない。</Sentence>
@@ -48,8 +27,7 @@
         <Sentence>前項ただし書の場合においても、憲法に反する措置を行うことはできない。</Sentence>
       </Paragraph>
     </Article>
-
-    <Article Num="5">
+    <Article Num="3">
       <ArticleTitle>他の法令との関係</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>戒厳については、この法律に特別の定めがある場合を除き、国家緊急事態対処特別法その他の関係法令の定めるところによる。</Sentence>
@@ -62,10 +40,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>戒厳の宣告</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>宣告の要件</ArticleTitle>
       <Paragraph Num="1">
@@ -78,7 +54,6 @@
         <Sentence>戒厳は、災害その他の事態に対する通常の行政措置のみを目的として宣告してはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>宣告の決定</ArticleTitle>
       <Paragraph Num="1">
@@ -91,7 +66,6 @@
         <Sentence>前項の場合において、大統領は、宣告後速やかに内閣を招集し、戒厳の必要性及び内容について審議しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>宣告の内容</ArticleTitle>
       <Paragraph Num="1">
@@ -107,7 +81,6 @@
         <Sentence>前項各号に掲げる事項は、戒厳の目的を達成するために必要な範囲を超えて定めてはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>宣告の公布</ArticleTitle>
       <Paragraph Num="1">
@@ -120,7 +93,6 @@
         <Sentence>通信その他の事情により通常の方法による公布が困難であるときは、国民が知ることのできる適切な方法により周知し、通常の方法が利用可能となった後、速やかに公布しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>効力の発生</ArticleTitle>
       <Paragraph Num="1">
@@ -130,7 +102,6 @@
         <Sentence>宣告に開始日時の定めがないときは、公布の時から効力を生ずる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>国会への通知</ArticleTitle>
       <Paragraph Num="1">
@@ -143,7 +114,6 @@
         <Sentence>国会が閉会中である場合においても、前二項の規定は適用する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>国会の承認</ArticleTitle>
       <Paragraph Num="1">
@@ -159,7 +129,6 @@
         <Sentence>国会は、戒厳の継続が必要でないと認めるときは、戒厳の解除を議決することができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>国会が議決できない場合</ArticleTitle>
       <Paragraph Num="1">
@@ -173,10 +142,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>戒厳の区域及び期間</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>戒厳地域</ArticleTitle>
       <Paragraph Num="1">
@@ -189,7 +156,6 @@
         <Sentence>戒厳地域の変更によって国民の権利義務に重大な影響が生ずるときは、その内容を速やかに周知しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>戒厳の期間</ArticleTitle>
       <Paragraph Num="1">
@@ -202,7 +168,6 @@
         <Sentence>延長の承認を受けようとするときは、大統領は、継続の理由、必要性及び実施状況を国会に説明しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>延長の制限</ArticleTitle>
       <Paragraph Num="1">
@@ -215,7 +180,6 @@
         <Sentence>戒厳を継続する必要がなくなったときは、期間満了前であっても、速やかにこれを解除しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>区域及び期間の公示</ArticleTitle>
       <Paragraph Num="1">
@@ -226,10 +190,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>戒厳の実施及び指揮監督</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>戒厳司令官</ArticleTitle>
       <Paragraph Num="1">
@@ -242,7 +204,6 @@
         <Sentence>戒厳司令官は、法律に明示された権限又は適法に委任された権限の範囲内でのみ職務を行うことができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>戒厳司令部</ArticleTitle>
       <Paragraph Num="1">
@@ -255,7 +216,6 @@
         <Sentence>戒厳司令部は、戒厳の実施に必要な事務を処理するものとし、法律上の根拠なく行政機関又は裁判所の権限を代行してはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>行政機関との関係</ArticleTitle>
       <Paragraph Num="1">
@@ -268,7 +228,6 @@
         <Sentence>行政機関の権限を他の機関に移し、又はその行使を制限する場合は、法律に明確な根拠がなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>軍の活動</ArticleTitle>
       <Paragraph Num="1">
@@ -281,7 +240,6 @@
         <Sentence>軍の指揮系統、任務及び権限については、国防に関する法律の定めるところによる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>地方公共団体との連携</ArticleTitle>
       <Paragraph Num="1">
@@ -294,7 +252,6 @@
         <Sentence>戒厳司令官は、法律の根拠なく地方公共団体の長の権限を代行することができない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>職務上の命令</ArticleTitle>
       <Paragraph Num="1">
@@ -308,10 +265,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>戒厳下における行政措置</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>行政措置の範囲</ArticleTitle>
       <Paragraph Num="1">
@@ -324,7 +279,6 @@
         <Sentence>行政措置は、その目的を達成するために必要な最小限度のものでなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>公共施設の使用</ArticleTitle>
       <Paragraph Num="1">
@@ -334,7 +288,6 @@
         <Sentence>前項の使用に当たっては、住民の生活及び公共サービスへの影響をできる限り小さくしなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>物資及び輸送の確保</ArticleTitle>
       <Paragraph Num="1">
@@ -347,7 +300,6 @@
         <Sentence>財産の使用、収用その他特別の負担を課した場合における補償については、法律の定めるところによる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>住民の避難及び救援</ArticleTitle>
       <Paragraph Num="1">
@@ -357,7 +309,6 @@
         <Sentence>避難その他の措置は、危険を回避するために必要な範囲で実施し、住民に対して必要な情報を提供するよう努めなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>行政措置の記録</ArticleTitle>
       <Paragraph Num="1">
@@ -368,10 +319,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>国民の権利及び司法</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>権利の尊重</ArticleTitle>
       <Paragraph Num="1">
@@ -381,7 +330,6 @@
         <Sentence>戒厳を理由として、法律に根拠のない権利の制限を行ってはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>身体の自由</ArticleTitle>
       <Paragraph Num="1">
@@ -391,7 +339,6 @@
         <Sentence>戒厳を理由として、裁判所による審査その他法律上必要とされる手続を無期限に停止してはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>表現及び通信</ArticleTitle>
       <Paragraph Num="1">
@@ -401,7 +348,6 @@
         <Sentence>表現、報道又は通信を制限する措置は、法律に明確な根拠があり、戒厳の目的を達成するために必要な範囲に限り行うことができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>裁判所の権限</ArticleTitle>
       <Paragraph Num="1">
@@ -411,7 +357,6 @@
         <Sentence>戒厳司令官その他の行政機関は、法律に明確な根拠がある場合を除き、裁判所の権限を代行し、又は裁判所の判断を変更することができない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>司法審査</ArticleTitle>
       <Paragraph Num="1">
@@ -421,7 +366,6 @@
         <Sentence>裁判所は、戒厳に関する行為が憲法又は法律に違反すると認めるときは、法令の定めるところにより、その取消しその他必要な救済を行うことができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>損害の賠償及び補償</ArticleTitle>
       <Paragraph Num="1">
@@ -432,10 +376,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>監督及び報告</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>大統領による監督</ArticleTitle>
       <Paragraph Num="1">
@@ -445,7 +387,6 @@
         <Sentence>大統領は、戒厳の実施が法令に適合し、かつ、必要な範囲内で行われるよう監督しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>国会への定期報告</ArticleTitle>
       <Paragraph Num="1">
@@ -455,7 +396,6 @@
         <Sentence>国会は、戒厳の実施に関して必要な説明又は資料の提出を大統領及び関係行政機関に求めることができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>違法な措置の是正</ArticleTitle>
       <Paragraph Num="1">
@@ -465,7 +405,6 @@
         <Sentence>戒厳司令官は、自己の権限を超える命令又は違法な措置を認めたときは、その実施を停止し、速やかに大統領に報告しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>記録及び検証</ArticleTitle>
       <Paragraph Num="1">
@@ -476,10 +415,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="8">
     <ChapterTitle>戒厳の解除</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>解除の要件</ArticleTitle>
       <Paragraph Num="1">
@@ -489,7 +426,6 @@
         <Sentence>国会が戒厳の解除を議決したときは、大統領は、速やかに戒厳を解除しなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>解除の公布</ArticleTitle>
       <Paragraph Num="1">
@@ -499,7 +435,6 @@
         <Sentence>戒厳の一部を解除するときも、前項と同様とする。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>解除後の措置</ArticleTitle>
       <Paragraph Num="1">
@@ -513,10 +448,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="9">
     <ChapterTitle>罰則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>権限の濫用</ArticleTitle>
       <Paragraph Num="1">
@@ -526,7 +459,6 @@
         <Sentence>前項の行為が犯罪を構成するときは、刑法その他の関係法令の定めるところによる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>命令違反</ArticleTitle>
       <Paragraph Num="1">
@@ -537,10 +469,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="10">
     <ChapterTitle>補則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>政令への委任</ArticleTitle>
       <Paragraph Num="1">
@@ -553,7 +483,6 @@
         <Sentence>政令によって、戒厳の宣告要件、国会の承認、戒厳の期間又は国民の権利を制限するための基本的事項を変更することはできない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>施行期日</ArticleTitle>
       <Sentence>この法律は、公布の日から施行する。</Sentence>

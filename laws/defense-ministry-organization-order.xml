@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>行政組織法に基づく国防省の組織並びに陸軍庁、海軍庁及び空軍庁の設置及び所掌事務に関する政令</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>趣旨</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>この政令は、行政組織法第28条及び第39条の規定に基づき、国防省の内部組織並びに陸軍庁、海軍庁及び空軍庁の設置及び所掌事務その他これらの行政機関の組織に関し必要な事項を定めるものとする。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>組織運営の原則</ArticleTitle>
       <Paragraph Num="1">
@@ -22,10 +19,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>国防省</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>内部部局</ArticleTitle>
       <Paragraph Num="1">
@@ -50,7 +45,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>大臣官房</ArticleTitle>
       <Paragraph Num="1">
@@ -72,7 +66,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>防衛政策局</ArticleTitle>
       <Paragraph Num="1">
@@ -91,7 +84,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>防衛運用局</ArticleTitle>
       <Paragraph Num="1">
@@ -113,7 +105,6 @@
         <Sentence>この条の規定は、大統領の統帥権その他法律に定める指揮命令権限を変更するものではない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>装備政策局</ArticleTitle>
       <Paragraph Num="1">
@@ -132,7 +123,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>人事教育局</ArticleTitle>
       <Paragraph Num="1">
@@ -151,7 +141,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>経理局</ArticleTitle>
       <Paragraph Num="1">
@@ -167,7 +156,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>国防副大臣</ArticleTitle>
       <Paragraph Num="1">
@@ -180,7 +168,6 @@
         <Sentence>国防副大臣の任免その他の身分に関する事項は、法律の定めるところによる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>国防審議会</ArticleTitle>
       <Paragraph Num="1">
@@ -194,10 +181,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>陸軍庁</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
@@ -207,7 +192,6 @@
         <Sentence>陸軍庁は、国防省の外局とする。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
@@ -235,7 +219,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
@@ -245,7 +228,6 @@
         <Sentence>陸軍庁長官は、国防大臣の指揮監督を受け、陸軍庁の事務を統括する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
@@ -271,10 +253,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>海軍庁</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
@@ -284,7 +264,6 @@
         <Sentence>海軍庁は、国防省の外局とする。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
@@ -312,7 +291,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
@@ -322,7 +300,6 @@
         <Sentence>海軍庁長官は、国防大臣の指揮監督を受け、海軍庁の事務を統括する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
@@ -348,10 +325,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>空軍庁</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
@@ -361,7 +336,6 @@
         <Sentence>空軍庁は、国防省の外局とする。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
@@ -389,7 +363,6 @@
         </Item>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
@@ -399,7 +372,6 @@
         <Sentence>空軍庁長官は、国防大臣の指揮監督を受け、空軍庁の事務を統括する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
@@ -425,10 +397,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>統合調整</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>三軍間の連絡調整</ArticleTitle>
       <Paragraph Num="1">
@@ -438,7 +408,6 @@
         <Sentence>前項の連絡及び調整は、各庁の所掌事務及び権限を尊重して行わなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>共同事務</ArticleTitle>
       <Paragraph Num="1">
@@ -448,7 +417,6 @@
         <Sentence>前項の規定は、法律に基づく大統領の統帥権その他の指揮命令権限を制限するものではない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>情報の共有</ArticleTitle>
       <Paragraph Num="1">
@@ -459,10 +427,8 @@
       </Paragraph>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>雑則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>細則</ArticleTitle>
       <Paragraph Num="1">
@@ -472,7 +438,6 @@
         <Sentence>前項の細則は、法律及び政令に反してはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>委任の限界</ArticleTitle>
       <Paragraph Num="1">
@@ -482,7 +447,6 @@
         <Sentence>前項の命令又は規則によって、法律又は政令の規定を改正し、廃止し、又はその効力を変更することはできない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>施行期日</ArticleTitle>
       <Paragraph Num="1">

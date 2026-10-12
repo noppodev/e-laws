@@ -1,1271 +1,1012 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>商法</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、商人の営業、商行為その他の商事関係について基本的な事項を定め、商取引の安全及び円滑を図ることを目的とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
       <ArticleTitle>商人</ArticleTitle>
       <Sentence>自己の名をもって商行為をすることを業とする者を商人とする。</Sentence>
     </Article>
-
-    <Article Num="3">
+    <Article Num="2">
       <ArticleTitle>店舗による商人</ArticleTitle>
       <Sentence>店舗その他の営業施設を設け、継続して物品の販売その他の営業をする者は、商人と推定する。</Sentence>
     </Article>
-
-    <Article Num="4">
+    <Article Num="3">
       <ArticleTitle>未成年者の営業</ArticleTitle>
       <Sentence>未成年者が法定代理人の許可を得て営業をする場合には、その営業に関しては、成年者と同一の行為能力を有する。</Sentence>
     </Article>
-
-    <Article Num="5">
+    <Article Num="4">
       <ArticleTitle>営業の登記</ArticleTitle>
       <Sentence>商人は、法令の定めるところにより、その営業に関する事項を登記しなければならない。</Sentence>
     </Article>
-
-    <Article Num="6">
+    <Article Num="5">
       <ArticleTitle>商業登記の公開</ArticleTitle>
       <Sentence>商業登記は、商取引の相手方が営業に関する重要な事項を確認することができるよう、公開する。</Sentence>
     </Article>
-
-    <Article Num="7">
+    <Article Num="6">
       <ArticleTitle>登記の効力</ArticleTitle>
       <Sentence>登記すべき事項は、その登記後でなければ、善意の第三者に対抗することができない。</Sentence>
     </Article>
-
-    <Article Num="8">
+    <Article Num="7">
       <ArticleTitle>不実登記</ArticleTitle>
       <Sentence>故意又は重大な過失により不実の事項を登記した者は、その登記を信頼した第三者に対し、その不実を主張することができない。</Sentence>
     </Article>
-
-    <Article Num="9">
+    <Article Num="8">
       <ArticleTitle>商号</ArticleTitle>
       <Sentence>商人は、その氏名その他の名称をもって商号とすることができる。</Sentence>
     </Article>
-
-    <Article Num="10">
+    <Article Num="9">
       <ArticleTitle>商号の選定</ArticleTitle>
       <Sentence>商号は、他人の営業と誤認させる目的その他不正の目的をもって選定してはならない。</Sentence>
     </Article>
-
-    <Article Num="11">
+    <Article Num="10">
       <ArticleTitle>商号の使用</ArticleTitle>
       <Sentence>商人は、その商号を営業上継続して使用しなければならない。</Sentence>
     </Article>
-
-    <Article Num="12">
+    <Article Num="11">
       <ArticleTitle>商号の譲渡</ArticleTitle>
       <Sentence>商号は、営業とともにする場合に限り、譲渡することができる。</Sentence>
     </Article>
-
-    <Article Num="13">
+    <Article Num="12">
       <ArticleTitle>商号使用の差止め</ArticleTitle>
       <Sentence>他人の商号を使用して営業上の利益を害するおそれがある者に対しては、その使用の差止めを請求することができる。</Sentence>
     </Article>
-
-    <Article Num="14">
+    <Article Num="13">
       <ArticleTitle>商号による損害賠償</ArticleTitle>
       <Sentence>他人の商号を不正に使用して損害を生じさせた者は、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
-    <Article Num="15">
+    <Article Num="14">
       <ArticleTitle>営業所</ArticleTitle>
       <Sentence>商人は、その営業の中心となる場所を営業所とする。</Sentence>
     </Article>
-
-    <Article Num="16">
+    <Article Num="15">
       <ArticleTitle>営業所の表示</ArticleTitle>
       <Sentence>営業所には、商号その他法令で定める事項を表示しなければならない。</Sentence>
     </Article>
-
-    <Article Num="17">
+    <Article Num="16">
       <ArticleTitle>営業所の変更</ArticleTitle>
       <Sentence>営業所を移転したときは、遅滞なくその変更を登記しなければならない。</Sentence>
     </Article>
-
-    <Article Num="18">
+    <Article Num="17">
       <ArticleTitle>営業の譲渡</ArticleTitle>
       <Sentence>営業を譲渡する契約は、当事者の合意によって成立する。</Sentence>
     </Article>
-
-    <Article Num="19">
+    <Article Num="18">
       <ArticleTitle>営業譲渡の効果</ArticleTitle>
       <Sentence>営業の譲渡がされたときは、当事者間で別段の定めがない限り、その営業に属する財産及び営業上の権利義務を一体として移転する。</Sentence>
     </Article>
-
-    <Article Num="20">
+    <Article Num="19">
       <ArticleTitle>競業避止</ArticleTitle>
       <Sentence>営業を譲渡した者は、当事者間に別段の定めがない限り、同一又は類似の営業を行って譲受人の営業を害してはならない。</Sentence>
     </Article>
-
-    <Article Num="21">
+    <Article Num="20">
       <ArticleTitle>商業帳簿</ArticleTitle>
       <Sentence>商人は、その営業の財産及び損益の状況を明らかにするため、法令の定めるところにより商業帳簿を作成しなければならない。</Sentence>
     </Article>
-
-    <Article Num="22">
+    <Article Num="21">
       <ArticleTitle>会計帳簿</ArticleTitle>
       <Sentence>商人は、営業上の取引を適時かつ正確に会計帳簿に記載しなければならない。</Sentence>
     </Article>
-
-    <Article Num="23">
+    <Article Num="22">
       <ArticleTitle>貸借対照表</ArticleTitle>
       <Sentence>商人は、一定の期間ごとにその財産の状況を明らかにする貸借対照表を作成しなければならない。</Sentence>
     </Article>
-
-    <Article Num="24">
+    <Article Num="23">
       <ArticleTitle>損益計算</ArticleTitle>
       <Sentence>商人は、営業年度ごとにその営業によって生じた利益又は損失を計算しなければならない。</Sentence>
     </Article>
-
-    <Article Num="25">
+    <Article Num="24">
       <ArticleTitle>帳簿の保存</ArticleTitle>
       <Sentence>商人は、商業帳簿その他営業に関する重要な資料を、法令で定める期間保存しなければならない。</Sentence>
     </Article>
-
-    <Article Num="26">
+    <Article Num="25">
       <ArticleTitle>電子帳簿</ArticleTitle>
       <Sentence>商業帳簿は、電子的方法その他情報通信技術を利用する方法により作成し、保存することができる。</Sentence>
     </Article>
-
-    <Article Num="27">
+    <Article Num="26">
       <ArticleTitle>支配人</ArticleTitle>
       <Sentence>商人は、その営業に関する一切の裁判上又は裁判外の行為をする権限を有する支配人を選任することができる。</Sentence>
     </Article>
-
-    <Article Num="28">
+    <Article Num="27">
       <ArticleTitle>支配人の権限</ArticleTitle>
       <Sentence>支配人は、その営業に関して商人を代理する権限を有する。</Sentence>
     </Article>
-
-    <Article Num="29">
+    <Article Num="28">
       <ArticleTitle>支配人の制限</ArticleTitle>
       <Sentence>支配人の代理権に加えた制限は、善意の第三者に対抗することができない。</Sentence>
     </Article>
-
-    <Article Num="30">
+    <Article Num="29">
       <ArticleTitle>支配人の競業避止</ArticleTitle>
       <Sentence>支配人は、商人の許可を得なければ、自己又は第三者のために商人の営業と同種の取引をしてはならない。</Sentence>
     </Article>
-
-    <Article Num="31">
+    <Article Num="30">
       <ArticleTitle>表見支配人</ArticleTitle>
       <Sentence>商人が支配人であると表示した者が営業に関する行為をした場合には、商人は、善意の第三者に対してその者の権限がなかったことを主張することができない。</Sentence>
     </Article>
-
-    <Article Num="32">
+    <Article Num="31">
       <ArticleTitle>使用人</ArticleTitle>
       <Sentence>商人の営業所において営業に関する事務を行う者は、その職務の範囲内で商人を代理する権限を有する。</Sentence>
     </Article>
-
-    <Article Num="33">
+    <Article Num="32">
       <ArticleTitle>代理権の消滅</ArticleTitle>
       <Sentence>代理権が消滅した場合であっても、その消滅を知らない第三者に対しては、商人はその消滅を主張することができない。</Sentence>
     </Article>
-
-    <Article Num="34">
+    <Article Num="33">
       <ArticleTitle>商業代理</ArticleTitle>
       <Sentence>商人から営業に関する代理権を与えられた者は、善良な管理者の注意をもってその職務を行わなければならない。</Sentence>
     </Article>
-
-    <Article Num="35">
+    <Article Num="34">
       <ArticleTitle>商業使用人の秘密保持</ArticleTitle>
       <Sentence>商業使用人は、職務上知り得た営業上の秘密を正当な理由なく漏らしてはならない。</Sentence>
     </Article>
-
-    <Article Num="36">
+    <Article Num="35">
       <ArticleTitle>商業補助者</ArticleTitle>
       <Sentence>商人は、営業の必要に応じ、支配人その他の商業補助者を置くことができる。</Sentence>
     </Article>
-
-    <Article Num="37">
+    <Article Num="36">
       <ArticleTitle>代理商</ArticleTitle>
       <Sentence>代理商とは、商人のために、その平常の営業の部類に属する取引の代理又は媒介をする者をいう。</Sentence>
     </Article>
-
-    <Article Num="38">
+    <Article Num="37">
       <ArticleTitle>代理商の通知義務</ArticleTitle>
       <Sentence>代理商は、取引の相手方から請求を受けたときは、遅滞なくその取引に関する必要な事項を商人に通知しなければならない。</Sentence>
     </Article>
-
-    <Article Num="39">
+    <Article Num="38">
       <ArticleTitle>代理商の競業避止</ArticleTitle>
       <Sentence>代理商は、本人である商人の許可なく、その商人と同一の営業を行ってはならない。</Sentence>
     </Article>
-
-    <Article Num="40">
+    <Article Num="39">
       <ArticleTitle>代理商契約の解除</ArticleTitle>
       <Sentence>代理商契約は、当事者の一方が相手方に三十日前までに通知することにより解除することができる。</Sentence>
     </Article>
-
-    <Article Num="41">
+    <Article Num="40">
       <ArticleTitle>仲立人</ArticleTitle>
       <Sentence>仲立人とは、他人のために商行為の成立を媒介することを業とする者をいう。</Sentence>
     </Article>
-
-    <Article Num="42">
+    <Article Num="41">
       <ArticleTitle>仲立人の義務</ArticleTitle>
       <Sentence>仲立人は、当事者双方に対して公正に職務を行わなければならない。</Sentence>
     </Article>
-
-    <Article Num="43">
+    <Article Num="42">
       <ArticleTitle>仲立人の帳簿</ArticleTitle>
       <Sentence>仲立人は、媒介した取引について法令で定める帳簿を備えなければならない。</Sentence>
     </Article>
-
-    <Article Num="44">
+    <Article Num="43">
       <ArticleTitle>問屋</ArticleTitle>
       <Sentence>問屋とは、自己の名をもって他人のために物品の販売又は買入れをすることを業とする者をいう。</Sentence>
     </Article>
-
-    <Article Num="45">
+    <Article Num="44">
       <ArticleTitle>問屋の権利義務</ArticleTitle>
       <Sentence>問屋は、委託者との関係において、委任に関する規定に従う。</Sentence>
     </Article>
-
-    <Article Num="46">
+    <Article Num="45">
       <ArticleTitle>問屋の直接履行</ArticleTitle>
       <Sentence>問屋が相手方との取引をした場合には、その取引から生ずる権利義務は、問屋と相手方との間に生ずる。</Sentence>
     </Article>
-
-    <Article Num="47">
+    <Article Num="46">
       <ArticleTitle>問屋の介入権</ArticleTitle>
       <Sentence>問屋は、委託者に通知して、自ら相手方となって取引を履行することができる。</Sentence>
     </Article>
-
-    <Article Num="48">
+    <Article Num="47">
       <ArticleTitle>商行為</ArticleTitle>
       <Sentence>商行為とは、商人がその営業のためにする行為その他この法律に定める行為をいう。</Sentence>
     </Article>
-
-    <Article Num="49">
+    <Article Num="48">
       <ArticleTitle>附属的商行為</ArticleTitle>
       <Sentence>商人がその営業のためにする行為は、その営業に直接必要でないものであっても、商行為とする。</Sentence>
     </Article>
-
-    <Article Num="50">
+    <Article Num="49">
       <ArticleTitle>商事代理</ArticleTitle>
       <Sentence>商行為の代理人が本人のためにすることを示さずにした行為についても、相手方が本人のためにすることを知っていたときは、その効果は本人に帰属する。</Sentence>
     </Article>
-
-    <Article Num="51">
+    <Article Num="50">
       <ArticleTitle>商行為の代理権</ArticleTitle>
       <Sentence>商行為について与えられた代理権の制限は、善意の第三者に対抗することができない。</Sentence>
     </Article>
-
-    <Article Num="52">
+    <Article Num="51">
       <ArticleTitle>商人間の履行</ArticleTitle>
       <Sentence>商人間の取引については、当事者は、信義に従い、迅速かつ適切にその義務を履行しなければならない。</Sentence>
     </Article>
-
-    <Article Num="53">
+    <Article Num="52">
       <ArticleTitle>商人間の留置権</ArticleTitle>
       <Sentence>商人間の取引によって生じた債権が弁済期にあるときは、債権者は、その債権の担保として自己が占有する相手方の物を留置することができる。</Sentence>
     </Article>
-
-    <Article Num="54">
+    <Article Num="53">
       <ArticleTitle>商事法定利率</ArticleTitle>
       <Sentence>商行為によって生じた債務については、法定利率を年三パーセントとする。</Sentence>
     </Article>
-
-    <Article Num="55">
+    <Article Num="54">
       <ArticleTitle>商事時効</ArticleTitle>
       <Sentence>商行為によって生じた債権は、他の法律に特別の定めがある場合を除き、五年間行使しないときは、時効によって消滅する。</Sentence>
     </Article>
-
-    <Article Num="56">
+    <Article Num="55">
       <ArticleTitle>商人間の契約</ArticleTitle>
       <Sentence>商人間の契約は、法令又は契約に別段の定めがない限り、取引の慣行に従って解釈する。</Sentence>
     </Article>
-
-    <Article Num="57">
+    <Article Num="56">
       <ArticleTitle>商慣習</ArticleTitle>
       <Sentence>商事に関する事項について法令に定めがないときは、商慣習に従い、商慣習がないときは民法その他の一般法令による。</Sentence>
     </Article>
-
-    <Article Num="58">
+    <Article Num="57">
       <ArticleTitle>営業譲渡の通知</ArticleTitle>
       <Sentence>営業を譲渡した者は、取引の相手方に対し、営業の譲渡及びその効力発生日を通知しなければならない。</Sentence>
     </Article>
-
-    <Article Num="59">
+    <Article Num="58">
       <ArticleTitle>営業上の債務</ArticleTitle>
       <Sentence>営業の譲渡がされた場合、譲受人が営業上の債務を引き受ける旨を表示したときは、その債務について譲受人も責任を負う。</Sentence>
     </Article>
-
-    <Article Num="60">
+    <Article Num="59">
       <ArticleTitle>商人の善管注意義務</ArticleTitle>
       <Sentence>商人は、営業上の事務を処理するに当たり、通常の商人に求められる注意をもってこれを行わなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>商行為</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>売買</ArticleTitle>
       <Sentence>商人間の売買については、当事者は、目的物及び代金その他の条件を明確に定めなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>契約の成立</ArticleTitle>
       <Sentence>商人間の売買契約は、申込み及び承諾の意思表示が合致したときに成立する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>承諾期間</ArticleTitle>
       <Sentence>承諾期間を定めた申込みは、その期間内に承諾の通知が到達しなければ、その効力を失う。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>商人間の申込み</ArticleTitle>
       <Sentence>商人が営業上の取引について申込みを受けたときは、速やかにその諾否を通知しなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>売買目的物の検査</ArticleTitle>
       <Sentence>買主は、目的物を受領したときは、遅滞なくこれを検査しなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>通知義務</ArticleTitle>
       <Sentence>買主は、目的物に数量又は品質について契約に適合しない点を発見したときは、遅滞なく売主に通知しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>隠れた不適合</ArticleTitle>
       <Sentence>通常の検査によって発見することができない契約不適合については、買主がその不適合を知った後、速やかに売主へ通知しなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>代金の支払</ArticleTitle>
       <Sentence>買主は、契約で定めた期日までに代金を支払わなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>危険の移転</ArticleTitle>
       <Sentence>目的物の引渡しを要する売買においては、目的物が買主に引き渡された時に、その目的物についての危険は買主に移転する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>定期売買</ArticleTitle>
       <Sentence>特定の日時又は一定の期間内に履行されなければ契約の目的を達することができない売買については、その期間を経過したとき、買主は契約を解除することができる。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>交互計算</ArticleTitle>
       <Sentence>商人間で一定期間内の取引から生じる債権債務を包括して計算し、その差額のみを支払う契約をすることができる。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>交互計算期間</ArticleTitle>
       <Sentence>交互計算の期間は、当事者の合意によって定める。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>差引計算</ArticleTitle>
       <Sentence>交互計算の期間が終了したときは、各当事者の債権債務を差し引き、その残額を債務者が支払う。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>匿名組合</ArticleTitle>
       <Sentence>匿名組合契約は、当事者の一方が相手方の営業のために出資をし、その営業から生ずる利益の分配を受けることを約することによって成立する。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>匿名組合員の出資</ArticleTitle>
       <Sentence>匿名組合員の出資は、金銭その他の財産をもってする。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>利益の分配</ArticleTitle>
       <Sentence>匿名組合員は、契約の定めに従い、営業者から利益の分配を受けることができる。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>匿名組合員の責任</ArticleTitle>
       <Sentence>匿名組合員は、営業者の営業上の債務について第三者に対して直接責任を負わない。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>匿名組合の終了</ArticleTitle>
       <Sentence>匿名組合は、契約期間の満了、営業の終了その他契約で定める事由によって終了する。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>仲立契約</ArticleTitle>
       <Sentence>仲立契約は、仲立人が取引当事者間の契約成立を媒介することを約し、相手方がその報酬を支払うことを約することによって成立する。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>仲立人の報酬</ArticleTitle>
       <Sentence>仲立人は、媒介した取引が成立したときに、契約で定めた報酬を請求することができる。</Sentence>
     </Article>
-
     <Article Num="21">
       <ArticleTitle>仲立人の責任</ArticleTitle>
       <Sentence>仲立人は、故意又は過失によって当事者に損害を与えたときは、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="22">
       <ArticleTitle>委託販売</ArticleTitle>
       <Sentence>委託販売をする者は、委託者の利益のために、善良な管理者の注意をもって販売を行わなければならない。</Sentence>
     </Article>
-
     <Article Num="23">
       <ArticleTitle>販売価格</ArticleTitle>
       <Sentence>委託販売における販売価格は、委託者の指示に従うものとする。</Sentence>
     </Article>
-
     <Article Num="24">
       <ArticleTitle>委託物の保管</ArticleTitle>
       <Sentence>委託販売をする者は、委託物を自己の財産と分別して保管しなければならない。</Sentence>
     </Article>
-
     <Article Num="25">
       <ArticleTitle>運送</ArticleTitle>
       <Sentence>運送人は、荷送人から引き受けた物を、約定された場所まで運送し、荷受人に引き渡す義務を負う。</Sentence>
     </Article>
-
     <Article Num="26">
       <ArticleTitle>運送契約</ArticleTitle>
       <Sentence>運送契約は、荷送人と運送人との合意によって成立する。</Sentence>
     </Article>
-
     <Article Num="27">
       <ArticleTitle>運送状</ArticleTitle>
       <Sentence>荷送人は、運送人の請求があったときは、運送品の種類、数量、重量、引渡地その他必要な事項を記載した運送状を交付しなければならない。</Sentence>
     </Article>
-
     <Article Num="28">
       <ArticleTitle>運送人の注意義務</ArticleTitle>
       <Sentence>運送人は、運送品を受け取った時から引渡しまで、善良な管理者の注意をもってこれを保管しなければならない。</Sentence>
     </Article>
-
     <Article Num="29">
       <ArticleTitle>運送人の責任</ArticleTitle>
       <Sentence>運送人は、運送品の滅失、毀損又は遅延について、自己に責任のないことを証明しない限り、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="30">
       <ArticleTitle>運送品の引渡し</ArticleTitle>
       <Sentence>運送人は、運送品を約定された場所において、正当な荷受人に引き渡さなければならない。</Sentence>
     </Article>
-
     <Article Num="31">
       <ArticleTitle>運送賃</ArticleTitle>
       <Sentence>運送賃は、契約に定めた時期に支払うものとする。</Sentence>
     </Article>
-
     <Article Num="32">
       <ArticleTitle>運送人の留置権</ArticleTitle>
       <Sentence>運送人は、運送賃その他運送に関して生じた債権の弁済を受けるまで、運送品を留置することができる。</Sentence>
     </Article>
-
     <Article Num="33">
       <ArticleTitle>運送品の処分</ArticleTitle>
       <Sentence>荷送人は、運送品が荷受人に引き渡されるまで、運送人に対してその処分を指図することができる。</Sentence>
     </Article>
-
     <Article Num="34">
       <ArticleTitle>運送品の危険</ArticleTitle>
       <Sentence>運送品が不可抗力によって滅失した場合において、当事者間に別段の定めがないときは、その損害は荷送人が負担する。</Sentence>
     </Article>
-
     <Article Num="35">
       <ArticleTitle>運送取扱人</ArticleTitle>
       <Sentence>運送取扱人とは、自己の名をもって物品の運送を他人に委託することを業とする者をいう。</Sentence>
     </Article>
-
     <Article Num="36">
       <ArticleTitle>運送取扱人の責任</ArticleTitle>
       <Sentence>運送取扱人は、運送人と同一の責任を負うほか、委託を受けた運送について必要な手配を適切に行う義務を負う。</Sentence>
     </Article>
-
     <Article Num="37">
       <ArticleTitle>寄託</ArticleTitle>
       <Sentence>商人が営業として物を寄託する場合には、寄託を受けた者は、善良な管理者の注意をもってこれを保管しなければならない。</Sentence>
     </Article>
-
     <Article Num="38">
       <ArticleTitle>寄託物の返還</ArticleTitle>
       <Sentence>寄託を受けた者は、契約で定めた時期に寄託物を返還しなければならない。</Sentence>
     </Article>
-
     <Article Num="39">
       <ArticleTitle>保管料</ArticleTitle>
       <Sentence>商人が営業として寄託を受けた場合には、契約で定めた保管料を請求することができる。</Sentence>
     </Article>
-
     <Article Num="40">
       <ArticleTitle>保管物の処分</ArticleTitle>
       <Sentence>寄託物が腐敗その他の事由により著しく価値を失うおそれがあるときは、寄託を受けた者は、必要な処分をすることができる。</Sentence>
     </Article>
-
     <Article Num="41">
       <ArticleTitle>代理購入</ArticleTitle>
       <Sentence>商人が他人の委託を受けて物品を購入するときは、委託の趣旨に従い、適切な価格及び条件で購入しなければならない。</Sentence>
     </Article>
-
     <Article Num="42">
       <ArticleTitle>手数料</ArticleTitle>
       <Sentence>商人が営業として他人のために取引を媒介又は処理したときは、契約に定める手数料を請求することができる。</Sentence>
     </Article>
-
     <Article Num="43">
       <ArticleTitle>取引記録</ArticleTitle>
       <Sentence>商人は、委託を受けた取引について、その内容及び処理の経過を記録しなければならない。</Sentence>
     </Article>
-
     <Article Num="44">
       <ArticleTitle>取引明細</ArticleTitle>
       <Sentence>委託者から請求があったときは、商人は、取引の明細及び費用を明らかにしなければならない。</Sentence>
     </Article>
-
     <Article Num="45">
       <ArticleTitle>電子商取引</ArticleTitle>
       <Sentence>商行為は、電子情報処理組織を使用して行うことができる。</Sentence>
     </Article>
-
     <Article Num="46">
       <ArticleTitle>電子記録</ArticleTitle>
       <Sentence>電子的方法により記録された商取引に関する情報は、法令に別段の定めがない限り、書面による記録と同等の効力を有する。</Sentence>
     </Article>
-
     <Article Num="47">
       <ArticleTitle>電子署名</ArticleTitle>
       <Sentence>電子的な意思表示については、当事者を識別することができ、かつ、その内容が改変されていないことを確認できる方法による署名を付することができる。</Sentence>
     </Article>
-
     <Article Num="48">
       <ArticleTitle>営業上の広告</ArticleTitle>
       <Sentence>商人は、営業上の広告をするに当たり、取引の相手方を誤認させる表示をしてはならない。</Sentence>
     </Article>
-
     <Article Num="49">
       <ArticleTitle>不当表示</ArticleTitle>
       <Sentence>商品又は役務について、実際のものより著しく優良又は有利であると誤認させる表示をしてはならない。</Sentence>
     </Article>
-
     <Article Num="50">
       <ArticleTitle>取引上の信義</ArticleTitle>
       <Sentence>商人は、取引の相手方の信頼を不当に害する行為をしてはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>会社</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>会社の種類</ArticleTitle>
       <Sentence>会社は、株式会社、合名会社、合資会社及び合同会社とする。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>法人格</ArticleTitle>
       <Sentence>会社は、法令の定めるところにより成立し、法人として権利を有し義務を負う。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>会社の名称</ArticleTitle>
       <Sentence>会社は、その種類に応じ、商号に株式会社、合名会社、合資会社又は合同会社の文字を用いなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>会社の目的</ArticleTitle>
       <Sentence>会社は、定款に定めた目的の範囲内で事業を行う。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>定款</ArticleTitle>
       <Sentence>会社を設立しようとする者は、定款を作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>定款の記載事項</ArticleTitle>
       <Sentence>定款には、会社の目的、商号、本店の所在地その他法令で定める事項を記載しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>定款の認証</ArticleTitle>
       <Sentence>株式会社の定款は、法令で定める方法により認証を受けなければ、その効力を生じない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>会社の設立</ArticleTitle>
       <Sentence>会社は、設立の登記をすることによって成立する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>設立登記</ArticleTitle>
       <Sentence>設立登記には、商号、本店、目的、資本金その他法令で定める事項を記載しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>設立無効</ArticleTitle>
       <Sentence>会社の設立の無効は、設立の日から三年以内に、訴えをもってのみ主張することができる。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>株式会社</ArticleTitle>
       <Sentence>株式会社は、株式を発行して資本を調達する会社とする。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>株式</ArticleTitle>
       <Sentence>株式は、株式会社に対する社員としての地位を細分化したものである。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>株主の責任</ArticleTitle>
       <Sentence>株主の責任は、その有する株式の引受価額を限度とする。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>株式の譲渡</ArticleTitle>
       <Sentence>株主は、原則としてその有する株式を他人に譲渡することができる。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>譲渡制限</ArticleTitle>
       <Sentence>株式会社は、定款の定めにより、株式の譲渡について会社の承認を要するものとすることができる。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>株主名簿</ArticleTitle>
       <Sentence>株式会社は、株主の氏名又は名称、住所及び保有する株式数を記載した株主名簿を作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>株主名簿の閲覧</ArticleTitle>
       <Sentence>株主は、法令の定めるところにより、株主名簿を閲覧し、又はその謄本の交付を請求することができる。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>株式の共有</ArticleTitle>
       <Sentence>株式を数人で共有する場合には、共有者は、代表者一人を定めて会社に通知しなければならない。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>株券</ArticleTitle>
       <Sentence>株式会社は、定款の定めにより、株式を表章する株券を発行することができる。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>株券の交付</ArticleTitle>
       <Sentence>株券を発行する会社においては、株式の譲渡は、株券の交付によって効力を生ずる。</Sentence>
     </Article>
-
     <Article Num="21">
       <ArticleTitle>株式の担保</ArticleTitle>
       <Sentence>株式は、法令の定めるところにより、質権その他の担保権の目的とすることができる。</Sentence>
     </Article>
-
     <Article Num="22">
       <ArticleTitle>株主総会</ArticleTitle>
       <Sentence>株式会社には、株主総会を置く。</Sentence>
     </Article>
-
     <Article Num="23">
       <ArticleTitle>株主総会の権限</ArticleTitle>
       <Sentence>株主総会は、法令又は定款に定める事項について決議する。</Sentence>
     </Article>
-
     <Article Num="24">
       <ArticleTitle>定時株主総会</ArticleTitle>
       <Sentence>株式会社は、毎事業年度の終了後一定の期間内に定時株主総会を開催しなければならない。</Sentence>
     </Article>
-
     <Article Num="25">
       <ArticleTitle>臨時株主総会</ArticleTitle>
       <Sentence>取締役は、必要があると認めるときは、臨時株主総会を招集することができる。</Sentence>
     </Article>
-
     <Article Num="26">
       <ArticleTitle>招集通知</ArticleTitle>
       <Sentence>株主総会を招集するときは、株主に対して日時、場所及び議題を通知しなければならない。</Sentence>
     </Article>
-
     <Article Num="27">
       <ArticleTitle>議決権</ArticleTitle>
       <Sentence>株主は、一株につき一個の議決権を有する。ただし、法令又は定款に別段の定めがある場合は、この限りでない。</Sentence>
     </Article>
-
     <Article Num="28">
       <ArticleTitle>代理行使</ArticleTitle>
       <Sentence>株主は、代理人によってその議決権を行使することができる。</Sentence>
     </Article>
-
     <Article Num="29">
       <ArticleTitle>普通決議</ArticleTitle>
       <Sentence>株主総会の決議は、法令又は定款に別段の定めがある場合を除き、出席した議決権を有する株主の議決権の過半数をもってする。</Sentence>
     </Article>
-
     <Article Num="30">
       <ArticleTitle>特別決議</ArticleTitle>
       <Sentence>会社の合併、解散その他重要な事項については、法令の定めるところにより特別決議を要する。</Sentence>
     </Article>
-
     <Article Num="31">
       <ArticleTitle>議事録</ArticleTitle>
       <Sentence>株主総会の議事については、議事録を作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="32">
       <ArticleTitle>取締役</ArticleTitle>
       <Sentence>株式会社には、取締役を置かなければならない。</Sentence>
     </Article>
-
     <Article Num="33">
       <ArticleTitle>取締役の選任</ArticleTitle>
       <Sentence>取締役は、株主総会の決議によって選任する。</Sentence>
     </Article>
-
     <Article Num="34">
       <ArticleTitle>取締役の任期</ArticleTitle>
       <Sentence>取締役の任期は、選任後二年以内に終了する事業年度のうち最終のものに関する定時株主総会の終結の時までとする。</Sentence>
     </Article>
-
     <Article Num="35">
       <ArticleTitle>取締役の義務</ArticleTitle>
       <Sentence>取締役は、会社のために忠実にその職務を行わなければならない。</Sentence>
     </Article>
-
     <Article Num="36">
       <ArticleTitle>善管注意義務</ArticleTitle>
       <Sentence>取締役は、善良な管理者の注意をもってその職務を遂行しなければならない。</Sentence>
     </Article>
-
     <Article Num="37">
       <ArticleTitle>競業取引</ArticleTitle>
       <Sentence>取締役が自己又は第三者のために会社の営業と同種の取引をしようとするときは、あらかじめ会社の承認を受けなければならない。</Sentence>
     </Article>
-
     <Article Num="38">
       <ArticleTitle>利益相反取引</ArticleTitle>
       <Sentence>取締役が自己又は第三者のために会社と取引をしようとするときは、あらかじめ重要な事実を開示して承認を受けなければならない。</Sentence>
     </Article>
-
     <Article Num="39">
       <ArticleTitle>取締役の損害賠償責任</ArticleTitle>
       <Sentence>取締役がその任務を怠ったことによって会社に損害を生じさせたときは、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="40">
       <ArticleTitle>第三者に対する責任</ArticleTitle>
       <Sentence>取締役が職務を行うについて悪意又は重大な過失があったときは、第三者に対しても損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="41">
       <ArticleTitle>代表取締役</ArticleTitle>
       <Sentence>株式会社は、取締役の中から代表取締役を定めることができる。</Sentence>
     </Article>
-
     <Article Num="42">
       <ArticleTitle>代表権</ArticleTitle>
       <Sentence>代表取締役は、会社の業務に関する一切の裁判上又は裁判外の行為をする権限を有する。</Sentence>
     </Article>
-
     <Article Num="43">
       <ArticleTitle>代表権の制限</ArticleTitle>
       <Sentence>代表取締役の権限に加えた制限は、善意の第三者に対抗することができない。</Sentence>
     </Article>
-
     <Article Num="44">
       <ArticleTitle>取締役会</ArticleTitle>
       <Sentence>取締役会を置く株式会社においては、取締役会は会社の業務執行について意思を決定する。</Sentence>
     </Article>
-
     <Article Num="45">
       <ArticleTitle>取締役会の招集</ArticleTitle>
       <Sentence>取締役会は、各取締役が招集する。ただし、定款又は取締役会の決議により別段の定めをすることができる。</Sentence>
     </Article>
-
     <Article Num="46">
       <ArticleTitle>取締役会の決議</ArticleTitle>
       <Sentence>取締役会の決議は、議決に加わることができる取締役の過半数が出席し、その過半数をもってする。</Sentence>
     </Article>
-
     <Article Num="47">
       <ArticleTitle>監査役</ArticleTitle>
       <Sentence>株式会社は、定款の定めにより監査役を置くことができる。</Sentence>
     </Article>
-
     <Article Num="48">
       <ArticleTitle>監査役の権限</ArticleTitle>
       <Sentence>監査役は、取締役の職務の執行を監査する。</Sentence>
     </Article>
-
     <Article Num="49">
       <ArticleTitle>監査報告</ArticleTitle>
       <Sentence>監査役は、事業年度ごとに監査の結果を記載した監査報告を作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="50">
       <ArticleTitle>会計監査</ArticleTitle>
       <Sentence>一定の規模を超える株式会社については、法令の定めるところにより会計監査人による監査を受けなければならない。</Sentence>
     </Article>
-
     <Article Num="51">
       <ArticleTitle>資本金</ArticleTitle>
       <Sentence>株式会社の資本金は、株主が払い込んだ財産その他法令で定める額を基礎として定める。</Sentence>
     </Article>
-
     <Article Num="52">
       <ArticleTitle>資本維持</ArticleTitle>
       <Sentence>会社は、資本金その他の基礎となる財産を不当に減少させてはならない。</Sentence>
     </Article>
-
     <Article Num="53">
       <ArticleTitle>利益配当</ArticleTitle>
       <Sentence>株式会社は、法令及び定款に従い、株主に対して利益を配当することができる。</Sentence>
     </Article>
-
     <Article Num="54">
       <ArticleTitle>配当の基準</ArticleTitle>
       <Sentence>利益の配当は、会社の財産及び債務の状況を考慮して、会社財産を不当に害さない範囲で行わなければならない。</Sentence>
     </Article>
-
     <Article Num="55">
       <ArticleTitle>違法配当</ArticleTitle>
       <Sentence>法令に違反して配当を受けた株主は、会社に対してその額を返還しなければならない。</Sentence>
     </Article>
-
     <Article Num="56">
       <ArticleTitle>剰余金</ArticleTitle>
       <Sentence>会社の剰余金は、法令に定めるところにより処分する。</Sentence>
     </Article>
-
     <Article Num="57">
       <ArticleTitle>社債</ArticleTitle>
       <Sentence>株式会社は、社債を発行することができる。</Sentence>
     </Article>
-
     <Article Num="58">
       <ArticleTitle>社債権者</ArticleTitle>
       <Sentence>社債権者は、会社に対して社債の元本及び利息の支払を請求する権利を有する。</Sentence>
     </Article>
-
     <Article Num="59">
       <ArticleTitle>社債原簿</ArticleTitle>
       <Sentence>会社は、社債権者の氏名又は名称その他法令で定める事項を記載した社債原簿を備えなければならない。</Sentence>
     </Article>
-
     <Article Num="60">
       <ArticleTitle>社債管理</ArticleTitle>
       <Sentence>会社は、法令の定めるところにより、社債権者のために社債を管理する者を置くことができる。</Sentence>
     </Article>
-
     <Article Num="61">
       <ArticleTitle>会社の計算</ArticleTitle>
       <Sentence>会社は、事業年度ごとに計算書類を作成し、その財産及び損益の状況を明らかにしなければならない。</Sentence>
     </Article>
-
     <Article Num="62">
       <ArticleTitle>計算書類</ArticleTitle>
       <Sentence>計算書類には、貸借対照表、損益計算書その他法令で定める書類を含む。</Sentence>
     </Article>
-
     <Article Num="63">
       <ArticleTitle>事業報告</ArticleTitle>
       <Sentence>会社は、事業年度ごとに、その事業の状況その他重要な事項を記載した事業報告を作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="64">
       <ArticleTitle>計算書類の承認</ArticleTitle>
       <Sentence>取締役は、計算書類を定時株主総会に提出し、その承認を受けなければならない。</Sentence>
     </Article>
-
     <Article Num="65">
       <ArticleTitle>公告</ArticleTitle>
       <Sentence>会社は、法令の定めるところにより、重要な事項を公告しなければならない。</Sentence>
     </Article>
-
     <Article Num="66">
       <ArticleTitle>電子公告</ArticleTitle>
       <Sentence>公告は、法令に別段の定めがある場合を除き、電子的方法によって行うことができる。</Sentence>
     </Article>
-
     <Article Num="67">
       <ArticleTitle>会社の解散</ArticleTitle>
       <Sentence>会社は、存続期間の満了、株主総会の決議、合併、破産その他法令で定める事由によって解散する。</Sentence>
     </Article>
-
     <Article Num="68">
       <ArticleTitle>清算</ArticleTitle>
       <Sentence>会社が解散したときは、合併又は破産の場合を除き、清算をしなければならない。</Sentence>
     </Article>
-
     <Article Num="69">
       <ArticleTitle>清算人</ArticleTitle>
       <Sentence>会社の解散に伴い、清算人を置かなければならない。</Sentence>
     </Article>
-
     <Article Num="70">
       <ArticleTitle>清算人の職務</ArticleTitle>
       <Sentence>清算人は、会社の現務を結了し、債権を取り立て、債務を弁済し、残余財産を分配する職務を行う。</Sentence>
     </Article>
-
     <Article Num="71">
       <ArticleTitle>債権者への公告</ArticleTitle>
       <Sentence>清算人は、就任後遅滞なく、債権者に対して一定の期間内に債権を申し出るべき旨を公告しなければならない。</Sentence>
     </Article>
-
     <Article Num="72">
       <ArticleTitle>残余財産</ArticleTitle>
       <Sentence>会社の債務を弁済した後に残余財産があるときは、定款又は株主総会の決議に従ってこれを分配する。</Sentence>
     </Article>
-
     <Article Num="73">
       <ArticleTitle>合併</ArticleTitle>
       <Sentence>会社は、他の会社と合併することができる。</Sentence>
     </Article>
-
     <Article Num="74">
       <ArticleTitle>吸収合併</ArticleTitle>
       <Sentence>会社が他の会社とする合併のうち、一方の会社が他方の会社の権利義務を承継するものを吸収合併とする。</Sentence>
     </Article>
-
     <Article Num="75">
       <ArticleTitle>新設合併</ArticleTitle>
       <Sentence>二以上の会社が合併して新たな会社を設立し、その新会社が合併する会社の権利義務を承継するものを新設合併とする。</Sentence>
     </Article>
-
     <Article Num="76">
       <ArticleTitle>合併契約</ArticleTitle>
       <Sentence>会社が合併をするときは、合併契約を締結しなければならない。</Sentence>
     </Article>
-
     <Article Num="77">
       <ArticleTitle>合併の承認</ArticleTitle>
       <Sentence>合併契約は、法令の定めるところにより、株主総会その他の機関の承認を受けなければならない。</Sentence>
     </Article>
-
     <Article Num="78">
       <ArticleTitle>債権者保護</ArticleTitle>
       <Sentence>会社が合併をするときは、債権者に対して異議を述べる機会を与えなければならない。</Sentence>
     </Article>
-
     <Article Num="79">
       <ArticleTitle>会社分割</ArticleTitle>
       <Sentence>会社は、その事業の全部又は一部を他の会社に承継させることができる。</Sentence>
     </Article>
-
     <Article Num="80">
       <ArticleTitle>事業承継</ArticleTitle>
       <Sentence>会社分割によって承継される権利義務は、会社分割の計画又は契約に定めるところによる。</Sentence>
     </Article>
-
     <Article Num="81">
       <ArticleTitle>組織変更</ArticleTitle>
       <Sentence>会社は、法令の定めるところにより、その種類を変更することができる。</Sentence>
     </Article>
-
     <Article Num="82">
       <ArticleTitle>組織変更の効力</ArticleTitle>
       <Sentence>組織変更をした会社は、組織変更前の会社の権利義務を承継する。</Sentence>
     </Article>
-
     <Article Num="83">
       <ArticleTitle>合名会社</ArticleTitle>
       <Sentence>合名会社は、社員の全部を無限責任社員とする会社とする。</Sentence>
     </Article>
-
     <Article Num="84">
       <ArticleTitle>合名会社の社員</ArticleTitle>
       <Sentence>合名会社の社員は、会社の債務について連帯して責任を負う。</Sentence>
     </Article>
-
     <Article Num="85">
       <ArticleTitle>合資会社</ArticleTitle>
       <Sentence>合資会社は、無限責任社員と有限責任社員とによって構成される会社とする。</Sentence>
     </Article>
-
     <Article Num="86">
       <ArticleTitle>有限責任社員</ArticleTitle>
       <Sentence>有限責任社員は、その出資の価額を限度として会社の債務について責任を負う。</Sentence>
     </Article>
-
     <Article Num="87">
       <ArticleTitle>合同会社</ArticleTitle>
       <Sentence>合同会社は、社員の全部を有限責任社員とする会社とする。</Sentence>
     </Article>
-
     <Article Num="88">
       <ArticleTitle>合同会社の業務執行</ArticleTitle>
       <Sentence>合同会社の業務は、定款に別段の定めがない限り、社員が執行する。</Sentence>
     </Article>
-
     <Article Num="89">
       <ArticleTitle>社員の出資</ArticleTitle>
       <Sentence>社員は、定款に定めた出資を履行しなければならない。</Sentence>
     </Article>
-
     <Article Num="90">
       <ArticleTitle>社員の持分</ArticleTitle>
       <Sentence>持分会社の社員は、定款その他法令の定めるところにより、その持分を譲渡することができる。</Sentence>
     </Article>
-
     <Article Num="91">
       <ArticleTitle>持分の承継</ArticleTitle>
       <Sentence>社員が死亡した場合において、定款に別段の定めがあるときは、その相続人その他の承継人が社員となることができる。</Sentence>
     </Article>
-
     <Article Num="92">
       <ArticleTitle>社員の退社</ArticleTitle>
       <Sentence>社員は、定款に別段の定めがある場合を除き、一定の期間を置いて退社を予告することができる。</Sentence>
     </Article>
-
     <Article Num="93">
       <ArticleTitle>持分会社の解散</ArticleTitle>
       <Sentence>持分会社は、社員が一人となった場合その他法令又は定款に定める事由によって解散する。</Sentence>
     </Article>
-
     <Article Num="94">
       <ArticleTitle>持分会社の清算</ArticleTitle>
       <Sentence>持分会社が解散したときは、清算人が会社の財産を清算する。</Sentence>
     </Article>
-
     <Article Num="95">
       <ArticleTitle>清算後の残余財産</ArticleTitle>
       <Sentence>清算によって残った財産は、定款又は社員の合意に従って社員に分配する。</Sentence>
     </Article>
-
     <Article Num="96">
       <ArticleTitle>会社の帳簿閲覧</ArticleTitle>
       <Sentence>会社の社員又は株主は、法令の定めるところにより、会社の帳簿及び重要な資料を閲覧することができる。</Sentence>
     </Article>
-
     <Article Num="97">
       <ArticleTitle>会社の秘密</ArticleTitle>
       <Sentence>会社の役員及び社員は、正当な理由なく、職務上知り得た会社の営業上の秘密を漏らしてはならない。</Sentence>
     </Article>
-
     <Article Num="98">
       <ArticleTitle>会社間の責任</ArticleTitle>
       <Sentence>会社の役員がその職務について会社に損害を与えた場合には、法令の定めるところにより、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="99">
       <ArticleTitle>会社の訴え</ArticleTitle>
       <Sentence>会社に対する訴えその他会社に関する訴訟については、法令の定めるところにより会社の本店所在地を管轄する裁判所が管轄する。</Sentence>
     </Article>
-
     <Article Num="100">
       <ArticleTitle>会社法令の適用</ArticleTitle>
       <Sentence>会社についてこの法律に定めのない事項については、その他の商事法令及び民法の規定を適用する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>海商</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>船舶</ArticleTitle>
       <Sentence>船舶とは、水上又は水中を航行するための構造物であって、法令により船舶として登録されたものをいう。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>船舶所有者</ArticleTitle>
       <Sentence>船舶を所有する者は、船舶所有者としてその船舶の管理及び運航について責任を負う。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>船舶の登記</ArticleTitle>
       <Sentence>船舶所有者は、法令の定めるところにより、船舶を登記しなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>船長</ArticleTitle>
       <Sentence>船長は、船舶の航行について必要な権限を有し、乗組員を指揮監督する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>船長の注意義務</ArticleTitle>
       <Sentence>船長は、船舶、積荷及び乗組員の安全を確保するため、必要な注意を尽くさなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>船長の代理権</ArticleTitle>
       <Sentence>船長は、航海に必要な範囲で船舶所有者を代理する権限を有する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>航海開始</ArticleTitle>
       <Sentence>船長は、航海を開始する前に、船舶が航海に適する状態にあることを確認しなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>積荷の管理</ArticleTitle>
       <Sentence>船長は、積荷を適切に積載し、航海中これを安全に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>海上運送</ArticleTitle>
       <Sentence>海上運送人は、契約に従い、運送品を目的地まで安全に運送しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>海上運送人の責任</ArticleTitle>
       <Sentence>海上運送人は、運送品の滅失又は損傷について、自己に責任のないことを証明しない限り、その損害を賠償する責任を負う。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>雑則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>法令との関係</ArticleTitle>
       <Sentence>商事に関する事項について他の法律に特別の定めがあるときは、その定めによる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>商慣習の尊重</ArticleTitle>
       <Sentence>商取引において確立した合理的な商慣習は、法令に反しない限り、当事者間の法律関係を定める基準として尊重される。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>公正な取引</ArticleTitle>
       <Sentence>商人は、自由かつ公正な取引秩序を害する行為をしてはならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>信用の保護</ArticleTitle>
       <Sentence>何人も、虚偽の情報その他不正な方法によって他人の営業上の信用を害してはならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>営業秘密の保護</ArticleTitle>
       <Sentence>営業上の秘密として管理されている情報を、正当な理由なく取得し、使用し、又は開示してはならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>情報の正確性</ArticleTitle>
       <Sentence>商取引に関する記録及び表示は、事実に基づき正確に作成しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>電子記録の保存</ArticleTitle>
       <Sentence>電子的方法によって作成された商取引に関する記録は、その内容を確認できる状態で保存しなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>本人確認</ArticleTitle>
       <Sentence>重要な商取引については、当事者は、必要に応じて相手方の氏名又は名称及び権限を確認するものとする。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>代理権の表示</ArticleTitle>
       <Sentence>代理人が商取引を行う場合には、相手方から求められたときは、その代理権の存在を示さなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>善意の第三者</ArticleTitle>
       <Sentence>この法律において善意の第三者とは、重要な事実を知らず、かつ、通常必要とされる注意を尽くしてもこれを知ることができなかった者をいう。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>過失の推定</ArticleTitle>
       <Sentence>商人がその営業について通常必要とされる注意を怠ったときは、特段の事情がない限り、その過失があったものと推定する。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>損害賠償</ArticleTitle>
       <Sentence>商行為によって他人に損害を生じさせた者は、法令に別段の定めがある場合を除き、その損害を賠償する責任を負う。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>共同商行為</ArticleTitle>
       <Sentence>数人が共同して商行為を行った場合において、各人が連帯して責任を負う旨を定めたときは、その定めに従う。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>連帯責任</ArticleTitle>
       <Sentence>商行為によって数人が連帯して債務を負う場合には、各債務者は、債務の全額について履行する責任を負う。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>商取引の迅速性</ArticleTitle>
       <Sentence>商取引に関する法律関係は、取引の安全及び迅速性を考慮して解釈しなければならない。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>公序</ArticleTitle>
       <Sentence>商取引の自由は、公共の利益及び他人の権利を不当に害しない範囲で保障される。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>消費者との取引</ArticleTitle>
       <Sentence>商人が消費者との間で取引をするときは、消費者の利益を不当に害する条項を設けてはならない。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>弱者保護</ArticleTitle>
       <Sentence>取引上の情報又は交渉力に著しい差がある場合には、当事者は相手方の利益に配慮して契約を締結しなければならない。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>国際取引</ArticleTitle>
       <Sentence>国際的な商取引については、国際的な商慣行及び条約その他の国際約束を尊重する。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>準拠法</ArticleTitle>
       <Sentence>国際的な商取引について適用すべき法律は、法の適用に関する法律その他の法令の定めるところによる。</Sentence>
     </Article>
-
     <Article Num="21">
       <ArticleTitle>商事紛争</ArticleTitle>
       <Sentence>商事に関する紛争については、当事者は、裁判その他適切な紛争解決手続を利用することができる。</Sentence>
     </Article>
-
     <Article Num="22">
       <ArticleTitle>仲裁</ArticleTitle>
       <Sentence>当事者は、契約により、商事紛争を仲裁によって解決することを合意することができる。</Sentence>
     </Article>
-
     <Article Num="23">
       <ArticleTitle>和解</ArticleTitle>
       <Sentence>商事紛争の当事者は、相互の合意により、その紛争を和解によって解決することができる。</Sentence>
     </Article>
-
     <Article Num="24">
       <ArticleTitle>記録の提出</ArticleTitle>
       <Sentence>商事紛争の当事者は、法令の定めるところにより、取引に関する記録を裁判所その他の紛争解決機関に提出する。</Sentence>
     </Article>
-
     <Article Num="25">
       <ArticleTitle>電子商取引記録</ArticleTitle>
       <Sentence>電子商取引に関する記録は、その真正性及び完全性が確認できる場合には、証拠として使用することができる。</Sentence>
     </Article>
-
     <Article Num="26">
       <ArticleTitle>商取引の透明性</ArticleTitle>
       <Sentence>商人は、取引条件その他相手方の判断に重要な事項を、明確かつ容易に理解できる方法で示すよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="27">
       <ArticleTitle>契約書面</ArticleTitle>
       <Sentence>重要な商取引については、当事者は、その内容を記載した書面又は電子記録を作成するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="28">
       <ArticleTitle>契約変更</ArticleTitle>
       <Sentence>商取引の契約内容を変更するときは、変更の内容及び効力発生日を明らかにしなければならない。</Sentence>
     </Article>
-
     <Article Num="29">
       <ArticleTitle>契約解除</ArticleTitle>
       <Sentence>契約の解除は、法令又は契約の定めに従って行わなければならない。</Sentence>
     </Article>
-
     <Article Num="30">
       <ArticleTitle>施行規則</ArticleTitle>
       <Sentence>この法律の施行に関し必要な事項は、政令その他の法令で定める。</Sentence>

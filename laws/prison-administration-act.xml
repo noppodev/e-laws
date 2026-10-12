@@ -1,72 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>刑事施設及び受刑者処遇法</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、刑事施設における被収容者の適正な収容を確保し、その人権を尊重しつつ、受刑者に対して改善更生の意欲を喚起し、社会に適応する能力を育成するための処遇を行い、もってその再犯を防止し、社会の安全と秩序の維持に資することを目的とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
-      <ArticleTitle>基本理念</ArticleTitle>
-      <Sentence>被収容者の処遇に当たっては、その人権を尊重し、年齢、性別、心身の状態その他個人の尊厳を害するような取扱いをしてはならない。</Sentence>
-    </Article>
-
-    <Article Num="3">
       <ArticleTitle>刑事施設の種類及び設置</ArticleTitle>
       <Sentence>刑事施設は、刑務所、少年刑務所及び拘置所とする。</Sentence>
       <Paragraph Num="2">
         <Sentence>刑務所及び少年刑務所には拘禁刑の言渡しを受けた者を収容し、拘置所には主として未決拘禁者を収容する。</Sentence>
       </Paragraph>
     </Article>
-
-    <Article Num="4">
+    <Article Num="2">
       <ArticleTitle>刑事施設の管理権</ArticleTitle>
       <Sentence>刑事施設は、法務大臣がこれを管理統括し、各施設に刑事施設の長（刑務所長又は拘置所長）を置く。</Sentence>
     </Article>
-
-    <Article Num="5">
+    <Article Num="3">
       <ArticleTitle>刑務官の身分及び職務</ArticleTitle>
       <Sentence>刑事施設に刑務官を置く。刑務官は、受刑者の保安警備、作業指導、教育処遇及び施設の秩序維持に任ずる。</Sentence>
     </Article>
-
-    <Article Num="6">
+    <Article Num="4">
       <ArticleTitle>収容の根拠</ArticleTitle>
       <Sentence>刑事施設に人を収容するには、裁判書の謄本、指揮書その他法令に定める裁判若しくは令状の執行によらなければならない。</Sentence>
     </Article>
-
-    <Article Num="7">
+    <Article Num="5">
       <ArticleTitle>男女の分別収容</ArticleTitle>
       <Sentence>男子と女子は、別々の刑事施設に収容する。ただし、同一施設内に完全に区画された別個の施設がある場合はこの限りでない。</Sentence>
     </Article>
-
-    <Article Num="8">
+    <Article Num="6">
       <ArticleTitle>未決と既決の分離</ArticleTitle>
       <Sentence>未決拘禁者と受刑者は、相互に接触しないよう厳格に分離して収容しなければならない。</Sentence>
     </Article>
-
-    <Article Num="9">
+    <Article Num="7">
       <ArticleTitle>少年の特別分離</ArticleTitle>
       <Sentence>二十歳未満の受刑者は、成人の受刑者と分離して少年刑務所又は専用区画に収容する。</Sentence>
     </Article>
-
-    <Article Num="10">
+    <Article Num="8">
       <ArticleTitle>視察委員会の設置</ArticleTitle>
       <Sentence>各刑事施設に、地域住民及び有識者から成る刑事施設視察委員会を置き、施設運営の透明性を確保する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>収容手続及び居室管理</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>入所時の告知</ArticleTitle>
       <Sentence>刑事施設に新たに収容された者に対し、施設の規則、日課、権利及び義務を速やかに告知しなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>身体検査の実施</ArticleTitle>
       <Sentence>入所時において、凶器、不正品、毒劇物等の隠匿を防止するため、必要最小限度の身体検査を行う。</Sentence>
@@ -74,292 +52,233 @@
         <Sentence>女子の身体検査は、女子の刑務官が行わなければならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>健康診断の義務</ArticleTitle>
       <Sentence>入所後直ちに医師たる技官による精密な健康診断を行い、伝染病の有無及び心身の異常を診査する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>携帯品の領置</ArticleTitle>
       <Sentence>被収容者が携帯してきた金銭及び物品は、施設において安全に領置保管しなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>領置金の取扱い</ArticleTitle>
       <Sentence>被収容者の領置金は、所定の帳簿に記載し、本人の請求により日用品の購入等に使用させることができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>居室の種別</ArticleTitle>
       <Sentence>居室は、単独室及び共同室とする。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>単独室収容の原則</ArticleTitle>
       <Sentence>夜間においては、可能な限り単独室に収容することを原則とする。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>共同室の収容定員</ArticleTitle>
       <Sentence>共同室に収容する場合は、十分な床面積、通風及び採光を確保し、定員を超えて収容してはならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>居室の清潔保持</ArticleTitle>
       <Sentence>被収容者は、自己の居室及び衣類を常に清潔に保ち、整頓しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>室内の点検及び捜索</ArticleTitle>
       <Sentence>不正品の所持又は脱獄の企てを防止するため、刑務官は随時居室内を点検捜索することができる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>衣食住及び保健衛生</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>食事の給与基準</ArticleTitle>
       <Sentence>被収容者には、健康を維持し、かつ受刑作業に従事するのに必要な熱量及び栄養素を含む食事を給与する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>飲料水の供給</ArticleTitle>
       <Sentence>衛生的な飲料水は、常に十分に供給されなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>衣類及び寝具の貸与</ArticleTitle>
       <Sentence>気候及び季節に応じた清潔な衣類及び寝具を貸与する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>未決拘禁者の自弁</ArticleTitle>
       <Sentence>未決拘禁者は、規律及び衛生に反しない限り、衣類及び飲食料品を自弁することができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>調髪及び入浴</ArticleTitle>
       <Sentence>被収容者には、定期的に調髪及び入浴を行わせ、身体の清潔を保持させなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>運動の機会</ArticleTitle>
       <Sentence>被収容者には、健康維持のため、毎日屋外において少なくとも三十分以上の運動の機会を与えなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>医療の提供</ArticleTitle>
       <Sentence>被収容者が負傷し、又は疾病にかかったときは、施設内の医師による治療を受けさせ、必要に応じ外部病院に入院させる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>感染症対策の隔離</ArticleTitle>
       <Sentence>感染症患者が発生したときは、直ちに隔離収容し、病室の消毒その他徹底した感染防止措置をとる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>妊産婦の処遇特例</ArticleTitle>
       <Sentence>妊娠中又は出産直後の女子被収容者には、必要な特別の栄養及び医療上の配慮を施さなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>死亡時の通知及び遺体引渡し</ArticleTitle>
       <Sentence>被収容者が死亡したときは、検死を行った上で直ちに遺族に通知し、遺体を速やかに引き渡さなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>受刑者の個別処遇及び作業</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>処遇の個別の原則</ArticleTitle>
       <Sentence>受刑者の処遇は、その資質及び環境を科学的に調査判定し、個々の改善更生計画に基づいて行わなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>分類調査の実施</ArticleTitle>
       <Sentence>入所後、心理テスト、面接、経歴調査等を通じて、受刑者の性格及び再犯危険度を綿密に分類する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>処遇段階制度</ArticleTitle>
       <Sentence>受刑者の改悛の状及び行状に応じ、四段階の処遇段階を設け、上位段階に進むにつれて制限を緩和し自治を認める。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>作業の義務</ArticleTitle>
       <Sentence>拘禁刑に処せられた受刑者には、改善指導の一環として刑務作業を行わせる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>作業時間の制限</ArticleTitle>
       <Sentence>作業時間は、原則として一日につき八時間、一週につき四十時間を超えてはならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>職業訓練の実施</ArticleTitle>
       <Sentence>釈放後の就職を容易にするため、溶接、情報処理、自動車整備等の公的資格を取得させる職業訓練を実施する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>作業報奨金の支給</ArticleTitle>
       <Sentence>受刑者には、作業に従事した成績に応じ作業報奨金を算定し、釈放時にこれを支給する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>作業中の公傷手当</ArticleTitle>
       <Sentence>作業に起因して負傷し、又は身体に障害を残した受刑者に対し、相当の手当金を支給する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>民間委託作業の適正管理</ArticleTitle>
       <Sentence>民間企業からの受託作業を行う場合は、安全衛生基準を遵守し、不当な搾取があってはならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>休業日の指定</ArticleTitle>
       <Sentence>日曜日、国民の祝日その他政令で定める日は、受刑者に作業を行わせない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>改善指導、教科指導及び余暇活動</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>改善指導の実施</ArticleTitle>
       <Sentence>受刑者に対し、犯罪の責任を自覚させ、被害者の心情を理解させるための特別指導プログラムを実施する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>薬物依存離脱指導</ArticleTitle>
       <Sentence>薬物使用受刑者に対しては、医学及び心理学に基づく専門的な依存離脱プログラムを受講させる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>暴力団離脱指導</ArticleTitle>
       <Sentence>組織犯罪集団に所属していた受刑者に対し、社会復帰のための組織離脱支援及び更生指導を行う。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>性犯罪再犯防止指導</ArticleTitle>
       <Sentence>性暴力受刑者に対しては、認知行動療法に基づく体系的な専門再犯防止教育を実施する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>教科指導の義務</ArticleTitle>
       <Sentence>義務教育を修了していない受刑者又は基礎学力が不足する受刑者に対し、初等中等教育レベルの教科指導を行う。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>図書の閲覧及び自弁</ArticleTitle>
       <Sentence>被収容者には、施設の図書室の利用を認め、また自己の費用で有益な図書雑誌を購入閲覧させることができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>信条及び宗教の自由</ArticleTitle>
       <Sentence>被収容者の信教の自由はこれを保障する。希望者に対し、民間の教誨師による宗教的教誨を受けさせることができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>ラジオ及びテレビの視聴</ArticleTitle>
       <Sentence>社会情勢の把握及び情操の安定のため、休日及び余暇時間においてニュース放送等の視聴を許可する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>文化祭及びスポーツ活動</ArticleTitle>
       <Sentence>健全な精神の涵養のため、定期的に運動会、文化作品展等の行事を施設内において開催する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>クラブ活動等の奨励</ArticleTitle>
       <Sentence>模範受刑者による絵画、文芸、囲碁等の自主的サークル活動を奨励する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>外部交通（面会及び信書の発受）</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>面会権の保障</ArticleTitle>
       <Sentence>被収容者は、親族その他の正当な関係者と面会することができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>未決拘禁者と弁護人との面会</ArticleTitle>
       <Sentence>未決拘禁者と弁護人等との面会は、職員の立会いなく、自由に行われなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>受刑者の面会立会い</ArticleTitle>
       <Sentence>受刑者の面会には、施設の規律維持及び逃走防止のため、刑務官が立ち会うことができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>面会の回数及び時間</ArticleTitle>
       <Sentence>面会の回数及び時間は、施設の保安に支障のない範囲において、処遇段階に応じ適正に定められる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>信書の発受権</ArticleTitle>
       <Sentence>被収容者は、外部の者との間で信書を発信し、又は受信することができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>弁護人等宛信書の不検査</ArticleTitle>
       <Sentence>被収容者と弁護人等との間で授受される信書については、原則としてその内容を検査してはならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>信書の検査基準</ArticleTitle>
       <Sentence>逃走の謀議、証拠隠滅又は不正薬物の密輸を防止するため必要な限度において、信書を検査することができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>信書の差し止め及び削除</ArticleTitle>
       <Sentence>犯罪の実行を教唆する記載等があるときは、その部分を抹消し、又は信書の送達を差し止めることができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>電話その他の通信の利用</ArticleTitle>
       <Sentence>緊急の家庭の事情等がある場合、受刑者に公衆電話又は暗号化端末による通話を許可することができる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>外部交通の一時停止</ArticleTitle>
       <Sentence>暴動、天災その他の非常事態が発生したときは、一時的に外部交通を制限又は停止することができる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>施設の規律、秩序維持及び戒具の使用</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>遵守事項の履行</ArticleTitle>
       <Sentence>被収容者は、施設の保安及び衛生を保つため定められた遵守事項を厳格に守らなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>禁止行為の類型</ArticleTitle>
       <Sentence>被収容者は、職員に対する暴行脅迫、他の被収容者へのいじめ、賭博、不正品の授受及び脱獄の企てをしてはならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>戒具の種類</ArticleTitle>
       <Sentence>刑事施設において使用する戒具は、手錠、捕縄及び拘束衣の三種とする。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>戒具の使用要件</ArticleTitle>
       <Sentence>戒具は、被収容者が暴行若しくは自殺を企てるとき、又は護送中逃走のおそれがある場合に限り使用できる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>拘束衣の使用制限</ArticleTitle>
       <Sentence>拘束衣は、自傷行為が極めて激しく他に制止の手段がない場合に限り、医師の意見を聴いて最長三時間使用できる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>保護室への収容</ArticleTitle>
       <Sentence>大声で叫び、暴れ、又は器物を損壊して制止に従わない者は、保護室に一時収容することができる。</Sentence>
@@ -367,213 +286,170 @@
         <Sentence>保護室収容の期間は、七十二時間を超えてはならない。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>実力の行使</ArticleTitle>
       <Sentence>被収容者が職務命令に抵抗し、暴動を起こすときは、刑務官はこれを制圧するため最小限度の実力を行使できる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>警備用具の使用</ArticleTitle>
       <Sentence>警杖、催涙スプレー等の警備用具は、身の防護又は暴動鎮圧のため必要不可欠な場合に使用する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>武器の使用</ArticleTitle>
       <Sentence>刑務官は、受刑者が集団で凶器を携帯して脱獄を企て、又は職員の生命に急迫の危険がある場合に限り、けん銃等を使用できる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>非常事態における避難開放</ArticleTitle>
       <Sentence>地震、大火災等により施設が倒壊する急迫の危険があるときは、被収容者を一時的に施設外に避難開放できる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="8">
     <ChapterTitle>反則行為及び懲罰手続</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>反則行為の調査</ArticleTitle>
       <Sentence>被収容者が規律に違反した疑いがあるときは、事実関係について徹底した調査を行わなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>告知及び弁解の聴取</ArticleTitle>
       <Sentence>懲罰の手続に付された被収容者には、嫌疑事実を告知し、十分な自己弁解の機会を与えなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>懲罰委員会の審査</ArticleTitle>
       <Sentence>懲罰の適否は、施設幹部で構成する懲罰委員会の慎重な審査を経なければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>懲罰の種類</ArticleTitle>
       <Sentence>懲罰は、戒告、処遇段階の降格、作業報奨金の減額、書籍閲覧の一時停止及び三十日以内の閉居の五種とする。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>閉居罰の執行基準</ArticleTitle>
       <Sentence>閉居に処せられた受刑者は、閉居室に収容し、作業を免除するが、健康を害さないよう毎日医師の診察を受けさせる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>懲罰の執行停止及び免除</ArticleTitle>
       <Sentence>被収容者が重病にかかったとき、又は真摯な改悛を示したときは、懲罰の執行を停止し、又は免除することができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>不当懲罰の禁止</ArticleTitle>
       <Sentence>体罰、食事の減量、暗室収容その他残虐な方法による懲罰は、絶対にしてはならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>記録の作成及び保存</ArticleTitle>
       <Sentence>懲罰手続に関するすべての供述録取書及び決定書は、永久記録として保存しなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>弁護士との相談保障</ArticleTitle>
       <Sentence>重大な懲罰を受けた被収容者が不服申立てのため弁護士と相談することを妨げてはならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>年次統計の公表</ArticleTitle>
       <Sentence>法務省は、全国の刑事施設における懲罰件数及びその内訳を毎年公表しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="9">
     <ChapterTitle>不服申立て及び権利救済</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>苦情の申出手続</ArticleTitle>
       <Sentence>被収容者は、施設職員の言動又は処遇に関し、所長に対して直接口頭又は書面で苦情を申し出ることができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>監査官に対する情願</ArticleTitle>
       <Sentence>被収容者は、法務省から巡回してくる監査官に対し、秘密を侵されることなく直接苦情を陳述できる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>法務大臣への審査請求</ArticleTitle>
       <Sentence>懲罰その他の処分に不服がある被収容者は、処分告知の日から三十日以内に法務大臣に対し審査請求をすることができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>不利益取扱いの絶対禁止</ArticleTitle>
       <Sentence>苦情申出又は審査請求をしたことを理由として、被収容者に対していかなる差別や不利益な取扱いもしてはならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>秘密投書箱の設置</ArticleTitle>
       <Sentence>施設内に、施設職員が開封できない視察委員会専用の密閉投書箱を設置しなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>司法審査への出訴権</ArticleTitle>
       <Sentence>法務大臣の裁決に不服があるときは、管轄裁判所に行政取消訴訟を提起することができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>国家賠償請求の保障</ArticleTitle>
       <Sentence>職員の違法な職務行為により損害を受けた被収容者は、国家賠償法に基づく損害賠償を請求できる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>人権擁護機関への通報</ArticleTitle>
       <Sentence>弁護士会又は公的人権委員会に対する申出書面は、内容の検閲を受けることなく無封で発送される。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>決定の理由付記義務</ArticleTitle>
       <Sentence>不服申立てに対する決定書には、必ず判断の具体的な理由を明記しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>迅速な処理の義務</ArticleTitle>
       <Sentence>すべての不服申立ては、申立日から六十日以内に審査を完了し裁決しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="10">
     <ChapterTitle>釈放、仮釈放及び更生保護連携</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>満期釈放の手続</ArticleTitle>
       <Sentence>刑期が満了した受刑者は、満了の日の午前中に釈放しなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>仮釈放の申請基準</ArticleTitle>
       <Sentence>有期の拘禁刑は三分の一、無期の拘禁刑は十年を経過した後、改悛の状が顕著であるときは、所長は仮釈放の審査を申請できる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>地方更生保護委員会との協同</ArticleTitle>
       <Sentence>所長は、保護観察所及び更生保護委員会と連携し、受刑者の釈放後の帰住先、就労先を事前に確保する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>釈放前指導の充実</ArticleTitle>
       <Sentence>釈放予定者に対し、社会復帰のためのマナー、公的手続、金銭管理等に関する集中プログラムを実施する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>旅費及び帰住資金の支給</ArticleTitle>
       <Sentence>釈放される者が旅費又は衣類を持たないときは、国庫から相当の旅費及び衣類を給与しなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>重病者の釈放特例</ArticleTitle>
       <Sentence>生命の危機にある受刑者については、刑の執行停止の手続を迅速に執り行い、外部医療機関に引き渡す。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>保護司との面接調整</ArticleTitle>
       <Sentence>釈放予定者と担当保護司との事前面接を施設内において積極的に設定する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>釈放証明書の交付</ArticleTitle>
       <Sentence>刑期の満了又は仮釈放により出所する者に対し、正式な釈放証明書を交付する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>再犯リスクの引継ぎ</ArticleTitle>
       <Sentence>保護観察所に対し、受刑中の性格特性及び指導経過を記した更生カルテを遅滞なく引き継ぐ。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>更生保護施設への委託</ArticleTitle>
       <Sentence>引受人のない釈放者については、民間の更生保護施設への一時収容を手配し、野宿転落を防止する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="11">
     <ChapterTitle>罰則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>不正物品持ち込みの罪</ArticleTitle>
       <Sentence>正当な理由がないのに、刑事施設内に不正な凶器、薬物、金銭又は通信機器を持ち込んだ者は、三年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>刑務官の受託収賄罪</ArticleTitle>
       <Sentence>刑務官が被収容者又はその関係者から賄賂を受け取り、不正な便宜を図ったときは、五年以下の拘禁刑に処する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>看守者逃走援助罪</ArticleTitle>
       <Sentence>被収容者の看守に従事する者が被収容者を逃走させたときは、一年以上十年以下の拘禁刑に処する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>特別公務員暴行陵虐罪の適用</ArticleTitle>
       <Sentence>刑務官が被収容者に対し暴行又は陵虐の行為をしたときは、刑法の定めるところにより厳罰に処する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>施設外妨害の罪</ArticleTitle>
       <Sentence>刑事施設の敷地境界外から物品を投げ入れ、又は通信を妨害した者は、一年以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>

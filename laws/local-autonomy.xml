@@ -1,20 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>地方自治法</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>地方自治の基本原則</ArticleTitle>
       <Sentence>地方自治は、住民の意思に基づき、地域の行政を自主的かつ総合的に運営することを基本とする。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>地方公共団体</ArticleTitle>
       <Sentence>地方公共団体は、住民の福祉の増進を図ることを基本として、地域における行政を自主的かつ総合的に実施する役割を担う。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>地方公共団体の種類</ArticleTitle>
       <Sentence>地方公共団体は、普通地方公共団体及び特別地方公共団体とする。</Sentence>
@@ -25,173 +21,138 @@
         <Sentence>特別地方公共団体の種類及び組織については、法律で定める。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>地方公共団体の区域</ArticleTitle>
       <Sentence>地方公共団体の区域は、法律で定める。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>住民</ArticleTitle>
       <Sentence>地方公共団体の区域内に住所を有する者は、その地方公共団体の住民とする。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>自治行政の尊重</ArticleTitle>
       <Sentence>国は、地方公共団体の自主性及び自立性を尊重しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>国と地方公共団体の関係</ArticleTitle>
       <Sentence>国及び地方公共団体は、それぞれの役割を分担し、相互に協力して行政を運営するものとする。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>普通地方公共団体</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>都道府県</ArticleTitle>
       <Sentence>都道府県は、市町村を包括する広域の地方公共団体として、広域にわたる事務その他法律で定める事務を処理する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>市町村</ArticleTitle>
       <Sentence>市町村は、住民に最も身近な基礎的地方公共団体として、地域における行政を総合的に処理する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>市町村の設置及び廃止</ArticleTitle>
       <Sentence>市町村の設置、分割、合併及び廃止は、法律の定める手続により行う。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>境界の変更</ArticleTitle>
       <Sentence>地方公共団体の境界を変更するときは、関係する地方公共団体の意見を聴き、法律の定める手続によらなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>地方公共団体の名称</ArticleTitle>
       <Sentence>地方公共団体の名称は、条例その他法律の定めるところにより定める。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>事務の処理</ArticleTitle>
       <Sentence>地方公共団体は、その区域内における公共的事務を、法律及び条例に従って処理する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>住民</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>住民の権利</ArticleTitle>
       <Sentence>地方公共団体の住民は、法律及び条例の定めるところにより、地方公共団体の行政に参加する権利を有する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>住民の平等</ArticleTitle>
       <Sentence>住民は、地方公共団体の行政について、正当な理由なく差別的な取扱いを受けない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>住民の請願</ArticleTitle>
       <Sentence>住民は、地方公共団体の事務について、その議会又は長に対して請願することができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>住民の直接請求</ArticleTitle>
       <Sentence>住民は、法律の定めるところにより、条例の制定若しくは改廃、監査その他の事項について直接請求をすることができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>住民投票</ArticleTitle>
       <Sentence>地方公共団体は、重要な事項について、条例の定めるところにより住民投票を実施することができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>住民の責務</ArticleTitle>
       <Sentence>住民は、地域社会の一員として、法令及び条例を遵守し、地方公共団体の健全な運営に協力するよう努めるものとする。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>議会</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>議会の設置</ArticleTitle>
       <Sentence>普通地方公共団体に、その意思を決定する機関として議会を置く。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>議会の権限</ArticleTitle>
       <Sentence>議会は、条例の制定、予算の議決、決算の認定その他法律に定める事項を議決する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>議員</ArticleTitle>
       <Sentence>議会の議員は、住民が直接選挙する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>議員の任期</ArticleTitle>
       <Sentence>議員の任期は、法律で定める期間とする。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>議長及び副議長</ArticleTitle>
       <Sentence>議会は、議員の中から議長及び副議長を選挙する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>議会の会議</ArticleTitle>
       <Sentence>議会は、定例会その他必要な会議を開き、その意思を決定する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>議会の公開</ArticleTitle>
       <Sentence>議会の会議は、法律又は条例に特別の定めがある場合を除き、公開する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>議案の提出</ArticleTitle>
       <Sentence>議員及び地方公共団体の長は、法律及び条例の定めるところにより、議案を議会に提出することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>議会の調査権</ArticleTitle>
       <Sentence>議会は、その権限に属する事項について必要な調査を行い、関係者に出頭及び証言を求めることができる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>議会の解散</ArticleTitle>
       <Sentence>議会の解散については、法律の定めるところによる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>地方公共団体の長</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>長</ArticleTitle>
       <Sentence>都道府県に知事を、市町村に市町村長を置く。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>長の選挙</ArticleTitle>
       <Sentence>地方公共団体の長は、住民が直接選挙する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>長の任期</ArticleTitle>
       <Sentence>地方公共団体の長の任期は、法律で定める期間とする。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>長の権限</ArticleTitle>
       <Sentence>地方公共団体の長は、その地方公共団体を代表し、その事務を管理し、及びこれを執行する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>条例及び規則の公布</ArticleTitle>
       <Sentence>地方公共団体の長は、議会で制定された条例を公布する。</Sentence>
@@ -199,26 +160,21 @@
         <Sentence>長は、その権限に属する事項について規則を制定することができる。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>長の再議</ArticleTitle>
       <Sentence>地方公共団体の長は、議会の議決について異議があるときは、法律の定めるところにより再議に付することができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>長と議会の関係</ArticleTitle>
       <Sentence>地方公共団体の長及び議会は、相互にその権限を尊重し、地方公共団体の適正な運営に努めなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>条例及び規則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>条例</ArticleTitle>
       <Sentence>普通地方公共団体は、法律に違反しない限り、その事務に関し条例を制定することができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>条例の制定手続</ArticleTitle>
       <Sentence>条例は、議会の議決を経て成立する。</Sentence>
@@ -226,224 +182,178 @@
         <Sentence>条例は、公布の日から法律又は条例で定める日に施行する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>条例による義務及び制限</ArticleTitle>
       <Sentence>条例は、法律の委任に基づき、住民に義務を課し、又はその権利を制限することができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>規則</ArticleTitle>
       <Sentence>地方公共団体の長は、法令及び条例に違反しない範囲で、その権限に属する事務について規則を制定することができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>法令との関係</ArticleTitle>
       <Sentence>条例及び規則は、法律その他の上位法令に違反してはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>地方公共団体の組織</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>執行機関</ArticleTitle>
       <Sentence>地方公共団体には、長その他法律で定める執行機関を置く。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>委員会及び委員</ArticleTitle>
       <Sentence>地方公共団体は、行政の公正かつ専門的な運営を確保するため、法律の定めるところにより委員会又は委員を置く。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>行政機関</ArticleTitle>
       <Sentence>地方公共団体は、その事務を処理するため、必要な行政機関を設置することができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>職員</ArticleTitle>
       <Sentence>地方公共団体に、その事務を処理するため、職員を置く。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>職員の服務</ArticleTitle>
       <Sentence>地方公共団体の職員は、法令及び上司の職務上の命令に従い、公正かつ誠実に職務を遂行しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="8">
     <ChapterTitle>財務</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>地方財政の原則</ArticleTitle>
       <Sentence>地方公共団体の財政は、健全かつ効率的に運営されなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>会計年度</ArticleTitle>
       <Sentence>地方公共団体の会計年度は、毎年四月一日に始まり、翌年三月三十一日に終わる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>予算</ArticleTitle>
       <Sentence>地方公共団体の歳入及び歳出は、予算に基づいて処理しなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>予算の調製</ArticleTitle>
       <Sentence>地方公共団体の長は、毎会計年度の予算を調製し、議会の議決を経なければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>支出の制限</ArticleTitle>
       <Sentence>地方公共団体は、予算に定められた目的以外のためにその経費を支出してはならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>地方税</ArticleTitle>
       <Sentence>地方公共団体は、法律の定める範囲内で、地方税を賦課し、及び徴収することができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>分担金及び使用料</ArticleTitle>
       <Sentence>地方公共団体は、その事務に関して分担金、使用料又は手数料を徴収することができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>財産の管理</ArticleTitle>
       <Sentence>地方公共団体の財産は、適正かつ効率的に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>公有財産の処分</ArticleTitle>
       <Sentence>地方公共団体の公有財産を処分し、又は貸し付ける場合には、法律及び条例の定めるところによる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>決算</ArticleTitle>
       <Sentence>地方公共団体の長は、会計年度終了後、決算を調製し、監査を受けた上で議会の認定を受けなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="9">
     <ChapterTitle>監査</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>監査委員</ArticleTitle>
       <Sentence>普通地方公共団体に、監査委員を置く。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>監査</ArticleTitle>
       <Sentence>監査委員は、地方公共団体の財務及び事務の執行について監査する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>監査結果の公表</ArticleTitle>
       <Sentence>監査委員は、監査の結果を地方公共団体の長及び議会に報告し、必要に応じてこれを公表する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="10">
     <ChapterTitle>国と地方公共団体の関係</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>国の関与</ArticleTitle>
       <Sentence>国が地方公共団体の事務に関与する場合には、法律の根拠を必要とする。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>権限の配分</ArticleTitle>
       <Sentence>国と地方公共団体との間の事務及び権限の配分は、住民に身近な行政を可能な限り地方公共団体が担うことを基本として定める。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>国の指示</ArticleTitle>
       <Sentence>国は、法律に特別の定めがある場合を除き、地方公共団体に対して個別の行政執行を一方的に指示してはならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>国の財政上の措置</ArticleTitle>
       <Sentence>国は、地方公共団体がその責務を適切に遂行できるよう、必要な財政上の措置を講ずるものとする。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>地方自治の保障</ArticleTitle>
       <Sentence>国は、地方自治の本旨を尊重し、地方公共団体の組織及び運営について必要以上の制約を加えてはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="11">
     <ChapterTitle>地方公共団体相互の協力</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>共同事務</ArticleTitle>
       <Sentence>地方公共団体は、共同して事務を処理するため、協議会その他の組織を設けることができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>事務の委託</ArticleTitle>
       <Sentence>地方公共団体は、法律及び条例の定めるところにより、その事務を他の地方公共団体に委託することができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>相互援助</ArticleTitle>
       <Sentence>地方公共団体は、災害その他の緊急事態において、相互に必要な援助を行うよう努めるものとする。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="12">
     <ChapterTitle>住民による監視</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>行政情報の公開</ArticleTitle>
       <Sentence>地方公共団体は、その行政に関する情報を適切に公開し、住民による監視及び参加を確保するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>住民監査請求</ArticleTitle>
       <Sentence>住民は、地方公共団体の財務に関する違法又は不当な行為について、法律の定めるところにより監査を請求することができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>住民訴訟</ArticleTitle>
       <Sentence>住民は、法律の定めるところにより、地方公共団体の財務上の違法な行為について、裁判所に訴えを提起することができる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="13">
     <ChapterTitle>大都市その他の特別制度</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>特別市</ArticleTitle>
       <Sentence>特別市その他通常の市町村とは異なる制度を設ける必要がある地方公共団体については、法律で特別の制度を定めることができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>特別区</ArticleTitle>
       <Sentence>特別区は、法律の定めるところにより、基礎的な地方公共団体としての事務その他必要な事務を処理する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>広域自治体</ArticleTitle>
       <Sentence>複数の地方公共団体にまたがる行政需要については、広域的な地方公共団体又は共同組織により処理することができる。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="14">
     <ChapterTitle>補則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>法令との関係</ArticleTitle>
       <Sentence>この法律に定めのない地方自治に関する事項については、他の法律及び条例の定めるところによる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>政令への委任</ArticleTitle>
       <Sentence>この法律の施行に必要な事項は、政令で定める。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>施行</ArticleTitle>
       <Sentence>この法律は、公布の日から起算して三十日を経過した日から施行する。</Sentence>

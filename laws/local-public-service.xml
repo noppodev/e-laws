@@ -1,1068 +1,844 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>地方公務員法</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、地方公共団体の公務を民主的かつ能率的に運営するため、地方公務員について、その任用、給与、勤務条件、服務、分限及び懲戒その他の基本的事項を定めることを目的とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
       <ArticleTitle>適用範囲</ArticleTitle>
       <Sentence>この法律は、地方公共団体の一般職に属する職員について適用する。</Sentence>
     </Article>
-
-    <Article Num="3">
+    <Article Num="2">
       <ArticleTitle>一般職及び特別職</ArticleTitle>
       <Sentence>地方公務員の職は、一般職と特別職に分ける。</Sentence>
       <Paragraph Num="2">
         <Sentence>一般職とは、特別職に属する職以外の地方公務員の職をいう。</Sentence>
       </Paragraph>
     </Article>
-
-    <Article Num="4">
-      <ArticleTitle>基本理念</ArticleTitle>
-      <Sentence>地方公務員は、全体の奉仕者として公共の利益のために勤務し、職務の遂行に当たっては公正かつ誠実でなければならない。</Sentence>
-    </Article>
-
-    <Article Num="5">
+    <Article Num="3">
       <ArticleTitle>平等取扱いの原則</ArticleTitle>
       <Sentence>職員は、その人種、信条、性別、社会的身分又は門地によって、任用その他について不当に差別されてはならない。</Sentence>
     </Article>
-
-    <Article Num="6">
+    <Article Num="4">
       <ArticleTitle>人事行政の公正</ArticleTitle>
       <Sentence>地方公共団体は、職員に関する人事行政を公正かつ能率的に行わなければならない。</Sentence>
     </Article>
-
-    <Article Num="7">
+    <Article Num="5">
       <ArticleTitle>服務の根本基準</ArticleTitle>
       <Sentence>職員は、法令及び条例並びに上司の職務上の命令に従い、誠実に職務を遂行しなければならない。</Sentence>
     </Article>
-
-    <Article Num="8">
+    <Article Num="6">
       <ArticleTitle>人事委員会及び公平委員会</ArticleTitle>
       <Sentence>地方公共団体には、職員の任用その他の人事行政の公正を確保するため、人事委員会又は公平委員会を置く。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>人事機関</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>人事委員会</ArticleTitle>
       <Sentence>都道府県及び政令で定める市には、人事委員会を置く。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>公平委員会</ArticleTitle>
       <Sentence>人事委員会を置かない地方公共団体には、公平委員会を置く。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>委員の定数</ArticleTitle>
       <Sentence>人事委員会及び公平委員会の委員の定数は、条例で定める。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>委員の選任</ArticleTitle>
       <Sentence>委員は、人格が高潔で、人事行政に関し識見を有する者のうちから、地方公共団体の議会の同意を得て長が選任する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>委員の任期</ArticleTitle>
       <Sentence>委員の任期は四年とし、再任することができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>委員の欠格事由</ArticleTitle>
       <Sentence>国会議員、地方公共団体の議会の議員その他条例で定める職を兼ねる者は、委員となることができない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>委員の罷免</ArticleTitle>
       <Sentence>委員が職務上の義務に違反し、又は職務を怠ったときは、法令の定めるところにより罷免することができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>人事委員会の権限</ArticleTitle>
       <Sentence>人事委員会は、職員の任用、給与、勤務条件その他人事行政について必要な調査及び勧告を行う。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>公平委員会の権限</ArticleTitle>
       <Sentence>公平委員会は、職員の勤務条件に関する措置要求及び不利益処分に関する審査請求を処理する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>人事行政の報告</ArticleTitle>
       <Sentence>人事委員会は、毎年、地方公共団体の人事行政の状況について報告書を作成する。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>調査権</ArticleTitle>
       <Sentence>人事委員会又は公平委員会は、その権限を行使するため必要な範囲で、関係者に報告又は資料の提出を求めることができる。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>秘密保持</ArticleTitle>
       <Sentence>委員その他人事行政に関する事務に従事する者は、職務上知り得た秘密を漏らしてはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>職員に適用される基準</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>成績主義</ArticleTitle>
       <Sentence>職員の任用その他人事上の措置は、職務遂行能力及び勤務成績を基礎として行わなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>能力の実証</ArticleTitle>
       <Sentence>任命権者は、職員の能力を客観的かつ公正な方法により実証しなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>職務分類</ArticleTitle>
       <Sentence>地方公共団体は、職務の種類及び複雑性、責任の程度その他の要素を考慮して職務を分類する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>職務の級</ArticleTitle>
       <Sentence>職員の職務は、その責任及び困難性に応じて適切な級に分類する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>人事評価</ArticleTitle>
       <Sentence>任命権者は、職員の勤務成績を定期的に評価し、その結果を人事管理に活用する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>評価の公正</ArticleTitle>
       <Sentence>人事評価は、職務上の事実及び客観的な基準に基づき、公正に行わなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>評価結果の活用</ArticleTitle>
       <Sentence>人事評価の結果は、昇任、昇給、研修その他人事上の措置に活用することができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>職員の責務</ArticleTitle>
       <Sentence>職員は、常に職務上必要な知識及び技能の向上に努めなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>研修</ArticleTitle>
       <Sentence>地方公共団体は、職員の能力及び資質の向上を図るため、必要な研修を実施しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>研修の機会</ArticleTitle>
       <Sentence>職員は、その職務に必要な研修を受ける機会を保障される。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>任用</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>任命権者</ArticleTitle>
       <Sentence>職員の任命、休職、復職、退職及び免職は、任命権者が行う。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>任命権</ArticleTitle>
       <Sentence>任命権者は、法令及び条例の定めるところにより、職員を任命する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>欠格条項</ArticleTitle>
       <Sentence>禁錮以上の刑に処せられ、その執行を終わるまで又は執行を受けることがなくなるまでの者その他法令で定める者は、職員となることができない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>採用試験</ArticleTitle>
       <Sentence>職員の採用は、原則として競争試験による。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>選考採用</ArticleTitle>
       <Sentence>専門的な知識又は技能を必要とする職その他競争試験によることが適当でない職については、選考により採用することができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>受験資格</ArticleTitle>
       <Sentence>採用試験の受験資格は、職務遂行に必要な能力を考慮して定める。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>試験の公開</ArticleTitle>
       <Sentence>採用試験は、原則として公開し、受験の機会を不当に制限してはならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>採用候補者名簿</ArticleTitle>
       <Sentence>採用試験に合格した者については、採用候補者名簿を作成する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>名簿の有効期間</ArticleTitle>
       <Sentence>採用候補者名簿の有効期間は、条例で定める。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>採用候補者の採用</ArticleTitle>
       <Sentence>任命権者は、採用候補者名簿に登載された者の中から、職務の必要に応じて採用する。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>条件付採用</ArticleTitle>
       <Sentence>職員の採用は、一定期間の条件付のものとすることができる。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>条件付採用期間</ArticleTitle>
       <Sentence>条件付採用期間は六月とする。ただし、条例で別段の定めをすることができる。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>正式採用</ArticleTitle>
       <Sentence>条件付採用期間中の勤務成績が良好であると認められた職員は、正式に採用される。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>昇任</ArticleTitle>
       <Sentence>昇任は、職員の能力、勤務成績その他職務への適性を考慮して行う。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>降任</ArticleTitle>
       <Sentence>職員が職務を遂行する能力を欠くと認められる場合には、法令の定めるところにより降任することができる。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>転任</ArticleTitle>
       <Sentence>任命権者は、職務上の必要に応じて職員を他の職に転任させることができる。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>配置転換</ArticleTitle>
       <Sentence>職員の配置は、本人の能力及び適性並びに行政需要を考慮して行う。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>出向</ArticleTitle>
       <Sentence>職員は、法令及び条例の定めるところにより、他の地方公共団体その他の機関へ出向することができる。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>任命の記録</ArticleTitle>
       <Sentence>任命権者は、職員の任用に関する記録を作成し、適切に保存しなければならない。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>人事記録</ArticleTitle>
       <Sentence>職員の人事記録には、任用、昇任、異動、休職、懲戒その他重要な事項を記載する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>給与</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>給与の根本原則</ArticleTitle>
       <Sentence>職員の給与は、その職務と責任に応じて定めなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>給与条例主義</ArticleTitle>
       <Sentence>職員の給与は、条例に基づかなければ支給することができない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>給与の種類</ArticleTitle>
       <Sentence>給与は、給料、手当その他条例で定めるものとする。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>給料表</ArticleTitle>
       <Sentence>給料の額は、職務の級及び号給に応じて定める。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>初任給</ArticleTitle>
       <Sentence>初任給は、職員の学歴、経験、職務の種類その他の事情を考慮して定める。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>昇給</ArticleTitle>
       <Sentence>昇給は、勤務成績その他条例で定める基準に従って行う。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>期末手当</ArticleTitle>
       <Sentence>職員には、条例の定めるところにより、期末手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>勤勉手当</ArticleTitle>
       <Sentence>職員には、勤務成績に応じて勤勉手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>扶養手当</ArticleTitle>
       <Sentence>職員の扶養親族については、条例の定めるところにより扶養手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>通勤手当</ArticleTitle>
       <Sentence>職員が通勤のため交通機関等を利用する場合には、条例の定めるところにより通勤手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>住居手当</ArticleTitle>
       <Sentence>職員の住居に係る費用については、条例の定めるところにより住居手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>時間外勤務手当</ArticleTitle>
       <Sentence>正規の勤務時間を超えて勤務した職員には、条例の定めるところにより時間外勤務手当を支給する。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>休日勤務手当</ArticleTitle>
       <Sentence>休日に勤務した職員には、条例の定めるところにより休日勤務手当を支給する。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>夜間勤務手当</ArticleTitle>
       <Sentence>正規の勤務時間が深夜に及ぶ職員には、条例の定めるところにより夜間勤務手当を支給する。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>給与の支払</ArticleTitle>
       <Sentence>給与は、通貨又は法令で認められた方法により、直接職員に支給する。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>給与の控除</ArticleTitle>
       <Sentence>給与から控除することができる事項は、法令又は条例で定める。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>給与の減額</ArticleTitle>
       <Sentence>職員の給与は、法令又は条例に基づく場合を除き、減額してはならない。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>退職手当</ArticleTitle>
       <Sentence>職員が退職した場合には、条例の定めるところにより退職手当を支給することができる。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>給与の公開</ArticleTitle>
       <Sentence>地方公共団体は、給与制度の透明性を確保するため、職員の給与の状況を公表するものとする。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>給与の均衡</ArticleTitle>
       <Sentence>職員の給与は、国及び他の地方公共団体の職員の給与その他社会一般の事情との均衡を考慮して定める。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>勤務時間及び休暇</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>勤務時間</ArticleTitle>
       <Sentence>職員の勤務時間は、職務の性質及び行政需要を考慮して条例で定める。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>週休日</ArticleTitle>
       <Sentence>職員には、原則として毎週一定の日数の週休日を設ける。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>休憩時間</ArticleTitle>
       <Sentence>職員の勤務時間が一定時間を超える場合には、適切な休憩時間を置かなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>時間外勤務</ArticleTitle>
       <Sentence>任命権者は、公務のため臨時の必要がある場合には、条例の定めるところにより職員に時間外勤務を命ずることができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>休日勤務</ArticleTitle>
       <Sentence>任命権者は、公務の運営上必要がある場合には、職員に休日勤務を命ずることができる。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>年次休暇</ArticleTitle>
       <Sentence>職員には、条例の定めるところにより、年次有給休暇を与えなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>病気休暇</ArticleTitle>
       <Sentence>職員が負傷又は疾病のため療養する必要がある場合には、病気休暇を与えることができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>特別休暇</ArticleTitle>
       <Sentence>職員が結婚、出産その他特別の事情により勤務することが困難な場合には、条例の定めるところにより特別休暇を与えることができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>育児休業等</ArticleTitle>
       <Sentence>職員は、法令の定めるところにより、育児休業その他育児のための休業をすることができる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>介護休暇</ArticleTitle>
       <Sentence>職員は、家族の介護を必要とする場合には、条例の定めるところにより介護休暇を取得することができる。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>勤務時間の管理</ArticleTitle>
       <Sentence>任命権者は、職員の勤務時間を適切に管理し、過重な勤務を防止するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>健康管理</ArticleTitle>
       <Sentence>地方公共団体は、職員の健康の保持及び増進のため必要な措置を講じなければならない。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>健康診断</ArticleTitle>
       <Sentence>地方公共団体は、職員に対して定期的に健康診断を行わなければならない。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>安全配慮</ArticleTitle>
       <Sentence>任命権者は、職員が安全かつ健康に勤務できるよう必要な環境を整備しなければならない。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>職場環境</ArticleTitle>
       <Sentence>地方公共団体は、職員が人格を尊重され、安心して勤務できる職場環境の確保に努めなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>服務</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>服務の宣誓</ArticleTitle>
       <Sentence>職員は、条例の定めるところにより、服務に関する宣誓をしなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>法令等及び上司の職務上の命令に従う義務</ArticleTitle>
       <Sentence>職員は、その職務を遂行するに当たって、法令、条例、規則その他の規程及び上司の職務上の命令に従わなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>職務専念義務</ArticleTitle>
       <Sentence>職員は、法律又は条例に特別の定めがある場合を除き、その勤務時間及び職務上の注意力のすべてをその職務遂行のために用いなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>信用失墜行為の禁止</ArticleTitle>
       <Sentence>職員は、その職の信用を傷つけ、又は職員全体の不名誉となるような行為をしてはならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>秘密を守る義務</ArticleTitle>
       <Sentence>職員は、職務上知り得た秘密を漏らしてはならない。その職を退いた後も、同様とする。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>政治的行為の制限</ArticleTitle>
       <Sentence>職員は、その職務の公正な遂行を害する政治的行為をしてはならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>営利企業等の従事制限</ArticleTitle>
       <Sentence>職員は、任命権者の許可を受けなければ、営利を目的とする私企業を営み、又は報酬を得て事業若しくは事務に従事してはならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>贈与等の禁止</ArticleTitle>
       <Sentence>職員は、職務に関して利害関係を有する者から、社会通念上相当な範囲を超える金品その他の利益を受けてはならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>職務上の利害関係</ArticleTitle>
       <Sentence>職員は、自己又はその親族その他密接な関係にある者の利益のために職務上の権限を利用してはならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>公正な職務執行</ArticleTitle>
       <Sentence>職員は、何人に対しても公平に職務を遂行しなければならない。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>服務規律</ArticleTitle>
       <Sentence>地方公共団体は、職員の服務について必要な規律を条例又は規則で定めることができる。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>職務上の情報</ArticleTitle>
       <Sentence>職員は、職務上取得した情報を、法令の定めるところに従い適正に取り扱わなければならない。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>個人情報の保護</ArticleTitle>
       <Sentence>職員は、職務上取り扱う個人情報を、正当な理由なく利用し、又は第三者に提供してはならない。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>公文書の管理</ArticleTitle>
       <Sentence>職員は、職務上作成し、又は取得した公文書を適正に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>内部通報</ArticleTitle>
       <Sentence>職員は、法令違反その他公務の適正な運営を害する事実を知ったときは、定められた手続によりこれを通報することができる。</Sentence>
     </Article>
-
     <Article Num="16">
       <ArticleTitle>通報者の保護</ArticleTitle>
       <Sentence>正当な理由により内部通報をした職員に対しては、通報を理由とする不利益な取扱いをしてはならない。</Sentence>
     </Article>
-
     <Article Num="17">
       <ArticleTitle>職務上の倫理</ArticleTitle>
       <Sentence>職員は、公共の利益を第一とし、職務上の地位を私的利益のために利用してはならない。</Sentence>
     </Article>
-
     <Article Num="18">
       <ArticleTitle>政治的中立</ArticleTitle>
       <Sentence>職員は、その職務の遂行において、特定の政党その他政治的団体の利益のために行動してはならない。</Sentence>
     </Article>
-
     <Article Num="19">
       <ArticleTitle>選挙運動の制限</ArticleTitle>
       <Sentence>職員は、職務上の地位を利用して選挙運動をしてはならない。</Sentence>
     </Article>
-
     <Article Num="20">
       <ArticleTitle>職務上の地位の利用禁止</ArticleTitle>
       <Sentence>職員は、その職務上の地位を利用して、自己又は第三者の利益を図ってはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="8">
     <ChapterTitle>分限及び懲戒</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>分限処分</ArticleTitle>
       <Sentence>職員の分限処分は、職員の身分を保障しつつ、適正な行政運営を確保するために必要な範囲で行う。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>免職</ArticleTitle>
       <Sentence>職員が勤務実績不良、心身の故障その他法令で定める事由に該当するときは、免職することができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>休職</ArticleTitle>
       <Sentence>職員が心身の故障、刑事事件への起訴その他条例で定める事由に該当するときは、休職させることができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>休職期間</ArticleTitle>
       <Sentence>休職の期間は、条例で定める。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>復職</ArticleTitle>
       <Sentence>休職の事由が消滅したときは、任命権者は速やかに職員を復職させなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>降給</ArticleTitle>
       <Sentence>職員の勤務実績又は職務能力が著しく不良である場合には、条例の定めるところにより降給することができる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>懲戒処分</ArticleTitle>
       <Sentence>職員が法令、条例、規則又は職務上の義務に違反した場合には、懲戒処分をすることができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>懲戒の種類</ArticleTitle>
       <Sentence>懲戒処分は、戒告、減給、停職及び免職とする。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>戒告</ArticleTitle>
       <Sentence>戒告は、職員の服務上の義務違反についてその責任を確認し、将来を戒める処分とする。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>減給</ArticleTitle>
       <Sentence>減給は、一定期間、職員の給与を減額する処分とする。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>停職</ArticleTitle>
       <Sentence>停職は、一定期間、職員を職務に従事させない処分とする。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>免職処分</ArticleTitle>
       <Sentence>免職は、職員としての身分を失わせる処分とする。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>処分の基準</ArticleTitle>
       <Sentence>懲戒処分は、違反行為の内容、結果、故意又は過失の程度、勤務状況その他の事情を考慮して相当な範囲で行わなければならない。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>二重処分の禁止</ArticleTitle>
       <Sentence>同一の事実について、同一の職員に対し、重ねて懲戒処分をすることができない。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>処分理由の明示</ArticleTitle>
       <Sentence>懲戒処分をするときは、その理由を職員に対して明示しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="9">
     <ChapterTitle>職員の利益の保護</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>身分保障</ArticleTitle>
       <Sentence>職員は、法律又は条例に定める事由によらなければ、その意に反して免職その他不利益な処分を受けない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>措置要求</ArticleTitle>
       <Sentence>職員は、給与、勤務時間その他の勤務条件に関して適当な措置が講じられるよう、人事委員会又は公平委員会に要求することができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>措置要求の審査</ArticleTitle>
       <Sentence>人事委員会又は公平委員会は、前条の要求について必要な調査を行い、適切な措置を講じる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>不利益処分の審査請求</ArticleTitle>
       <Sentence>職員は、その意に反して免職、降任、休職、降給その他不利益な処分を受けた場合には、審査請求をすることができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>審査請求の期間</ArticleTitle>
       <Sentence>審査請求は、処分があったことを知った日の翌日から三月以内にしなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>審査の公平</ArticleTitle>
       <Sentence>審査は、公正かつ迅速に行わなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>口頭審理</ArticleTitle>
       <Sentence>審査請求人は、審査において口頭で意見を述べる機会を求めることができる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>証拠の提出</ArticleTitle>
       <Sentence>審査請求人及び処分者は、審査に必要な証拠を提出することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>裁決</ArticleTitle>
       <Sentence>人事委員会又は公平委員会は、審査の結果に基づき、処分を承認し、取り消し、又は変更する裁決を行う。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>裁決の効力</ArticleTitle>
       <Sentence>裁決は、関係する地方公共団体及び当事者を拘束する。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>損害の回復</ArticleTitle>
       <Sentence>不利益な処分が取り消された場合には、地方公共団体は、法令の定めるところにより職員の権利を回復しなければならない。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>不利益取扱いの禁止</ArticleTitle>
       <Sentence>職員が適法に権利を行使したことを理由として、不利益な取扱いをしてはならない。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>苦情相談</ArticleTitle>
       <Sentence>職員は、勤務条件その他職場における問題について、人事委員会又は公平委員会に相談することができる。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>相談体制</ArticleTitle>
       <Sentence>地方公共団体は、職員からの相談を適切に受け付ける体制を整備するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>職員の権利救済</ArticleTitle>
       <Sentence>職員の権利救済に関する手続は、簡易かつ迅速に行われるよう配慮しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="10">
     <ChapterTitle>職員団体</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>職員団体の結成</ArticleTitle>
       <Sentence>職員は、勤務条件の維持改善を図ることを目的として、職員団体を結成することができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>加入及び脱退</ArticleTitle>
       <Sentence>職員は、職員団体を結成し、又はこれに加入し、若しくはこれから脱退することを自由に選択することができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>職員団体の自主性</ArticleTitle>
       <Sentence>職員団体は、職員によって自主的に運営されなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>登録</ArticleTitle>
       <Sentence>職員団体は、法令の定めるところにより、一定の要件を満たす場合には人事委員会又は公平委員会に登録することができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>登録の要件</ArticleTitle>
       <Sentence>登録を受けようとする職員団体は、規約、役員その他法令で定める事項を明らかにしなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>職員団体との交渉</ArticleTitle>
       <Sentence>地方公共団体は、適法な職員団体から勤務条件に関する交渉の申入れを受けたときは、誠実に対応しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>交渉事項</ArticleTitle>
       <Sentence>職員団体との交渉事項は、給与、勤務時間その他職員の勤務条件及びこれに関する事項とする。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>交渉の方法</ArticleTitle>
       <Sentence>交渉は、地方公共団体の代表者と職員団体の代表者との間で行う。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>交渉の制限</ArticleTitle>
       <Sentence>法令又は条例により地方公共団体が処分することのできない事項については、交渉の対象とすることができない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>協定</ArticleTitle>
       <Sentence>交渉の結果について、当事者は、必要に応じて書面による協定を締結することができる。</Sentence>
     </Article>
-
     <Article Num="11">
       <ArticleTitle>争議行為の禁止</ArticleTitle>
       <Sentence>職員は、ストライキ、怠業その他の争議行為をしてはならない。</Sentence>
     </Article>
-
     <Article Num="12">
       <ArticleTitle>争議行為への参加禁止</ArticleTitle>
       <Sentence>職員は、地方公共団体の機関の業務を停滞させることを目的とする行為に参加してはならない。</Sentence>
     </Article>
-
     <Article Num="13">
       <ArticleTitle>職員団体の政治活動</ArticleTitle>
       <Sentence>職員団体は、その目的及び活動について法令を遵守しなければならない。</Sentence>
     </Article>
-
     <Article Num="14">
       <ArticleTitle>職員団体の財務</ArticleTitle>
       <Sentence>職員団体は、その財産及び会計を適正に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="15">
       <ArticleTitle>会計報告</ArticleTitle>
       <Sentence>職員団体は、構成員に対してその財政状況を明らかにするよう努めなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="11">
     <ChapterTitle>退職及び定年</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>退職</ArticleTitle>
       <Sentence>職員は、任命権者に退職を申し出ることにより、職を辞することができる。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>定年</ArticleTitle>
       <Sentence>職員の定年は、原則として六十五歳とする。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>定年退職</ArticleTitle>
       <Sentence>職員は、定年に達した日の属する年度の末日に退職する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>再任用</ArticleTitle>
       <Sentence>地方公共団体は、定年退職した者について、法令及び条例の定めるところにより再任用することができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>再任用の期間</ArticleTitle>
       <Sentence>再任用の期間は、必要な範囲で定める。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>退職者の秘密保持</ArticleTitle>
       <Sentence>退職した職員は、在職中に知り得た秘密を正当な理由なく漏らしてはならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>退職後の利害関係</ArticleTitle>
       <Sentence>職員は、退職後においても、在職中の地位を利用して不正に利益を得てはならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>再就職の適正</ArticleTitle>
       <Sentence>地方公共団体は、職員の退職後の再就職について、公正な行政運営を害することのないよう必要な措置を講ずる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>退職管理</ArticleTitle>
       <Sentence>任命権者は、退職した職員の再就職等について、法令及び条例に従い適切に管理する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>退職手続</ArticleTitle>
       <Sentence>退職に関する手続及び記録については、条例又は規則で定める。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="12">
     <ChapterTitle>職員の研修及び人材育成</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>人材育成基本方針</ArticleTitle>
       <Sentence>地方公共団体は、職員の能力を計画的に向上させるため、人材育成に関する基本方針を定めるよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>研修計画</ArticleTitle>
       <Sentence>地方公共団体は、年度ごとに職員研修の計画を定める。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>新任研修</ArticleTitle>
       <Sentence>新たに採用された職員に対しては、公務員として必要な基礎的知識及び倫理に関する研修を行う。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>専門研修</ArticleTitle>
       <Sentence>職員の職務に必要な専門的知識及び技能を向上させるため、専門研修を実施する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>管理職研修</ArticleTitle>
       <Sentence>管理職員に対しては、組織運営、法令遵守、危機管理その他必要な事項に関する研修を行う。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>デジタル研修</ArticleTitle>
       <Sentence>地方公共団体は、情報通信技術を活用した行政運営に必要な知識及び技能について、職員の研修を行うよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>研修期間中の身分</ArticleTitle>
       <Sentence>職員が公務として研修を受ける場合には、研修期間中も職員としての身分を有する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>研修機関</ArticleTitle>
       <Sentence>地方公共団体は、必要に応じ、共同して研修機関を設置することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>人材交流</ArticleTitle>
       <Sentence>地方公共団体は、職員の能力向上及び行政運営の改善のため、国、他の地方公共団体その他の機関との人材交流を行うことができる。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>自己研鑽</ArticleTitle>
       <Sentence>職員は、自らその職務に必要な知識及び技能を習得するよう努めなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="13">
     <ChapterTitle>服務監督及び責任</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>監督責任</ArticleTitle>
       <Sentence>管理監督者は、所属職員の服務について適切に指揮監督しなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>職務命令の記録</ArticleTitle>
       <Sentence>重要な職務命令については、その内容を記録するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>違法な命令</ArticleTitle>
       <Sentence>職員は、明らかに法令に違反する職務上の命令について、その違法性を上司に申し出ることができる。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>事故報告</ArticleTitle>
       <Sentence>職員は、職務上重大な事故その他行政運営に影響を及ぼす事実が発生したときは、速やかに上司に報告しなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>損害の防止</ArticleTitle>
       <Sentence>職員は、職務の遂行により地方公共団体に損害が生ずるおそれがあることを知ったときは、その防止に必要な措置を講じなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>賠償責任</ArticleTitle>
       <Sentence>職員が故意又は重大な過失によって地方公共団体に損害を与えたときは、法令の定めるところにより賠償責任を負うことがある。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>公金の取扱い</ArticleTitle>
       <Sentence>職員は、公金その他地方公共団体の財産を適正に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>物品の管理</ArticleTitle>
       <Sentence>職員は、地方公共団体が保有する物品を、その用途に従い適正に使用しなければならない。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>公用施設の利用</ArticleTitle>
       <Sentence>職員は、公用施設を職務上必要な目的以外に利用してはならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>公用車等の利用</ArticleTitle>
       <Sentence>職員は、公用車その他公用に供する物を私的な目的のために使用してはならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="14">
     <ChapterTitle>地方公務員制度の運営</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>人事行政計画</ArticleTitle>
       <Sentence>地方公共団体は、職員の採用、配置、育成及び退職を含む総合的な人事行政計画を策定するよう努めなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>定員管理</ArticleTitle>
       <Sentence>地方公共団体は、行政需要及び財政状況を考慮して職員の定員を適正に管理しなければならない。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>定員の公表</ArticleTitle>
       <Sentence>地方公共団体は、職員の定員及びその現員の状況を公表するものとする。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>人事行政の透明性</ArticleTitle>
       <Sentence>地方公共団体は、人事行政に関する情報を適切に公開し、その透明性の確保に努めなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>人事行政のデジタル化</ArticleTitle>
       <Sentence>地方公共団体は、人事行政に関する事務について、情報通信技術を活用し、適正かつ効率的な処理を推進するものとする。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>人事情報の安全管理</ArticleTitle>
       <Sentence>地方公共団体は、職員の人事情報について、漏えい、滅失又は毀損を防止するため必要な安全管理措置を講じなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>個人情報の取扱い</ArticleTitle>
       <Sentence>人事情報に含まれる個人情報は、利用目的の達成に必要な範囲で適正に取り扱わなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>人事記録の訂正</ArticleTitle>
       <Sentence>職員は、自己に関する人事記録に誤りがあると認めるときは、その訂正を求めることができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>人事記録の保存期間</ArticleTitle>
       <Sentence>人事記録の保存期間は、その記録の性質及び利用目的を考慮して定める。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>人事行政の評価</ArticleTitle>
       <Sentence>地方公共団体は、人事行政の実施状況について定期的に評価し、その改善に努めなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="15">
     <ChapterTitle>補則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>条例への委任</ArticleTitle>
       <Sentence>この法律に定めるもののほか、職員の任用、給与、勤務時間その他の勤務条件について必要な事項は、条例で定める。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>規則への委任</ArticleTitle>
       <Sentence>この法律又は条例の施行に関し必要な事項は、規則その他の規程で定める。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>国との連携</ArticleTitle>
       <Sentence>地方公共団体は、地方公務員制度の適正な運営のため、国その他の関係機関と必要な連携を図る。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>地方公共団体相互の協力</ArticleTitle>
       <Sentence>地方公共団体は、職員の研修、人材交流その他人事行政に関する事務について、相互に協力することができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>制度の改善</ArticleTitle>
       <Sentence>地方公共団体は、社会経済情勢の変化及び行政需要の変化を踏まえ、地方公務員制度の改善に努めなければならない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>非常勤職員</ArticleTitle>
       <Sentence>非常勤の職員については、その勤務の性質及び勤務時間を考慮し、法令又は条例で必要な事項を定める。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>会計年度任用職員</ArticleTitle>
       <Sentence>会計年度を単位として任用される職員については、その任用期間、勤務条件その他必要な事項を条例で定める。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>臨時的任用</ArticleTitle>
       <Sentence>緊急の場合その他やむを得ない事情がある場合には、法令及び条例の定めるところにより臨時的に職員を任用することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>法令遵守</ArticleTitle>
       <Sentence>地方公共団体及びその職員は、この法律その他の法令を遵守し、公正な人事行政の実現に努めなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>施行規則</ArticleTitle>
       <Sentence>この法律の施行に関し必要な事項は、規則その他の法令で定める。</Sentence>
     </Article>
-
   </Chapter>
 </Law>

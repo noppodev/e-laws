@@ -1,64 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>国家安全保障会議設置法</Title>
-
   <Chapter Num="1">
     <ChapterTitle>総則</ChapterTitle>
-
     <Article Num="1">
-      <ArticleTitle>目的</ArticleTitle>
-      <Sentence>この法律は、国家の存立、主権の防衛及び国民の生命財産を確保するため、大統領を議長とする国家安全保障会議の組織、所掌事務及び運営に関する事項を定め、もって国家の安全保障に関する重要事項を適時かつ的確に決定することを目的とする。</Sentence>
-    </Article>
-
-    <Article Num="2">
       <ArticleTitle>会議の性格</ArticleTitle>
       <Sentence>国家安全保障会議は、大統領直属の最高諮問決定機関とし、国家の重大な安全保障政策を審議決定する。</Sentence>
     </Article>
-
-    <Article Num="3">
-      <ArticleTitle>基本理念</ArticleTitle>
-      <Sentence>国家安全保障は、積極的な対外協調と強固な防衛力を車の両輪とし、総合的な国力をもって維持されなければならない。</Sentence>
-    </Article>
-
-    <Article Num="4">
+    <Article Num="2">
       <ArticleTitle>文民統制の原則</ArticleTitle>
       <Sentence>国家安全保障会議における審議及び決定は、憲法及び国防法に定める文民統制の原則を厳格に保持して行われなければならない。</Sentence>
     </Article>
-
-    <Article Num="5">
+    <Article Num="3">
       <ArticleTitle>大統領の最高指揮権</ArticleTitle>
       <Sentence>大統領は、国家安全保障会議の議長として、軍事及び非軍事の安全保障施策を一元的に統括し指揮する。</Sentence>
     </Article>
-
-    <Article Num="6">
+    <Article Num="4">
       <ArticleTitle>総合調整の義務</ArticleTitle>
       <Sentence>国防省、外務省、内務省その他関係省庁は、安全保障会議の決定事項を忠実に執行し、相互の緊密な調整を保たなければならない。</Sentence>
     </Article>
-
-    <Article Num="7">
+    <Article Num="5">
       <ArticleTitle>事態対処の迅速性</ArticleTitle>
       <Sentence>会議は、緊急の武力攻撃事態又は重大なテロ事態が生じた場合、遅滞なく初動方針を確立しなければならない。</Sentence>
     </Article>
-
-    <Article Num="8">
+    <Article Num="6">
       <ArticleTitle>秘密の保護</ArticleTitle>
       <Sentence>会議の審議内容及び取扱う情報は、最高度の国家機密として厳正に防護されなければならない。</Sentence>
     </Article>
-
-    <Article Num="9">
+    <Article Num="7">
       <ArticleTitle>国民への説明</ArticleTitle>
       <Sentence>大統領は、国防上の秘密を害しない限度において、安全保障方針の基本について国民及び議会に説明しなければならない。</Sentence>
     </Article>
-
-    <Article Num="10">
+    <Article Num="8">
       <ArticleTitle>財政的基盤の確保</ArticleTitle>
       <Sentence>国は、国家安全保障戦略の実施に必要な予算を優先的かつ計画的に配分しなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="2">
     <ChapterTitle>会議の組織及び構成員</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>議長</ArticleTitle>
       <Sentence>国家安全保障会議の議長は大統領とする。</Sentence>
@@ -66,12 +45,10 @@
         <Sentence>議長は、会務を総理し、会議を招集し、その議事を取り仕切る。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>副議長</ArticleTitle>
       <Sentence>副議長は大統領首席補佐官をもって充て、議長を補佐し、議長に事故があるときはその職務を代理する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>恒常構成員</ArticleTitle>
       <Sentence>会議は、次に掲げる者をもって恒常構成員とする。</Sentence>
@@ -94,424 +71,338 @@
         <Sentence>六　統合参謀総長</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>特定構成員</ArticleTitle>
       <Sentence>議長は、事態の性質に応じ、関係省庁の大臣又は政府機関の長を特定構成員として会議に出席させることができる。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>四大臣会合</ArticleTitle>
       <Sentence>日常的な外交・防衛の基本政策の機動的審議を行うため、大統領、大統領首席補佐官、外務大臣及び国防大臣による四大臣会合を定例化する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>九大臣会合</ArticleTitle>
       <Sentence>国家安全保障戦略の策定、国防基本計画の改定等については、全関係閣僚が出席する九大臣会合において審議する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>緊急事態会合</ArticleTitle>
       <Sentence>武力攻撃事態、重大サイバーテロ、大規模原発事故等の発生時においては、直ちに緊急事態会合を開く。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>特別参与</ArticleTitle>
       <Sentence>大統領は、高度の学識経験を有する者を国家安全保障特別参与に任命し、意見を徴することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>議事録の作成</ArticleTitle>
       <Sentence>会議の審議については、詳細な議事録を作成し、永久保存公文書として保管しなければならない。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>議決方法</ArticleTitle>
       <Sentence>会議の決定は、出席構成員の意見の一致を原則とする。ただし、一致しないときは議長たる大統領がこれを裁決する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="3">
     <ChapterTitle>所掌事務及び審議事項</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>安全保障戦略の策定</ArticleTitle>
       <Sentence>国家安全保障の総合的指針となる国家安全保障戦略を策定し、大統領の承認を経て決定する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>防衛計画の大綱</ArticleTitle>
       <Sentence>陸海空軍の編制、装備、常備兵額及び基幹部隊の配置に関する長期方針を審議する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>中期防衛力整備計画</ArticleTitle>
       <Sentence>五箇年を単位とする主要防衛装備品の取得計画及び防衛予算の枠組みを決定する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>武力行使の基本方針</ArticleTitle>
       <Sentence>他国からの武力攻撃に対し、自衛権を行使して武力を使用する際の政治的指針及び制約条件を定める。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>戒厳の宣告方針</ArticleTitle>
       <Sentence>憲法第九条及び戒厳法に基づく戒厳の宣告、実施地域の選定及び解除方針を審議する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>国家総動員の審議</ArticleTitle>
       <Sentence>憲法第四十三条に基づく国家総動員の発令並びに人的・物的資源の統制配分基準を審議する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>同盟政策及び集団防衛</ArticleTitle>
       <Sentence>友好国との軍事同盟条約、相互防衛協定及び部隊の相互地位協定に関する方針を定める。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>軍事技術の対外移転</ArticleTitle>
       <Sentence>防衛装備品及び先端軍事技術の共同開発並びに第三国への輸出承認基準を審査する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>重要物資の備蓄基準</ArticleTitle>
       <Sentence>原油、レアメタル、穀物及び医薬品等の戦略的物資の国家備蓄目標を策定する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>核・大量破壊兵器防護</ArticleTitle>
       <Sentence>放射性物質、生物化学兵器による脅威への対処及び国民保護計画の指針を策定する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="4">
     <ChapterTitle>国家安全保障局の設置及び職員</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>国家安全保障局の設置</ArticleTitle>
       <Sentence>大統領府に、国家安全保障会議の事務局として国家安全保障局を設置する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>国家安全保障局長</ArticleTitle>
       <Sentence>局に国家安全保障局長一人を置く。局長は大統領が任命し、大統領の命を受けて局務を統理する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>次長及び審議官</ArticleTitle>
       <Sentence>局に次長二人及び政策審議官若干人を置き、外交及び防衛の各分野の専門官を配置する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>組織体制</ArticleTitle>
       <Sentence>局に総括・調整班、戦略企画班、情勢分析班及び経済安全保障班を置く。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>他省庁からの出向</ArticleTitle>
       <Sentence>国防省、外務省、警察庁等の精鋭職員を局に出向させ、省庁横断的な情報処理体制を確保する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>制服軍人の配置</ArticleTitle>
       <Sentence>陸海空軍の現役将校を局員として配置し、軍事実務に即した作戦的評価を行わせる。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>適格性評価</ArticleTitle>
       <Sentence>局の職員に任命される者は、最も厳格なセキュリティ・クリアランスの審査を通過しなければならない。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>二十四時間警戒態勢</ArticleTitle>
       <Sentence>局内に二十四時間体制の即応連絡室を置き、世界の情勢変化を常時監視する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>他国安保機関との直通回線</ArticleTitle>
       <Sentence>同盟国の国家安全保障担当部署との間に暗号化された直通ホットラインを維持管理する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>年次報告の作成</ArticleTitle>
       <Sentence>局は、毎年国家安全保障環境に関する白書を作成し、大統領及び議会に提出する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="5">
     <ChapterTitle>情報集約及び情報統合評価センター</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>情報の一元的一元化</ArticleTitle>
       <Sentence>国家情報局、国防情報本部、外務省情報局及び警察庁警備局が収集したすべての機密情報は、国家安全保障局に集約される。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>情報統合評価センター</ArticleTitle>
       <Sentence>局内に情報統合評価センターを置き、多角的な情報を総合分析して全国家的一元評価を行う。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>日次機密ブリーフィング</ArticleTitle>
       <Sentence>センターは、毎朝、大統領に対し国内外の安全保障動向に関する最高機密要約を対面で報告しなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>情報衛星データの解析</ArticleTitle>
       <Sentence>国家偵察衛星が撮影した画像情報及び電子偵察データは、直ちにセンターにおいて解析される。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>公開情報の収集</ArticleTitle>
       <Sentence>民間シンクタンク、国際メディア、外国公文書等の公開情報についても体系的にデータベース化する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>予測分析の実施</ArticleTitle>
       <Sentence>地政学的危機、政変、地域紛争の勃発確率を定量的に予測するアルゴリズムを開発運用する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>ヒューミントの保護</ArticleTitle>
       <Sentence>人的情報源に関する情報は、局内においても厳格に知る必要性の原則に基づきアクセスを制限する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>情報機関の評価指導</ArticleTitle>
       <Sentence>各情報収集機関の能力、費用対効果及び収集方針について、定期的に点検評価を行う。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>フェイクニュース対策</ArticleTitle>
       <Sentence>外国勢力による認知戦、偽情報の流布を監視し、その対抗措置を企画する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>情報漏洩の防止監査</ArticleTitle>
       <Sentence>政府内の機密通信路に対する侵入試験及び暗号の強度監査を定期的に実施する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="6">
     <ChapterTitle>危機管理及び緊急初動対応</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>緊急事態の宣言基準</ArticleTitle>
       <Sentence>外敵の侵攻、大規模弾道ミサイルの発射、領海侵犯の集団化等に際し、直ちに緊急事態対処基準を発動する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>地下司令センターの運用</ArticleTitle>
       <Sentence>有事において大統領府地下の防爆指揮シェルターを国家安全保障会議の代替作戦室として指定運用する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>防衛出動の進達</ArticleTitle>
       <Sentence>国防軍の防衛出動を命ずる場合、会議の議を経た上で、憲法の定めに基づき大統領が命令を発する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>治安出動の審議</ArticleTitle>
       <Sentence>警察力のみでは国内治安を維持できない暴動等に際し、軍の治安出動の可否を審議する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>国境封鎖措置</ArticleTitle>
       <Sentence>重大な有事において、国境、港湾及び領空の一時的完全封鎖を決定する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>在外邦人の救出作戦</ArticleTitle>
       <Sentence>紛争地における自国民救出のため、国防軍の航空機及び艦艇の派遣を緊急決定する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>通信途絶時の承継順位</ArticleTitle>
       <Sentence>大統領が不慮の事故により通信不能となった場合の指揮権承継順位をあらかじめ公示決定しておく。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>重要インフラ防護命令</ArticleTitle>
       <Sentence>発電所、送電網、通信ハブ、空港等の重要施設に対し、特別警戒態勢への移行を命ずる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>外国船舶の退去勧告</ArticleTitle>
       <Sentence>領海内を無害通航しない不審軍艦及び公船に対し、即時退去を命ずる方針を決定する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>国民保護警報の発令</ArticleTitle>
       <Sentence>ミサイル攻撃警報を全国瞬時警報システムを通じて国民に伝達させる命令を発令する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="7">
     <ChapterTitle>経済安全保障及び先端技術防護</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>サプライチェーンの強靭化</ArticleTitle>
       <Sentence>特定外国への過度の依存を脱却し、不可欠な戦略物資の供給網を複線化する基本方針を定める。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>基幹インフラ設備の事前審査</ArticleTitle>
       <Sentence>通信、電力、金融等の重要インフラに外国製機器を導入する際の安全保障上の脅威審査を行う。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>重要特許の非公開制度</ArticleTitle>
       <Sentence>軍事転用可能な極めて高度な発明特許について、国家の安全のため出願公開を留保する決定を行う。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>先端軍民両用技術の育成</ArticleTitle>
       <Sentence>人工知能、量子コンピュータ、極超音速推進等の研究開発に対し、重点的な国家予算投下を決定する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>外資規制の強化</ArticleTitle>
       <Sentence>防衛産業及び基幹技術を保有する国内企業に対する外国資本の買収を事前に審査し、禁止命令を発する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>戦略物資の輸出規制</ArticleTitle>
       <Sentence>武器、軍民両用貨物及び技術の特定国向け輸出を国際合意に基づき厳格に規制する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>経済的威圧への対抗</ArticleTitle>
       <Sentence>他国による不当な貿易制裁及び経済威圧に対し、同盟国と共同して対抗制裁措置を決定する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>技術流出防止の指導</ArticleTitle>
       <Sentence>大学及び研究機関における外国人研究者の受入れ及び共同研究に関する安全保障ガイドラインを制定する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>海底ケーブルの防護</ArticleTitle>
       <Sentence>国際通信の動脈である海底通信ケーブルの敷設防護及び切断破壊に対する警備方針を定める。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>サイバー防御の官民連携</ArticleTitle>
       <Sentence>民間主要企業と政府との間でサイバー攻撃脅威インシデント情報を即座に共有する枠組みを指揮する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="8">
     <ChapterTitle>サイバー及び宇宙領域の安全保障</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>新領域の統合作戦方針</ArticleTitle>
       <Sentence>宇宙空間、サイバー空間及び電磁波領域を陸海空軍と等しい作戦領域として位置づけ、統合作戦ドクトリンを策定する。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>能動的サイバー防御</ArticleTitle>
       <Sentence>国家の中枢システムに壊滅的被害を与えるおそれのあるサイバー攻撃元に対し、攻撃を未然に無力化する措置を指示する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>宇宙状況把握</ArticleTitle>
       <Sentence>自国の防衛衛星に対するキラー衛星の接近、スペースデブリの衝突危険を常時監視する体制を整備する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>衛星通信の代替冗長性</ArticleTitle>
       <Sentence>軍事衛星が破壊された場合に備え、商業衛星及び無人偵察機による通信中継の代替計画を維持する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>電磁波スペクトラムの優勢確保</ArticleTitle>
       <Sentence>敵のレーダー及び通信を電子的に妨害し、味方の電波利用を防護する電子戦の運用方針を審議する。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>重要サーバの国内分散</ArticleTitle>
       <Sentence>政府及び重要インフラの基幹クラウドサーバを国内複数地域に分散配置させる義務を課す。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>暗号解読脅威への対策</ArticleTitle>
       <Sentence>将来の量子計算機による暗号解読に耐えうる耐量子暗号の国家標準導入計画を推進する。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>宇宙防衛産業の支援</ArticleTitle>
       <Sentence>国内民間ロケット企業及び小型衛星製造企業に対し、国家打ち上げ需要を優先発注する。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>民間ハッカー対策の法制化</ArticleTitle>
       <Sentence>敵性国家に雇用されたハッカー集団による不正アクセスを国家による武力攻撃に準ずる事態として定義する。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>国際規範の主導</ArticleTitle>
       <Sentence>サイバー空間及び宇宙空間における責任ある行動規範に関する国際ルール形成を主導する。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="9">
     <ChapterTitle>議会への報告及び文民統制の担保</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>年次防衛白書の提出</ArticleTitle>
       <Sentence>大統領は、毎会期始めに、国家安全保障会議の活動及び安全保障情勢に関する報告書を議会に提出しなければならない。</Sentence>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>秘密会の開催</ArticleTitle>
       <Sentence>議会の安全保障委員会において、高度の軍事機密を開示して審議を行うときは、秘密会とすることができる。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>防衛出動の事後承認</ArticleTitle>
       <Sentence>大統領が緊急の必要により議会の事前承認を得ずに防衛出動を命じたときは、直ちに議会の事後承認を求めなければならない。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>不承認時の即時撤退</ArticleTitle>
       <Sentence>議会が出動を承認しなかったときは、大統領は直ちに国防軍に撤退を命じなければならない。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>安全保障予算の議決</ArticleTitle>
       <Sentence>国家安全保障会議が要求する防衛関連予算は、議会の厳正な予算審査を経なければ執行できない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>国政調査権の尊重</ArticleTitle>
       <Sentence>会議は、議会の適法な国政調査権に基づく証言及び資料要求に対し、誠実に対応しなければならない。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>文民大臣による決定</ArticleTitle>
       <Sentence>会議における表決権は文民たる閣僚のみに属し、制服軍人は専門的助言の提供にとどまる。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>違憲立法審査権の服従</ArticleTitle>
       <Sentence>会議の決定が最高裁判所により違憲と判断されたときは、その決定は将来に向かって直ちに効力を失う。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>市民監視委員会の設置</ArticleTitle>
       <Sentence>情報機関による通信傍受の適正性を監視するため、法官経験者等による独立監視委員会を置く。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>平和主義の遵守</ArticleTitle>
       <Sentence>国家安全保障政策は、憲法前文に掲げる国際協和と正義の理念に合致していなければならない。</Sentence>
     </Article>
   </Chapter>
-
   <Chapter Num="10">
     <ChapterTitle>秘密漏示の罰則及び雑則</ChapterTitle>
-
     <Article Num="1">
       <ArticleTitle>特別防衛機密漏洩の罪</ArticleTitle>
       <Sentence>国家安全保障会議の審議内容又はその保有する特定秘密を漏らした者は、十年以下の拘禁刑に処する。</Sentence>
@@ -519,47 +410,38 @@
         <Sentence>外国勢力に引き渡す目的で前項の罪を犯した者は、無期又は五年以上の拘禁刑に処する。</Sentence>
       </Paragraph>
     </Article>
-
     <Article Num="2">
       <ArticleTitle>過失漏洩の罪</ArticleTitle>
       <Sentence>過失により国家安全保障上の重大機密を漏洩した者は、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-
     <Article Num="3">
       <ArticleTitle>未遂及び共謀の処罰</ArticleTitle>
       <Sentence>第九十一条の罪の未遂、予備及び共謀は、これを罰する。</Sentence>
     </Article>
-
     <Article Num="4">
       <ArticleTitle>機密情報の不法取得罪</ArticleTitle>
       <Sentence>詐欺、脅迫、侵入その他の不正手段により会議の保有する秘密を取得した者は、五年以下の拘禁刑に処する。</Sentence>
     </Article>
-
     <Article Num="5">
       <ArticleTitle>適正取材活動の除外</ArticleTitle>
       <Sentence>専ら公益を図る目的で行われた適法な報道・取材活動については、正当な業務行為として罰しない。</Sentence>
     </Article>
-
     <Article Num="6">
       <ArticleTitle>国外犯処罰</ArticleTitle>
       <Sentence>第九十一条の罪は、国境の外において罪を犯した何人にもこれを適用する。</Sentence>
     </Article>
-
     <Article Num="7">
       <ArticleTitle>公務員の加重処罰</ArticleTitle>
       <Sentence>国家安全保障局員又は関係省庁の職員がその地位を利用して秘密を漏らしたときは、その刑の長期に二分の一を加える。</Sentence>
     </Article>
-
     <Article Num="8">
       <ArticleTitle>自首減免</ArticleTitle>
       <Sentence>秘密漏示の予備又は共謀をした者が自首したときは、その刑を減軽し、又は免除することができる。</Sentence>
     </Article>
-
     <Article Num="9">
       <ArticleTitle>委任規定</ArticleTitle>
       <Sentence>この法律に定めるもののほか、会議の運営及び議事手続に関し必要な事項は大統領令でこれを定める。</Sentence>
     </Article>
-
     <Article Num="10">
       <ArticleTitle>施行の細則</ArticleTitle>
       <Sentence>国家安全保障局の内部部局の細目及び事務分掌は、国家安全保障局規則でこれを定める。</Sentence>
