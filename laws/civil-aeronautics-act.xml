@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>航空法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「航空機」とは、飛行機、回転翼航空機、滑空機、飛行船その他航空の用に供することができる機器をいうをいう。</Sentence>
+      <Sentence>この法律において「航空機」とは、飛行機、回転翼航空機、滑空機、飛行船その他航空の用に供することができる機器をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「無人航空機（ドローン）」とは、構造上人が乗ることができない機器であって遠隔操作又は自動操縦により飛行させることができるものをいうをいう。</Sentence>
+        <Sentence>この法律において「無人航空機（ドローン）」とは、構造上人が乗ることができない機器であって遠隔操作又は自動操縦により飛行させることができるものをいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、国土交通大臣及び航空管制庁が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>国土交通大臣及び航空管制庁は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、航空機の航行の安全及び航空機の航行に起因する障害の防止並びに航空の利便増進に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>航空機の登録、耐空証明及び環境基準</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>航空機登録原簿</ArticleTitle>
       <Sentence>航空機は、国土交通省の登録原簿に登録を受けなければ、航行の用に供してはならない。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>国籍の取得</ArticleTitle>
       <Sentence>登録を受けた航空機は、我が国の国籍を取得し、登録記号（ＪＡ記号）を表示しなければならない。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>耐空証明の交付</ArticleTitle>
       <Sentence>安全に飛行するための構造及び性能の基準に適合していることを検査し、耐空証明書を交付する。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>耐空証明の有効期間（一年）</ArticleTitle>
       <Sentence>耐空証明の有効期間は一年とし、定期的な耐空検査を受けなければ更新できない。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>型式証明の制度</ArticleTitle>
       <Sentence>量産される航空機の設計について、設計段階で安全基準を審査する型式証明を行う。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>修理改造検査</ArticleTitle>
       <Sentence>機体の重大な修理又は改造を行ったときは、検査に合格しなければ運航できない。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>航空日誌の備付け</ArticleTitle>
       <Sentence>搭載飛行日誌その他の航空日誌を備え付け、飛行時間、整備記録等を記載しなければならない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>騒音基準の適合</ArticleTitle>
       <Sentence>空港周辺の生活環境を守るため、国際騒音基準に適合する機体に限り運航を認める。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>二酸化炭素排出基準</ArticleTitle>
       <Sentence>地球温暖化防止のため、最新のエンジン燃費及び排出ガス基準に適合しなければならない。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>登録の抹消</ArticleTitle>
       <Sentence>解体、滅失、外国籍の取得があったときは、所有者は三十日以内に抹消登録を申請する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>航空従事者の技能証明及び航空身体検査</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>航空従事者技能証明の区分</ArticleTitle>
       <Sentence>定期運送用操縦士、事業用操縦士、自家用操縦士、航空士、航空機関士、運航管理者等に区分する。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>学科及び実技試験</ArticleTitle>
       <Sentence>航空工学、気象学、航空交通管制、実地操縦の試験を厳格に実施する。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>限定資格の付与</ArticleTitle>
       <Sentence>操縦できる航空機の種類、等級、型式及び計器飛行の限定資格を付与する。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>航空身体検査証明書</ArticleTitle>
       <Sentence>操縦士は、指定航空医師による身体検査に合格し、身体検査証明書を携帯しなければならない。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>身体検査の有効期間</ArticleTitle>
       <Sentence>年齢及び運送形態に応じ、六箇月から一年ごとに身体検査を更新する。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>アルコール検査の完全義務化</ArticleTitle>
       <Sentence>乗務前及び乗務後に呼気検査を実施し、アルコールが一切検知されてはならない。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>運航管理者の承認</ArticleTitle>
       <Sentence>旅客機を出発させるには、地上で気象及び燃料を計算する運航管理者の承認を要する。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>乗務時間基準の遵守</ArticleTitle>
       <Sentence>操縦士の過労を防ぐため、一日の最大飛行時間及び連続勤務時間を厳格に制限する。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>操縦教育証明</ArticleTitle>
       <Sentence>操縦の訓練指導を行う者は、操縦教育証明を取得しなければならない。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>技能証明の取消処分</ArticleTitle>
       <Sentence>重大事故の惹起、法令違反、病気等があるときは、資格を取り消し又は業務停止を命ずる。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>航空機の運航、飛行規律及び安全管理</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>飛行計画の承認</ArticleTitle>
       <Sentence>出発前に、飛行経路、高度、代替着陸地等を記載した飛行計画を管制機関に提出し承認を受ける。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>機長の最終責任権限</ArticleTitle>
       <Sentence>機長は、航空機の航行及び機内の安全に関し、最終的な指揮権限と責任を有する。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>出発前の安全確認義務</ArticleTitle>
       <Sentence>機長は、外部点検、気象情報、燃料搭載量等を確認した後でなければ出発させてはならない。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>安全阻害行為の抑止権</ArticleTitle>
       <Sentence>機内で暴力を振るい、又は喫煙する乗客に対し、機長は拘束又は降機を命ずることができる。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>最低安全高度の維持</ArticleTitle>
       <Sentence>人口密集地の上空では地上から三百メートル、その他では百五十メートル以上の高度を維持する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>有視界飛行と計器飛行</ArticleTitle>
       <Sentence>気象条件に応じ、有視界飛行方式又は管制官の指示に従う計器飛行方式により運航する。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>衝突防止用装置の搭載</ArticleTitle>
       <Sentence>空中衝突を自動回避する空中衝突防止装置（ＴＣＡＳ）の搭載を全旅客機に義務付ける。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>非常用脱出装備の点検</ArticleTitle>
       <Sentence>救命胴衣、脱出スライド、非常用無線機を定数どおり装備しなければならない。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>事故報告及び重大インシデント</ArticleTitle>
       <Sentence>墜落、衝突、火災又はニアミス等が発生したときは、直ちに大臣に報告しなければならない。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>運輸安全委員会の調査</ArticleTitle>
       <Sentence>独立の事故調査機関が、原因究明と再発防止のための科学的調査を主導する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>空港、航空交通管制及び無人航空機（ドローン）</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>空港の設置認可</ArticleTitle>
       <Sentence>国営空港、地方公共団体空港及び民間空港の設置基準、滑走路長等を定める。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>制限表面の指定（建築制限）</ArticleTitle>
       <Sentence>離着陸の安全を確保するため、空港周辺における建造物の高さを円錐状に制限する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>航空交通管制区の指定</ArticleTitle>
       <Sentence>空域を区分し、管制官がレーダーを用いて航空機の間隔及び順序を指示する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>緊急進入の優先管制</ArticleTitle>
       <Sentence>燃料不足又は急患発生の航空機に対し、最優先の緊急着陸管制を提供する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>無人航空機の機体登録</ArticleTitle>
       <Sentence>重量百グラム以上のドローンは、所有者情報等を国家登録しリモートＩＤを備えなければならない。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>無人機操縦者技能証明</ArticleTitle>
       <Sentence>国家資格たる一等及び二等の無人航空機操縦士資格制度を運用する。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>目視外・第三者上空飛行（レベル４）</ArticleTitle>
       <Sentence>高度な第一種機体認証及び一等資格を有する者に限り、都市部上空の自動運航を認可する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>飛行禁止空域の指定</ArticleTitle>
       <Sentence>空港周辺、人口集中地区、大統領府及び原発の上空でのドローン飛行を厳禁とする。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>夜間・目視外飛行の承認</ArticleTitle>
       <Sentence>夜間飛行又は目視外飛行を行うときは、事前に国土交通大臣の個別承認を受ける。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>違法ドローンの電波妨害排除</ArticleTitle>
       <Sentence>重要施設上空に侵入した不審無人機に対し、警察官等は電波妨害による強制着陸を行える。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>航空運送事業及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>航空運送事業の許可制</ArticleTitle>
       <Sentence>定期航空便を運航する航空会社は、国土交通大臣の事業許可を受けなければならない。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>安全管理規程の策定</ArticleTitle>
       <Sentence>航空会社は、組織全体の安全管理システム（ＳＭＳ）を構築しなければならない。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>航空保険への加入義務</ArticleTitle>
       <Sentence>乗客及び地上第三者の被害を賠償するため、十分な航空保険に加入しなければならない。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>危険物輸送の規制</ArticleTitle>
       <Sentence>リチウム電池、引火性液体等の危険物の航空機内持込み及び輸送基準を厳格に律する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>無許可運航の罪</ArticleTitle>
       <Sentence>耐空証明なく航空機を航行の用に供した者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>飲酒操縦の罪</ArticleTitle>
       <Sentence>アルコールの影響がある状態で航空機を操縦した者は、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>安全阻害行為命令違反の罪</ArticleTitle>
       <Sentence>機長の降機命令等に従わず機内で暴れた乗客は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>無登録ドローン飛行の罪</ArticleTitle>
       <Sentence>無登録のドローンを飛行させた者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>航空危険行為の罪</ArticleTitle>
       <Sentence>滑走路にみだりに侵入し、又はレーザー光線を照射して航行を妨害した者は重罰に処する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>国際民間航空条約の遵守</ArticleTitle>
       <Sentence>シカゴ条約の附属書に定める国際民間航空機関（ＩＣＡＯ）の基準を完全履行する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>国土交通大臣及び航空管制庁は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>弁護士法</Title>
 
@@ -80,22 +80,22 @@
   <Chapter Num="2">
     <ChapterTitle>弁護士の登録及び登録審査会</ChapterTitle>
 
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>登録の原則</ArticleTitle>
       <Sentence>弁護士となる資格を有する者が弁護士となるには、国家弁護士連合会に備える弁護士名簿に登録を受けなければならない。</Sentence>
     </Article>
 
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>登録の請求</ArticleTitle>
       <Sentence>弁護士名簿に登録を受けようとする者は、所属しようとする弁護士会を経て、国家弁護士連合会に登録請求書を提出しなければならない。</Sentence>
     </Article>
 
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>登録の審査</ArticleTitle>
       <Sentence>弁護士会は、所属の請求を受けたときは、資格審査会の議決に基づき、国家弁護士連合会に進達しなければならない。</Sentence>
     </Article>
 
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>登録の拒絶</ArticleTitle>
       <Sentence>弁護士会は、登録請求者が心身の著しい故障により弁護士の職務を行わせることが不適当であると認めるときは、登録の請求を進達しないことができる。</Sentence>
       <Paragraph Num="2">
@@ -103,37 +103,37 @@
       </Paragraph>
     </Article>
 
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>進達拒絶に対する異議</ArticleTitle>
       <Sentence>弁護士会が進達を拒絶したときは、登録請求者は、国家弁護士連合会に対して異議を申し立てることができる。</Sentence>
     </Article>
 
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>登録換の請求</ArticleTitle>
       <Sentence>弁護士は、所属弁護士会を変更しようとするときは、新たに所属しようとする弁護士会を経て、登録換の請求をしなければならない。</Sentence>
     </Article>
 
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>登録取消の事由</ArticleTitle>
       <Sentence>国家弁護士連合会は、弁護士が欠格事由に該当するに至ったときは、その登録を取り消さなければならない。</Sentence>
     </Article>
 
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>自発的退会による登録取消</ArticleTitle>
       <Sentence>弁護士がその業務を廃止しようとするときは、所属弁護士会を経て、登録の取消しを請求しなければならない。</Sentence>
     </Article>
 
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>死亡等の届出</ArticleTitle>
       <Sentence>弁護士が死亡したときは、その親族又は事務所の共同管理者は、遅滞なく所属弁護士会にその旨を届け出なければならない。</Sentence>
     </Article>
 
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>登録審査会の設置</ArticleTitle>
       <Sentence>国家弁護士連合会及び各弁護士会に、登録の請求、登録換の請求及び登録取消しの審査を行わせるため、登録審査会を置く。</Sentence>
     </Article>
 
-    <Article Num="21">
+    <Article Num="11">
       <ArticleTitle>登録審査会の組織</ArticleTitle>
       <Sentence>登録審査会は、会長及び委員若干人をもって組織する。</Sentence>
       <Paragraph Num="2">
@@ -141,22 +141,22 @@
       </Paragraph>
     </Article>
 
-    <Article Num="22">
+    <Article Num="12">
       <ArticleTitle>審査手続の保障</ArticleTitle>
       <Sentence>登録審査会は、登録の拒絶又は取消しの決議をしようとするときは、あらかじめ本件対象者に通知し、口頭による弁明の機会を与えなければならない。</Sentence>
     </Article>
 
-    <Article Num="23">
+    <Article Num="13">
       <ArticleTitle>登録の公告</ArticleTitle>
       <Sentence>国家弁護士連合会は、弁護士の登録、登録換及び登録の取消しをしたときは、遅滞なく官報をもってこれを公告しなければならない。</Sentence>
     </Article>
 
-    <Article Num="24">
+    <Article Num="14">
       <ArticleTitle>登録免許税の納付</ArticleTitle>
       <Sentence>弁護士の登録を受けようとする者は、法令の定めるところにより登録免許税を納付しなければならない。</Sentence>
     </Article>
 
-    <Article Num="25">
+    <Article Num="15">
       <ArticleTitle>身分証の交付</ArticleTitle>
       <Sentence>国家弁護士連合会は、登録を完了した弁護士に対し、弁護士記章及び身分証明書を交付する。</Sentence>
     </Article>
@@ -165,7 +165,7 @@
   <Chapter Num="3">
     <ChapterTitle>弁護士の権利及び義務</ChapterTitle>
 
-    <Article Num="26">
+    <Article Num="1">
       <ArticleTitle>事務所の設置</ArticleTitle>
       <Sentence>弁護士は、所属弁護士会の地域内に法律事務所を設けなければならない。</Sentence>
       <Paragraph Num="2">
@@ -173,22 +173,22 @@
       </Paragraph>
     </Article>
 
-    <Article Num="27">
+    <Article Num="2">
       <ArticleTitle>会則の遵守義務</ArticleTitle>
       <Sentence>弁護士は、所属弁護士会及び国家弁護士連合会の会則を守らなければならない。</Sentence>
     </Article>
 
-    <Article Num="28">
+    <Article Num="3">
       <ArticleTitle>受任義務の例外</ArticleTitle>
       <Sentence>弁護士は、官公署から嘱託された事項については、正当な事由がなければ、これを拒むことができない。</Sentence>
     </Article>
 
-    <Article Num="29">
+    <Article Num="4">
       <ArticleTitle>国選弁護人の職務</ArticleTitle>
       <Sentence>裁判所又は裁判長から国選弁護人又は国選付添人に選任された弁護士は、正当な理由なくその任務を拒否し、又は放棄してはならない。</Sentence>
     </Article>
 
-    <Article Num="30">
+    <Article Num="5">
       <ArticleTitle>報酬の適正</ArticleTitle>
       <Sentence>弁護士は、職務の執行に当たり、依頼者との間で委任契約書を作成し、報酬の額及び算定方法を明示しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -196,37 +196,37 @@
       </Paragraph>
     </Article>
 
-    <Article Num="31">
+    <Article Num="6">
       <ArticleTitle>預り金の分別管理</ArticleTitle>
       <Sentence>弁護士は、依頼者から預かった金銭その他の財産を、自己の固有財産と明確に分別して管理しなければならない。</Sentence>
     </Article>
 
-    <Article Num="32">
+    <Article Num="7">
       <ArticleTitle>帳簿の備付け</ArticleTitle>
       <Sentence>弁護士は、事件簿その他の業務に関する帳簿を備え付け、事件の受任、処理状況及び報酬の受領について正確に記載しなければならない。</Sentence>
     </Article>
 
-    <Article Num="33">
+    <Article Num="8">
       <ArticleTitle>事件記録の保存</ArticleTitle>
       <Sentence>弁護士は、事件が完結したときは、事件記録を一定期間保存しなければならない。</Sentence>
     </Article>
 
-    <Article Num="34">
+    <Article Num="9">
       <ArticleTitle>係争権利の譲受禁止</ArticleTitle>
       <Sentence>弁護士は、係争中の権利を譲り受けてはならない。</Sentence>
     </Article>
 
-    <Article Num="35">
+    <Article Num="10">
       <ArticleTitle>違法行為の助長禁止</ArticleTitle>
       <Sentence>弁護士は、依頼者の犯罪行為その他の不正行為を助長し、又はこれを利用してはならない。</Sentence>
     </Article>
 
-    <Article Num="36">
+    <Article Num="11">
       <ArticleTitle>相手方への直接接触の制限</ArticleTitle>
       <Sentence>弁護士は、相手方に代理人たる弁護士があるときは、正当な理由がある場合を除き、直接に相手方と交渉してはならない。</Sentence>
     </Article>
 
-    <Article Num="37">
+    <Article Num="12">
       <ArticleTitle>弁護士照会制度</ArticleTitle>
       <Sentence>弁護士は、受任している事件について、所属弁護士会に対し、公務所又は公私の団体に照会して必要な事項の報告を求めることを申し出ることができる。</Sentence>
       <Paragraph Num="2">
@@ -234,42 +234,42 @@
       </Paragraph>
     </Article>
 
-    <Article Num="38">
+    <Article Num="13">
       <ArticleTitle>公務所の報告義務</ArticleTitle>
       <Sentence>前条第二項の規定による照会を受けた公務所又は団体は、正当な理由がなければ、その報告を拒むことができない。</Sentence>
     </Article>
 
-    <Article Num="39">
+    <Article Num="14">
       <ArticleTitle>営利業務の制限</ArticleTitle>
       <Sentence>弁護士は、営利を目的とする業務を営む者に雇用され、又は営利法人の常勤の役員となるときは、所属弁護士会の届出又は承認を経なければならない。</Sentence>
     </Article>
 
-    <Article Num="40">
+    <Article Num="15">
       <ArticleTitle>公職との兼掌</ArticleTitle>
       <Sentence>弁護士は、国会議員その他の公職に就任したときは、遅滞なくその旨を所属弁護士会に届け出なければならない。</Sentence>
     </Article>
 
-    <Article Num="41">
+    <Article Num="16">
       <ArticleTitle>身辺の安全確保</ArticleTitle>
       <Sentence>国及び地方自治体は、弁護士がその正当な職務の執行に当たり脅迫、暴力その他の不当な圧力を受けることのないよう、必要な安全対策に配慮しなければならない。</Sentence>
     </Article>
 
-    <Article Num="42">
+    <Article Num="17">
       <ArticleTitle>継続研修の受講義務</ArticleTitle>
       <Sentence>弁護士は、高度の専門的知識及び倫理基準を維持するため、弁護士会が定める継続的専門研修を受講しなければならない。</Sentence>
     </Article>
 
-    <Article Num="43">
+    <Article Num="18">
       <ArticleTitle>会費の納入義務</ArticleTitle>
       <Sentence>弁護士は、所属弁護士会及び国家弁護士連合会の会則の定めるところにより、会費を納入しなければならない。</Sentence>
     </Article>
 
-    <Article Num="44">
+    <Article Num="19">
       <ArticleTitle>接見交通権の保障</ArticleTitle>
       <Sentence>弁護士は、身体の拘束を受けている被疑者又は被告人と、法令の定めるところにより、立会人なくして接見し、又は書類若しくは物の授受をすることができる。</Sentence>
     </Article>
 
-    <Article Num="45">
+    <Article Num="20">
       <ArticleTitle>職務の辞任</ArticleTitle>
       <Sentence>弁護士は、重大な信頼関係の破綻その他正当な事由があるときは、依頼者に不利益が及ばないよう配慮した上で、事件を辞任することができる。</Sentence>
     </Article>
@@ -278,7 +278,7 @@
   <Chapter Num="4">
     <ChapterTitle>弁護士法人</ChapterTitle>
 
-    <Article Num="46">
+    <Article Num="1">
       <ArticleTitle>弁護士法人の設立</ArticleTitle>
       <Sentence>弁護士は、共同して弁護士業務を行うことを目的として、法人を設立することができる。</Sentence>
       <Paragraph Num="2">
@@ -286,7 +286,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="47">
+    <Article Num="2">
       <ArticleTitle>名称及び登記</ArticleTitle>
       <Sentence>弁護士法人は、その名称中に「弁護士法人」という文字を用いなければならない。</Sentence>
       <Paragraph Num="2">
@@ -294,17 +294,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="48">
+    <Article Num="3">
       <ArticleTitle>社員の資格</ArticleTitle>
       <Sentence>弁護士法人の社員は、弁護士でなければならない。</Sentence>
     </Article>
 
-    <Article Num="49">
+    <Article Num="4">
       <ArticleTitle>業務の範囲</ArticleTitle>
       <Sentence>弁護士法人は、弁護士の職務に属する一切の法律事務を行うことができる。</Sentence>
     </Article>
 
-    <Article Num="50">
+    <Article Num="5">
       <ArticleTitle>従たる事務所の設置</ArticleTitle>
       <Sentence>弁護士法人は、定款の定めるところにより、従たる事務所を設けることができる。</Sentence>
       <Paragraph Num="2">
@@ -312,52 +312,52 @@
       </Paragraph>
     </Article>
 
-    <Article Num="51">
+    <Article Num="6">
       <ArticleTitle>定款の記載事項</ArticleTitle>
       <Sentence>弁護士法人の定款には、目的、名称、事務所の所在地、社員の氏名及び住所を記載しなければならない。</Sentence>
     </Article>
 
-    <Article Num="52">
+    <Article Num="7">
       <ArticleTitle>業務の執行</ArticleTitle>
       <Sentence>各社員は、定款に別段の定めがない限り、弁護士法人の業務を執行する権利を有し、義務を負う。</Sentence>
     </Article>
 
-    <Article Num="53">
+    <Article Num="8">
       <ArticleTitle>代表権の制限</ArticleTitle>
       <Sentence>弁護士法人は、定款又は総社員の同意によって、特定の社員を代表社員と定めることができる。</Sentence>
     </Article>
 
-    <Article Num="54">
+    <Article Num="9">
       <ArticleTitle>社員の責任</ArticleTitle>
       <Sentence>弁護士法人の財産をもってその債務を完済することができないときは、各社員は、連帯してその弁済の責めに任ずる。</Sentence>
     </Article>
 
-    <Article Num="55">
+    <Article Num="10">
       <ArticleTitle>社員の退社</ArticleTitle>
       <Sentence>社員は、弁護士資格を喪失したとき、死亡したとき、又は除名されたときは、当然退社する。</Sentence>
     </Article>
 
-    <Article Num="56">
+    <Article Num="11">
       <ArticleTitle>解散事由</ArticleTitle>
       <Sentence>弁護士法人は、定款で定めた事由の発生、総社員の同意、合併、破産手続開始の決定又は解散命令により解散する。</Sentence>
     </Article>
 
-    <Article Num="57">
+    <Article Num="12">
       <ArticleTitle>清算手続</ArticleTitle>
       <Sentence>弁護士法人が解散したときは、商法の合名会社の清算に関する規定を準用する。</Sentence>
     </Article>
 
-    <Article Num="58">
+    <Article Num="13">
       <ArticleTitle>合併の制限</ArticleTitle>
       <Sentence>弁護士法人は、他の弁護士法人と合意の上、合併することができる。</Sentence>
     </Article>
 
-    <Article Num="59">
+    <Article Num="14">
       <ArticleTitle>届出義務</ArticleTitle>
       <Sentence>弁護士法人は、設立、定款変更、事務所の新設又は解散をしたときは、遅滞なく所属弁護士会に届け出なければならない。</Sentence>
     </Article>
 
-    <Article Num="60">
+    <Article Num="15">
       <ArticleTitle>商法及び会社法の準用</ArticleTitle>
       <Sentence>この法律に別段の定めがあるものを除き、弁護士法人については、商法の合名会社に関する規定を準用する。</Sentence>
     </Article>
@@ -366,7 +366,7 @@
   <Chapter Num="5">
     <ChapterTitle>弁護士会</ChapterTitle>
 
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>弁護士会の目的及び法人格</ArticleTitle>
       <Sentence>弁護士会は、弁護士及び弁護士法人の指導、連絡及び監督に関する事務を行い、弁護士の品位を保持し、その事務の改善進歩を図ることを目的とする。</Sentence>
       <Paragraph Num="2">
@@ -374,27 +374,27 @@
       </Paragraph>
     </Article>
 
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>弁護士会の区域及び員数</ArticleTitle>
       <Sentence>弁護士会は、地方裁判所の管轄区域ごとに、一個を設立する。</Sentence>
     </Article>
 
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>入会義務</ArticleTitle>
       <Sentence>弁護士及び弁護士法人は、当然、その事務所の所在地を管轄する弁護士会の会員となる。</Sentence>
     </Article>
 
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>会則の制定</ArticleTitle>
       <Sentence>弁護士会は、総会の決議を経て会則を定めなければならない。</Sentence>
     </Article>
 
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>会則の必要的記載事項</ArticleTitle>
       <Sentence>会則には、名称、所在地、役員の定数及び選任、会議に関する規定、会員の義務及び会費に関する事項を記載しなければならない。</Sentence>
     </Article>
 
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>役員の設置</ArticleTitle>
       <Sentence>弁護士会に、会長一人、副会長若干人及び理事、監事を置く。</Sentence>
       <Paragraph Num="2">
@@ -402,7 +402,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>総会の招集及び決議</ArticleTitle>
       <Sentence>弁護士会は、毎年定期総会を招集しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -410,42 +410,42 @@
       </Paragraph>
     </Article>
 
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>人権擁護活動</ArticleTitle>
       <Sentence>弁護士会は、人権侵犯事件の調査、救済の勧告その他人権擁護に必要な活動を行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>法律相談事業</ArticleTitle>
       <Sentence>弁護士会は、市民のための法律相談センターを設置し、公的な法律支援活動を推進する。</Sentence>
     </Article>
 
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>研修の実施</ArticleTitle>
       <Sentence>弁護士会は、所属会員の資質向上のため、計画的に研修を実施しなければならない。</Sentence>
     </Article>
 
-    <Article Num="71">
+    <Article Num="11">
       <ArticleTitle>紛議調停委員会</ArticleTitle>
       <Sentence>弁護士会に、弁護士の職務に関する紛争を解決するため、紛議調停委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="72">
+    <Article Num="12">
       <ArticleTitle>綱紀委員会</ArticleTitle>
       <Sentence>弁護士会に、所属会員の懲戒の請求について調査を行うため、綱紀委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="73">
+    <Article Num="13">
       <ArticleTitle>懲戒委員会</ArticleTitle>
       <Sentence>弁護士会に、綱紀委員会の調査結果に基づき懲戒の審査を行うため、懲戒委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="74">
+    <Article Num="14">
       <ArticleTitle>建議及び答申</ArticleTitle>
       <Sentence>弁護士会は、司法制度の改善、法改正その他公益に関する事項について、官公署に建議し、又はその諮問に答申することができる。</Sentence>
     </Article>
 
-    <Article Num="75">
+    <Article Num="15">
       <ArticleTitle>司法機関との協議</ArticleTitle>
       <Sentence>弁護士会は、裁判所及び検察庁と相互の協議会を定期的に開催し、司法運営の円滑化を図る。</Sentence>
     </Article>
@@ -454,7 +454,7 @@
   <Chapter Num="6">
     <ChapterTitle>国家弁護士連合会</ChapterTitle>
 
-    <Article Num="76">
+    <Article Num="1">
       <ArticleTitle>設立及び性格</ArticleTitle>
       <Sentence>全国の弁護士会は、共同して国家弁護士連合会を設立する。</Sentence>
       <Paragraph Num="2">
@@ -462,17 +462,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="77">
+    <Article Num="2">
       <ArticleTitle>最高自律機関</ArticleTitle>
       <Sentence>国家弁護士連合会は、弁護士自治の最高の機関として、高度の自律的権限を行使する。</Sentence>
     </Article>
 
-    <Article Num="78">
+    <Article Num="3">
       <ArticleTitle>連合会会則</ArticleTitle>
       <Sentence>国家弁護士連合会は、代議員会の決議を経て連合会会則を定める。</Sentence>
     </Article>
 
-    <Article Num="79">
+    <Article Num="4">
       <ArticleTitle>会長の選任及び権限</ArticleTitle>
       <Sentence>国家弁護士連合会に会長一人を置き、全会員の直接選挙により選任する。</Sentence>
       <Paragraph Num="2">
@@ -480,32 +480,32 @@
       </Paragraph>
     </Article>
 
-    <Article Num="80">
+    <Article Num="5">
       <ArticleTitle>代議員会</ArticleTitle>
       <Sentence>国家弁護士連合会に代議員会を置き、各弁護士会から選出された代議員をもって構成する。</Sentence>
     </Article>
 
-    <Article Num="81">
+    <Article Num="6">
       <ArticleTitle>全国規模の事業</ArticleTitle>
       <Sentence>国家弁護士連合会は、全国的な司法アクセス障害の解消、公設事務所の設置支援及び刑事弁護体制の整備を行う。</Sentence>
     </Article>
 
-    <Article Num="82">
+    <Article Num="7">
       <ArticleTitle>国際法曹交流</ArticleTitle>
       <Sentence>国家弁護士連合会は、外国の法曹団体との交流及び国際法務の共同研究を推進する。</Sentence>
     </Article>
 
-    <Article Num="83">
+    <Article Num="8">
       <ArticleTitle>連合会綱紀委員会</ArticleTitle>
       <Sentence>国家弁護士連合会に、懲戒審査の異議申立てを調査するため、連合会綱紀委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="84">
+    <Article Num="9">
       <ArticleTitle>連合会懲戒委員会</ArticleTitle>
       <Sentence>国家弁護士連合会に、懲戒処分の最終審査を行うため、連合会懲戒委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="85">
+    <Article Num="10">
       <ArticleTitle>司法改革への参加</ArticleTitle>
       <Sentence>国家弁護士連合会は、国家の基本法制の制定及び改正に関し、議会及び内閣に対し意見書を提出することができる。</Sentence>
     </Article>
@@ -514,12 +514,12 @@
   <Chapter Num="7">
     <ChapterTitle>懲戒手続及び自律監督</ChapterTitle>
 
-    <Article Num="86">
+    <Article Num="1">
       <ArticleTitle>懲戒の事由</ArticleTitle>
       <Sentence>弁護士又は弁護士法人が、この法律若しくは所属弁護士会若しくは国家弁護士連合会の会則に違反し、所属弁護士会の秩序若しくは信用を害し、又は職務の内外を問わず品位を失うべき非行があったときは、懲戒を受ける。</Sentence>
     </Article>
 
-    <Article Num="87">
+    <Article Num="2">
       <ArticleTitle>懲戒の種類</ArticleTitle>
       <Sentence>弁護士に対する懲戒は、戒告、二年以内の業務の停止、退会命令及び除名の四種とする。</Sentence>
       <Paragraph Num="2">
@@ -527,12 +527,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="88">
+    <Article Num="3">
       <ArticleTitle>懲戒の請求</ArticleTitle>
       <Sentence>何人も、弁護士又は弁護士法人に懲戒事由があると思料するときは、その所属弁護士会に対し、懲戒の請求をすることができる。</Sentence>
     </Article>
 
-    <Article Num="89">
+    <Article Num="4">
       <ArticleTitle>綱紀委員会の調査手続</ArticleTitle>
       <Sentence>懲戒の請求を受けた弁護士会は、綱紀委員会に事案の調査を求めなければならない。</Sentence>
       <Paragraph Num="2">
@@ -540,17 +540,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="90">
+    <Article Num="5">
       <ArticleTitle>懲戒委員会への審査請求</ArticleTitle>
       <Sentence>綱紀委員会が懲戒の手続に付することを相当と認めたときは、弁護士会は、懲戒委員会に審査を求めなければならない。</Sentence>
     </Article>
 
-    <Article Num="91">
+    <Article Num="6">
       <ArticleTitle>対象者の防御権</ArticleTitle>
       <Sentence>懲戒委員会は、対象弁護士に陳述の機会を与え、証拠を提出させ、代理人を選任させなければならない。</Sentence>
     </Article>
 
-    <Article Num="92">
+    <Article Num="7">
       <ArticleTitle>議決及び処分の言渡し</ArticleTitle>
       <Sentence>懲戒委員会は、委員の三分の二以上の多数をもって懲戒処分の議決を行う。</Sentence>
       <Paragraph Num="2">
@@ -558,17 +558,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="93">
+    <Article Num="8">
       <ArticleTitle>不服申立ての特例</ArticleTitle>
       <Sentence>弁護士会が行った懲戒処分に不服がある者は、国家弁護士連合会に対して審査請求をすることができる。</Sentence>
     </Article>
 
-    <Article Num="94">
+    <Article Num="9">
       <ArticleTitle>裁判所への出訴</ArticleTitle>
       <Sentence>国家弁護士連合会の裁決に不服がある者は、高等裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
 
-    <Article Num="95">
+    <Article Num="10">
       <ArticleTitle>処分の公告及び効力発生</ArticleTitle>
       <Sentence>懲戒処分が確定したときは、国家弁護士連合会は、直ちに官報をもってこれを公告する。</Sentence>
     </Article>
@@ -577,37 +577,37 @@
   <Chapter Num="8">
     <ChapterTitle>法律事務の独占及び非弁活動の排除</ChapterTitle>
 
-    <Article Num="96">
+    <Article Num="1">
       <ArticleTitle>非弁護士の法律事務の取扱い禁止</ArticleTitle>
       <Sentence>弁護士又は弁護士法人でない者は、報酬を得る目的で、訴訟事件、非訟事件その他法律事務を取り扱い、又はこれらの周旋をすることを業とすることができない。</Sentence>
     </Article>
 
-    <Article Num="97">
+    <Article Num="2">
       <ArticleTitle>名義貸しの絶対禁止</ArticleTitle>
       <Sentence>弁護士は、非弁護士にその名義を利用させて法律事務を取り扱わせてはならない。</Sentence>
     </Article>
 
-    <Article Num="98">
+    <Article Num="3">
       <ArticleTitle>提携の禁止</ArticleTitle>
       <Sentence>弁護士は、非弁活動を行う者から事件の紹介を受け、又はこれらに自己の名義を利用させてはならない。</Sentence>
     </Article>
 
-    <Article Num="99">
+    <Article Num="4">
       <ArticleTitle>広告の規制</ArticleTitle>
       <Sentence>弁護士は、虚偽又は誇大な広告をしてはならず、品位を損なう方法により顧客を誘引してはならない。</Sentence>
     </Article>
 
-    <Article Num="100">
+    <Article Num="5">
       <ArticleTitle>不正看板等の撤去</ArticleTitle>
       <Sentence>弁護士会は、非弁護士が掲げた法律相談を標榜する標識等について、司法警察と連携してその是正を求めることができる。</Sentence>
     </Article>
 
-    <Article Num="101">
+    <Article Num="6">
       <ArticleTitle>他の法律との関係</ArticleTitle>
       <Sentence>他の法律に特別の定めがある専門職が、その資格の範囲内において行う業務については、第九十六条の規定は適用しない。</Sentence>
     </Article>
 
-    <Article Num="102">
+    <Article Num="7">
       <ArticleTitle>調査及び告発義務</ArticleTitle>
       <Sentence>弁護士会は、非弁活動の疑いがある事案を発見したときは、直ちに調査を行い、捜査機関に告発しなければならない。</Sentence>
     </Article>
@@ -616,32 +616,32 @@
   <Chapter Num="9">
     <ChapterTitle>罰則</ChapterTitle>
 
-    <Article Num="103">
+    <Article Num="1">
       <ArticleTitle>非弁活動の罪</ArticleTitle>
       <Sentence>第九十六条の規定に違反して法律事務を取り扱い、又は周旋した者は、二年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
 
-    <Article Num="104">
+    <Article Num="2">
       <ArticleTitle>名義貸しの罪</ArticleTitle>
       <Sentence>第九十七条の規定に違反して非弁護士に自己の名義を利用させた弁護士は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="105">
+    <Article Num="3">
       <ArticleTitle>虚偽標榜の罪</ArticleTitle>
       <Sentence>弁護士又は弁護士法人でない者が、弁護士又は法律事務所の名称を用い、又はこれと誤認させる文字を用いたときは、百万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="106">
+    <Article Num="4">
       <ArticleTitle>秘密漏示の罪</ArticleTitle>
       <Sentence>弁護士又は弁護士であった者が、正当な理由がないのに職務上知り得た秘密を漏らしたときは、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="107">
+    <Article Num="5">
       <ArticleTitle>両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第百三条又は第百五条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
     </Article>
 
-    <Article Num="108">
+    <Article Num="6">
       <ArticleTitle>過料</ArticleTitle>
       <Sentence>第十九条の規定による届出を怠った者は、十万円以下の過料に処する。</Sentence>
     </Article>

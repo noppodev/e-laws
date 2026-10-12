@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>行政組織法に基づく国防省の組織並びに陸軍庁、海軍庁及び空軍庁の設置及び所掌事務に関する政令</Title>
 
@@ -26,7 +26,7 @@
   <Chapter Num="2">
     <ChapterTitle>国防省</ChapterTitle>
 
-    <Article Num="3">
+    <Article Num="1">
       <ArticleTitle>内部部局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、次の内部部局を置く。</Sentence>
@@ -51,7 +51,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="4">
+    <Article Num="2">
       <ArticleTitle>大臣官房</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>大臣官房は、次に掲げる事務をつかさどる。</Sentence>
@@ -73,7 +73,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="5">
+    <Article Num="3">
       <ArticleTitle>防衛政策局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>防衛政策局は、次に掲げる事務をつかさどる。</Sentence>
@@ -92,7 +92,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="6">
+    <Article Num="4">
       <ArticleTitle>防衛運用局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>防衛運用局は、次に掲げる事務をつかさどる。</Sentence>
@@ -114,7 +114,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="7">
+    <Article Num="5">
       <ArticleTitle>装備政策局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>装備政策局は、次に掲げる事務をつかさどる。</Sentence>
@@ -133,7 +133,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="8">
+    <Article Num="6">
       <ArticleTitle>人事教育局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>人事教育局は、次に掲げる事務をつかさどる。</Sentence>
@@ -152,7 +152,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="9">
+    <Article Num="7">
       <ArticleTitle>経理局</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>経理局は、次に掲げる事務をつかさどる。</Sentence>
@@ -168,7 +168,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="10">
+    <Article Num="8">
       <ArticleTitle>国防副大臣</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、国防副大臣を置くことができる。</Sentence>
@@ -181,7 +181,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="11">
+    <Article Num="9">
       <ArticleTitle>国防審議会</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、国防審議会を置く。</Sentence>
@@ -198,7 +198,7 @@
   <Chapter Num="3">
     <ChapterTitle>陸軍庁</ChapterTitle>
 
-    <Article Num="12">
+    <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、陸軍に関する行政事務を処理するため、陸軍庁を置く。</Sentence>
@@ -208,7 +208,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="13">
+    <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>陸軍庁は、次に掲げる事務をつかさどる。</Sentence>
@@ -236,7 +236,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="14">
+    <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>陸軍庁の長は、陸軍庁長官とする。</Sentence>
@@ -246,7 +246,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="15">
+    <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>陸軍庁に、次の内部部局を置く。</Sentence>
@@ -275,7 +275,7 @@
   <Chapter Num="4">
     <ChapterTitle>海軍庁</ChapterTitle>
 
-    <Article Num="16">
+    <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、海軍に関する行政事務を処理するため、海軍庁を置く。</Sentence>
@@ -285,7 +285,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="17">
+    <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>海軍庁は、次に掲げる事務をつかさどる。</Sentence>
@@ -313,7 +313,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="18">
+    <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>海軍庁の長は、海軍庁長官とする。</Sentence>
@@ -323,7 +323,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="19">
+    <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>海軍庁に、次の内部部局を置く。</Sentence>
@@ -352,7 +352,7 @@
   <Chapter Num="5">
     <ChapterTitle>空軍庁</ChapterTitle>
 
-    <Article Num="20">
+    <Article Num="1">
       <ArticleTitle>設置</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省に、空軍に関する行政事務を処理するため、空軍庁を置く。</Sentence>
@@ -362,7 +362,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="21">
+    <Article Num="2">
       <ArticleTitle>所掌事務</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>空軍庁は、次に掲げる事務をつかさどる。</Sentence>
@@ -390,7 +390,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="22">
+    <Article Num="3">
       <ArticleTitle>長官</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>空軍庁の長は、空軍庁長官とする。</Sentence>
@@ -400,7 +400,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="23">
+    <Article Num="4">
       <ArticleTitle>内部組織</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>空軍庁に、次の内部部局を置く。</Sentence>
@@ -429,7 +429,7 @@
   <Chapter Num="6">
     <ChapterTitle>統合調整</ChapterTitle>
 
-    <Article Num="24">
+    <Article Num="1">
       <ArticleTitle>三軍間の連絡調整</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>国防省は、陸軍庁、海軍庁及び空軍庁の所掌事務に関し、必要な連絡及び調整を行う。</Sentence>
@@ -439,7 +439,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="25">
+    <Article Num="2">
       <ArticleTitle>共同事務</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>二以上の庁に関係する行政事務については、国防大臣が必要な調整を行う。</Sentence>
@@ -449,7 +449,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="26">
+    <Article Num="3">
       <ArticleTitle>情報の共有</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>陸軍庁、海軍庁及び空軍庁は、国防に関する行政事務の適正な遂行に必要な範囲内で、相互に情報を共有するものとする。</Sentence>
@@ -463,7 +463,7 @@
   <Chapter Num="7">
     <ChapterTitle>雑則</ChapterTitle>
 
-    <Article Num="27">
+    <Article Num="1">
       <ArticleTitle>細則</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>この政令に定めるもののほか、国防省並びに陸軍庁、海軍庁及び空軍庁の内部組織及び事務処理に関し必要な細則は、国防大臣が定める。</Sentence>
@@ -473,7 +473,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="28">
+    <Article Num="2">
       <ArticleTitle>委任の限界</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>この政令に基づく命令又は規則は、法律及びこの政令の委任の範囲内で定めなければならない。</Sentence>
@@ -483,7 +483,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="29">
+    <Article Num="3">
       <ArticleTitle>施行期日</ArticleTitle>
       <Paragraph Num="1">
         <Sentence>この政令は、公布の日から起算して三十日を経過した日から施行する。</Sentence>

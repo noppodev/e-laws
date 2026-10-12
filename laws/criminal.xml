@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>刑法</Title>
 
@@ -143,32 +143,32 @@
   <Chapter Num="2">
     <ChapterTitle>生命及び身体に対する罪</ChapterTitle>
 
-    <Article Num="26">
+    <Article Num="1">
       <ArticleTitle>殺人</ArticleTitle>
       <Sentence>人を殺した者は、死刑、無期懲役又は十年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="27">
+    <Article Num="2">
       <ArticleTitle>傷害</ArticleTitle>
       <Sentence>人の身体を傷害した者は、十五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="28">
+    <Article Num="3">
       <ArticleTitle>傷害致死</ArticleTitle>
       <Sentence>身体を傷害し、よって人を死亡させた者は、三年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="29">
+    <Article Num="4">
       <ArticleTitle>暴行</ArticleTitle>
       <Sentence>人の身体に対して暴行を加えた者は、二年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="30">
+    <Article Num="5">
       <ArticleTitle>過失傷害</ArticleTitle>
       <Sentence>過失により人を傷害した者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="31">
+    <Article Num="6">
       <ArticleTitle>過失致死</ArticleTitle>
       <Sentence>過失により人を死亡させた者は、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -177,27 +177,27 @@
   <Chapter Num="3">
     <ChapterTitle>自由及び名誉に対する罪</ChapterTitle>
 
-    <Article Num="32">
+    <Article Num="1">
       <ArticleTitle>逮捕監禁</ArticleTitle>
       <Sentence>不法に人を逮捕し、又は監禁した者は、七年以下の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="33">
+    <Article Num="2">
       <ArticleTitle>脅迫</ArticleTitle>
       <Sentence>生命、身体、自由、名誉又は財産に害を加える旨を告知して人を脅迫した者は、二年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="34">
+    <Article Num="3">
       <ArticleTitle>強要</ArticleTitle>
       <Sentence>暴行又は脅迫を用いて、人に義務のないことを行わせ、又は権利の行使を妨害した者は、三年以下の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="35">
+    <Article Num="4">
       <ArticleTitle>名誉毀損</ArticleTitle>
       <Sentence>公然と事実を摘示し、人の名誉を毀損した者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="36">
+    <Article Num="5">
       <ArticleTitle>侮辱</ArticleTitle>
       <Sentence>事実を摘示しなくても、公然と人を侮辱した者は、一年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -206,17 +206,17 @@
   <Chapter Num="4">
     <ChapterTitle>性及び人格に対する罪</ChapterTitle>
 
-    <Article Num="37">
+    <Article Num="1">
       <ArticleTitle>不同意性交等</ArticleTitle>
       <Sentence>同意しない意思を形成し、表明し、又は全うすることが困難な状態にある者に対し、性交等をした者は、五年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="38">
+    <Article Num="2">
       <ArticleTitle>不同意わいせつ</ArticleTitle>
       <Sentence>同意しない意思を形成し、表明し、又は全うすることが困難な状態にある者に対し、わいせつな行為をした者は、三年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="39">
+    <Article Num="3">
       <ArticleTitle>性的画像の無断提供</ArticleTitle>
       <Sentence>他人の性的な姿態を撮影した画像その他の記録を、本人の同意なく第三者に提供した者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -225,32 +225,32 @@
   <Chapter Num="5">
     <ChapterTitle>財産に対する罪</ChapterTitle>
 
-    <Article Num="40">
+    <Article Num="1">
       <ArticleTitle>窃盗</ArticleTitle>
       <Sentence>他人の財物を窃取した者は、十年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="41">
+    <Article Num="2">
       <ArticleTitle>強盗</ArticleTitle>
       <Sentence>暴行又は脅迫を用いて他人の財物を強取した者は、五年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="42">
+    <Article Num="3">
       <ArticleTitle>詐欺</ArticleTitle>
       <Sentence>人を欺いて財物を交付させ、又は財産上の利益を得た者は、十年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="43">
+    <Article Num="4">
       <ArticleTitle>恐喝</ArticleTitle>
       <Sentence>人を恐喝して財物を交付させ、又は財産上の利益を得た者は、十年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="44">
+    <Article Num="5">
       <ArticleTitle>横領</ArticleTitle>
       <Sentence>自己の占有する他人の財物を横領した者は、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="45">
+    <Article Num="6">
       <ArticleTitle>器物損壊</ArticleTitle>
       <Sentence>他人の物を損壊し、又はその効用を害した者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -259,32 +259,32 @@
   <Chapter Num="6">
     <ChapterTitle>社会秩序に対する罪</ChapterTitle>
 
-    <Article Num="46">
+    <Article Num="1">
       <ArticleTitle>放火</ArticleTitle>
       <Sentence>人が住居その他の建造物に放火した者は、死刑、無期懲役又は五年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="47">
+    <Article Num="2">
       <ArticleTitle>公共危険</ArticleTitle>
       <Sentence>爆発、放火その他の方法により、公共の安全を危険にさらした者は、十年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="48">
+    <Article Num="3">
       <ArticleTitle>往来妨害</ArticleTitle>
       <Sentence>道路、鉄道その他の交通施設を不法に損壊し、又はその通行を妨害した者は、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="49">
+    <Article Num="4">
       <ArticleTitle>文書偽造</ArticleTitle>
       <Sentence>権利、義務又は事実の証明に関する文書を偽造し、又は変造した者は、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="50">
+    <Article Num="5">
       <ArticleTitle>公務執行妨害</ArticleTitle>
       <Sentence>公務員が職務を執行するに当たり、これに対して暴行又は脅迫を加えた者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="51">
+    <Article Num="6">
       <ArticleTitle>逃走援助</ArticleTitle>
       <Sentence>拘禁された者の逃走を助けた者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -293,22 +293,22 @@
   <Chapter Num="7">
     <ChapterTitle>司法及び行政に対する罪</ChapterTitle>
 
-    <Article Num="52">
+    <Article Num="1">
       <ArticleTitle>偽証</ArticleTitle>
       <Sentence>法律により宣誓した証人が、虚偽の陳述をしたときは、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="53">
+    <Article Num="2">
       <ArticleTitle>証拠隠滅</ArticleTitle>
       <Sentence>他人の刑事事件に関する証拠を隠滅し、偽造し、又は変造した者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="54">
+    <Article Num="3">
       <ArticleTitle>犯人蔵匿</ArticleTitle>
       <Sentence>罰金以上の刑に当たる罪を犯した者を蔵匿し、又は隠避させた者は、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="55">
+    <Article Num="4">
       <ArticleTitle>贈収賄</ArticleTitle>
       <Sentence>公務員がその職務に関して賄賂を収受し、又はその要求若しくは約束をしたときは、五年以下の懲役に処する。</Sentence>
       <Paragraph Num="2">
@@ -320,22 +320,22 @@
   <Chapter Num="8">
     <ChapterTitle>国家及び国防に対する罪</ChapterTitle>
 
-    <Article Num="56">
+    <Article Num="1">
       <ArticleTitle>内乱</ArticleTitle>
       <Sentence>国家の統治機構を暴力により転覆し、又はこれを著しく破壊する目的で暴動を行った者は、死刑、無期懲役又は十年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="57">
+    <Article Num="2">
       <ArticleTitle>外患</ArticleTitle>
       <Sentence>外国と通謀して国家に対して武力を行使させ、又は外国の軍事行動に協力して国家の安全を害した者は、死刑、無期懲役又は十年以上の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="58">
+    <Article Num="3">
       <ArticleTitle>秘密漏示</ArticleTitle>
       <Sentence>国の安全又は防衛に関する秘密を、正当な権限なく外国その他の者に漏らした者は、十年以下の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="59">
+    <Article Num="4">
       <ArticleTitle>国防施設侵入</ArticleTitle>
       <Sentence>正当な理由なく国防上重要な施設に侵入した者は、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -344,17 +344,17 @@
   <Chapter Num="9">
     <ChapterTitle>公務に対する罪</ChapterTitle>
 
-    <Article Num="60">
+    <Article Num="1">
       <ArticleTitle>職権濫用</ArticleTitle>
       <Sentence>公務員がその職権を濫用して、人に義務のないことを行わせ、又はその権利の行使を妨害したときは、五年以下の懲役に処する。</Sentence>
     </Article>
 
-    <Article Num="61">
+    <Article Num="2">
       <ArticleTitle>秘密の保護</ArticleTitle>
       <Sentence>公務員又はその職にあった者が、職務上知り得た秘密を正当な理由なく漏らしたときは、三年以下の懲役又は罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="62">
+    <Article Num="3">
       <ArticleTitle>公務員の汚職</ArticleTitle>
       <Sentence>公務員がその職務に関して不正な利益を受け、又は第三者にこれを受けさせたときは、五年以下の懲役又は罰金に処する。</Sentence>
     </Article>
@@ -363,42 +363,42 @@
   <Chapter Num="10">
     <ChapterTitle>補則</ChapterTitle>
 
-    <Article Num="63">
+    <Article Num="1">
       <ArticleTitle>未成年者に対する特則</ArticleTitle>
       <Sentence>犯罪を行った者が未成年者である場合の刑事責任及び処分については、少年に関する法律で定める。</Sentence>
     </Article>
 
-    <Article Num="64">
+    <Article Num="2">
       <ArticleTitle>法人の責任</ArticleTitle>
       <Sentence>法人については、法律に特別の定めがある場合に限り、その代表者又は従業者の犯罪について罰金刑を科することができる。</Sentence>
     </Article>
 
-    <Article Num="65">
+    <Article Num="3">
       <ArticleTitle>没収</ArticleTitle>
       <Sentence>犯罪行為に用いられ、又は犯罪によって得られた物その他法律で定める物は、法律の定めるところにより没収することができる。</Sentence>
     </Article>
 
-    <Article Num="66">
+    <Article Num="4">
       <ArticleTitle>併合罪</ArticleTitle>
       <Sentence>確定裁判を経ていない二個以上の罪を犯した者については、法律の定めるところにより、その刑を併せて科する。</Sentence>
     </Article>
 
-    <Article Num="67">
+    <Article Num="5">
       <ArticleTitle>他の法律との関係</ArticleTitle>
       <Sentence>この法律に定めるもののほか、犯罪及び刑罰について必要な事項は、各法律で定める。</Sentence>
     </Article>
 
-    <Article Num="68">
+    <Article Num="6">
       <ArticleTitle>刑事手続</ArticleTitle>
       <Sentence>犯罪の捜査、起訴、裁判及び刑の執行に関する手続は、刑事訴訟法その他の法律で定める。</Sentence>
     </Article>
 
-    <Article Num="69">
+    <Article Num="7">
       <ArticleTitle>刑の執行</ArticleTitle>
       <Sentence>刑の執行その他受刑者の処遇については、法律で定める。</Sentence>
     </Article>
 
-    <Article Num="70">
+    <Article Num="8">
       <ArticleTitle>施行</ArticleTitle>
       <Sentence>この法律は、公布の日から施行する。</Sentence>
     </Article>

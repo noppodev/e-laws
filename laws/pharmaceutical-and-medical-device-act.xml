@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「医薬品」とは、日本薬局方に収められている物、又は人の疾病の診断、治療若しくは予防に使用される物をいうをいう。</Sentence>
+      <Sentence>この法律において「医薬品」とは、国家薬局方に収められている物、又は人の疾病の診断、治療若しくは予防に使用される物をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「医療機器」とは、人の疾病の診断、治療若しくは予防に使用されるプログラム、器具器械等をいうをいう。</Sentence>
+        <Sentence>この法律において「医療機器」とは、人の疾病の診断、治療若しくは予防に使用されるプログラム、器具器械等をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、医薬品等の安全性、有効性及び品質の確保並びに保健衛生の向上に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>医薬品等の定義、分類及び治験手続</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>医薬品等の三分類</ArticleTitle>
       <Sentence>医薬品、医薬部外品、化粧品及び医療機器の法的位置づけを明確に定める。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>再生医療等製品の定義</ArticleTitle>
       <Sentence>人の細胞を培養加工した細胞治療製品、遺伝子治療製品を独立の類型として規定する。</Sentence>
     </Article>
-    <Article Num="23">
-      <ArticleTitle>日本薬局方の制定公表</ArticleTitle>
-      <Sentence>医薬品の性状及び品質の適正を期するため、日本薬局方を定期的に改訂公表する。</Sentence>
+    <Article Num="3">
+      <ArticleTitle>国家薬局方の制定公表</ArticleTitle>
+      <Sentence>医薬品の性状及び品質の適正を期するため、国家薬局方を定期的に改訂公表する。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>治験（臨床試験）の原則</ArticleTitle>
       <Sentence>承認申請に用いる臨床試験は、ヘルシンキ宣言に基づく倫理基準及びＧＣＰ基準を遵守する。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>治験届の提出義務</ArticleTitle>
       <Sentence>治験を開始するにあたっては、治験実施計画書を事前に厚生労働大臣に届け出る。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>被験者のインフォームド・コンセント</ArticleTitle>
       <Sentence>被験者に対し、有効性、予測される副作用を書面で説明し、自由な同意を得る。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>治験審査委員会（ＩＲＢ）の設置</ArticleTitle>
       <Sentence>医療機関内に独立の倫理審査委員会を置き、試験の倫理性と妥当性を審査する。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>治験薬の副作用報告義務</ArticleTitle>
       <Sentence>重篤な未知の副作用が発生したときは、定められた期限内に当局に緊急報告する。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>条件付き早期承認制度</ArticleTitle>
       <Sentence>患者数が少なく有効な治療法のない難病薬に対し、市販後検証を条件に早期承認を与える。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>希少疾病用医薬品（オーファン）の優遇</ArticleTitle>
       <Sentence>患者数が一定以下の医薬品の開発に対し、助成金の交付及び審査の最優先を行う。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>製造販売業の許可及び製造承認審査</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>製造販売業の許可（総括責任者）</ArticleTitle>
       <Sentence>医薬品等を市場に出荷する業態として、総括製造販売責任者の設置を要件とする許可を課す。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>ＧＱＰ（品質管理基準）の適合</ArticleTitle>
       <Sentence>適正な品質管理手順に基づき出荷判定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>ＧＶＰ（安全管理基準）の適合</ArticleTitle>
       <Sentence>市販後の副作用情報の収集、評価及び安全確保措置を実施する体制を義務付ける。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>品目ごとの製造販売承認</ArticleTitle>
       <Sentence>医薬品を販売するには、品目ごとに有効性、安全性、品質データの審査承認を受ける。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>ＰＭＤＡによる専門審査</ArticleTitle>
       <Sentence>医薬品医療機器総合機構の専門審査官が、数理統計、毒性、薬理データを厳格に審査する。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>製造業の許可及びＧＭＰ適合</ArticleTitle>
       <Sentence>工場ごとに製造所の構造設備を整え、適正製造規範（ＧＭＰ）の実地適合調査を受ける。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>外国製造業者の認定</ArticleTitle>
       <Sentence>海外で製造される輸入医薬品の工場についても、国内と同等の認定調査を行う。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>承認書の記載事項遵守</ArticleTitle>
       <Sentence>承認された製造方法、規格及び試験検査方法を逸脱して製造してはならない。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>後発医薬品（ジェネリック）の承認</ArticleTitle>
       <Sentence>先発医薬品と生物学的に同等であることを証明する試験データを審査する。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>製造管理者の配置</ArticleTitle>
       <Sentence>医薬品製造所には、国家資格を有する薬剤師を製造管理者として常駐させなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>薬局の開設、医薬品の販売及び調剤</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>薬局の開設許可</ArticleTitle>
       <Sentence>調剤及び医薬品の販売を行う薬局は、都道府県知事の許可を受けなければならない。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>管理薬剤師の必置</ArticleTitle>
       <Sentence>薬局の管理者は、自ら調剤に従事する専任の管理薬剤師でなければならない。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>処方箋調剤の義務</ArticleTitle>
       <Sentence>薬剤師は、医師の適法な処方箋の提示を受けたときは、正当な理由なく調剤を拒んではならない。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>疑義照会の義務</ArticleTitle>
       <Sentence>処方箋の記載に疑わしい点があるときは、処方医に問い合わせて確認した後でなければ調剤できない。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>服薬指導及び薬歴管理</ArticleTitle>
       <Sentence>患者に対し、薬の効能、服用方法、相互作用を口頭説明し、電子薬歴に記録する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>要指導医薬品の対面販売原則</ArticleTitle>
       <Sentence>劇薬又は新薬から転用された医薬品は、薬剤師が対面で文書説明して販売する。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>一般用医薬品の三区分</ArticleTitle>
       <Sentence>副作用リスクに応じ、第一類、第二類及び第三類医薬品に区分して陳列販売する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>インターネット販売の安全基準</ArticleTitle>
       <Sentence>一般用医薬品のネット販売は、許可を受けた実店舗を持つ事業者に限定し専門家が対応する。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>配置販売業（置き薬）の規制</ArticleTitle>
       <Sentence>家庭に医薬品を預け置き、使用分のみ代金を精算する伝統的配置販売業の管理。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>濫用等のおそれのある医薬品の個数制限</ArticleTitle>
       <Sentence>エフェドリン等の乱用薬物について、一人一箱の販売制限及び身元確認を義務付ける。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>市販後安全対策及び副作用報告制度</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>医療関係者の副作用報告義務</ArticleTitle>
       <Sentence>医師、歯科医師、薬剤師は、医薬品等による重大な健康被害を知ったときは厚労省に報告する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>企業の安全性情報収集義務</ArticleTitle>
       <Sentence>製薬企業は、世界中の医学文献、自社副作用データを常時監視しなければならない。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>添付文書の電子化（電子添文）</ArticleTitle>
       <Sentence>紙の添付文書の同梱を原則廃止し、ウェブサイト上で最新の注意事項を即時提供する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>緊急安全性情報（イエローレター）</ArticleTitle>
       <Sentence>緊急の警告を要する重大副作用が判明したときは、四週間以内に全医療機関に周知する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>医薬品副作用被害救済制度</ArticleTitle>
       <Sentence>適正に使用したにもかかわらず重篤な健康被害を受けた患者に対し、医療費等の給付を行う。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>救済給付の財源</ArticleTitle>
       <Sentence>すべての製薬企業から拠出金を徴収し、独立の公的基金として運営する。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>医薬品の回収（リコール）命令</ArticleTitle>
       <Sentence>異物混入、有効成分の不足、重大な欠陥がある医薬品に対し、即時回収を命ずる。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>廃棄処分及び出荷停止</ArticleTitle>
       <Sentence>基準に適合しない粗悪医薬品を直ちに廃棄させ、製造ラインの稼働を差し止める。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>再審査及び再評価制度</ArticleTitle>
       <Sentence>新薬承認後、一定期間の市販後調査データを集積し、再度の安全性・有効性評価を行う。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>生物由来製品の感染症リスク管理</ArticleTitle>
       <Sentence>血液製剤、ワクチン等について、製造記録及び投与患者の追跡記録を三十年間保存する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>不正広告の禁止、無承認薬の取締り及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>誇大広告及び虚偽広告の禁止</ArticleTitle>
       <Sentence>医薬品等の名称、製造方法、効能について、虚偽又は誇大な広告をしてはならない。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>医師等の推薦広告の禁止</ArticleTitle>
       <Sentence>医師、薬剤師等の専門家が公認しているかのような誤認表示広告を禁止する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>承認前の医薬品の広告禁止</ArticleTitle>
       <Sentence>まだ承認を受けていない治験薬等の名称及び効能を広告してはならない。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>課徴金納付命令制度</ArticleTitle>
       <Sentence>虚偽誇大広告を行った事業者に対し、対象製品の売上額の四・五パーセントの課徴金を課す。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>無承認無許可医薬品の販売禁止</ArticleTitle>
       <Sentence>国の承認を受けていない外国製医薬品、未認可サプリメントの業としての販売を固く禁止する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>危険ドラッグの指定及び規制</ArticleTitle>
       <Sentence>中枢神経興奮作用等を有する指定薬物の製造、輸入、販売、所持、使用を全面的に処罰する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>無承認薬販売の重罪</ArticleTitle>
       <Sentence>無承認医薬品を販売した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>無許可製造販売の罪</ArticleTitle>
       <Sentence>許可を受けずに医薬品を販売した者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>毒劇薬等の保管管理違反</ArticleTitle>
       <Sentence>鍵のかかる堅固な設備に保管せず毒薬を紛失させた者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>法人の重罰金（一億円以下）</ArticleTitle>
       <Sentence>法人の業務に関して誇大広告又は無承認薬販売を行ったときは、その法人に対し一億円以下の罰金を科する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>厚生労働大臣及び医薬品医療機器総合機構（ＰＭＤＡ）は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

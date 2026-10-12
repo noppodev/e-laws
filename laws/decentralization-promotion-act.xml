@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>地方分権推進法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「機関委任事務の廃止」とは、国の下級機関として自治体首長に義務付けていた事務を全廃し自治事務とする原則をいうをいう。</Sentence>
+      <Sentence>この法律において「機関委任事務の廃止」とは、国の下級機関として自治体首長に義務付けていた事務を全廃し自治事務とする原則をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「地方自治の本旨」とは、住民の意思に基づく住民自治と、団体自らの判断で行う団体自治の基本原理をいうをいう。</Sentence>
+        <Sentence>この法律において「地方自治の本旨」とは、住民の意思に基づく住民自治と、団体自らの判断で行う団体自治の基本原理をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、大統領府地方創生本部及び内務大臣が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>大統領府地方創生本部及び内務大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、国と地方自治体の公平な役割分担、自主権の拡大及び地方議会の機能強化に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>国と地方自治体の関係の基本原則</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>対等・協力の原則</ArticleTitle>
       <Sentence>国と地方自治体は、上下主従の関係ではなく、対等かつ協力の関係に立つ。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>事務の区分（自治事務と法定受託事務）</ArticleTitle>
       <Sentence>地方自治体の事務は、地域の実情に応じた自治事務と、国が委託する法定受託事務に大別する。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>法定受託事務の限定列挙</ArticleTitle>
       <Sentence>国が法令により地方に処理させる事務は、法律により極めて限定的に定める。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>国の関与の基本原則</ArticleTitle>
       <Sentence>地方自治体に対する国の関与（助言、勧告、同意、是正の要求）は、必要最小限にとどめる。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>国の関与の法定主義</ArticleTitle>
       <Sentence>法律又は政令の明確な根拠がなければ、国は地方自治体に指示を付すことができない。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>是正の要求の手続</ArticleTitle>
       <Sentence>自治体の処理が違法であるときは、各大臣は理由を付して是正の要求を行うことができる。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>是正の指示の厳格要件</ArticleTitle>
       <Sentence>国民の生命身体を保護するため緊急の必要がある場合に限り、例外的に指示を行う。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>国地方係争処理委員会</ArticleTitle>
       <Sentence>国と地方自治体との間の紛争を中立公正に審査するため、大統領府に係争処理委員会を置く。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>審査の申出と勧告</ArticleTitle>
       <Sentence>国の関与に不服がある首長は、係争処理委員会に対し審査を申し出ることができる。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>高等裁判所への出訴</ArticleTitle>
       <Sentence>委員会の調停が不調に終わったときは、首長は直接高等裁判所に訴えを提起できる。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>条例制定権の拡充及び上乗せ・横出し条例</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>条例制定権の範囲</ArticleTitle>
       <Sentence>地方自治体は、法令に違反しない限りにおいて、その事務に関し条例を制定できる。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>上乗せ条例の適法性</ArticleTitle>
       <Sentence>国の公害基準、安全基準よりも厳しい基準を定める上乗せ条例の制定を公認する。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>横出し条例の適法性</ArticleTitle>
       <Sentence>国の法律に定めのない分野（景観保護、騒音規制等）を規制する横出し条例を認める。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>義務付け・枠付けの緩和</ArticleTitle>
       <Sentence>国が法令で定めていた施設基準、人員配置基準を、地方の条例に大幅に委任する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>罰則条例の制定権限</ArticleTitle>
       <Sentence>条例に違反した者に対し、二年以下の拘禁刑若しくは百万円以下の罰金を科すことができる。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>過料条例の制定</ArticleTitle>
       <Sentence>秩序罰として五万円以下の過料を科する条例を独自に定めることができる。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>住民投票条例の制定</ArticleTitle>
       <Sentence>重要な地域課題について、住民投票を実施するための常設条例を制定できる。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>地方税条例の自主性</ArticleTitle>
       <Sentence>地域の実情に応じた独自の法定外税を創設する権限を保障する。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>条例案の住民直接請求</ArticleTitle>
       <Sentence>有権者の五十分の一以上の署名をもって、首長に対し条例の制定改廃を直接請求できる。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>地方議会の専決処分の制限</ArticleTitle>
       <Sentence>首長による専決処分を厳格に制限し、地方議会の審議権を最大限に尊重する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>自主財源の確立及び地方交付税の改革</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>地方税源の移譲</ArticleTitle>
       <Sentence>国税から地方税への税源移譲を計画的に推進し、地方税比率を大幅に引き上げる。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>地方交付税の財源保障</ArticleTitle>
       <Sentence>財政力の弱い過疎地域に対しても、標準的な行政水準を維持できる交付税を保障する。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>国庫補助負担金の包括交付金化</ArticleTitle>
       <Sentence>使途が細かく特定された補助金を整理統合し、地方が自由に使える包括交付金に改編する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>地方債の発行自由化（協議制）</ArticleTitle>
       <Sentence>地方債の発行を許可制から事前協議制に移行し、自治体の自主的資金調達を認める。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>財政健全化法に基づく早期健全化</ArticleTitle>
       <Sentence>実質赤字比率等の指標を監視し、早期健全化基準を超えた団体は自主再建計画を策定する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>財政再生団体の指定</ArticleTitle>
       <Sentence>深刻な財政破綻に陥った自治体に対し、国が一時的に介入し再生計画を執行する。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>公有資産の有効活用</ArticleTitle>
       <Sentence>余剰となった公有地、廃校等の資産を民間企業と連携して収益化する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>ふるさと応援寄附制度の運用</ArticleTitle>
       <Sentence>地方の活性化を志向する寄附金税制の適正かつ透明な運用を確保する。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>地方公営企業の独立採算</ArticleTitle>
       <Sentence>上下水道、交通、公立病院等の公営企業に対し、独立採算制を徹底させる。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>広域連携の財政支援</ArticleTitle>
       <Sentence>複数の市町村が共同でごみ処理場、消防本部を広域運営する場合の財政支援を行う。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>住民参加、情報公開及び行政評価</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>住民監査請求の権利</ArticleTitle>
       <Sentence>住民は、違法な公金の支出、財産の処分について、監査委員に対し監査を請求できる。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>住民訴訟の提起</ArticleTitle>
       <Sentence>監査結果に不服がある住民は、地方裁判所に首長等を被告とする住民訴訟を提起できる。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>住民訴訟の類型</ArticleTitle>
       <Sentence>公金の支出差止請求、不当利得返還請求、役員個人への損害賠償請求等を認める。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>地方自治体の公文書公開条例</ArticleTitle>
       <Sentence>自治体の保有する一切の行政文書は、原則公開とし、非公開理由を厳格に限定する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>パブリックコメントの義務化</ArticleTitle>
       <Sentence>重要計画及び条例の策定にあたっては、事前に案を公開し住民意見を公募しなければならない。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>外部監査制度の必置</ArticleTitle>
       <Sentence>都道府県及び政令指定都市には、弁護士・公認会計士による包括外部監査を義務付ける。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>事務事業評価の公表</ArticleTitle>
       <Sentence>すべての行政事務について、毎年コストと効果を測定する行政評価を実施し公表する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>首長及び議員のリコール制度</ArticleTitle>
       <Sentence>有権者の三分の一以上の署名により、首長又は議員の解職投票を実施できる。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>議会の解散請求</ArticleTitle>
       <Sentence>有権者の署名をもって、地方議会の解散を請求することができる。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>住民自治組織（町内会・自治会）との協働</ArticleTitle>
       <Sentence>地域の防犯防災活動を担う住民自主組織との適正な協働指針を策定する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>大都市制度及び広域行政改革</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>政令指定都市の権限拡充</ArticleTitle>
       <Sentence>人口五十万人以上の大都市に対し、都道府県と同等の権限と税源を委譲する。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>中核市の指定要件</ArticleTitle>
       <Sentence>人口二十万人以上の市に対し、保健所設置等の広域福祉権限を移譲する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>定住自立圏構想の推進</ArticleTitle>
       <Sentence>中心都市と周辺町村が連携協約を締結し、医療、教育、交通を共同維持する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>広域連合の設置と運営</ArticleTitle>
       <Sentence>複数の県又は市町村が連合体を設立し、大規模開発や広域医療を一体処理する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>道州制への移行調査</ArticleTitle>
       <Sentence>将来的な連邦型道州制の導入に向けた憲法及び地方自治制の調査会を設置する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>自治体間の協約制度</ArticleTitle>
       <Sentence>事務の委託、代替執行、職員の相互派遣に関する自治体間協約を公認する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>町村の合併支援と過疎対策</ArticleTitle>
       <Sentence>自主的な市町村合併に対する財政支援及び過疎地域の医療交通を特別保障する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>地方議会議員の資質向上</ArticleTitle>
       <Sentence>議員研修の充実及び政策調査機能の強化のため、議会図書室及び調査法制班を置く。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>大統領令による緊急特例</ArticleTitle>
       <Sentence>大規模震災等の有事において、被災自治体の行政権限を国が一時代行する特例を定める。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>分権推進委員会の年次評価</ArticleTitle>
       <Sentence>地方分権の進捗状況を監視する独立委員会が、大統領及び議会に是正白書を提出する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>大統領府地方創生本部及び内務大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

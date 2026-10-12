@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>警察法</Title>
 
@@ -65,12 +65,12 @@
   <Chapter Num="2">
     <ChapterTitle>国家公安委員会及び国家警察庁</ChapterTitle>
 
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>国家公安委員会の設置</ArticleTitle>
       <Sentence>大統領の所管の下に、国家警察を管理する合議体として国家公安委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>委員長の身分</ArticleTitle>
       <Sentence>国家公安委員会に委員長一人を置き、国務大臣をもって充てる。</Sentence>
       <Paragraph Num="2">
@@ -78,7 +78,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>委員の任命及び資格</ArticleTitle>
       <Sentence>委員は、人格が高潔で、警察行政に関し公正な判断ができる学識経験者五人をもって組織し、大統領が両議院の同意を得て任命する。</Sentence>
       <Paragraph Num="2">
@@ -86,7 +86,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>委員の任期及び身分保障</ArticleTitle>
       <Sentence>委員の任期は五年とし、再任されることができる。</Sentence>
       <Paragraph Num="2">
@@ -94,17 +94,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>国家公安委員会の職権</ArticleTitle>
       <Sentence>国家公安委員会は、国家警察の基本方針の策定、警察用装備の基準設定、警察通信の統制及び警察職員の表彰懲戒を管理する。</Sentence>
     </Article>
 
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>国家警察庁の設置</ArticleTitle>
       <Sentence>国家公安委員会の管理の下に、国家警察庁を置く。</Sentence>
     </Article>
 
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>警察庁長官</ArticleTitle>
       <Sentence>警察庁に警察庁長官一人を置き、国家公安委員会が大統領の承認を得て任免する。</Sentence>
       <Paragraph Num="2">
@@ -112,17 +112,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>内部部局の構成</ArticleTitle>
       <Sentence>警察庁に長官官房のほか、生活安全局、刑事局、交通局、警備局及び情報通信局を置く。</Sentence>
     </Article>
 
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>附属機関</ArticleTitle>
       <Sentence>警察庁に警察大学校、科学警察研究所及び皇宮・大統領警衛隊を置く。</Sentence>
     </Article>
 
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>管区警察局の設置</ArticleTitle>
       <Sentence>全国を数個のブロックに分け、地方警察間の広域調整を行わせるため管区警察局を置く。</Sentence>
     </Article>
@@ -131,22 +131,22 @@
   <Chapter Num="3">
     <ChapterTitle>地方公安委員会及び地方警察</ChapterTitle>
 
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>地方公安委員会の設置</ArticleTitle>
       <Sentence>各行政区域に、地域警察を管理する機関として地方公安委員会を置く。</Sentence>
     </Article>
 
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>地方公安委員の任命</ArticleTitle>
       <Sentence>地方公安委員は、地方長官が議会の同意を得て任命する。</Sentence>
     </Article>
 
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>地方警察本部の設置</ArticleTitle>
       <Sentence>地方公安委員会の管理の下に、地方警察本部を置く。</Sentence>
     </Article>
 
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>地方警察本部長</ArticleTitle>
       <Sentence>地方警察本部長は、国家公安委員会が地方公安委員会の同意を得て任命する国家公務員たる警察官をもって充てる。</Sentence>
       <Paragraph Num="2">
@@ -154,17 +154,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>警察署の設置及び管轄</ArticleTitle>
       <Sentence>地方警察本部長の管轄区域を適正な区域に分かち、各区域に警察署を置く。</Sentence>
     </Article>
 
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>交番及び駐在所</ArticleTitle>
       <Sentence>警察署の管轄区域内に、地域住民の安全確保の最前線拠点として交番及び駐在所を設ける。</Sentence>
     </Article>
 
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>地方警察官の身分</ArticleTitle>
       <Sentence>警視以下の警察官は、地方公務員とする。</Sentence>
       <Paragraph Num="2">
@@ -172,17 +172,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>地方警察の財政措置</ArticleTitle>
       <Sentence>地方警察の維持運営に要する経費は、地方財政及び国庫補助金によって支弁される。</Sentence>
     </Article>
 
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>地域住民との対話協議会</ArticleTitle>
       <Sentence>各警察署は、地域住民との間で定期的な防犯協議会を開催し、地域の防犯要望を警察活動に反映させなければならない。</Sentence>
     </Article>
 
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>苦情申出制度</ArticleTitle>
       <Sentence>警察職員の職務執行について苦情がある者は、地方公安委員会に対し文書により苦情の申出をすることができる。</Sentence>
       <Paragraph Num="2">
@@ -194,12 +194,12 @@
   <Chapter Num="4">
     <ChapterTitle>警察官の職務執行及び即時強制</ChapterTitle>
 
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>質問及び職務質問</ArticleTitle>
       <Sentence>警察官は、異常な挙動その他周囲の事情から合理的に判断して何らかの犯罪を犯し、若しくは犯そうとしていると疑うに足りる相当な理由のある者を停止させて質問することができる。</Sentence>
     </Article>
 
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>同行の求め</ArticleTitle>
       <Sentence>その場で質問をすることが本人に不利であり、又は交通の妨害となると認めるときは、付近の警察署等に同行を求めることができる。</Sentence>
       <Paragraph Num="2">
@@ -207,12 +207,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>所持品検査</ArticleTitle>
       <Sentence>警察官は、凶器その他の危険物の所持が疑われる場合、相当と認められる限度において、所持品の開示を求めることができる。</Sentence>
     </Article>
 
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>保護の要件</ArticleTitle>
       <Sentence>警察官は、泥酔者、迷い子、精神錯乱者等であって応急の救護を要すると認められる者を、警察署その他適当な場所に一時保護することができる。</Sentence>
       <Paragraph Num="2">
@@ -220,32 +220,32 @@
       </Paragraph>
     </Article>
 
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>危険物の一時保管</ArticleTitle>
       <Sentence>火薬類、毒劇物その他重大な危険を生じさせるおそれのある物を発見したときは、警察官は一時これを預かり保管することができる。</Sentence>
     </Article>
 
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>避難等の措置</ArticleTitle>
       <Sentence>火災、水害等の天災事変又は重大事故に際し、警察官は現場の者に対し警告を発し、又は避難を命ずることができる。</Sentence>
     </Article>
 
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>立入りの制限</ArticleTitle>
       <Sentence>犯罪現場又は危険発生場所について、警察官は一定の区域を画して一般人の立入りを禁止し、又は制限することができる。</Sentence>
     </Article>
 
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>土地建物への立入り</ArticleTitle>
       <Sentence>人命救助又は重大な危害の切迫を回避するため緊急やむを得ないときは、警察官は他人の土地又は建造物に立ち入ることができる。</Sentence>
     </Article>
 
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>公私の協力要請</ArticleTitle>
       <Sentence>警察官は、凶悪犯人の追跡逮捕又は人命救助に当たり、現場付近の者に対し協力を求めることができる。</Sentence>
     </Article>
 
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>記録及び報告義務</ArticleTitle>
       <Sentence>即時強制措置を講じた警察官は、速やかにその経緯を記載した報告書を作成し、署長に提出しなければならない。</Sentence>
     </Article>
@@ -254,52 +254,52 @@
   <Chapter Num="5">
     <ChapterTitle>武器及び警察装備の使用基準</ChapterTitle>
 
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>武器の携帯</ArticleTitle>
       <Sentence>警察官は、その職務を行うため、けん銃その他の武器を携帯することができる。</Sentence>
     </Article>
 
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>武器使用の原則</ArticleTitle>
       <Sentence>警察官は、犯人の逮捕、逃走の防止、自己若しくは他人の生命身体の防衛のため、事態に応じ合理的に必要と判断される限度において武器を使用することができる。</Sentence>
     </Article>
 
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>危害射撃の厳格要件</ArticleTitle>
       <Sentence>人に危害を与える可能性のある射撃は、刑法上の正当防衛若しくは緊急避難に該当する場合、又は死刑、無期若しくは長期三年以上の拘禁刑に当たる重大凶悪犯が抵抗若しくは逃走する場合を除いては、これを行ってはならない。</Sentence>
     </Article>
 
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>事前警告の原則</ArticleTitle>
       <Sentence>武器を使用するに当たっては、あらかじめ口頭で警告を発し、又は威嚇射撃を行わなければならない。ただし、事態が急迫し警告の暇がないときはこの限りでない。</Sentence>
     </Article>
 
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>警棒及び催涙スプレーの使用</ArticleTitle>
       <Sentence>警棒、催涙具等の非致死性装備は、抵抗を制圧するために必要な最小限度の実力を行使する場合に使用する。</Sentence>
     </Article>
 
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>手錠の使用</ArticleTitle>
       <Sentence>逮捕された被疑者が暴れ、逃走し、又は自傷のおそれがある場合に限り、手錠を使用することができる。</Sentence>
     </Article>
 
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>特殊銃器及び装甲車両</ArticleTitle>
       <Sentence>テロリスト又は重武装集団に対処するため、特殊狙撃銃、自動小銃及び防弾装甲車の使用部隊を配備する。</Sentence>
     </Article>
 
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>武器使用後の救護義務</ArticleTitle>
       <Sentence>武器の使用により負傷者が生じたときは、警察官は直ちに救急医療の措置を手配しなければならない。</Sentence>
     </Article>
 
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>武器使用報告書の作成</ArticleTitle>
       <Sentence>けん銃を発射した警察官は、遅滞なく詳細な使用報告書を作成し、公安委員会及び検察官に提出しなければならない。</Sentence>
     </Article>
 
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>定期射撃訓練及び適性検査</ArticleTitle>
       <Sentence>警察官は、定期的な実弾射撃訓練及び心理的適性検査を受け、合格しなければ武器を携帯できない。</Sentence>
     </Article>
@@ -308,52 +308,52 @@
   <Chapter Num="6">
     <ChapterTitle>刑事捜査及び科学鑑定体制</ChapterTitle>
 
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>捜査本部の設置</ArticleTitle>
       <Sentence>殺人、強盗その他重大事件が発生したときは、警察署又は警察本部に捜査本部を設置する。</Sentence>
     </Article>
 
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>令状主義の徹底</ArticleTitle>
       <Sentence>逮捕、差押え、捜索及び検証は、現行犯逮捕等の例外を除き、必ず裁判官の発する令状によらなければならない。</Sentence>
     </Article>
 
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>現場鑑識の実施</ArticleTitle>
       <Sentence>犯罪現場における指紋、足跡、生体試料等の遺留証拠は、鑑識官により厳格に保全採取されなければならない。</Sentence>
     </Article>
 
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>ＤＮＡ型データベースの運用</ArticleTitle>
       <Sentence>法に基づき採取された被疑者及び現場遺留物のＤＮＡ型情報は、国家警察庁の一元管理システムに登録される。</Sentence>
     </Article>
 
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>科学警察研究所の高度鑑定</ArticleTitle>
       <Sentence>法医、理化学、文書、心理鑑定等について、科学警察研究所において最高水準の鑑定を行う。</Sentence>
     </Article>
 
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>取調べの録音録画</ArticleTitle>
       <Sentence>重大事件の被疑者取調べにおいては、供述の任意性を確保するため、取調べの全過程を録音録画しなければならない。</Sentence>
     </Article>
 
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>通信傍受の特例</ArticleTitle>
       <Sentence>組織的犯罪の捜査における通信傍受は、裁判官の傍受令状に基づき、厳格な立会人の下に行われなければならない。</Sentence>
     </Article>
 
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>被害者支援要員の派遣</ArticleTitle>
       <Sentence>凶悪事件の被害者及びその遺族に対し、精神的ケア及び刑事手続支援を行う専門警察職員を派遣する。</Sentence>
     </Article>
 
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>広域捜査共助</ArticleTitle>
       <Sentence>複数地域にまたがる広域事件について、警察庁長官の調整の下、合同特別捜査班を編成する。</Sentence>
     </Article>
 
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>未解決事件の継続捜査</ArticleTitle>
       <Sentence>公訴時効が廃止された重大凶悪事件について、専従捜査班を設置し永久に真相究明を継続する。</Sentence>
     </Article>
@@ -362,52 +362,52 @@
   <Chapter Num="7">
     <ChapterTitle>交通警察及び交通秩序の維持</ChapterTitle>
 
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>交通取締りの目的</ArticleTitle>
       <Sentence>道路における交通の安全と円滑を図り、交通事故による人命被害を絶滅させることを目的とする。</Sentence>
     </Article>
 
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>交通規制の実施</ArticleTitle>
       <Sentence>公安委員会は、道路標識及び信号機を設置し、速度制限、通行止め等の交通規制を行う。</Sentence>
     </Article>
 
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>運転免許制度の管理</ArticleTitle>
       <Sentence>自動車運転免許試験の実施、免許証の交付、更新及び行政処分事務を一元的に管掌する。</Sentence>
     </Article>
 
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>飲酒運転等の取締り</ArticleTitle>
       <Sentence>呼気検査による飲酒運転の摘発、速度違反の自動測定器による監視を常時実施する。</Sentence>
     </Article>
 
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>交通事故の実況見分</ArticleTitle>
       <Sentence>交通事故が発生したときは、警察官は直ちに臨場し、負傷者の救護及び事故原因の徹底調査を行う。</Sentence>
     </Article>
 
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>高速道路交通警察隊</ArticleTitle>
       <Sentence>高速自動車国道におけるパトロール、事故処理及び救急誘導を行う専従隊を配置する。</Sentence>
     </Article>
 
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>暴走族対策</ArticleTitle>
       <Sentence>集団暴走行為を行う危険車両の強制排除、検問及び主謀者の逮捕を強力に推進する。</Sentence>
     </Article>
 
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>放置車両の移動命令</ArticleTitle>
       <Sentence>交通の妨害となる違法駐車車両に対し、車輪止め措置又はレッカー移動を命ずることができる。</Sentence>
     </Article>
 
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>交通安全教育の普及</ArticleTitle>
       <Sentence>学校、高齢者施設等において定期的に交通安全教室を開催し、交通道徳の普及に努める。</Sentence>
     </Article>
 
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>高度道路交通システムの推進</ArticleTitle>
       <Sentence>人工知能を活用した交通管制システムにより、渋滞解消と信号制御の最適化を図る。</Sentence>
     </Article>
@@ -416,52 +416,52 @@
   <Chapter Num="8">
     <ChapterTitle>警備警察及び治安維持</ChapterTitle>
 
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>警衛及び要人警護</ArticleTitle>
       <Sentence>国家元首たる大統領、外国首脳及び国家要人の身辺の安全を確保するため、専任の警護隊（ＳＰ）を運用する。</Sentence>
     </Article>
 
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>重要防護施設の警戒</ArticleTitle>
       <Sentence>大統領府、議事堂、最高裁判所、原子力発電所等の国家中枢施設に対し、機動隊による常時警備を行う。</Sentence>
     </Article>
 
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>機動隊の編制及び任務</ArticleTitle>
       <Sentence>集団暴動の鎮圧、災害救助活動及び大規模警備を実施するため、各警察本部に常設の機動隊を置く。</Sentence>
     </Article>
 
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>テロ対策特殊部隊（ＳＡＴ）</ArticleTitle>
       <Sentence>ハイジャック、人質立てこもり、重武装テロ事案を制圧するための特殊急襲部隊を保持する。</Sentence>
     </Article>
 
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>サイバーテロ対処部隊</ArticleTitle>
       <Sentence>国家基盤システムに対するサイバー攻撃を検知し、電子的追跡及び攻撃遮断を行う特別捜査隊を運用する。</Sentence>
     </Article>
 
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>爆発物処理班の配備</ArticleTitle>
       <Sentence>不審物及び爆発性危険物を安全に回収解体するための高度特殊資機材を有する処理班を配備する。</Sentence>
     </Article>
 
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>警察航空隊の運用</ArticleTitle>
       <Sentence>ヘリコプター等により、空からの追跡監視、被災者救助及び部隊の緊急空輸を実施する。</Sentence>
     </Article>
 
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>警察警備艇の運用</ArticleTitle>
       <Sentence>港湾及び内水域における密入国取締り、水上事故救助を行う警備艇部隊を運用する。</Sentence>
     </Article>
 
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>スパイ活動の探知</ArticleTitle>
       <Sentence>外国勢力による不法な情報収集、潜入工作及び国家転覆謀略を未然に阻止する防諜警察活動を行う。</Sentence>
     </Article>
 
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>災害警備本部の即応</ArticleTitle>
       <Sentence>大規模震災時には、広域緊急援助隊を直ちに被災地に派遣し、生存者の救出及び治安維持に当たる。</Sentence>
     </Article>
@@ -470,52 +470,52 @@
   <Chapter Num="9">
     <ChapterTitle>警察職員の階級、服務及び懲戒</ChapterTitle>
 
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>警察官の階級</ArticleTitle>
       <Sentence>警察官の階級は、警察庁長官を除き、警視総監、警視監、警視長、警視正、警視、警部、警部補、巡査部長及び巡査の九階級とする。</Sentence>
     </Article>
 
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>階級による指揮権</ArticleTitle>
       <Sentence>上位の階級にある者は、下位の階級にある者を指揮監督する職権を有する。</Sentence>
     </Article>
 
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>服務規律の厳正</ArticleTitle>
       <Sentence>警察職員は、上官の職務上の命令に忠実に従わなければならない。ただし、明らかに違法な命令についてはこの限りでない。</Sentence>
     </Article>
 
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>秘密保持の義務</ArticleTitle>
       <Sentence>警察職員は、職務上知り得た秘密を厳密に保持しなければならず、退職後も同様とする。</Sentence>
     </Article>
 
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>争議行為の絶対禁止</ArticleTitle>
       <Sentence>警察職員は、同盟罷業、怠業その他業務の正常な運営を阻害するいかなる争議行為もしてはならない。</Sentence>
     </Article>
 
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>労働基本権の制限</ArticleTitle>
       <Sentence>警察職員は、労働組合を結成し、又はこれに加入することができない。</Sentence>
     </Article>
 
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>監察官制度の確立</ArticleTitle>
       <Sentence>警察内部の規律保持、不正の摘発を行わせるため、独立した権限を有する首席監察官を配置する。</Sentence>
     </Article>
 
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>懲戒処分の種別</ArticleTitle>
       <Sentence>警察職員に対する懲戒処分は、免職、停職、減給及び戒告の四種とする。</Sentence>
     </Article>
 
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>殉職者に対する顕彰</ArticleTitle>
       <Sentence>職務遂行中に殉職した警察官に対し、二階級特進及び遺族に対する公務災害手当の特別給付を行う。</Sentence>
     </Article>
 
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>福利厚生及び健康管理</ArticleTitle>
       <Sentence>過酷な任務に従事する警察官の心的外傷（ＰＴＳＤ）予防及び健康保持のための医療体制を完備する。</Sentence>
     </Article>
@@ -524,52 +524,52 @@
   <Chapter Num="10">
     <ChapterTitle>国防軍との関係及び緊急事態出動</ChapterTitle>
 
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>警察と国防軍の機能分担</ArticleTitle>
       <Sentence>警察は国内平時の治安維持を専掌し、国防軍は対外侵略に対する国土防衛を専掌する。</Sentence>
     </Article>
 
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>情報交換の義務</ArticleTitle>
       <Sentence>警察庁と国防省は、ゲリラ活動、破壊工作及び武装勢力の侵入に関する情報を日常的に共有しなければならない。</Sentence>
     </Article>
 
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>治安出動時の警察指揮権</ArticleTitle>
       <Sentence>国防軍が治安出動を命ぜられた場合、大統領の特命がない限り、警察本部長と現地部隊指揮官は緊密に協議して行動する。</Sentence>
     </Article>
 
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>戒厳宣告時の警察の地位</ArticleTitle>
       <Sentence>憲法第九条に基づき戒厳が宣告された地域においては、警察は戒厳司令官の軍事行政指揮の下に入り、治安秩序の回復に協力する。</Sentence>
     </Article>
 
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>沿岸警備における連携</ArticleTitle>
       <Sentence>警察警備艇は、海上保安庁及び海軍庁と連携し、不審船の捕捉及び沿岸警戒を実施する。</Sentence>
     </Article>
 
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>有事における国民避難誘導</ArticleTitle>
       <Sentence>武力攻撃事態において、警察は地方自治体と協力し、住民の防空壕への避難誘導及びパニック防止に当たる。</Sentence>
     </Article>
 
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>非常招集の権限</ArticleTitle>
       <Sentence>重大な緊急事態に際し、警察庁長官又は地方警察本部長は、非番の全警察官に対し非常招集を命ずることができる。</Sentence>
     </Article>
 
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>緊急通信回線の確保</ArticleTitle>
       <Sentence>防衛省及び大統領府との間に、有線及び衛星通信による耐妨害性の最高度暗号警察専用回線を常設する。</Sentence>
     </Article>
 
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>共同図上訓練の実施</ArticleTitle>
       <Sentence>警察、海上保安庁及び国防軍は、大規模複合有事を想定した合同図上演習及び実動訓練を毎年実施する。</Sentence>
     </Article>
 
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>武器弾薬の融通制限</ArticleTitle>
       <Sentence>平時において、警察が国防軍から重火器等の貸与を受けることは、国家公安委員会の議を経なければならない。</Sentence>
     </Article>
@@ -578,27 +578,27 @@
   <Chapter Num="11">
     <ChapterTitle>罰則</ChapterTitle>
 
-    <Article Num="101">
+    <Article Num="1">
       <ArticleTitle>警察官の職権濫用罪</ArticleTitle>
       <Sentence>警察官がその職権を濫用して人に義務のないことを行わせ、又は権利の行使を妨害したときは、二年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="102">
+    <Article Num="2">
       <ArticleTitle>警察署内暴行の加重処罰</ArticleTitle>
       <Sentence>留置中の被疑者に対し暴行又は陵虐の行為をした警察官は、三年以下の拘禁刑に処する。</Sentence>
     </Article>
 
-    <Article Num="103">
+    <Article Num="3">
       <ArticleTitle>警察秘密漏洩の罪</ArticleTitle>
       <Sentence>警察職員が職務上知り得た捜査情報又は個人の重大秘密を漏らしたときは、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="104">
+    <Article Num="4">
       <ArticleTitle>警察手帳・制服の不正使用罪</ArticleTitle>
       <Sentence>警察官でない者が、警察官の制服、警察手帳若しくは装備品を着用し、又はこれに類似するものを使用して警察官と詐称したときは、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="105">
+    <Article Num="5">
       <ArticleTitle>退去命令違反の罪</ArticleTitle>
       <Sentence>第三十七条の規定による立入制限区域から警察官の命令を受けても退去しない者は、十万円以下の罰金又は科料に処する。</Sentence>
     </Article>

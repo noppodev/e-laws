@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>行政書士法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「行政書士」とは、官公署に提出する許認可等の書類、権利義務又は事実証明に関する書類の作成代理を業とする専門職をいうをいう。</Sentence>
+      <Sentence>この法律において「行政書士」とは、官公署に提出する許認可等の書類、権利義務又は事実証明に関する書類の作成代理を業とする専門職をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「特定行政書士」とは、行政不服審査法に基づく審査請求等の代理業務を行う権限を付記された行政書士をいうをいう。</Sentence>
+        <Sentence>この法律において「特定行政書士」とは、行政不服審査法に基づく審査請求等の代理業務を行う権限を付記された行政書士をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -46,7 +46,7 @@
     </Article>
     <Article Num="9">
       <ArticleTitle>情報の公開と説明責任</ArticleTitle>
-      <Sentence>総務大臣及び知事は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
     </Article>
     <Article Num="10">
       <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
-      <Sentence>この法律に規定する事務は、総務大臣及び知事が管理統理する。</Sentence>
+      <Sentence>この法律に規定する事務は、内務大臣及び知事が管理統理する。</Sentence>
       <Paragraph Num="2">
-        <Sentence>総務大臣及び知事は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+        <Sentence>内務大臣及び知事は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
-      <Sentence>総務大臣及び知事は、官公署提出書類及び権利義務・事実証明書類の作成代理の確立に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、官公署提出書類及び権利義務・事実証明書類の作成代理の確立に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
-      <Sentence>総務大臣及び知事は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
-      <Sentence>総務大臣及び知事の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+      <Sentence>内務大臣及び知事の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
-      <Sentence>総務大臣及び知事及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+      <Sentence>内務大臣及び知事及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
-      <Sentence>総務大臣及び知事は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+      <Sentence>内務大臣及び知事は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
-      <Sentence>総務大臣及び知事は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+      <Sentence>内務大臣及び知事は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
-      <Sentence>総務大臣及び知事は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>行政書士の使命、資格及び試験</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>行政書士の使命</ArticleTitle>
       <Sentence>国民と行政との架け橋として、国民の利便を図り行政手続の円滑な進捗に寄与する。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>資格取得の要件</ArticleTitle>
       <Sentence>行政書士試験に合格した者、弁護士、弁理士、公認会計士、税理士の有資格者に資格を与える。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>公務員特例の要件</ArticleTitle>
       <Sentence>国又は地方の行政事務に通算二十年以上従事した者に資格を認める。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>国家試験の科目</ArticleTitle>
       <Sentence>憲法、民法、行政法、商法、基礎法学及び一般知識等の筆記試験を行う。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>特定行政書士の法定研修</ArticleTitle>
       <Sentence>審査請求代理権を取得するため、特別の法制研修及び考査を課す。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>欠格事由の規定</ArticleTitle>
       <Sentence>禁錮以上の刑、破産者、懲戒免職公務員等は登録できない。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>行政書士名簿への登録</ArticleTitle>
-      <Sentence>日本行政書士会連合会に備える名簿に登録を受けなければならない。</Sentence>
+      <Sentence>国家行政書士連合会に備える名簿に登録を受けなければならない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>登録の審査と拒絶</ArticleTitle>
       <Sentence>非行又は心身の故障があるときは、審査会の議を経て登録を拒絶する。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>会則の遵守義務</ArticleTitle>
       <Sentence>所属行政書士会及び連合会の会則を守り、品位を保持しなければならない。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>職責の基本規律</ArticleTitle>
       <Sentence>公正かつ誠実に職務を遂行し、行政手続の適法性を担保しなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>業務の範囲及び官公署手続代理</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>官公署提出書類の作成代理</ArticleTitle>
       <Sentence>建設業許可、飲食店営業許可、農地転用許可等の許認可申請書類を代理作成する。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>電磁的申請の代理</ArticleTitle>
       <Sentence>電子政府システム（ｅ−Ｇｏｖ）を通じたオンライン許認可申請を包括的に代理する。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>権利義務に関する書類の作成</ArticleTitle>
       <Sentence>契約書、遺産分割協議書、定款、示談書等の権利義務に関する文書を作成代理する。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>事実証明に関する書類の作成</ArticleTitle>
       <Sentence>法人の財務諸表、議事録、位置図、実測図等の事実証明書類を作成する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>行政不服審査請求の代理</ArticleTitle>
       <Sentence>特定行政書士は、自ら作成した許認可申請の不作為又は拒否処分に対する審査請求を代理できる。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>法人設立の手続支援</ArticleTitle>
       <Sentence>株式会社、ＮＰＯ法人等の定款作成及び公証人認証手続を代理する。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>出入国管理関係の手続（申請取次）</ArticleTitle>
       <Sentence>在留資格認定証明書交付、在留期間更新等の入管申請取次業務を行う。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>自動車登録手続の代行</ArticleTitle>
       <Sentence>自動車の登録、車庫証明、封印取付け業務を代行する。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>他の法律による制限</ArticleTitle>
       <Sentence>弁護士法、司法書士法、税理士法等で制限される専任業務に介入してはならない。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>正当な理由なき拒絶の禁止</ArticleTitle>
       <Sentence>依頼を受けたときは、正当な理由がなければ業務の引受けを拒んではならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>行政書士法人及び事務所の運営</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>行政書士法人の設立</ArticleTitle>
       <Sentence>二名以上の行政書士が共同して行政書士法人を設立することができる。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>社員の無限連帯責任</ArticleTitle>
       <Sentence>法人の社員は、法人の債務について連帯して無限の責任を負う。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>従たる事務所の設置</ArticleTitle>
       <Sentence>法人は支部事務所を置くことができ、常駐する社員行政書士を配置する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>事務所の設置制限</ArticleTitle>
       <Sentence>行政書士は、業務を行うための事務所を一箇所に限り設けることができる。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>利益相反行為の禁止</ArticleTitle>
       <Sentence>同一の申請又は協議に関し対立する双方の当事者から受任してはならない。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>守秘義務の厳格保持</ArticleTitle>
       <Sentence>職務上知り得た顧客の営業秘密及び個人情報を正当な理由なく漏らしてはならない。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>帳簿の備付けと保存</ArticleTitle>
       <Sentence>事件の件名、報酬額を記載した業務帳簿を作成し、二年間（重要文書は五年）保存する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>領収証の交付義務</ArticleTitle>
       <Sentence>報酬を受領したときは、正当な領収証を交付しなければならない。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>名義貸しの絶対禁止</ArticleTitle>
       <Sentence>行政書士でない者に自己の名義を利用させて書類作成を行わせてはならない。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>報酬額の掲示義務</ArticleTitle>
       <Sentence>事務所の見やすい場所に報酬額の基準を掲示しなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>知事による監督及び懲戒手続</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>都道府県知事の監督権</ArticleTitle>
       <Sentence>行政書士及び行政書士法人は、事務所所在地の都道府県知事が監督する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>懲戒事由の類型</ArticleTitle>
       <Sentence>法令違反、会則違反、又は職責を著しく汚す非行があったとき。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>懲戒処分の種別</ArticleTitle>
       <Sentence>戒告、一年以内の業務の停止、及び知事による業務の廃止の三種とする。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>聴聞手続の実施</ArticleTitle>
       <Sentence>懲戒処分を下すにあたっては、行政手続法に基づく公開の聴聞を行わなければならない。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>処分の官報公告</ArticleTitle>
       <Sentence>業務停止又は廃止の処分をしたときは、都道府県の公報に告示し官報に掲載する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>非行政書士行為の排除</ArticleTitle>
       <Sentence>行政書士でない者が報酬を得て官公署提出書類の作成を業とすることを禁止する。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>不正な紹介業者の排除</ArticleTitle>
       <Sentence>事件のあっせん業者から顧客の紹介を受け、手数料を支払ってはならない。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>職務上請求書の適正使用</ArticleTitle>
       <Sentence>戸籍謄本・住民票の職務上請求書を不正に取得・使用した者は厳罰に処する。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>綱紀委員会の調査</ArticleTitle>
       <Sentence>不祥事事案に対し、会内の綱紀委員会が速やかに事実関係を究明する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>官公署との連絡調整</ArticleTitle>
       <Sentence>行政機関と定期的な連絡協議会を開き、電子申請手続の利便性向上を図る。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>罰則及び非資格者の処罰</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>非資格者業務の罪</ArticleTitle>
       <Sentence>資格なく官公署提出書類の作成を業とした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>名義貸しの罪</ArticleTitle>
       <Sentence>資格を貸与した行政書士は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>職務上請求書不正使用の罪</ArticleTitle>
       <Sentence>他人の戸籍等を不正に取得した者は、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>虚偽標榜の罪</ArticleTitle>
       <Sentence>行政書士でない者が行政書士事務所の名称を用いたときは、三十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上の秘密を漏らした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>立入検査拒否の過料</ArticleTitle>
       <Sentence>都道府県知事の検査を拒み、又は妨げた者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の業務に関して違反行為があったときは、法人に対しても罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料</ArticleTitle>
       <Sentence>事務所変更届を怠った者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>市民法務への貢献</ArticleTitle>
       <Sentence>遺言、成年後見、街の法務手続を通じて市民の法的安定を支援する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>行政のデジタル化対応</ArticleTitle>
       <Sentence>完全ペーパーレス行政に向け、電磁的行政手続の専門能力を高めなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
-      <Sentence>総務大臣及び知事は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+      <Sentence>内務大臣及び知事は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
-      <Sentence>総務大臣及び知事の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Sentence>内務大臣及び知事の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
-      <Sentence>総務大臣及び知事は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+      <Sentence>内務大臣及び知事は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
-      <Sentence>総務大臣及び知事は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+      <Sentence>内務大臣及び知事は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
-      <Sentence>総務大臣及び知事は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+      <Sentence>内務大臣及び知事は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
-      <Sentence>総務大臣及び知事は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+      <Sentence>内務大臣及び知事は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
-      <Sentence>総務大臣及び知事は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+      <Sentence>内務大臣及び知事は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
-      <Sentence>総務大臣及び知事は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
-      <Sentence>総務大臣及び知事は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+      <Sentence>内務大臣及び知事は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

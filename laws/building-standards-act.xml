@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>建築基準法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「建築物」とは、土地に定着する工作物のうち、屋根及び柱若しくは壁を有するものをいうをいう。</Sentence>
+      <Sentence>この法律において「建築物」とは、土地に定着する工作物のうち、屋根及び柱若しくは壁を有するものをいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「建築確認」とは、建築工事に着手する前に、設計図面が法令の基準に適合しているかの公的確認を受けることをいうをいう。</Sentence>
+        <Sentence>この法律において「建築確認」とは、建築工事に着手する前に、設計図面が法令の基準に適合しているかの公的確認を受けることをいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、国土交通大臣及び特定行政庁が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>国土交通大臣及び特定行政庁は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、建築物の敷地、構造、設備及び用途に関する最低の基準の策定と国民の生命健康財産の保護に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>総則、建築確認及び検査済証</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>建築主の義務</ArticleTitle>
       <Sentence>建築主は、工事に着手する前に建築主事又は指定確認検査機関の建築確認を受けなければならない。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>確認済証の交付</ArticleTitle>
       <Sentence>図面審査に合格したときは、確認済証を交付し、確認を受けなければ着工してはならない。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>中間検査の制度</ArticleTitle>
       <Sentence>特定工程（基礎工事、鉄骨建て方等）が終了したときは、中間検査を受け合格しなければならない。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>完了検査及び検査済証</ArticleTitle>
       <Sentence>工事が完了したときは、四日以内に完了検査を申請し、検査済証の交付を受ける。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>検査済証なき使用の制限</ArticleTitle>
       <Sentence>検査済証の交付前には、原則として建築物を使用してはならない。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>特定行政庁の設置</ArticleTitle>
       <Sentence>人口二十万人以上の市等に、建築行政を統理する特定行政庁を置く。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>建築監視員の配置</ArticleTitle>
       <Sentence>違反建築物のパトロール及び工事停止命令を行わせるため、専任の監視員を置く。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>既存不適格建築物の特例</ArticleTitle>
       <Sentence>法改正時に既に存在していた建物については、増改築を行わない限り直ちに違法とはしない。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>仮設建築物の許可</ArticleTitle>
       <Sentence>災害復旧用又は短期間の仮設建築物には、安全を確認の上で特例許可を与える。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>指定確認検査機関の指定</ArticleTitle>
       <Sentence>民間機関による建築確認検査を認め、その公正な業務を監督する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>単体規定（構造耐力、耐火及び避難設備）</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>構造耐力の安全基準</ArticleTitle>
       <Sentence>自重、積載荷重、積雪荷重、風圧及び巨大地震動に対して倒壊しない構造でなければならない。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>耐震設計基準（新耐震基準）</ArticleTitle>
       <Sentence>震度六強から七の大地震においても倒壊せず人命を守る構造計算を義務付ける。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>超高層建築物の大臣認定</ArticleTitle>
       <Sentence>高さ六十メートルを超える建築物は、時刻歴応答解析に基づく国土交通大臣の個別認定を要する。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>耐火建築物の基準</ArticleTitle>
       <Sentence>主要構造部（柱、梁、壁）が火災終了まで倒壊を防止する耐火性能を有しなければならない。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>防火区画の設置</ArticleTitle>
       <Sentence>延べ面積千五百平方メートル以内ごとに、一時間耐火の防火シャッター等で区画する。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>内装制限の適用</ArticleTitle>
       <Sentence>火気使用室、劇場、避難階段等の壁及び天井は、難燃材料又は不燃材料で仕上げる。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>排煙設備の設置</ArticleTitle>
       <Sentence>火災時の煙を速やかに屋外へ排出する自然排煙口又は機械排煙機を義務付ける。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>非常用照明装置</ArticleTitle>
       <Sentence>停電時に自動点灯し、避難通路の床面照度を一ルクス以上確保する非常用照明を設ける。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>非常用エレベーターの設置</ArticleTitle>
       <Sentence>高さ三十一メートルを超える高層建築物には、消防活動用の非常用昇降機を設置する。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>避難階段の構造</ArticleTitle>
       <Sentence>屋内避難階段、特別避難階段には、耐火防煙性能を有する前室を設けなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>居室の衛生、シックハウス対策及び設備</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>居室の採光基準</ArticleTitle>
       <Sentence>住宅の居室には、床面積の七分の一以上の採光有効面積を有する窓を設けなければならない。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>自然換気設備の設置</ArticleTitle>
       <Sentence>床面積の二十分の一以上の換気窓、又は機械換気設備を常備しなければならない。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>シックハウス症候群の防止</ArticleTitle>
       <Sentence>クロルピリホスの使用を禁止し、ホルムアルデヒドを発散する建材の使用面積を厳格に制限する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>二十四時間換気システムの義務化</ArticleTitle>
       <Sentence>住宅には、一時間に〇・五回以上の換気能力を有する機械換気設備を設置しなければならない。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>給排水設備の衛生基準</ArticleTitle>
       <Sentence>飲用水の配管と排水管の逆流を防止し、衛生害虫の侵入を防ぐトラップを設ける。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>落雷防止（避雷設備）</ArticleTitle>
       <Sentence>高さ二十メートルを超える建築物には、ＪＩＳ規格に合致した避雷針を設けなければならない。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>石綿（アスベスト）の全面使用禁止</ArticleTitle>
       <Sentence>吹付けアスベスト等の有害物質を建築材料として使用してはならない。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>昇降機の安全装置</ArticleTitle>
       <Sentence>エレベーターには、地震時初期微動感知停止装置及び戸開走行保護装置を義務付ける。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>バリアフリー基準の適用</ArticleTitle>
       <Sentence>病院、ホテル等の特定建築物には、車椅子用スロープ、多機能トイレの設置を義務付ける。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>省エネルギー基準への適合</ArticleTitle>
       <Sentence>一定規模以上の建築物には、断熱性能及びエネルギー消費効率の基準適合を義務付ける。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>集団規定（道路斜線、用途地域及び容積率）</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>道路付けの原則（接道義務）</ArticleTitle>
       <Sentence>建築物の敷地は、幅員四メートル以上の道路に二メートル以上接していなければならない。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>二項道路（みなし道路）</ArticleTitle>
       <Sentence>幅員四メートル未満の既存道路は、中心線から二メートル後退（セットバック）して建築する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>用途地域の指定と建築制限</ArticleTitle>
       <Sentence>住居系、商業系、工業系の用途地域に応じ、建築できる建物の用途を制限する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>建ぺい率（敷地内空地）の制限</ArticleTitle>
       <Sentence>敷地面積に対する建築面積の割合を制限し、通風、日照及び延焼防止を図る。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>容積率（延床面積）の制限</ArticleTitle>
       <Sentence>敷地面積に対する延べ床面積の割合を制限し、都市インフラの容量と調和させる。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>道路斜線制限</ArticleTitle>
       <Sentence>前面道路の反対側の境界線からの斜線勾配の内側に建物を納めなければならない。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>隣地斜線制限</ArticleTitle>
       <Sentence>隣地境界線からの一定の高さと斜線勾配により、隣接地の日照を保護する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>北側斜線制限</ArticleTitle>
       <Sentence>住居専用地域において、北側隣地の日照を確保するため北側の高さを制限する。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>日影規制（日影による中高層制限）</ArticleTitle>
       <Sentence>冬至日の一定時間、敷地境界線外に影を落とさないよう高さを制限する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>防火地域及び準防火地域の指定</ArticleTitle>
       <Sentence>都市の市街地火災を防ぐため、耐火建築物とすべき地域を指定する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>違反建築物に対する是正命令及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>工事停止命令</ArticleTitle>
       <Sentence>建築確認を受けずに工事を着工した者に対し、特定行政庁は直ちに工事の停止を命ずる。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>使用禁止及び除却命令</ArticleTitle>
       <Sentence>重大な基準違反のある建物に対し、使用禁止又は建物の解体撤去（除却）を命ずることができる。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>違反建築物の標識設置</ArticleTitle>
       <Sentence>是正命令を発したときは、敷地に違反事実を記載した標識を設置し公示する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>電気・水道の供給保留要請</ArticleTitle>
       <Sentence>除却命令に従わない悪質建築物に対し、公共インフラの供給停止を要請できる。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>行政代執行の実施</ArticleTitle>
       <Sentence>倒壊の危険が切迫し命令に従わないときは、行政代執行により強制解体する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>虚偽設計・確認申請の罪</ArticleTitle>
       <Sentence>故意に耐震計算を偽装した建築士は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>除却命令違反の罪</ArticleTitle>
       <Sentence>特定行政庁の除却命令に違反した建築主は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>無確認着工の罪</ArticleTitle>
       <Sentence>確認を受けずに着工した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>法人の重罰金（一億円以下）</ArticleTitle>
       <Sentence>法人の業務に関して耐震偽装等の罪を犯したときは、その法人に対し一億円以下の罰金を科する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>建築士免許の取消処分</ArticleTitle>
       <Sentence>耐震偽装等に関与した建築士は、国土交通大臣が直ちに免許を取り消し永久追放する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>国土交通大臣及び特定行政庁は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

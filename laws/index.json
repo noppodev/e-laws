@@ -12,72 +12,6 @@
     "articleCount": 44
   },
   {
-    "id": "administrative-scrivener-act",
-    "title": "行政書士法",
-    "filename": "administrative-scrivener-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "antimonopoly-act",
-    "title": "私的独占禁止及び公正取引確保法",
-    "filename": "antimonopoly-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "attorney-at-law",
-    "title": "弁護士法",
-    "filename": "attorney-at-law.xml",
-    "articleCount": 108
-  },
-  {
-    "id": "banking-act",
-    "title": "銀行法",
-    "filename": "banking-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "bankruptcy-act",
-    "title": "破産法",
-    "filename": "bankruptcy-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "basic-environment-act",
-    "title": "環境基本法",
-    "filename": "basic-environment-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "building-standards-act",
-    "title": "建築基準法",
-    "filename": "building-standards-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "certified-public-accountant-act",
-    "title": "公認会計士法",
-    "filename": "certified-public-accountant-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "civil-aeronautics-act",
-    "title": "航空法",
-    "filename": "civil-aeronautics-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "civil-conciliation-act",
-    "title": "民事調停法",
-    "filename": "civil-conciliation-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "civil-execution-act",
-    "title": "民事執行法",
-    "filename": "civil-execution-act.xml",
-    "articleCount": 105
-  },
-  {
     "id": "civil-procedure",
     "title": "民事訴訟法",
     "filename": "civil-procedure.xml",
@@ -102,34 +36,10 @@
     "articleCount": 60
   },
   {
-    "id": "consumption-tax-act",
-    "title": "消費税法",
-    "filename": "consumption-tax-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "copyright-act",
-    "title": "著作権法",
-    "filename": "copyright-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "corporate-law",
-    "title": "会社法",
-    "filename": "corporate-law.xml",
-    "articleCount": 100
-  },
-  {
     "id": "court",
     "title": "裁判所法",
     "filename": "court.xml",
     "articleCount": 61
-  },
-  {
-    "id": "criminal-compensation-act",
-    "title": "刑事補償法",
-    "filename": "criminal-compensation-act.xml",
-    "articleCount": 100
   },
   {
     "id": "criminal-procedure",
@@ -144,22 +54,10 @@
     "articleCount": 70
   },
   {
-    "id": "decentralization-promotion-act",
-    "title": "地方分権推進法",
-    "filename": "decentralization-promotion-act.xml",
-    "articleCount": 100
-  },
-  {
     "id": "defense-ministry-organization-order",
     "title": "行政組織法に基づく国防省の組織並びに陸軍庁、海軍庁及び空軍庁の設置及び所掌事務に関する政令",
     "filename": "defense-ministry-organization-order.xml",
     "articleCount": 29
-  },
-  {
-    "id": "digital-signature-act",
-    "title": "電子署名及び認証業務に関する法律",
-    "filename": "digital-signature-act.xml",
-    "articleCount": 100
   },
   {
     "id": "election",
@@ -174,100 +72,10 @@
     "articleCount": 62
   },
   {
-    "id": "employment-insurance-act",
-    "title": "雇用保険法",
-    "filename": "employment-insurance-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "financial-instruments-exchange-act",
-    "title": "金融商品取引法",
-    "filename": "financial-instruments-exchange-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "fire-service-act",
-    "title": "消防法",
-    "filename": "fire-service-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "food-sanitation-act",
-    "title": "食品衛生法",
-    "filename": "food-sanitation-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "foreign-exchange-act",
-    "title": "外国為替及び外国貿易法",
-    "filename": "foreign-exchange-act.xml",
-    "articleCount": 100
-  },
-  {
     "id": "fundamental-rights-act",
     "title": "基本的人権保障特別法",
     "filename": "fundamental-rights-act.xml",
     "articleCount": 17
-  },
-  {
-    "id": "general-law-of-national-taxes",
-    "title": "国税通則法",
-    "filename": "general-law-of-national-taxes.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "immigration-control-act",
-    "title": "出入国管理及び難民認定法",
-    "filename": "immigration-control-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "industrial-accident-compensation-insurance-act",
-    "title": "労働者災害補償保険法",
-    "filename": "industrial-accident-compensation-insurance-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "industrial-safety-and-health-act",
-    "title": "労働安全衛生法",
-    "filename": "industrial-safety-and-health-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "insurance-business-act",
-    "title": "保険業法",
-    "filename": "insurance-business-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "judicial-scrivener-act",
-    "title": "司法書士法",
-    "filename": "judicial-scrivener-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "juvenile-act",
-    "title": "少年法",
-    "filename": "juvenile-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "labor-standards-act",
-    "title": "労働基準法",
-    "filename": "labor-standards-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "labor-union-act",
-    "title": "労働組合法",
-    "filename": "labor-union-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "lay-judge-act",
-    "title": "裁判員法",
-    "filename": "lay-judge-act.xml",
-    "articleCount": 100
   },
   {
     "id": "local-autonomy",
@@ -282,22 +90,10 @@
     "articleCount": 200
   },
   {
-    "id": "local-tax-act",
-    "title": "地方税法",
-    "filename": "local-tax-act.xml",
-    "articleCount": 100
-  },
-  {
     "id": "martial-law",
     "title": "国家の安全及び公共の秩序を維持するための戒厳の宣告、実施及び解除並びに戒厳下における行政その他の特例に関する法律",
     "filename": "martial-law.xml",
     "articleCount": 45
-  },
-  {
-    "id": "medical-care-act",
-    "title": "医療法",
-    "filename": "medical-care-act.xml",
-    "articleCount": 100
   },
   {
     "id": "national-defense",
@@ -318,105 +114,15 @@
     "articleCount": 70
   },
   {
-    "id": "national-security-council-act",
-    "title": "国家安全保障会議設置法",
-    "filename": "national-security-council-act.xml",
-    "articleCount": 100
-  },
-  {
     "id": "nationality-act",
     "title": "国籍法",
     "filename": "nationality-act.xml",
     "articleCount": 43
   },
   {
-    "id": "natural-parks-act",
-    "title": "自然公園法",
-    "filename": "natural-parks-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "patent-act",
-    "title": "特許法",
-    "filename": "patent-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "patent-attorney-act",
-    "title": "弁理士法",
-    "filename": "patent-attorney-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "penal-reform-implementation-act",
-    "title": "拘禁刑創設及び行刑改革施行法",
-    "filename": "penal-reform-implementation-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "pharmaceutical-and-medical-device-act",
-    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律",
-    "filename": "pharmaceutical-and-medical-device-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "police-law",
-    "title": "警察法",
-    "filename": "police-law.xml",
-    "articleCount": 105
-  },
-  {
     "id": "president",
     "title": "大統領法",
     "filename": "president.xml",
     "articleCount": 56
-  },
-  {
-    "id": "prison-administration-act",
-    "title": "刑事施設及び受刑者処遇法",
-    "filename": "prison-administration-act.xml",
-    "articleCount": 105
-  },
-  {
-    "id": "public-prosecutors-office",
-    "title": "検察庁法",
-    "filename": "public-prosecutors-office.xml",
-    "articleCount": 101
-  },
-  {
-    "id": "radio-act",
-    "title": "電波法",
-    "filename": "radio-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "real-estate-registration-act",
-    "title": "不動産登記法",
-    "filename": "real-estate-registration-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "road-traffic-act",
-    "title": "道路交通法",
-    "filename": "road-traffic-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "state-property-act",
-    "title": "国有財産法",
-    "filename": "state-property-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "telecommunications-business-act",
-    "title": "電気通信事業法",
-    "filename": "telecommunications-business-act.xml",
-    "articleCount": 100
-  },
-  {
-    "id": "wiretap-act",
-    "title": "犯罪捜査のための通信傍受に関する法律",
-    "filename": "wiretap-act.xml",
-    "articleCount": 100
   }
 ]

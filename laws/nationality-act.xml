@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>国籍法</Title>
 
@@ -59,7 +59,7 @@
   <Chapter Num="2">
     <ChapterTitle>出生その他による国籍の取得</ChapterTitle>
 
-    <Article Num="5">
+    <Article Num="1">
       <ArticleTitle>出生による国籍の取得</ArticleTitle>
       <Sentence>子は、次の各号のいずれかに該当するときは、出生によって国籍を取得する。</Sentence>
       <Paragraph Num="2">
@@ -79,7 +79,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="6">
+    <Article Num="2">
       <ArticleTitle>出生時の親子関係の確認</ArticleTitle>
       <Sentence>前条の規定における父又は母との関係は、法律上の親子関係に基づいて判断する。</Sentence>
       <Paragraph Num="2">
@@ -93,7 +93,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="7">
+    <Article Num="3">
       <ArticleTitle>認知された子の国籍取得</ArticleTitle>
       <Sentence>国民である父又は母から認知された子は、その認知に係る親子関係が法律上有効であり、次の各号の要件を満たすときは、国籍行政庁への届出によって国籍を取得することができる。</Sentence>
       <Paragraph Num="2">
@@ -110,7 +110,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="8">
+    <Article Num="4">
       <ArticleTitle>養子縁組等の取扱い</ArticleTitle>
       <Sentence>養子縁組その他の親子関係に関する法律行為は、それ自体によって国籍を取得させるものではない。</Sentence>
       <Paragraph Num="2">
@@ -121,7 +121,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="9">
+    <Article Num="5">
       <ArticleTitle>遺棄された子及び親が不明な子の保護</ArticleTitle>
       <Sentence>国内で発見された子について、父母がともに知れず、又はその国籍を確認することができない場合には、国籍行政庁は、無国籍となることを防止するため、出生地、発見された場所、保護の経緯その他の事情を調査しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -135,7 +135,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="10">
+    <Article Num="6">
       <ArticleTitle>出生による外国籍の取得及び国籍の留保</ArticleTitle>
       <Sentence>出生によって国籍を取得した者が、同時に外国の国籍を取得した場合であっても、そのことのみを理由として国籍を失わない。</Sentence>
       <Paragraph Num="2">
@@ -153,7 +153,7 @@
   <Chapter Num="3">
     <ChapterTitle>帰化による国籍の取得</ChapterTitle>
 
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>帰化</ArticleTitle>
       <Sentence>外国人は、この法律の定めるところにより、帰化によって国籍を取得することができる。</Sentence>
       <Paragraph Num="2">
@@ -164,7 +164,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>帰化の一般的要件</ArticleTitle>
       <Sentence>国籍行政庁は、次の各号の要件をすべて満たす者について、帰化を許可することができる。</Sentence>
       <Paragraph Num="2">
@@ -187,7 +187,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>帰化要件の特例</ArticleTitle>
       <Sentence>国籍行政庁は、次の各号のいずれかに該当する者について、前条第一項第一号又は第二号の要件を緩和することができる。</Sentence>
       <Paragraph Num="2">
@@ -213,7 +213,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>帰化の申請</ArticleTitle>
       <Sentence>帰化を申請する者は、氏名、生年月日、出生地、現在の国籍、住所、親子関係、在留状況、生計の状況その他審査に必要な事項を記載した申請書を国籍行政庁に提出しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -227,7 +227,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>帰化の審査</ArticleTitle>
       <Sentence>国籍行政庁は、帰化の申請を受理したときは、申請者の本人性、親子関係、住所、在留状況、法令遵守の状況その他法定の要件に関する事実を調査しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -241,7 +241,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>帰化の許可及び効力</ArticleTitle>
       <Sentence>国籍行政庁は、帰化の要件を満たすと認めるときは、帰化を許可する。</Sentence>
       <Paragraph Num="2">
@@ -255,7 +255,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>帰化の不許可</ArticleTitle>
       <Sentence>国籍行政庁は、帰化を許可しないときは、申請者に対し、不許可の旨及びその理由を文書で通知しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -273,7 +273,7 @@
   <Chapter Num="4">
     <ChapterTitle>重国籍及び国籍の選択</ChapterTitle>
 
-    <Article Num="18">
+    <Article Num="1">
       <ArticleTitle>重国籍の取扱い</ArticleTitle>
       <Sentence>国民が出生その他本人の意思によらない事由によって外国の国籍を取得した場合には、そのことのみを理由として国籍を失わない。</Sentence>
       <Paragraph Num="2">
@@ -284,7 +284,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="19">
+    <Article Num="2">
       <ArticleTitle>国籍選択の対象及び期限</ArticleTitle>
       <Sentence>国民が外国の国籍を有する場合には、国籍行政庁は、国籍の選択が必要となる場合及びその期限について、本人に分かりやすい方法で通知するものとする。</Sentence>
       <Paragraph Num="2">
@@ -298,7 +298,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="20">
+    <Article Num="3">
       <ArticleTitle>国籍選択の方法</ArticleTitle>
       <Sentence>国籍の選択は、本人の意思を確認できる書面又は電磁的方法による届出によって行う。</Sentence>
       <Paragraph Num="2">
@@ -312,7 +312,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="21">
+    <Article Num="4">
       <ArticleTitle>国籍選択の期限の徒過</ArticleTitle>
       <Sentence>国籍選択の期限までに選択をしなかった者に対しては、国籍行政庁は、まず書面により選択を求め、選択期限及び期限徒過の法的効果を通知しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -330,7 +330,7 @@
   <Chapter Num="5">
     <ChapterTitle>国籍の離脱、喪失及び再取得</ChapterTitle>
 
-    <Article Num="22">
+    <Article Num="1">
       <ArticleTitle>国籍の離脱</ArticleTitle>
       <Sentence>国民は、外国の国籍を有し、又は他の国籍を取得することが確実である場合には、国籍行政庁に届け出ることによって、国籍を離脱することができる。</Sentence>
       <Paragraph Num="2">
@@ -344,7 +344,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="23">
+    <Article Num="2">
       <ArticleTitle>国籍の喪失</ArticleTitle>
       <Sentence>国籍は、次の各号のいずれかに該当する場合に限り、失われる。</Sentence>
       <Paragraph Num="2">
@@ -364,7 +364,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="24">
+    <Article Num="3">
       <ArticleTitle>外国の公職等への就任</ArticleTitle>
       <Sentence>国民が外国の公職に就任し、又は外国の政府若しくは公的機関に勤務したことのみを理由として、国籍を喪失しない。</Sentence>
       <Paragraph Num="2">
@@ -372,7 +372,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="25">
+    <Article Num="4">
       <ArticleTitle>国籍喪失の確認及び通知</ArticleTitle>
       <Sentence>国籍行政庁は、国籍が喪失したと判断した場合には、その法的根拠、認定した事実、効力発生日及び不服申立ての方法を記載した文書を本人に通知しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -383,7 +383,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="26">
+    <Article Num="5">
       <ArticleTitle>国籍の再取得</ArticleTitle>
       <Sentence>過去に国籍を有していた者は、国籍を喪失した経緯、現在の国籍及び生活の実態その他の事情を考慮し、この法律の定めるところにより、国籍の再取得を申請することができる。</Sentence>
       <Paragraph Num="2">
@@ -401,7 +401,7 @@
   <Chapter Num="6">
     <ChapterTitle>国籍の確認及び証明</ChapterTitle>
 
-    <Article Num="27">
+    <Article Num="1">
       <ArticleTitle>国籍の確認</ArticleTitle>
       <Sentence>自己の国籍の有無又は国籍に関する法律上の地位に疑義がある者は、国籍行政庁に対し、その確認を求めることができる。</Sentence>
       <Paragraph Num="2">
@@ -412,7 +412,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="28">
+    <Article Num="2">
       <ArticleTitle>国籍の証明</ArticleTitle>
       <Sentence>国籍行政庁は、国籍を有する者又は正当な利害関係を有する者から請求があったときは、国籍の有無及び取得又は喪失の時期を証明する書面を交付しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -426,7 +426,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="29">
+    <Article Num="3">
       <ArticleTitle>記録の訂正</ArticleTitle>
       <Sentence>国籍に関する記録に誤りがある場合には、本人又は正当な利害関係を有する者は、国籍行政庁に対し、記録の訂正を請求することができる。</Sentence>
       <Paragraph Num="2">
@@ -444,7 +444,7 @@
   <Chapter Num="7">
     <ChapterTitle>届出及び審査の手続</ChapterTitle>
 
-    <Article Num="30">
+    <Article Num="1">
       <ArticleTitle>届出の方法</ArticleTitle>
       <Sentence>この法律に基づく申請及び届出は、書面又は国籍行政庁が定める安全な電磁的方法によって行うことができる。</Sentence>
       <Paragraph Num="2">
@@ -458,7 +458,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="31">
+    <Article Num="2">
       <ArticleTitle>未成年者の届出及び申請</ArticleTitle>
       <Sentence>十五歳未満の者がこの法律に基づく届出又は申請を行う場合には、法定代理人が本人に代わって行う。</Sentence>
       <Paragraph Num="2">
@@ -472,7 +472,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="32">
+    <Article Num="3">
       <ArticleTitle>事実の調査及び資料の提出</ArticleTitle>
       <Sentence>国籍行政庁は、この法律に基づく申請又は届出の審査に必要な範囲で、本人その他関係者に対し、説明又は資料の提出を求めることができる。</Sentence>
       <Paragraph Num="2">
@@ -486,7 +486,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="33">
+    <Article Num="4">
       <ArticleTitle>審査の公正及び記録</ArticleTitle>
       <Sentence>国籍行政庁は、この法律に基づく審査を公正かつ中立に行い、判断の基礎となる主要な事実及び理由を記録しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -501,7 +501,7 @@
   <Chapter Num="8">
     <ChapterTitle>不服申立て及び司法上の救済</ChapterTitle>
 
-    <Article Num="34">
+    <Article Num="1">
       <ArticleTitle>不服申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又は不作為に不服がある者は、法律に定めるところにより、不服申立てをすることができる。</Sentence>
       <Paragraph Num="2">
@@ -515,7 +515,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="35">
+    <Article Num="2">
       <ArticleTitle>司法上の救済</ArticleTitle>
       <Sentence>国籍の取得、喪失、帰化の許否、記録の訂正その他この法律に基づく処分又は不作為について、法律上の利益を有する者は、裁判所に救済を求めることができる。</Sentence>
       <Paragraph Num="2">
@@ -529,7 +529,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="36">
+    <Article Num="3">
       <ArticleTitle>処分の取消し及び訂正</ArticleTitle>
       <Sentence>国籍行政庁は、国籍に関する処分が法令に違反し、重要な事実の誤認に基づき、又は適正な手続を欠いて行われたことが判明した場合には、法律の定めるところにより、その処分を取り消し、変更し、又は訂正しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -544,7 +544,7 @@
   <Chapter Num="9">
     <ChapterTitle>不正行為への対応及び雑則</ChapterTitle>
 
-    <Article Num="37">
+    <Article Num="1">
       <ArticleTitle>虚偽の申請等</ArticleTitle>
       <Sentence>国籍の取得、帰化、国籍の離脱その他この法律に基づく手続において、重要な事実について虚偽の申告をし、偽造された資料を提出し、又は重要な事実を故意に隠した者については、国籍行政庁は、その申請又は届出を拒否し、又は法律に定める手続により処分を取り消すことができる。</Sentence>
       <Paragraph Num="2">
@@ -555,7 +555,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="38">
+    <Article Num="2">
       <ArticleTitle>国籍取得の効力の否定の制限</ArticleTitle>
       <Sentence>国籍取得の効力を否定する場合には、その根拠、要件及び手続を法律に明確に定めなければならない。</Sentence>
       <Paragraph Num="2">
@@ -566,7 +566,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="39">
+    <Article Num="3">
       <ArticleTitle>罰則との関係</ArticleTitle>
       <Sentence>この法律に違反する行為に対する刑事罰は、刑法その他の法律に定めるところによる。</Sentence>
       <Paragraph Num="2">
@@ -577,7 +577,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="40">
+    <Article Num="4">
       <ArticleTitle>期間の計算及び期間の回復</ArticleTitle>
       <Sentence>この法律に定める期間の計算方法は、法律に別段の定めがある場合を除き、一般の期間計算に関する法令の定めるところによる。</Sentence>
       <Paragraph Num="2">
@@ -585,7 +585,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="41">
+    <Article Num="5">
       <ArticleTitle>国籍に関する情報の提供</ArticleTitle>
       <Sentence>国籍行政庁は、国籍の取得、選択、離脱、喪失及び再取得に関する要件並びに手続について、国民及び申請をしようとする者が容易に理解できる方法により情報を提供しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -596,7 +596,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="42">
+    <Article Num="6">
       <ArticleTitle>他の法律との関係</ArticleTitle>
       <Sentence>国籍の取得、保持、選択、離脱、喪失及び再取得については、この法律に特別の定めがある場合を除き、この法律の定めるところによる。</Sentence>
       <Paragraph Num="2">
@@ -607,7 +607,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="43">
+    <Article Num="7">
       <ArticleTitle>委任</ArticleTitle>
       <Sentence>この法律の施行に必要な届出の様式、証明書の形式、記録の管理その他の技術的事項は、法律の趣旨及び本人の権利を害しない範囲で、法令の定めるところによる。</Sentence>
       <Paragraph Num="2">

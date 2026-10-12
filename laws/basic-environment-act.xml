@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>環境基本法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「環境への負荷」とは、人の活動に伴って生ずる環境の保全上の支障の原因となる影響をいうをいう。</Sentence>
+      <Sentence>この法律において「環境への負荷」とは、人の活動に伴って生ずる環境の保全上の支障の原因となる影響をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「地球環境保全」とは、地球全体の温暖化、オゾン層の破壊、海洋汚染等の防止に関する保全をいうをいう。</Sentence>
+        <Sentence>この法律において「地球環境保全」とは、地球全体の温暖化、オゾン層の破壊、海洋汚染等の防止に関する保全をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、環境大臣及び中央環境審議会が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>環境大臣及び中央環境審議会は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、現在及び将来の国民の健康で文化的な生活の確保並びに人類の福祉への貢献に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>基本理念、環境基準及び国の責務</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>環境の恵沢の享受と継承</ArticleTitle>
       <Sentence>良好な環境は人類の生存の基盤であり、将来の世代に継承されなければならない。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>持続的発展が可能な社会</ArticleTitle>
       <Sentence>環境への負荷が少ない健全な経済発展と持続可能な循環型社会を構築する。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>国際的協調による地球環境保全</ArticleTitle>
       <Sentence>科学的知見を結集し、地球温暖化防止等に関する国際的取組を積極的に推進する。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>環境基準の設定義務</ArticleTitle>
       <Sentence>大気汚染、水質汚濁、土壌汚染及び騒音について、人の健康を守る環境基準を定める。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>環境基本計画の策定</ArticleTitle>
       <Sentence>環境保全に関する施策の総合的かつ計画的な推進を図るため、環境基本計画を閣議決定する。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>計画の進捗点検</ArticleTitle>
       <Sentence>中央環境審議会は、毎年環境基本計画の実施状況を点検し、大統領及び議会に報告する。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>国の政策決定への環境配慮</ArticleTitle>
       <Sentence>国は、エネルギー、交通、都市計画等のあらゆる政策策定にあたり環境への影響を配慮する。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>地方自治体の推進責務</ArticleTitle>
       <Sentence>自治体は、地域の自然的社会的条件に応じた環境基本条例及び施策を推進する。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>事業者の汚染者負担原則（ＰＰＰ）</ArticleTitle>
       <Sentence>事業活動に伴う公害の防止及び環境負荷の低減に要する費用は、事業者が自ら負担する。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>国民の自主的行動の促進</ArticleTitle>
       <Sentence>国民は、廃棄物の減量、省エネルギー等、日常生活における環境負荷の低減に努める。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>環境影響評価（環境アセスメント）制度</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>環境影響評価の実施義務</ArticleTitle>
       <Sentence>ダム、空港、高速道路、発電所等の大規模事業の実施にあたり、事前にアセスを実施する。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>第一種事業及び第二種事業</ArticleTitle>
       <Sentence>必ずアセスを実施すべき第一種事業と、個別判定（スクリーニング）を行う第二種事業を定める。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>計画段階配慮書の作成</ArticleTitle>
       <Sentence>事業の位置、規模等の構想段階において、複数の代替案を比較検討した配慮書を作成する。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>環境影響評価方法書の手続</ArticleTitle>
       <Sentence>評価の項目及び調査手法を記載した方法書を作成し、公告縦覧及び住民意見を聴取する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>現地調査及び予測評価</ArticleTitle>
       <Sentence>大気、水質、動植物の生態系について、四季を通じた実地調査及び科学的予測を行う。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>環境影響評価準備書の作成</ArticleTitle>
       <Sentence>予測評価の結果及び環境保全措置を記載した準備書を公表し、説明会を開催する。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>住民及び関係自治体の意見具申</ArticleTitle>
       <Sentence>利害関係の有無を問わず、何人も準備書に対し環境保全の見地から意見書を提出できる。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>環境大臣の意見提出権</ArticleTitle>
       <Sentence>環境大臣は、事業者に対し、計画の抜本的見直しを含む厳正な勧告意見を提出する。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>環境影響評価書の確定</ArticleTitle>
       <Sentence>大臣及び住民の意見を反映した最終確定書を作成し、承認機関に提出する。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>事後調査の実施と公表</ArticleTitle>
       <Sentence>工事中及び供用後において、事後モニタリング調査を行い、結果を一般に公開する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>公害防止対策及び自然環境保全</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>公害防止計画の策定地域</ArticleTitle>
       <Sentence>工場が集積し著しい公害が発生している地域に対し、特別の公害防止計画を策定する。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>大気汚染物質の排出総量規制</ArticleTitle>
       <Sentence>特定地域において、工場ごとの個別濃度規制に加え、地域全体の総量規制を課す。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>水質汚濁防止（閉鎖性海域対策）</ArticleTitle>
       <Sentence>内湾、湖沼等の閉鎖性水域に対する窒素、りんの総量削減計画を策定推進する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>土壌汚染の調査及び浄化命令</ArticleTitle>
       <Sentence>特定有害物質を使用していた工場跡地の土地所有者に対し、土壌浄化措置を命ずる。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>地盤沈下及び地下水採取規制</ArticleTitle>
       <Sentence>地下水の過剰汲み上げによる地盤沈下を防止するため、工業用水の採取を制限する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>自然公園の指定と保護</ArticleTitle>
       <Sentence>国立公園及び国定公園を指定し、優れた自然景観及び野生動植物の生息地を保護する。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>特別保護地区の現状変更禁止</ArticleTitle>
       <Sentence>国立公園内の特別保護地区においては、樹木の伐採、工作物の新築を厳禁とする。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>生物多様性国家戦略の推進</ArticleTitle>
       <Sentence>生態系の保全、外来種の侵入防止、里地里山の保全再生を総合的に図る。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>野生鳥獣の保護管理</ArticleTitle>
       <Sentence>絶滅危惧種の保護増殖と、農林業被害を与える鳥獣の適正な生息数管理を両立させる。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>緑地保全及び都市緑化の推進</ArticleTitle>
       <Sentence>都市部におけるヒートアイランド現象を緩和するため、屋上緑化及び都市公園を拡充する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>地球温暖化対策及び脱炭素社会の形成</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>温室効果ガス排出ゼロ宣言</ArticleTitle>
       <Sentence>二〇五〇年までに温室効果ガスの人為的排出を実質ゼロ（カーボンニュートラル）とする。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>地球温暖化対策推進計画</ArticleTitle>
       <Sentence>部門別（産業、業務、家庭、運輸）の二酸化炭素排出削減目標を法定する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>温室効果ガス算定・報告・公表制度</ArticleTitle>
       <Sentence>一定規模以上のエネルギーを使用する事業者に対し、排出量の算定と国への報告を義務付ける。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>再生可能エネルギーの最大限導入</ArticleTitle>
       <Sentence>太陽光、風力、地熱、水力、バイオマス発電の導入を国家支援策により促進する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>炭素価格付け（カーボンプライシング）</ArticleTitle>
       <Sentence>炭素税の適正な課税、及び排出量取引制度（ＥＴＳ）を段階的に導入運用する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>建築物の省エネ化の徹底</ArticleTitle>
       <Sentence>新築住宅及び非住宅建築物に対し、断熱性能基準への適合を義務付ける。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>自動車の電動化（ＥＶ化推進）</ArticleTitle>
       <Sentence>クリーンエネルギー自動車の導入支援及び急速充電インフラの全国整備を図る。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>森林吸収源対策の拡充</ArticleTitle>
       <Sentence>間伐等の森林整備及び木材利用を促進し、二酸化炭素吸収量の算定値を最大化する。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>気候変動適応計画の策定</ArticleTitle>
       <Sentence>既に生じている温暖化に伴う豪雨、猛暑、農作物被害に対する適応策を講ずる。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>脱炭素先行地域の創出支援</ArticleTitle>
       <Sentence>自治体と民間が一体となって二〇三〇年までに先行して脱炭素を達成する地域を国庫支援する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>環境紛争処理、被害救済及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>公害等調整委員会の設置</ArticleTitle>
       <Sentence>大統領府に独立の準司法機関たる公害等調整委員会を置き、公害紛争の調停仲裁を行う。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>原因裁定及び責任裁定</ArticleTitle>
       <Sentence>損害と公害との因果関係、及び損害賠償責任の存否を迅速に判断する裁定手続を運用する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>公害健康被害補償制度</ArticleTitle>
       <Sentence>大気汚染等による指定疾病患者に対し、事業者の拠出金により医療費及び手当を支給する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>水俣病等公害認定の審査</ArticleTitle>
       <Sentence>公害被害認定基準に基づき、被害者の迅速かつ公平な救済を保障する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>環境犯罪に対する加重刑罰</ArticleTitle>
       <Sentence>有害物質を不法投棄し、又は基準を超えて排出し人の生命を脅かした者は五年以下の拘禁刑に処する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>排出基準違反の直罰化</ArticleTitle>
       <Sentence>事前の行政命令を経ることなく、濃度基準違反に対し直ちに刑事罰を科する直罰制を適用する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>法人の重罰金（三億円以下）</ArticleTitle>
       <Sentence>法人の業務に関して重大な環境汚染を生じさせたときは、その法人に対し三億円以下の罰金を科する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>環境保全基金の創設</ArticleTitle>
       <Sentence>汚染原因者が不明な土壌・海洋汚染の浄化に充てるため、公的環境基金を維持運用する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>国際環境条約の忠実な履行</ArticleTitle>
       <Sentence>パリ協定、生物多様性条約、ワシントン条約に基づく国家義務を誠実に履行する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>環境教育・ＥＳＤの推進</ArticleTitle>
       <Sentence>持続可能な開発のための教育（ＥＳＤ）を学校及び地域において包括的に推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>環境大臣及び中央環境審議会は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

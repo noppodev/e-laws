@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>国有財産法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「行政財産」とは、国において公用又は公共の用に供し、又は供することを決定した国有財産をいうをいう。</Sentence>
+      <Sentence>この法律において「行政財産」とは、国において公用又は公共の用に供し、又は供することを決定した国有財産をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「普通財産」とは、行政財産以外のすべての国有財産をいい、売却、貸付け又は運用の対象となるものをいうをいう。</Sentence>
+        <Sentence>この法律において「普通財産」とは、行政財産以外のすべての国有財産をいい、売却、貸付け又は運用の対象となるものをいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、財務大臣及び各大統領府直属省庁の長が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>財務大臣及び各大統領府直属省庁の長は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、国家が所有する土地、建物、有価証券その他の財産の取得、維持、管理及び処分の適正化に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>国有財産の分類及び総括管理</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>国有財産の範囲</ArticleTitle>
       <Sentence>不動産、船舶、航空機、政府保有株式、出資証券、特許権等の国の財産を国有財産とする。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>財務大臣の総括管理権</ArticleTitle>
       <Sentence>財務大臣は、すべての国の機関が管理する国有財産に関する総括調整権限を有する。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>各省各庁の長の管理権</ArticleTitle>
       <Sentence>各大臣は、その所掌事務の用に供する行政財産を善良な管理者の注意をもって管理する。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>国有財産台帳の調製</ArticleTitle>
       <Sentence>財産の種類、数量、価格、取得年月日を記載した電磁的台帳を作成備え付けなければならない。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>価格改定（国有財産の再評価）</ArticleTitle>
       <Sentence>五年ごとに時価を反映した価格改定を行い、国家の貸借対照表に反映させる。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>行政財産の用途廃止</ArticleTitle>
       <Sentence>公用又は公共用の必要がなくなったときは、直ちに用途を廃止し普通財産に引き継ぐ。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>所管換の手続</ArticleTitle>
       <Sentence>省庁間において財産の所属を移転するときは、財務大臣の承認を受けなければならない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>不用財産の処分方針</ArticleTitle>
       <Sentence>利用見込みのない普通財産は、一般競争入札により速やかに民間に売却処分する。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>国有財産総計算書の提出</ArticleTitle>
       <Sentence>毎会計年度、国有財産の増減及び現在額に関する総計算書を議会に提出する。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>国有財産監理官の立入監査</ArticleTitle>
       <Sentence>財務省の監理官は、各省庁の施設に立ち入り、管理状況の実地監査を行う。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>行政財産の管理及び使用許可</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>私権設定の禁止</ArticleTitle>
       <Sentence>行政財産については、地上権、抵当権その他の私権を設定することができない。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>差押えの禁止</ArticleTitle>
       <Sentence>国の行政財産は、民事執行法上の強制執行の対象とすることができない。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>使用許可の要件</ArticleTitle>
       <Sentence>その用途又は目的を妨げない限度において、庁舎内の売店等の使用許可を与えることができる。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>使用料の徴収基準</ArticleTitle>
       <Sentence>使用許可を受けた者から、近傍類似の適正な地代家賃に基づく使用料を徴収する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>許可の取消し</ArticleTitle>
       <Sentence>国において自ら公用で使用する必要が生じたときは、いつでも使用許可を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>原状回復義務</ArticleTitle>
       <Sentence>使用期間が終了したときは、使用者は自己の費用で原状に回復して返還しなければならない。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>維持修繕の義務</ArticleTitle>
       <Sentence>管理者は、庁舎等の建物の耐震性及び防火性を維持するため必要な修繕を行わなければならない。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>公舎の貸与規律</ArticleTitle>
       <Sentence>公務員宿舎（公舎）の入居基準及び使用料は、民間相場と均衡を保ち適正に定める。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>寄附の受納</ArticleTitle>
       <Sentence>国に対する財産の寄附は、負担付きのものを除き、所管大臣が受納することができる。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>境界確定協議</ArticleTitle>
       <Sentence>隣接する私有地との境界を確定するため、境界標を設置し実地立会い協議を行う。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>普通財産の管理、処分及び貸付け</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>普通財産の売払原則</ArticleTitle>
       <Sentence>普通財産の売払いは、原則として一般競争入札によらなければならない。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>随意契約の例外</ArticleTitle>
       <Sentence>地方自治体が公用に使用する場合、又は特別の法律に基づく場合は随意契約で売却できる。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>減額譲渡及び無償貸付け</ArticleTitle>
       <Sentence>学校、病院、社会福祉施設等の公益目的の用に供するときは、適正な減額処分を認める。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>貸付期間の制限</ArticleTitle>
       <Sentence>土地の貸付けは三十年（借地借家法が適用される場合はその定めによる）、建物は十年以内とする。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>延納の特約</ArticleTitle>
       <Sentence>売払代金を一時に納付することが困難なときは、担保を徴して最長十年の延納を認める。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>信託による開発運用</ArticleTitle>
       <Sentence>未利用の国有地を信託銀行に信託し、オフィスビル等を建設させて配当を得ることができる。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>民間資金活用事業（ＰＦＩ）</ArticleTitle>
       <Sentence>公共施設の整備にあたり、民間資金及びノウハウを活用する事業方式を優先採用する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>買戻しの特約</ArticleTitle>
       <Sentence>売却後一定期間内に指定の用途に供しないときは、売買代金を返還して買い戻す特約を付す。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>公売保証金の納付</ArticleTitle>
       <Sentence>入札に参加する者は、見積価格の十分の一以上の保証金を納付しなければならない。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>不落時の処理</ArticleTitle>
       <Sentence>入札において落札者がないときは、予定価格を再検討して再度入札を行う。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>政府保有株式及び知的財産の管理</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>重要国策企業の株式保有</ArticleTitle>
       <Sentence>特殊法人及び民営化企業（中央銀行、郵便、基幹電力等）の株式を財務大臣が保有する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>配当金の国庫納付</ArticleTitle>
       <Sentence>保有株式から生ずる剰余金の配当は、全額を国庫の歳入に繰り入れなければならない。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>議決権の行使方針</ArticleTitle>
       <Sentence>財務大臣は、国家の利益及び企業の持続的成長を期して議決権を行使する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>政府保有株の売却手続</ArticleTitle>
       <Sentence>株式を市場で売却するときは、市場に急激な影響を与えないよう分散売却する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>国有特許権の管理</ArticleTitle>
       <Sentence>国立研究所等の公務員が職務上行った発明の特許権を国が承継取得する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>特許権の民間実施許諾</ArticleTitle>
       <Sentence>国有特許権を民間に開放し、技術移転と産業振興を促進する。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>無形資産の評価</ArticleTitle>
       <Sentence>電波利用権、二酸化炭素排出枠等の無形資産の価値を適正に会計計上する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>政府出資金の回収</ArticleTitle>
       <Sentence>国際金融機関等への出資証券を安全に管理し、出資金の回収を図る。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>埋蔵物・無主物の帰属</ArticleTitle>
       <Sentence>国内において発見された無主の不動産及び文化財は、国庫に帰属する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>没収財産の引継ぎ</ArticleTitle>
       <Sentence>裁判所又は税関において没収が確定した物件は、速やかに財務省に引き継ぐ。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>不法占拠の排除及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>不法占拠者に対する明渡請求</ArticleTitle>
       <Sentence>権原なく国有地を占有する者に対し、直ちに明渡し及び損害賠償を請求する。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>不当利得返還金の徴収</ArticleTitle>
       <Sentence>不法占拠期間中の賃料相当額に加算金を付して強制徴収する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>代執行による工作物撤去</ArticleTitle>
       <Sentence>命令に従わない不法工作物は、行政代執行法に基づき強制撤去する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>国有財産損壊の罪</ArticleTitle>
       <Sentence>故意に国有財産を損壊し、又はその効用を害した者は、五年以下の拘禁刑に処する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>職権濫用による不当売却の罪</ArticleTitle>
       <Sentence>国有財産管理職員が自己又は第三者の利益を図り不当な低額で売却したときは、背任罪として処罰する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>入札妨害の罪</ArticleTitle>
       <Sentence>国有財産の売却入札において談合を行った者は、三年以下の拘禁刑に処する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>虚偽報告の過料</ArticleTitle>
       <Sentence>国有財産の実地検査を拒み、又は虚偽の陳述をした者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>財産台帳虚偽記録の処罰</ArticleTitle>
       <Sentence>台帳に故意に虚偽の記録をした職員に対し、厳しい懲戒処分及び刑事告発を行う。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>会計検査院への通知</ArticleTitle>
       <Sentence>国有財産の大規模な滅失又は毀損が生じたときは、遅滞なく会計検査院に通知する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>大統領への報告義務</ArticleTitle>
       <Sentence>国家財政上極めて重要な財産の処分については、事前に大統領の承認を受けなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>財務大臣及び各大統領府直属省庁の長は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

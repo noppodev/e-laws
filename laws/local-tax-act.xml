@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>地方税法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「地方税」とは、州、県又は市町村等の地方自治体が課する税の総称をいうをいう。</Sentence>
+      <Sentence>この法律において「地方税」とは、州、県又は市町村等の地方自治体が課する税の総称をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「普通税及び目的税」とは、使途を特定しない普通税と、特定の費用に充てるため課する目的税をいうをいう。</Sentence>
+        <Sentence>この法律において「普通税及び目的税」とは、使途を特定しない普通税と、特定の費用に充てるため課する目的税をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、内務大臣及び地方自治体の長が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>内務大臣及び地方自治体の長は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、地方自治体の課税権、地方税の税目、賦課徴収及び納税者の権利保護に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>地方団体の課税権及び基本基準</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>条例による課税の原則</ArticleTitle>
       <Sentence>地方税の税目、課税標準、税率等は、すべて地方自治体の条例で定めなければならない。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>普通税の税目</ArticleTitle>
       <Sentence>住民税（個人・法人）、事業税、不動産取得税、固定資産税、軽自動車税等を普通税とする。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>目的税の税目</ArticleTitle>
       <Sentence>都市計画税、水利地益税、入湯税、環境性能割等を目的税として定める。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>法定外税の創設</ArticleTitle>
       <Sentence>地方自治体は、内務大臣の同意を得て、条例により独自の法定外普通税又は法定外目的税を新設できる。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>標準税率と超過課税</ArticleTitle>
       <Sentence>国が定める標準税率を超える税率（超過税率）を条例で定めることができる。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>納税義務者の範囲</ArticleTitle>
       <Sentence>その地域内に住所、居所又は事務所を有する個人及び法人は、地方税の納税義務を負う。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>非課税の範囲</ArticleTitle>
       <Sentence>国の公用財産、外交使節の公館、公益法人等の一定の事業には地方税を課することができない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>減免措置の条例委任</ArticleTitle>
       <Sentence>天災その他特別の事情があるときは、首長は条例の定めるところにより税を減免できる。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>地方税通則の適用</ArticleTitle>
       <Sentence>申告納付、普通徴収、督促及び滞納処分の通則手続を定める。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>不均一課税の特例</ArticleTitle>
       <Sentence>過疎地域振興等のため、特定の区域について不均一の課税を行うことができる。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>個人及び法人の住民税（地方所得税）</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>個人住民税の二本立て</ArticleTitle>
       <Sentence>個人住民税は、所得に応じて課する所得割と、広く均等に課する均等割から成る。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>所得割の課税標準</ArticleTitle>
       <Sentence>所得税法の規定に準じて算定した前年中の総所得金額を課税標準とする。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>税額控除の適用</ArticleTitle>
       <Sentence>配当控除、住宅ローン控除、ふるさと寄附金控除等を所得割額から差し引く。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>特別徴収の義務（給与天引き）</ArticleTitle>
       <Sentence>給与所得者については、給与支払者が毎月の給料から税額を差し引いて自治体に納入する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>普通徴収の納期</ArticleTitle>
       <Sentence>事業所得者等については、年四回の納期に分けて納付書により納付させる。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>法人住民税の構成</ArticleTitle>
       <Sentence>法人住民税は、法人税額に応じて課する法人税割と、資本金等に応じる均等割から成る。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>分割基準の適用</ArticleTitle>
       <Sentence>二以上の自治体に事務所を有する法人は、従業員の数等により課税標準を分割する。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>申告納付の期限</ArticleTitle>
       <Sentence>法人は、各事業年度終了後二月以内に確定申告書を提出し納付しなければならない。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>更正及び決定</ArticleTitle>
       <Sentence>申告がないとき又は誤りがあるときは、首長が調査に基づいて税額を更正又は決定する。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>加算金の賦課</ArticleTitle>
       <Sentence>申告漏れ又は不申告に対し、過少申告加算金又は不申告加算金を課する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>固定資産税及び不動産取得税</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>固定資産税の課税客体</ArticleTitle>
       <Sentence>土地、家屋及び償却資産（工場の機械設備等）を課税客体とする。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>台帳課税の原則</ArticleTitle>
       <Sentence>毎年一月一日（賦課期日）現在において、固定資産課税台帳に登録されている所有者に課する。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>評価基準の策定</ArticleTitle>
       <Sentence>内務大臣が定める固定資産評価基準に基づき、適正な時価を評価する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>三年ごとの評価替え</ArticleTitle>
       <Sentence>土地及び家屋の評価額は、原則として三年に一度見直す評価替えを行う。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>住宅用地の特例</ArticleTitle>
       <Sentence>二百平方メートル以下の小規模住宅用地については、課税標準を六分の一に軽減する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>固定資産評価審査委員会</ArticleTitle>
       <Sentence>登録された価格に不服がある納税者は、独立の審査委員会に審査を申し出ることができる。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>不動産取得税の課税</ArticleTitle>
       <Sentence>売買、贈与、新築等により不動産を取得した者に対し、取得時に一度課する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>取得税の軽減措置</ArticleTitle>
       <Sentence>自己の居住用住宅及びその敷地を取得したときは、所要の税額軽減を行う。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>納税通知書の交付</ArticleTitle>
       <Sentence>固定資産税は、税額及び納期を記載した納税通知書を交付して普通徴収する。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>免税点の適用</ArticleTitle>
       <Sentence>土地三十万円、家屋二十万円、償却資産百五十万円未満の資産には課税しない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>事業税、自動車諸税及び消費関連税</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>個人事業税の課税</ArticleTitle>
       <Sentence>第一種から第三種の法定事業を営む個人に対し、事業所得を課税標準として課する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>法人事業税の外形標準課税</ArticleTitle>
       <Sentence>資本金一億円超の大法人に対し、所得割に加え、付加価値割及び資本割を課する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>事業税の所得計算</ArticleTitle>
       <Sentence>企業の適正な営業活動を反映するため、税法上の所得を基礎として課税標準を算定する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>軽自動車税（種別割）</ArticleTitle>
       <Sentence>毎年四月一日現在の原動機付自転車、二輪車、軽三輪、軽四輪の所有者に課する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>環境性能割の導入</ArticleTitle>
       <Sentence>車両の燃費性能に応じ、自動車取得時に環境負荷の低い車を優遇して課税する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>地方消費税の配分</ArticleTitle>
       <Sentence>国税たる消費税の一定割合を地方消費税とし、自治体間の消費額等に応じて配分する。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>市町村たばこ税</ArticleTitle>
       <Sentence>製造たばこの卸売業者等に対し、市町村内で売り渡された本数に応じて課する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>ゴルフ場利用税及び入湯税</ArticleTitle>
       <Sentence>観光資源の利用及び温泉環境の保全のため、利用者に定額の目的税を課する。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>鉱産税の賦課</ArticleTitle>
       <Sentence>鉱物を採掘する鉱業者に対し、鉱物の価格に応じて課する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>徴収取扱の委託</ArticleTitle>
       <Sentence>コンビニエンスストア、電子決済事業者等に対し、地方税の収納事務を委託できる。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>督促、滞納処分及び権利救済</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>督促状の発付</ArticleTitle>
       <Sentence>納期限までに完納しないときは、納期限後二十日以内に督促状を発しなければならない。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>延滞金の計算</ArticleTitle>
       <Sentence>納期限の翌日から納付の日までの期間に応じ、年十四・六パーセント以内の延滞金を徴収する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>滞納処分の着手要件</ArticleTitle>
       <Sentence>督促状を発した日から十日を経過した日までに完納しないときは、財産を差し押さえなければならない。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>差押財産の捜索</ArticleTitle>
       <Sentence>徴税吏員は、滞納者の住居その他に立ち入り、金庫、預金通帳等を捜索することができる。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>公売による換価</ArticleTitle>
       <Sentence>差し押さえた不動産又は動産を入札又は競り売りにより公売し、代金を税に充当する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>滞納処分の停止</ArticleTitle>
       <Sentence>財産がなく生活を著しく困窮させるおそれがあるときは、首長は滞納処分を停止できる。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>消滅時効の完成</ArticleTitle>
       <Sentence>地方税の徴収権は、行使できる時から五年間行使しないときは時効により消滅する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>首長に対する審査請求</ArticleTitle>
       <Sentence>課税処分又は滞納処分に不服がある者は、首長に対し審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>取消訴訟の提起</ArticleTitle>
       <Sentence>審査請求の裁決を経た後でなければ、原則として裁判所に出訴することができない。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>脱税に対する重罰</ArticleTitle>
       <Sentence>偽りその他不正の行為により地方税を免れた者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>内務大臣及び地方自治体の長は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

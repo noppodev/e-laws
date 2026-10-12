@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>外国為替及び外国貿易法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「外国為替取引」とは、本邦と外国との間の支払、資金移動又は為替手形の売買等の取引をいうをいう。</Sentence>
+      <Sentence>この法律において「外国為替取引」とは、本国と外国との間の支払、資金移動又は為替手形の売買等の取引をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「安全保障貿易管理」とは、大量破壊兵器等の拡散を防止するため、貨物の輸出及び技術の提供を国家管理することをいうをいう。</Sentence>
+        <Sentence>この法律において「安全保障貿易管理」とは、大量破壊兵器等の拡散を防止するため、貨物の輸出及び技術の提供を国家管理することをいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -46,7 +46,7 @@
     </Article>
     <Article Num="9">
       <ArticleTitle>情報の公開と説明責任</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、この法律の運用に関し、原則として情報を公開し、国民に対する説明責任を徹底しなければならない。</Sentence>
     </Article>
     <Article Num="10">
       <ArticleTitle>適用除外及び特別法優先</ArticleTitle>
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
-      <Sentence>この法律に規定する事務は、財務大臣及び経済産業大臣が管理統理する。</Sentence>
+      <Sentence>この法律に規定する事務は、財務大臣及び産業経済大臣が管理統理する。</Sentence>
       <Paragraph Num="2">
-        <Sentence>財務大臣及び経済産業大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
+        <Sentence>財務大臣及び産業経済大臣は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、対外取引の正常な発展、国際収支の均衡及び通貨の信用の維持並びに国際平和の確保に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、対外取引の正常な発展、国際収支の均衡及び通貨の信用の維持並びに国際平和の確保に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>対外支払及び資金移動の自由と原則</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>対外取引の自由の原則</ArticleTitle>
       <Sentence>外国為替、外国貿易その他の対外取引は、別段の定めがある場合を除き、原則として自由に行える。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>事後報告の基本制</ArticleTitle>
       <Sentence>対外支払又は資本取引を行ったときは、財務大臣に対し事後的に報告書を提出する。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>支払手段の輸出入手続</ArticleTitle>
       <Sentence>百万円相当額を超える現金、小切手、金地金を携帯輸出入するときは税関に届け出なければならない。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>暗号資産による対外決済</ArticleTitle>
       <Sentence>暗号資産を用いた外国送金についても、通常の外国為替取引に準じて規制を適用する。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>外国為替業務の取扱機関</ArticleTitle>
       <Sentence>業として外国為替取引を行う金融機関は、財務大臣に届け出なければならない。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>為替レートの公表義務</ArticleTitle>
       <Sentence>取扱金融機関は、適正な外国為替相場を店頭及び電磁的に公示しなければならない。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>トラベルルールの適用</ArticleTitle>
       <Sentence>送金元及び送金先の本人確認情報を送金先の機関に伝達しなければならない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>異常取引の監視</ArticleTitle>
       <Sentence>テロ資金供与の疑いがある国際送金を発見したときは、直ちに金融情報機関に通報する。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>外貨準備高の管理</ArticleTitle>
       <Sentence>財務大臣は、国際収支の決済を確保するため十分な外貨準備金を保有管理する。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>国際為替市場の介入</ArticleTitle>
       <Sentence>急激な為替レートの投機的乱高下に際し、財務大臣は日銀を通じて市場介入を実施できる。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>経済制裁及び対外支払の停止措置</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>国際平和のための制裁発動</ArticleTitle>
       <Sentence>国連決議又は国際的協調に基づき、特定国又は特定団体に対する資産凍結等の制裁を発動する。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>支払の許可制への移行</ArticleTitle>
       <Sentence>大統領の承認を経て、特定地域に対する支払を原則禁止とし、財務大臣の個別許可制とする。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>資産凍結対象者の指定</ArticleTitle>
       <Sentence>テロリスト、核開発関与者、人権侵害者を制裁対象者として告示指定する。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>預金の払戻し制限</ArticleTitle>
       <Sentence>制裁対象者に指定された外国機関の国内預金口座からの払戻しを全面的に停止する。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>迂回送金の摘発</ArticleTitle>
       <Sentence>第三国を経由したマネーローンダリング及び制裁回避送金を徹底して遮断する。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>北朝鮮等の特定事態制裁</ArticleTitle>
       <Sentence>我が国の安全を著しく脅かす敵対勢力に対し、包括的な貿易停止及び送金禁止を命ずる。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>人道目的送金の例外</ArticleTitle>
       <Sentence>食料、医薬品等の純粋な人道支援に関する最低限の送金は、特例として許可できる。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>制裁解除の手続</ArticleTitle>
       <Sentence>国際情勢の好転が確認されたときは、国家安全保障会議の議を経て制裁を解除する。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>金融機関の確認義務</ArticleTitle>
       <Sentence>銀行は、送金を取り扱う前に、制裁対象者への送金に該当しないことを確認しなければならない。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>確認拒絶の免責</ArticleTitle>
       <Sentence>制裁規制の遵守のために送金を一時留保した金融機関は、顧客に対し債務不履行責任を負わない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>貨物の輸出入管理及びリスト規制</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>武器及び軍民両用貨物の輸出管理</ArticleTitle>
-      <Sentence>通常兵器及び大量破壊兵器に転用可能な貨物の輸出は、経済産業大臣の許可を要する。</Sentence>
+      <Sentence>通常兵器及び大量破壊兵器に転用可能な貨物の輸出は、産業経済大臣の許可を要する。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>リスト規制の品目指定</ArticleTitle>
       <Sentence>先端半導体、工作機械、高性能炭素繊維、バイオ関連機器等を規制リストに指定する。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>キャッチオール規制の適用</ArticleTitle>
       <Sentence>リスト非該当品であっても、需要者又は用途が核開発等に関係するおそれがあるときは許可を要する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>輸出貿易管理令の制定</ArticleTitle>
       <Sentence>規制貨物の具体的な技術仕様及び地域区分を政令で細目指定する。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>ホワイト国（優遇国）制度</ArticleTitle>
       <Sentence>厳格な輸出管理を実施している同盟国・友好国に対しては、手続の簡素化を適用する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>該非判定の義務付け</ArticleTitle>
       <Sentence>輸出企業は、輸出貨物が規制品目に該当するか否かを専門的に判定しなければならない。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>輸入割当制度（クオータ制）</ArticleTitle>
       <Sentence>国内産業の重大な防護又は資源調整のため、特定品目の輸入数量割当を行う。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>原産地証明の厳格化</ArticleTitle>
       <Sentence>特定国からの不法迂回輸入を防止するため、厳格な原産地証明書の添付を義務付ける。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>税関による貨物差止め</ArticleTitle>
       <Sentence>無許可輸出の疑いがあるコンテナ貨物は、税関長が港湾において搬出を差し止める。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>不正輸出貨物の没収</ArticleTitle>
       <Sentence>密輸出されようとした軍事物資は、行政手続又は裁判により国庫に没収する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>技術の提供管理（外為法技術移転規制）</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>技術提供の許可制</ArticleTitle>
-      <Sentence>重要技術を非居住者（外国人・外国企業）に提供するときは、経済産業大臣の許可を要する。</Sentence>
+      <Sentence>重要技術を非居住者（外国人・外国企業）に提供するときは、産業経済大臣の許可を要する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>みなし輸出管理の導入</ArticleTitle>
       <Sentence>国内の居住者であっても、外国政府から強い影響力を受ける者への技術開示を規制する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>大学・研究所の共同研究審査</ArticleTitle>
       <Sentence>最先端技術を研究する大学は、外国人留学生等の受入れに際し事前審査を行わなければならない。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>クラウド経由の技術データ移転</ArticleTitle>
       <Sentence>暗号化技術、設計データを外国のサーバに保管送信する行為も技術提供とみなす。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>対内直接投資の事前届出</ArticleTitle>
       <Sentence>国の安全保障に関わる基幹産業（防衛、電力、通信等）への外国投資は事前届出を要する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>外国資本の出資比率規制</ArticleTitle>
       <Sentence>指定重要企業に対する外国資本の議決権取得比率に厳格な上限規制を設ける。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>投資の中止命令</ArticleTitle>
       <Sentence>安全保障上重大な支障があると認めるときは、外国投資家に対し投資の中止又は売却を命ずる。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>役員就任及び事業譲渡の審査</ArticleTitle>
       <Sentence>外国人が基幹企業の取締役に就任し、又は重要事業を譲り受ける場合も事前審査を行う。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>実質的支配者の遡及調査</ArticleTitle>
       <Sentence>タックスヘイブンやファンドを通じた実質的な外国支配株主を徹底的に調査する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>経済安全保障審査室の設置</ArticleTitle>
-      <Sentence>財務省及び経済産業省に専任の外国投資審査官を置き、常時スクリーニングを実施する。</Sentence>
+      <Sentence>財務省及び産業経済省に専任の外国投資審査官を置き、常時スクリーニングを実施する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>監査、罰則及び輸出禁止処分</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>自主管理体制（ＣＰ）の認定</ArticleTitle>
       <Sentence>安全保障貿易管理の自主規程を整備した優良企業に対し、包括許可証を交付する。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>立入検査及び監査</ArticleTitle>
       <Sentence>通商監視官は、輸出企業の工場、研究所に立ち入り、設計図面及び出荷記録を検査する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>行政処分（三年以内の輸出禁止）</ArticleTitle>
       <Sentence>無許可輸出を行った企業に対し、最長三年の貨物輸出又は技術提供の全面的禁止を科する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>無許可武器輸出の重罪</ArticleTitle>
       <Sentence>武器を無許可で輸出した者は、十年以下の拘禁刑若しくは三千万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>輸出価格に応じた罰金の加重</ArticleTitle>
       <Sentence>貨物の価格の五倍が三千万円を超えるときは、その価格の五倍以下の罰金を科する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>核開発技術不正提供の罪</ArticleTitle>
       <Sentence>大量破壊兵器関連技術を無許可で提供した者は、十年以下の拘禁刑に処する。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>法人の重罰金（十億円以下）</ArticleTitle>
       <Sentence>法人の業務に関して重要物資の密輸出等が行われたときは、その法人に対し十億円以下の罰金を科する。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>虚偽報告の罪</ArticleTitle>
       <Sentence>対外支払報告書に虚偽の記載をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>没収及び追徴の原則</ArticleTitle>
       <Sentence>不法輸出入に係る貨物及び得られた不正対価は、必ず没収し、又は追徴する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>国際輸出管理レジームへの参加</ArticleTitle>
       <Sentence>ワッセナー・アレンジメント、ミサイル技術管理レジーム等の国際的合意を完全に施行する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
-      <Sentence>財務大臣及び経済産業大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
+      <Sentence>財務大臣及び産業経済大臣は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>

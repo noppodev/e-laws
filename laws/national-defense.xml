@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>国防法</Title>
 
@@ -45,7 +45,7 @@
   <Chapter Num="2">
     <ChapterTitle>国防の基本組織</ChapterTitle>
 
-    <Article Num="7">
+    <Article Num="1">
       <ArticleTitle>国防省</ArticleTitle>
       <Sentence>国防省は、国防に関する行政事務を所掌する。</Sentence>
       <Paragraph Num="2">
@@ -53,7 +53,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="8">
+    <Article Num="2">
       <ArticleTitle>国防大臣</ArticleTitle>
       <Sentence>国防省に国防大臣を置く。</Sentence>
       <Paragraph Num="2">
@@ -61,12 +61,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="9">
+    <Article Num="3">
       <ArticleTitle>国防大臣の責任</ArticleTitle>
       <Sentence>国防大臣は、国防省の所掌事務について大統領及び内閣に対して責任を負う。</Sentence>
     </Article>
 
-    <Article Num="10">
+    <Article Num="4">
       <ArticleTitle>国防会議</ArticleTitle>
       <Sentence>国防に関する重要事項を審議するため、国防会議を置く。</Sentence>
       <Paragraph Num="2">
@@ -74,7 +74,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="11">
+    <Article Num="5">
       <ArticleTitle>国防会議の所掌事項</ArticleTitle>
       <Sentence>国防会議は、次に掲げる事項を審議する。</Sentence>
       <Paragraph Num="2">
@@ -86,7 +86,7 @@
       </Paragraph>
     </Article>
 
-    <Article Num="12">
+    <Article Num="6">
       <ArticleTitle>軍</ArticleTitle>
       <Sentence>国家の防衛を担うため、陸軍、海軍及び空軍を置く。</Sentence>
       <Paragraph Num="2">
@@ -94,12 +94,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="13">
+    <Article Num="7">
       <ArticleTitle>軍の任務</ArticleTitle>
       <Sentence>軍は、国の平和及び独立を守り、国家の安全を確保するため、法律の定めるところにより必要な任務を遂行する。</Sentence>
     </Article>
 
-    <Article Num="14">
+    <Article Num="8">
       <ArticleTitle>軍の非政治性</ArticleTitle>
       <Sentence>軍は、特定の政党その他の政治的団体のために活動してはならない。</Sentence>
       <Paragraph Num="2">
@@ -111,12 +111,12 @@
   <Chapter Num="3">
     <ChapterTitle>指揮監督及び指揮系統</ChapterTitle>
 
-    <Article Num="15">
+    <Article Num="1">
       <ArticleTitle>大統領の最高指揮監督権</ArticleTitle>
       <Sentence>大統領は、憲法及び法律の定めるところにより、軍を最高指揮監督する。</Sentence>
     </Article>
 
-    <Article Num="16">
+    <Article Num="2">
       <ArticleTitle>国防大臣による指揮監督</ArticleTitle>
       <Sentence>国防大臣は、大統領の指揮監督を受け、軍を統括する。</Sentence>
       <Paragraph Num="2">
@@ -124,12 +124,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="17">
+    <Article Num="3">
       <ArticleTitle>軍令機関</ArticleTitle>
       <Sentence>軍の統合的な運用を補佐するため、法律で定めるところにより軍令を担当する機関を置く。</Sentence>
     </Article>
 
-    <Article Num="18">
+    <Article Num="4">
       <ArticleTitle>統合指揮</ArticleTitle>
       <Sentence>複数の軍を一体として運用する必要がある場合には、統合された指揮系統により軍を運用する。</Sentence>
       <Paragraph Num="2">
@@ -137,12 +137,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="19">
+    <Article Num="5">
       <ArticleTitle>命令の系統</ArticleTitle>
       <Sentence>軍の命令は、法令及び定められた指揮系統に従って伝達されなければならない。</Sentence>
     </Article>
 
-    <Article Num="20">
+    <Article Num="6">
       <ArticleTitle>命令の適法性</ArticleTitle>
       <Sentence>軍人は、明らかに憲法又は法律に反する命令を実施してはならない。</Sentence>
       <Paragraph Num="2">
@@ -150,12 +150,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="21">
+    <Article Num="7">
       <ArticleTitle>指揮権限の委任</ArticleTitle>
       <Sentence>大統領又は国防大臣は、法律の定めるところにより、その指揮権限の一部を軍の指揮官その他の職員に委任することができる。</Sentence>
     </Article>
 
-    <Article Num="22">
+    <Article Num="8">
       <ArticleTitle>指揮権限の代行</ArticleTitle>
       <Sentence>指揮官が事故その他の事由により職務を行うことができない場合には、あらかじめ定められた順位に従い、その職務を代行する。</Sentence>
     </Article>
@@ -164,12 +164,12 @@
   <Chapter Num="4">
     <ChapterTitle>防衛計画</ChapterTitle>
 
-    <Article Num="23">
+    <Article Num="1">
       <ArticleTitle>防衛計画</ArticleTitle>
       <Sentence>政府は、国防の基本方針に基づき、国防に必要な能力及び体制を計画的に整備するため、防衛計画を定める。</Sentence>
     </Article>
 
-    <Article Num="24">
+    <Article Num="2">
       <ArticleTitle>防衛計画の事項</ArticleTitle>
       <Sentence>防衛計画には、次に掲げる事項を定める。</Sentence>
       <Paragraph Num="2">
@@ -182,22 +182,22 @@
       </Paragraph>
     </Article>
 
-    <Article Num="25">
+    <Article Num="3">
       <ArticleTitle>防衛計画の決定</ArticleTitle>
       <Sentence>防衛計画は、国防会議の審議を経て、内閣が決定する。</Sentence>
     </Article>
 
-    <Article Num="26">
+    <Article Num="4">
       <ArticleTitle>防衛計画の変更</ArticleTitle>
       <Sentence>国際情勢、技術的環境その他国防を取り巻く状況に重大な変化が生じた場合には、防衛計画を変更することができる。</Sentence>
     </Article>
 
-    <Article Num="27">
+    <Article Num="5">
       <ArticleTitle>防衛計画と予算</ArticleTitle>
       <Sentence>政府は、防衛計画を実施するために必要な経費について、財政法その他の関係法令に従い、予算に計上するよう努めなければならない。</Sentence>
     </Article>
 
-    <Article Num="28">
+    <Article Num="6">
       <ArticleTitle>国防能力の整備</ArticleTitle>
       <Sentence>政府は、軍の人員、施設、装備、教育及び研究開発について、長期的な視点から計画的な整備を行う。</Sentence>
     </Article>
@@ -206,32 +206,32 @@
   <Chapter Num="5">
     <ChapterTitle>軍人及び軍の服務</ChapterTitle>
 
-    <Article Num="29">
+    <Article Num="1">
       <ArticleTitle>軍人</ArticleTitle>
       <Sentence>軍人とは、陸軍、海軍又は空軍に所属し、軍務に従事する国家公務員をいう。</Sentence>
     </Article>
 
-    <Article Num="30">
+    <Article Num="2">
       <ArticleTitle>軍人の服務</ArticleTitle>
       <Sentence>軍人は、憲法及び法律を遵守し、公共の利益のために誠実に職務を遂行しなければならない。</Sentence>
     </Article>
 
-    <Article Num="31">
+    <Article Num="3">
       <ArticleTitle>軍人の忠実義務</ArticleTitle>
       <Sentence>軍人は、国家及び国民に対して忠実に職務を遂行し、自己の利益その他私的な目的のためにその権限を利用してはならない。</Sentence>
     </Article>
 
-    <Article Num="32">
+    <Article Num="4">
       <ArticleTitle>軍紀</ArticleTitle>
       <Sentence>軍人は、軍の規律を維持し、上官の適法な命令に従わなければならない。</Sentence>
     </Article>
 
-    <Article Num="33">
+    <Article Num="5">
       <ArticleTitle>人権の尊重</ArticleTitle>
       <Sentence>軍人の職務の遂行に当たっては、基本的人権を尊重しなければならない。</Sentence>
     </Article>
 
-    <Article Num="34">
+    <Article Num="6">
       <ArticleTitle>教育訓練</ArticleTitle>
       <Sentence>軍は、軍人に対して、職務を適切に遂行するために必要な教育及び訓練を実施する。</Sentence>
       <Paragraph Num="2">
@@ -239,17 +239,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="35">
+    <Article Num="7">
       <ArticleTitle>安全管理</ArticleTitle>
       <Sentence>軍は、軍務に伴う事故及び災害を防止するため、必要な安全管理の措置を講じなければならない。</Sentence>
     </Article>
 
-    <Article Num="36">
+    <Article Num="8">
       <ArticleTitle>軍人の政治的中立</ArticleTitle>
       <Sentence>軍人は、職務上の権限を利用して選挙その他の政治活動に影響を及ぼしてはならない。</Sentence>
     </Article>
 
-    <Article Num="37">
+    <Article Num="9">
       <ArticleTitle>守秘義務</ArticleTitle>
       <Sentence>軍人は、職務上知り得た秘密を漏らしてはならない。</Sentence>
       <Paragraph Num="2">
@@ -261,17 +261,17 @@
   <Chapter Num="6">
     <ChapterTitle>国防施設及び装備</ChapterTitle>
 
-    <Article Num="38">
+    <Article Num="1">
       <ArticleTitle>国防施設</ArticleTitle>
       <Sentence>国防省は、軍の活動に必要な基地、施設その他の国防施設を整備し、管理する。</Sentence>
     </Article>
 
-    <Article Num="39">
+    <Article Num="2">
       <ArticleTitle>施設の安全管理</ArticleTitle>
       <Sentence>国防施設の管理者は、施設の安全を確保するため必要な措置を講じなければならない。</Sentence>
     </Article>
 
-    <Article Num="40">
+    <Article Num="3">
       <ArticleTitle>施設の利用</ArticleTitle>
       <Sentence>国防施設は、その設置目的に従って利用しなければならない。</Sentence>
       <Paragraph Num="2">
@@ -279,22 +279,22 @@
       </Paragraph>
     </Article>
 
-    <Article Num="41">
+    <Article Num="4">
       <ArticleTitle>国防装備</ArticleTitle>
       <Sentence>国防省は、軍の任務を遂行するために必要な装備を整備し、適切に管理しなければならない。</Sentence>
     </Article>
 
-    <Article Num="42">
+    <Article Num="5">
       <ArticleTitle>装備の取得</ArticleTitle>
       <Sentence>国防装備の取得は、予算、必要性、性能、維持管理その他の事情を総合的に考慮して、適正に行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="43">
+    <Article Num="6">
       <ArticleTitle>装備の管理</ArticleTitle>
       <Sentence>国防省は、国防装備について、その取得から廃棄までの各段階において適切な管理を行う。</Sentence>
     </Article>
 
-    <Article Num="44">
+    <Article Num="7">
       <ArticleTitle>装備の安全性</ArticleTitle>
       <Sentence>国防装備の開発、取得及び使用に当たっては、必要な安全性を確保しなければならない。</Sentence>
     </Article>
@@ -303,22 +303,22 @@
   <Chapter Num="7">
     <ChapterTitle>研究開発及び技術</ChapterTitle>
 
-    <Article Num="45">
+    <Article Num="1">
       <ArticleTitle>国防研究</ArticleTitle>
       <Sentence>政府は、国防上必要な科学技術について、適切な研究開発を推進する。</Sentence>
     </Article>
 
-    <Article Num="46">
+    <Article Num="2">
       <ArticleTitle>研究開発の原則</ArticleTitle>
       <Sentence>国防に関する研究開発は、法令を遵守し、公共の安全及び研究の適正性に配慮して行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="47">
+    <Article Num="3">
       <ArticleTitle>研究機関との協力</ArticleTitle>
       <Sentence>国防省は、必要に応じ、大学、研究機関その他の機関と研究開発について協力することができる。</Sentence>
     </Article>
 
-    <Article Num="48">
+    <Article Num="4">
       <ArticleTitle>研究成果の管理</ArticleTitle>
       <Sentence>国防上の秘密に該当する研究成果については、法令の定めるところにより適切に管理しなければならない。</Sentence>
     </Article>
@@ -327,17 +327,17 @@
   <Chapter Num="8">
     <ChapterTitle>国防情報</ChapterTitle>
 
-    <Article Num="49">
+    <Article Num="1">
       <ArticleTitle>国防情報の収集</ArticleTitle>
       <Sentence>国防省は、国防上必要な情報を、法令の定める権限及び手続に従って収集する。</Sentence>
     </Article>
 
-    <Article Num="50">
+    <Article Num="2">
       <ArticleTitle>情報の評価</ArticleTitle>
       <Sentence>国防に関する情報は、その正確性、信頼性及び重要性を評価し、適切に管理しなければならない。</Sentence>
     </Article>
 
-    <Article Num="51">
+    <Article Num="3">
       <ArticleTitle>情報の共有</ArticleTitle>
       <Sentence>国防省は、国防上必要な範囲において、関係行政機関と情報を共有することができる。</Sentence>
       <Paragraph Num="2">
@@ -345,12 +345,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="52">
+    <Article Num="4">
       <ArticleTitle>国防上の秘密</ArticleTitle>
       <Sentence>国防上特に保護する必要がある情報については、法令の定めるところにより秘密として管理する。</Sentence>
     </Article>
 
-    <Article Num="53">
+    <Article Num="5">
       <ArticleTitle>情報公開との関係</ArticleTitle>
       <Sentence>国防省が保有する情報については、情報公開に関する法律の定めるところにより公開する。</Sentence>
       <Paragraph Num="2">
@@ -362,22 +362,22 @@
   <Chapter Num="9">
     <ChapterTitle>国民及び地方公共団体との協力</ChapterTitle>
 
-    <Article Num="54">
+    <Article Num="1">
       <ArticleTitle>国民との関係</ArticleTitle>
       <Sentence>国防に関する施策は、国民の理解と協力を得ながら、民主的な手続により実施されなければならない。</Sentence>
     </Article>
 
-    <Article Num="55">
+    <Article Num="2">
       <ArticleTitle>地方公共団体との協力</ArticleTitle>
       <Sentence>国防省は、国防施設その他国防に関係する事項について、地方公共団体と必要な連絡及び協力を行う。</Sentence>
     </Article>
 
-    <Article Num="56">
+    <Article Num="3">
       <ArticleTitle>国防に関する協力要請</ArticleTitle>
       <Sentence>国防省は、法令に基づき、国防上必要な場合には、関係行政機関、地方公共団体その他の関係機関に協力を求めることができる。</Sentence>
     </Article>
 
-    <Article Num="57">
+    <Article Num="4">
       <ArticleTitle>協力の限界</ArticleTitle>
       <Sentence>前条の協力の要請は、法令に定める権限の範囲内で行わなければならない。</Sentence>
     </Article>
@@ -386,17 +386,17 @@
   <Chapter Num="10">
     <ChapterTitle>国際協力</ChapterTitle>
 
-    <Article Num="58">
+    <Article Num="1">
       <ArticleTitle>国際協力</ArticleTitle>
       <Sentence>政府は、国際社会の平和及び安全に寄与するため、憲法及び法律の定めるところにより、国防に関する国際協力を行う。</Sentence>
     </Article>
 
-    <Article Num="59">
+    <Article Num="2">
       <ArticleTitle>外国との協力</ArticleTitle>
       <Sentence>政府は、国際約束その他法令の定めるところにより、外国の政府その他の関係機関との間で国防に関する協力を行うことができる。</Sentence>
     </Article>
 
-    <Article Num="60">
+    <Article Num="3">
       <ArticleTitle>国際機関との協力</ArticleTitle>
       <Sentence>政府は、国際機関その他の国際的な組織との間で、国防及び安全保障に関する協力を行うことができる。</Sentence>
     </Article>
@@ -405,27 +405,27 @@
   <Chapter Num="11">
     <ChapterTitle>非常事態における国防</ChapterTitle>
 
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>国家緊急事態との関係</ArticleTitle>
       <Sentence>国家緊急事態における国防上の措置については、憲法及び国家緊急事態対処特別法の定めるところによる。</Sentence>
     </Article>
 
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>軍の出動</ArticleTitle>
       <Sentence>外国からの武力攻撃その他国家の安全に重大な危険が生じた場合における軍の出動については、憲法及び国家緊急事態対処特別法の定めるところによる。</Sentence>
     </Article>
 
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>災害等への対応</ArticleTitle>
       <Sentence>軍は、国民の生命又は身体を保護するため特に必要がある場合には、法令の定めるところにより、災害その他の緊急事態への対応に協力することができる。</Sentence>
     </Article>
 
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>緊急時の指揮</ArticleTitle>
       <Sentence>非常事態における軍の指揮は、憲法、国家緊急事態対処特別法及びこの法律の定める指揮系統に従って行う。</Sentence>
     </Article>
 
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>非常事態の終了</ArticleTitle>
       <Sentence>非常事態が終了した場合には、軍の活動は速やかに通常の法制度に復帰しなければならない。</Sentence>
     </Article>
@@ -434,22 +434,22 @@
   <Chapter Num="12">
     <ChapterTitle>国会による統制及び監督</ChapterTitle>
 
-    <Article Num="66">
+    <Article Num="1">
       <ArticleTitle>国会への報告</ArticleTitle>
       <Sentence>政府は、法律の定めるところにより、国防に関する重要事項について国会に報告しなければならない。</Sentence>
     </Article>
 
-    <Article Num="67">
+    <Article Num="2">
       <ArticleTitle>予算による統制</ArticleTitle>
       <Sentence>国防に必要な経費は、財政法その他の関係法令に従い、国会の議決を経た予算によって支出しなければならない。</Sentence>
     </Article>
 
-    <Article Num="68">
+    <Article Num="3">
       <ArticleTitle>国会への資料提出</ArticleTitle>
       <Sentence>政府は、国会から国防に関する調査のため必要な資料の提出を求められた場合には、法律に別段の定めがある場合を除き、これに応じなければならない。</Sentence>
     </Article>
 
-    <Article Num="69">
+    <Article Num="4">
       <ArticleTitle>監査及び検査</ArticleTitle>
       <Sentence>国防省の会計及び財産については、会計法、会計検査院法その他の関係法令に基づき、適切な監査及び検査を受けなければならない。</Sentence>
     </Article>
@@ -458,22 +458,22 @@
   <Chapter Num="13">
     <ChapterTitle>補則</ChapterTitle>
 
-    <Article Num="70">
+    <Article Num="1">
       <ArticleTitle>他の法律との関係</ArticleTitle>
       <Sentence>国防に関する事項について、この法律に特別の定めがある場合を除き、他の法律の定めるところによる。</Sentence>
     </Article>
 
-    <Article Num="71">
+    <Article Num="2">
       <ArticleTitle>政令への委任</ArticleTitle>
       <Sentence>この法律の施行に必要な事項は、政令で定める。</Sentence>
     </Article>
 
-    <Article Num="72">
+    <Article Num="3">
       <ArticleTitle>省令への委任</ArticleTitle>
       <Sentence>この法律及びこれに基づく政令の施行に必要な事項のうち、国防省の所掌事務に関する細則は、国防大臣が定める。</Sentence>
     </Article>
 
-    <Article Num="73">
+    <Article Num="4">
       <ArticleTitle>施行期日</ArticleTitle>
       <Sentence>この法律は、公布の日から施行する。</Sentence>
     </Article>

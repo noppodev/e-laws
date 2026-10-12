@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>検察庁法</Title>
 
@@ -68,37 +68,37 @@
   <Chapter Num="2">
     <ChapterTitle>各検察庁の組織及び官制</ChapterTitle>
 
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>最高検察庁の長</ArticleTitle>
       <Sentence>最高検察庁の長は検事総長とし、庁務を統理し、全国の検察庁の職員を指揮監督する。</Sentence>
     </Article>
 
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>次長検事</ArticleTitle>
       <Sentence>最高検察庁に次長検事一人を置く。次長検事は、検事総長を補佐し、検事総長に事故があるとき又は欠けたときは、その職務を行う。</Sentence>
     </Article>
 
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>高等検察庁の長</ArticleTitle>
       <Sentence>高等検察庁の長は検事長とし、庁務を掌理し、その管轄区域内の下級検察庁の職員を指揮監督する。</Sentence>
     </Article>
 
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>地方検察庁の長</ArticleTitle>
       <Sentence>地方検察庁の長は検事正とし、検事をもってこれに充て、庁務を掌理し、所属職員及び区検察庁の職員を指揮監督する。</Sentence>
     </Article>
 
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>支部及び出張所</ArticleTitle>
       <Sentence>法務大臣は、地方裁判所の支部に合わせて地方検察庁の支部を設けることができる。</Sentence>
     </Article>
 
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>特別捜査部</ArticleTitle>
       <Sentence>重大な経済犯罪、汚職事件及び国家治安に関わる特異事件を捜査するため、主要な地方検察庁に特別捜査部を置くことができる。</Sentence>
     </Article>
 
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>検察事務官</ArticleTitle>
       <Sentence>各検察庁に検察事務官を置く。検察事務官は、上官の命を受けて検察庁の事務を掌り、また、検察官の指揮を受けて捜査を補佐する。</Sentence>
       <Paragraph Num="2">
@@ -106,17 +106,17 @@
       </Paragraph>
     </Article>
 
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>検察技官</ArticleTitle>
       <Sentence>各検察庁に検察技官を置くことができる。検察技官は、技術及び鑑定に関する事務を掌理する。</Sentence>
     </Article>
 
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>首席検事及び次席検事</ArticleTitle>
       <Sentence>高等検察庁及び地方検察庁に次席検事を置き、検事長の命を受け庁務を分掌する。</Sentence>
     </Article>
 
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>事務局の組織</ArticleTitle>
       <Sentence>各検察庁に事務局を置き、総務課、会計課、記録課等の事務部門を分掌させる。</Sentence>
     </Article>
@@ -125,52 +125,52 @@
   <Chapter Num="3">
     <ChapterTitle>検察官の任命及び資格</ChapterTitle>
 
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>検事の任命資格</ArticleTitle>
       <Sentence>司法修習生の修習を終えた者は、検事となる資格を有する。</Sentence>
     </Article>
 
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>他の法曹からの登用</ArticleTitle>
       <Sentence>裁判官又は弁護士の職に在った者は、検事に任命することができる。</Sentence>
     </Article>
 
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>法学教授等の登用</ArticleTitle>
       <Sentence>大学において法律学の教授又は准教授の職に三年以上在った者は、検事に任命することができる。</Sentence>
     </Article>
 
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>副検事の任用資格</ArticleTitle>
       <Sentence>司法警察職員、検察事務官又は裁判所事務官として一定年数以上実務に従事し、副検事選考試験に合格した者は、副検事に任用することができる。</Sentence>
     </Article>
 
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>検事総長及び検事長の任免</ArticleTitle>
       <Sentence>検事総長、次長検事及び検事長は、大統領が任命し、議会の承認を要する。</Sentence>
     </Article>
 
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>検事及び副検事の任命</ArticleTitle>
       <Sentence>検事及び副検事は、法務大臣が任命する。</Sentence>
     </Article>
 
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>欠格事由</ArticleTitle>
       <Sentence>禁錮以上の刑に処せられた者又は公務員として免職の懲戒処分を受けた者は、検察官となることができない。</Sentence>
     </Article>
 
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>定年</ArticleTitle>
       <Sentence>検事総長の定年は六十五歳とし、その他の検察官の定年は六十三歳とする。</Sentence>
     </Article>
 
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>検察官適格審査会</ArticleTitle>
       <Sentence>検察官がその職責を果たすに適格であるかどうかを審査するため、法務省に検察官適格審査会を置く。</Sentence>
     </Article>
 
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>適格審査会の構成</ArticleTitle>
       <Sentence>審査会は、国会議員、裁判官、弁護士、学識経験者等をもって構成する。</Sentence>
     </Article>
@@ -179,52 +179,52 @@
   <Chapter Num="4">
     <ChapterTitle>検察官の身分保障及び服務規律</ChapterTitle>
 
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>身分保障の原則</ArticleTitle>
       <Sentence>検察官は、懲戒処分又は適格審査会の不適格決議によらなければ、その意に反して免職、停職又は減給されることはない。</Sentence>
     </Article>
 
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>休職の事由</ArticleTitle>
       <Sentence>検察官は、心身の故障のため長期の休養を要するとき、又は刑事事件に関し起訴されたときは、休職を命ぜられることがある。</Sentence>
     </Article>
 
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>兼業及び営利活動の禁止</ArticleTitle>
       <Sentence>検察官は、報酬を得て他の職務に従事し、又は営利企業の経営に関与してはならない。</Sentence>
     </Article>
 
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>職務専念義務</ArticleTitle>
       <Sentence>検察官は、全力を挙げてその職務に専念しなければならない。</Sentence>
     </Article>
 
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>守秘義務</ArticleTitle>
       <Sentence>検察官は、職務上知り得た秘密を厳格に保持しなければならず、退職後も同様とする。</Sentence>
     </Article>
 
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>証言の制限</ArticleTitle>
       <Sentence>検察官は、職務上の秘密に関する事項について証言を求められたときは、法務大臣の許可を受けなければならない。</Sentence>
     </Article>
 
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>職務の執行停止</ArticleTitle>
       <Sentence>重大な非行の疑いにより捜査又は監察を受けている検察官に対し、法務大臣は一時的に職務の執行を停止させることができる。</Sentence>
     </Article>
 
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>服務規律の監督</ArticleTitle>
       <Sentence>検事総長及び各検察庁の長は、所属職員の服務について常時厳格な監察を行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>定期報告義務</ArticleTitle>
       <Sentence>検事長及び検事正は、管下の重要事件の捜査及び処理状況について、定期的に上級庁に報告しなければならない。</Sentence>
     </Article>
 
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>分限裁判の準用</ArticleTitle>
       <Sentence>検察官の心身の故障による退職については、裁判官の分限に関する手続を準用する。</Sentence>
     </Article>
@@ -233,52 +233,52 @@
   <Chapter Num="5">
     <ChapterTitle>検察事務の執行及び捜査手続</ChapterTitle>
 
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>公訴権の行使</ArticleTitle>
       <Sentence>公訴は、検察官がこれを行う。ただし、法律に別段の定めがある場合はこの限りでない。</Sentence>
     </Article>
 
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>起訴便宜主義</ArticleTitle>
       <Sentence>検察官は、犯人の性格、年齢及び境遇、犯罪の軽重及び情状並びに犯罪後の情況により訴追を必要としないときは、公訴を提起しないことができる。</Sentence>
     </Article>
 
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>証拠の保全及び収集</ArticleTitle>
       <Sentence>検察官は、客観的証拠を広く収集し、被告人に有利な証拠についても正当に考慮しなければならない。</Sentence>
     </Article>
 
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>令状請求権</ArticleTitle>
       <Sentence>検察官は、裁判官に対し逮捕状、差押状、捜索状その他の令状を請求する権限を有する。</Sentence>
     </Article>
 
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>被疑者の取調べ</ArticleTitle>
       <Sentence>検察官は、被疑者を取り調べるに当たっては、拷問、脅迫その他の不正な手段を用いてはならない。</Sentence>
     </Article>
 
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>参考人の聴取</ArticleTitle>
       <Sentence>検察官は、犯罪の捜査に必要なときは、参考人の出頭を求め、これを聴取することができる。</Sentence>
     </Article>
 
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>鑑定の嘱託</ArticleTitle>
       <Sentence>検察官は、医学、理化学その他の専門知識を要する事項について、鑑定を嘱託することができる。</Sentence>
     </Article>
 
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>死体の検視</ArticleTitle>
       <Sentence>変死者又は変死の疑いがある死体があるときは、検察官は速やかに検視を行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>差押物の適正管理</ArticleTitle>
       <Sentence>検察官は、押収した物件について、毀損及び散逸を防止するため厳重に保管しなければならない。</Sentence>
     </Article>
 
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>事件の移送</ArticleTitle>
       <Sentence>検察官は、事件が他の検察庁の管轄に属すると認めるときは、速やかにこれを移送しなければならない。</Sentence>
     </Article>
@@ -287,12 +287,12 @@
   <Chapter Num="6">
     <ChapterTitle>裁判の執行指揮及び付随権限</ChapterTitle>
 
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>刑の執行指揮</ArticleTitle>
       <Sentence>裁判の執行は、その裁判をした裁判所に対応する検察庁の検察官がこれを指揮する。</Sentence>
     </Article>
 
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>死刑の執行</ArticleTitle>
       <Sentence>死刑は、法務大臣の命令によって執行する。</Sentence>
       <Paragraph Num="2">
@@ -300,12 +300,12 @@
       </Paragraph>
     </Article>
 
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>拘禁刑の執行</ArticleTitle>
       <Sentence>拘禁刑の言渡しを受けた者に対し、検察官は刑事施設への収容を指揮する。</Sentence>
     </Article>
 
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>罰金の徴収</ArticleTitle>
       <Sentence>罰金、科料及び没収の裁判は、検察官の命令によって執行する。</Sentence>
       <Paragraph Num="2">
@@ -313,32 +313,32 @@
       </Paragraph>
     </Article>
 
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>労役場留置</ArticleTitle>
       <Sentence>罰金を完納することができない者に対し、検察官は労役場留置の執行を命ずる。</Sentence>
     </Article>
 
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>恩赦の申出</ArticleTitle>
       <Sentence>検察官は、受刑者につき相当の情状があるときは、中央更生保護審査会に対し特赦又は減刑の申出をすることができる。</Sentence>
     </Article>
 
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>訴訟費用の免除申請</ArticleTitle>
       <Sentence>被告人が貧困により訴訟費用を納付することができないときは、裁判所に対しその免除を請求することができる。</Sentence>
     </Article>
 
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>押収物の還付指揮</ArticleTitle>
       <Sentence>没収されなかった押収物について、検察官は遅滞なく所有者に還付しなければならない。</Sentence>
     </Article>
 
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>裁判言渡しの立会い</ArticleTitle>
       <Sentence>検察官は、公判期日及び判決言渡期日において法廷に出頭しなければならない。</Sentence>
     </Article>
 
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>上訴の提起</ArticleTitle>
       <Sentence>判決に法令の違反又は量刑の不当があるときは、検察官は速やかに控訴又は上告を提起しなければならない。</Sentence>
     </Article>
@@ -347,52 +347,52 @@
   <Chapter Num="7">
     <ChapterTitle>検察審査会との連携及び国民参加</ChapterTitle>
 
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>検察審査会の尊重</ArticleTitle>
       <Sentence>検察官は、検察審査会が議決した不起訴処分の不当又は起訴相当の判断を重く尊重しなければならない。</Sentence>
     </Article>
 
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>不起訴記録の送付</ArticleTitle>
       <Sentence>検察官は、検察審査会から請求があったときは、不起訴処分とした事件の記録を送付しなければならない。</Sentence>
     </Article>
 
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>再捜査及び再処分</ArticleTitle>
       <Sentence>起訴相当の議決があった事件について、検察官は直ちに再捜査を行い、起訴の適否を再決定しなければならない。</Sentence>
     </Article>
 
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>指定弁護士による公訴維持</ArticleTitle>
       <Sentence>検察審査会の第二段階の起訴議決に基づき裁判所が指定した弁護士は、その事件に関して検察官と同一の職務を行う。</Sentence>
     </Article>
 
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>被害者等への通知</ArticleTitle>
       <Sentence>検察官は、告訴人、告発人又は被害者の請求があるときは、処分結果及び公判の経過を速やかに通知しなければならない。</Sentence>
     </Article>
 
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>不起訴理由の開示</ArticleTitle>
       <Sentence>検察官は、告訴人に対し不起訴処分をしたときは、請求によりその理由を記した書面を交付しなければならない。</Sentence>
     </Article>
 
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>犯罪被害者保護</ArticleTitle>
       <Sentence>検察官は、捜査及び公判の全過程において、犯罪被害者の名誉及び生活の平穏に十全の配慮を尽くさなければならない。</Sentence>
     </Article>
 
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>国民への広報</ArticleTitle>
       <Sentence>検察庁は、重大事件の処理結果及び刑事政策の統計について、国民に分かりやすく公表しなければならない。</Sentence>
     </Article>
 
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>情報公開の特例</ArticleTitle>
       <Sentence>係属中の捜査に関する記録の公開は、捜査の密行性及び関係者の人権を保護するため厳格に制限される。</Sentence>
     </Article>
 
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>法教育への寄与</ArticleTitle>
       <Sentence>検察庁は、国民の法の支配に対する理解を深めるため、法教育活動を積極的に推進する。</Sentence>
     </Article>
@@ -401,52 +401,52 @@
   <Chapter Num="8">
     <ChapterTitle>警察その他の捜査機関との協力統制</ChapterTitle>
 
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>基本的協力体制</ArticleTitle>
       <Sentence>検察官及び警察官は、国家の治安維持及び刑事訴訟の目的達成のため、常に緊密に連携協力しなければならない。</Sentence>
     </Article>
 
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>捜査指揮の一般的基準</ArticleTitle>
       <Sentence>検察官は、公訴の提起及び維持に必要な限度において、警察官に対し捜査の一般的基準を示すことができる。</Sentence>
     </Article>
 
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>個別事件の指揮</ArticleTitle>
       <Sentence>重大事件において、検察官は警察官に対し特定の証拠収集又は捜査方針について個別的な指揮を行うことができる。</Sentence>
     </Article>
 
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>指揮違反への措置</ArticleTitle>
       <Sentence>警察官が正当な理由なく検察官の指揮に従わないときは、検事総長又は検事長は、警察本部長に対し懲戒その他の措置を求めることができる。</Sentence>
     </Article>
 
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>特別司法警察職員の指揮</ArticleTitle>
       <Sentence>麻薬取締官、労働基準監督官、海上保安官等に対しても、検察官は刑事訴訟法に基づき必要な指揮を行う。</Sentence>
     </Article>
 
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>重大事故共同見分</ArticleTitle>
       <Sentence>列車事故、航空機事故等の大規模過失事故においては、検察官自ら現場に臨検し、実況見分を主導する。</Sentence>
     </Article>
 
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>合同捜査本部の設置</ArticleTitle>
       <Sentence>広域連続凶悪事件等においては、検察官と警察幹部をもって構成する合同捜査本部を設置することができる。</Sentence>
     </Article>
 
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>押収物件の引継ぎ</ArticleTitle>
       <Sentence>警察が送致した事件の押収物件は、検察官がその適正な保管状況を確認した上で引き継がなければならない。</Sentence>
     </Article>
 
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>送致基準の協定</ArticleTitle>
       <Sentence>微罪処分その他の送致手続の簡素化について、検察庁と警察本部との間で協定を締結することができる。</Sentence>
     </Article>
 
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>捜査共助要請</ArticleTitle>
       <Sentence>国際刑事警察機構等を通じた海外捜査共助について、検察官は警察と連携して外務省及び法務省に要請する。</Sentence>
     </Article>
@@ -455,52 +455,52 @@
   <Chapter Num="9">
     <ChapterTitle>監察及び規律委員会</ChapterTitle>
 
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>最高検察庁監察指導部</ArticleTitle>
       <Sentence>最高検察庁に監察指導部を置き、検察職員の不祥事、職権濫用及び違法捜査の防止並びに調査を行わせる。</Sentence>
     </Article>
 
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>監察官の権限</ArticleTitle>
       <Sentence>監察官は、すべての検察庁の事件記録、証拠物件及び帳簿を随時調査し、職員に事情を聴取することができる。</Sentence>
     </Article>
 
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>外部有識者による監察点検</ArticleTitle>
       <Sentence>法務省に検察監察点検委員会を置き、重大な捜査過誤に関する内部監察の適正性を客観的に点検させる。</Sentence>
     </Article>
 
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>証拠改ざん等の厳罰化</ArticleTitle>
       <Sentence>証拠の改ざん、捏造又は意図的隠蔽を行った検察官は、直ちに免職とし、刑事訴追の手続に付さなければならない。</Sentence>
     </Article>
 
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>供述録取の適正監査</ArticleTitle>
       <Sentence>取調べの録音録画記録を定期的に監査し、不当な威迫又は誘導が行われていないかを確認しなければならない。</Sentence>
     </Article>
 
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>冤罪事件の再検証</ArticleTitle>
       <Sentence>再審無罪が確定した事件について、最高検察庁は特別検証委員会を設置し、原因の徹底究明を行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>被害者遺族への謝罪手続</ArticleTitle>
       <Sentence>捜査又は起訴の過誤により重大な人権侵害が生じた場合、検事総長は公式に謝罪し是正措置を講じなければならない。</Sentence>
     </Article>
 
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>懲戒手続の法定</ArticleTitle>
       <Sentence>検察官の懲戒は、国家公務員法及び裁判官懲戒法の規定に準じ、慎重かつ厳格に行わなければならない。</Sentence>
     </Article>
 
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>分限休職の決定</ArticleTitle>
       <Sentence>職務遂行に重大な支障があると認められる検察官に対し、審査会の議決を経て分限休職を命ずることができる。</Sentence>
     </Article>
 
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>内部告発者の保護</ArticleTitle>
       <Sentence>検察庁内部の不正を通報した職員に対し、いかなる人事上の不利益処分も科してはならない。</Sentence>
     </Article>
@@ -509,57 +509,57 @@
   <Chapter Num="10">
     <ChapterTitle>罰則及び過料</ChapterTitle>
 
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>職権濫用逮捕監禁の罪</ArticleTitle>
       <Sentence>検察官がその職権を濫用して人を逮捕し、又は監禁したときは、刑法第百九十四条の定めるところにより処断する。</Sentence>
     </Article>
 
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>特別公務員暴行陵虐の罪</ArticleTitle>
       <Sentence>検察官又は検察事務官がその職務を行うに当たり、被告人又は被疑者に対し暴行又は陵虐の行為をしたときは、刑法の定めにより処断する。</Sentence>
     </Article>
 
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>秘密漏示の罪</ArticleTitle>
       <Sentence>検察官又は検察事務官が職務上知り得た捜査の秘密を故意に漏洩したときは、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>証拠隠滅の罪</ArticleTitle>
       <Sentence>検察官が保管する証拠物件を隠滅、偽造又は変造したときは、三年以下の拘禁刑又は二百万円以下の罰金に処する。</Sentence>
     </Article>
 
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>召喚に応じない参考人の罰金</ArticleTitle>
       <Sentence>検察官の適法な出頭要請に正当な理由なく応じない証人又は参考人に対しては、十万円以下の過料を科することができる。</Sentence>
     </Article>
 
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>立入検査妨害の罪</ArticleTitle>
       <Sentence>令状に基づく検察官の差押え又は捜索を暴行又は脅迫をもって妨害した者は、公務執行妨害の罪として厳重に処罰する。</Sentence>
     </Article>
 
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>虚偽鑑定の罪</ArticleTitle>
       <Sentence>検察官の嘱託を受けた鑑定人が虚偽の鑑定をしたときは、刑法上の偽証の罪に準じて処断する。</Sentence>
     </Article>
 
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>押収物横領の罪</ArticleTitle>
       <Sentence>検察職員が保管中の押収金品を横領したときは、業務上横領の罪として加重処罰する。</Sentence>
     </Article>
 
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>職務命令不服従の懲戒</ArticleTitle>
       <Sentence>検察官が上官の正当な職務命令に故意に違反したときは、国家公務員法に基づく懲戒処分を科する。</Sentence>
     </Article>
 
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>執行妨害に対する即時制裁</ArticleTitle>
       <Sentence>裁判の執行指揮を故意に妨絶し、又は受刑者を逃走させた者は、逃走援助の罪として処罰する。</Sentence>
     </Article>
 
-    <Article Num="101">
+    <Article Num="11">
       <ArticleTitle>過料の裁判</ArticleTitle>
       <Sentence>この法律に規定する過料は、裁判所の決定をもってこれを科する。</Sentence>
     </Article>

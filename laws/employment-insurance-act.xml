@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Law>
   <Title>雇用保険法</Title>
   <Chapter Num="1">
@@ -16,9 +16,9 @@
     </Article>
     <Article Num="3">
       <ArticleTitle>定義</ArticleTitle>
-      <Sentence>この法律において「被保険者」とは、適用事業に雇用される労働者であって、所定の適用除外要件に該当しない者をいうをいう。</Sentence>
+      <Sentence>この法律において「被保険者」とは、適用事業に雇用される労働者であって、所定の適用除外要件に該当しない者をいう。</Sentence>
       <Paragraph Num="2">
-        <Sentence>この法律において「基本手当」とは、被保険者が失業した場合に、その求職活動中の生活の安定を図るため支給される手当（失業手当）をいうをいう。</Sentence>
+        <Sentence>この法律において「基本手当」とは、被保険者が失業した場合に、その求職活動中の生活の安定を図るため支給される手当（失業手当）をいう。</Sentence>
       </Paragraph>
     </Article>
     <Article Num="4">
@@ -55,396 +55,396 @@
   </Chapter>
   <Chapter Num="2">
     <ChapterTitle>管轄機関及び基本計画</ChapterTitle>
-    <Article Num="11">
+    <Article Num="1">
       <ArticleTitle>主務大臣の権限</ArticleTitle>
       <Sentence>この法律に規定する事務は、厚生労働大臣及び公共職業安定所長が管理統理する。</Sentence>
       <Paragraph Num="2">
         <Sentence>厚生労働大臣及び公共職業安定所長は、重大事態が発生したときは直ちに大統領に報告し、必要な指示を仰がなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="12">
+    <Article Num="2">
       <ArticleTitle>基本方針の策定</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、労働者が失業した場合等の生活及び雇用の安定並びに再就職の促進に関する基本方針の案を作成し、大統領の承認を経て決定しなければならない。</Sentence>
       <Paragraph Num="2">
         <Sentence>基本方針を決定したときは、遅滞なく官報により告示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="13">
+    <Article Num="3">
       <ArticleTitle>基本方針の改定手続</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、社会経済情勢の著しい変動に応じ、適時に基本方針の見直しを行い、必要な改定を行わなければならない。</Sentence>
     </Article>
-    <Article Num="14">
+    <Article Num="4">
       <ArticleTitle>関係審議会の設置</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長の諮問機関として、専門的知見を調査審議させるため、政令の定めるところにより関係審議会を置く。</Sentence>
     </Article>
-    <Article Num="15">
+    <Article Num="5">
       <ArticleTitle>審議会の委員構成及び任期</ArticleTitle>
       <Sentence>審議会の委員は、学識経験者、実務関係者及び公募市民の中から公平に任命し、任期は二年とする。</Sentence>
     </Article>
-    <Article Num="16">
+    <Article Num="6">
       <ArticleTitle>関係省庁連絡協議会</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長及び関係省庁の長は、密接な連絡調整を図るため、常設の省庁横断的連絡協議会を組織する。</Sentence>
     </Article>
-    <Article Num="17">
+    <Article Num="7">
       <ArticleTitle>地方出先機関の指揮監督</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、全国の地方出先機関に対し、統一的な法解釈及び適正な職務執行のための訓令を発する。</Sentence>
     </Article>
-    <Article Num="18">
+    <Article Num="8">
       <ArticleTitle>資料提出等の要求</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、関係省庁、地方自治体又は関係機関に対し、必要な資料の提出その他協力を求めることができる。</Sentence>
     </Article>
-    <Article Num="19">
+    <Article Num="9">
       <ArticleTitle>年次報告書の提出</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、毎年、施策の実施状況に関する白書を作成し、大統領を経て議会に提出しなければならない。</Sentence>
     </Article>
-    <Article Num="20">
+    <Article Num="10">
       <ArticleTitle>調査研究及び技術開発の推進</ArticleTitle>
       <Sentence>国は、関係分野の先端的な知見を蓄積するため、国立研究機関の整備及び民間研究開発に対する助成を推進する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="3">
     <ChapterTitle>適用事業、被保険者の範囲及び保険料</ChapterTitle>
-    <Article Num="21">
+    <Article Num="1">
       <ArticleTitle>適用事業の原則</ArticleTitle>
       <Sentence>労働者を一人でも雇用する事業は、当然に雇用保険の適用事業となる。</Sentence>
     </Article>
-    <Article Num="22">
+    <Article Num="2">
       <ArticleTitle>被保険者の要件</ArticleTitle>
       <Sentence>一週間の所定労働時間が二十時間以上であり、三十一日以上の雇用見込みがある者を被保険者とする。</Sentence>
     </Article>
-    <Article Num="23">
+    <Article Num="3">
       <ArticleTitle>適用除外の範囲</ArticleTitle>
       <Sentence>季節的雇用の一定者、昼間学生等は被保険者としない。</Sentence>
     </Article>
-    <Article Num="24">
+    <Article Num="4">
       <ArticleTitle>高年齢被保険者</ArticleTitle>
       <Sentence>六十五歳以上の労働者についても、高年齢被保険者として保護を継続する。</Sentence>
     </Article>
-    <Article Num="25">
+    <Article Num="5">
       <ArticleTitle>短期雇用特例被保険者</ArticleTitle>
       <Sentence>季節的に雇用される者について、短期雇用特例の給付体系を適用する。</Sentence>
     </Article>
-    <Article Num="26">
+    <Article Num="6">
       <ArticleTitle>日雇労働被保険者</ArticleTitle>
       <Sentence>日々雇用される労働者に対し、印紙保険料の納付による日雇給付制度を運用する。</Sentence>
     </Article>
-    <Article Num="27">
+    <Article Num="7">
       <ArticleTitle>被保険者資格の取得届出</ArticleTitle>
       <Sentence>事業主は、労働者を雇い入れた日の属する月の翌月十日までにハローワークに届け出なければならない。</Sentence>
     </Article>
-    <Article Num="28">
+    <Article Num="8">
       <ArticleTitle>資格確認の請求権</ArticleTitle>
       <Sentence>労働者は、いつでも自己の被保険者資格の取得又は喪失の確認を請求することができる。</Sentence>
     </Article>
-    <Article Num="29">
+    <Article Num="9">
       <ArticleTitle>雇用保険料の労使折半</ArticleTitle>
       <Sentence>失業等給付の保険料は労使が折半して負担し、雇用保険二事業の保険料は事業主が全額負担する。</Sentence>
     </Article>
-    <Article Num="30">
+    <Article Num="10">
       <ArticleTitle>国庫負担の義務</ArticleTitle>
       <Sentence>基本手当等の給付費用の一定割合（原則四分の一）は、国庫が義務的に負担する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="4">
     <ChapterTitle>基本手当の受給資格、手続及び給付日数</ChapterTitle>
-    <Article Num="31">
+    <Article Num="1">
       <ArticleTitle>受給資格の要件</ArticleTitle>
       <Sentence>離職前二年間に、賃金支払の基礎となった日数が十一日以上ある月が通算十二箇月以上あること。</Sentence>
     </Article>
-    <Article Num="32">
+    <Article Num="2">
       <ArticleTitle>特定受給資格者（倒産・解雇）</ArticleTitle>
       <Sentence>倒産、解雇等の理由により離職を余儀なくされた者は、離職前一年に通算六箇月で受給資格を認める。</Sentence>
     </Article>
-    <Article Num="33">
+    <Article Num="3">
       <ArticleTitle>失業の認定の手続</ArticleTitle>
       <Sentence>受給資格者は、四週間に一度ハローワークに出頭し、積極的な求職活動の実績を申告して失業の認定を受ける。</Sentence>
     </Article>
-    <Article Num="34">
+    <Article Num="4">
       <ArticleTitle>待期期間の七日間</ArticleTitle>
       <Sentence>求職の申込みをした日から通算して七日間の待期期間を満了しなければ支給しない。</Sentence>
     </Article>
-    <Article Num="35">
+    <Article Num="5">
       <ArticleTitle>給付制限期間の適用</ArticleTitle>
       <Sentence>自己の責めに帰すべき重大な理由で解雇され、又は正当な理由なく自己都合退職した者は給付を制限する。</Sentence>
     </Article>
-    <Article Num="36">
+    <Article Num="6">
       <ArticleTitle>給付基礎日額の算定</ArticleTitle>
       <Sentence>離職前六箇月の総賃金（賞与を除く）を百八十で除した額の五十〜八十パーセントを基本手当とする。</Sentence>
     </Article>
-    <Article Num="37">
+    <Article Num="7">
       <ArticleTitle>所定給付日数の区分</ArticleTitle>
       <Sentence>被保険者であった期間、離職理由及び年齢に応じ、九十日から最長三百三十日分の給付日数を定める。</Sentence>
     </Article>
-    <Article Num="38">
+    <Article Num="8">
       <ArticleTitle>受給期間の原則（一年）</ArticleTitle>
       <Sentence>基本手当は、離職の日の翌日から起算して一年以内に受給を完了しなければならない。</Sentence>
     </Article>
-    <Article Num="39">
+    <Article Num="9">
       <ArticleTitle>受給期間の延長特例</ArticleTitle>
       <Sentence>妊娠、出産、育児、重病等により就職できないときは、最長四年間まで受給期間を延長できる。</Sentence>
     </Article>
-    <Article Num="40">
+    <Article Num="10">
       <ArticleTitle>早期再就職の促進</ArticleTitle>
       <Sentence>所定給付日数を多く残して早期に就職した者に対し、再就職手当を支給する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="5">
     <ChapterTitle>就職促進給付及び教育訓練給付</ChapterTitle>
-    <Article Num="41">
+    <Article Num="1">
       <ArticleTitle>再就職手当の支給要件</ArticleTitle>
       <Sentence>所定給付日数の三分の一以上を残し、安定した職業に就いたときに残日数の六〜七割を一括支給する。</Sentence>
     </Article>
-    <Article Num="42">
+    <Article Num="2">
       <ArticleTitle>就業手当の支給</ArticleTitle>
       <Sentence>常用雇用以外のアルバイト等に就いた日について、一定の手当を支給する。</Sentence>
     </Article>
-    <Article Num="43">
+    <Article Num="3">
       <ArticleTitle>就業促進定着手当</ArticleTitle>
       <Sentence>再就職先での賃金が離職前より低下した場合、六箇月間継続雇用されたときに差額を補填する。</Sentence>
     </Article>
-    <Article Num="44">
+    <Article Num="4">
       <ArticleTitle>広域求職活動費</ArticleTitle>
       <Sentence>ハローワークの紹介により遠隔地で面接を受ける者に対し、交通費及び宿泊費を支給する。</Sentence>
     </Article>
-    <Article Num="45">
+    <Article Num="5">
       <ArticleTitle>移転費の支給</ArticleTitle>
       <Sentence>就職に伴い住居を移転することを余儀なくされた者に対し、引越し費用を支給する。</Sentence>
     </Article>
-    <Article Num="46">
+    <Article Num="6">
       <ArticleTitle>一般教育訓練給付金</ArticleTitle>
       <Sentence>指定された通信講座、専門講座を受講修了した者に対し、費用の二十パーセント（上限十万円）を支給する。</Sentence>
     </Article>
-    <Article Num="47">
+    <Article Num="7">
       <ArticleTitle>特定一般教育訓練給付金</ArticleTitle>
       <Sentence>業務独占資格等の取得を目指す講座に対し、費用の四十パーセント（上限二十万円）を支給する。</Sentence>
     </Article>
-    <Article Num="48">
+    <Article Num="8">
       <ArticleTitle>専門実践教育訓練給付金</ArticleTitle>
       <Sentence>看護師、ＩＴエンジニア等の高度専門講座に対し、最大七十パーセント（年間上限五十六万円）を支給する。</Sentence>
     </Article>
-    <Article Num="49">
+    <Article Num="9">
       <ArticleTitle>教育訓練支援手当</ArticleTitle>
       <Sentence>専門実践教育訓練を離職して受講する四十五歳未満の者に対し、受講期間中基本手当相当を支給する。</Sentence>
     </Article>
-    <Article Num="50">
+    <Article Num="10">
       <ArticleTitle>不正指定講座の取消し</ArticleTitle>
       <Sentence>合格率の偽装等があった教育訓練施設に対し、厚生労働大臣は指定を取り消す。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="6">
     <ChapterTitle>雇用継続給付（育児・介護・高年齢）</ChapterTitle>
-    <Article Num="51">
+    <Article Num="1">
       <ArticleTitle>高年齢雇用継続基本給付金</ArticleTitle>
       <Sentence>六十歳以降も同一企業等で継続勤務し、賃金が六十歳時点の七十五パーセント未満に低下した者に支給する。</Sentence>
     </Article>
-    <Article Num="52">
+    <Article Num="2">
       <ArticleTitle>高年齢再就職給付金</ArticleTitle>
       <Sentence>基本手当を受給後に六十歳以上で再就職し、賃金が低下した者に最長二年間支給する。</Sentence>
     </Article>
-    <Article Num="53">
+    <Article Num="3">
       <ArticleTitle>育児休業給付金の支給</ArticleTitle>
       <Sentence>一歳（特例で二歳）に満たない子を養育するため育児休業を取得した被保険者に休業開始時賃金の六十七％を支給する。</Sentence>
     </Article>
-    <Article Num="54">
+    <Article Num="4">
       <ArticleTitle>出生時育児休業給付金（産後パパ育休）</ArticleTitle>
       <Sentence>子の出生後八週間以内に父親が取得する育休に対し、二十八日分を限度に支給する。</Sentence>
     </Article>
-    <Article Num="55">
+    <Article Num="5">
       <ArticleTitle>介護休業給付金の支給</ArticleTitle>
       <Sentence>要介護状態にある家族を介護するため休業した被保険者に対し、通算九十三日を限度に六十七％を支給する。</Sentence>
     </Article>
-    <Article Num="56">
+    <Article Num="6">
       <ArticleTitle>給付の非課税措置</ArticleTitle>
       <Sentence>育児休業給付、介護休業給付を含む雇用保険のすべての給付には、所得税を課さない。</Sentence>
     </Article>
-    <Article Num="57">
+    <Article Num="7">
       <ArticleTitle>社会保険料の免除連携</ArticleTitle>
       <Sentence>育児休業中の健康保険料及び厚生年金保険料は、労使双方の負担を全額免除する。</Sentence>
     </Article>
-    <Article Num="58">
+    <Article Num="8">
       <ArticleTitle>職場復帰支援の義務</ArticleTitle>
       <Sentence>事業主は、育休取得者の円滑な原職復帰及び短時間勤務制度の定着を図らなければならない。</Sentence>
     </Article>
-    <Article Num="59">
+    <Article Num="9">
       <ArticleTitle>不利益取扱いの禁止</ArticleTitle>
       <Sentence>育児休業又は介護休業の申出又は取得を理由とする解雇、不利益処分を固く禁止する。</Sentence>
     </Article>
-    <Article Num="60">
+    <Article Num="10">
       <ArticleTitle>休業期間の雇用保険算定特例</ArticleTitle>
       <Sentence>休業期間は、次回の失業手当の算定対象期間から除外して受給権を保全する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="7">
     <ChapterTitle>雇用安定事業、能力開発事業及び罰則</ChapterTitle>
-    <Article Num="61">
+    <Article Num="1">
       <ArticleTitle>雇用調整助成金の交付</ArticleTitle>
       <Sentence>景気悪化時に、労働者を解雇せず休業手当を支払って雇用維持を図った事業主を助成する。</Sentence>
     </Article>
-    <Article Num="62">
+    <Article Num="2">
       <ArticleTitle>労働移動支援助成金</ArticleTitle>
       <Sentence>事業規模縮小に伴う労働者の再就職支援を民間に委託した事業主に助成する。</Sentence>
     </Article>
-    <Article Num="63">
+    <Article Num="3">
       <ArticleTitle>キャリアアップ助成金</ArticleTitle>
       <Sentence>有期契約労働者、派遣社員を正社員に登用した事業主に対し定額の助成金を支給する。</Sentence>
     </Article>
-    <Article Num="64">
+    <Article Num="4">
       <ArticleTitle>産業雇用安定センターの活用</ArticleTitle>
       <Sentence>企業間の出向、移籍をあっせんする公益機関と緊密に連携する。</Sentence>
     </Article>
-    <Article Num="65">
+    <Article Num="5">
       <ArticleTitle>公共職業訓練（ハロートレーニング）</ArticleTitle>
       <Sentence>失業者に対し、無料で機械加工、プログラミング等の職業訓練を提供する。</Sentence>
     </Article>
-    <Article Num="66">
+    <Article Num="6">
       <ArticleTitle>不正受給に対する返還命令</ArticleTitle>
       <Sentence>偽りその他不正の行為により給付を受けた者に対し、全額返還及び二倍の納付命令（三倍返し）を命ずる。</Sentence>
     </Article>
-    <Article Num="67">
+    <Article Num="7">
       <ArticleTitle>事業主の連帯納付責任</ArticleTitle>
       <Sentence>事業主が虚偽の証明書を作成して不正受給に加担したときは、受給者と連帯して納付の責を負う。</Sentence>
     </Article>
-    <Article Num="68">
+    <Article Num="8">
       <ArticleTitle>不正受給の刑事告発</ArticleTitle>
       <Sentence>組織的な雇用助成金の詐取事案に対し、警察に詐欺罪として厳正に告発する。</Sentence>
     </Article>
-    <Article Num="69">
+    <Article Num="9">
       <ArticleTitle>届出虚偽の罪</ArticleTitle>
       <Sentence>被保険者資格の取得届出を怠り、又は虚偽の届出をした事業主は、六月以下の拘禁刑に処する。</Sentence>
     </Article>
-    <Article Num="70">
+    <Article Num="10">
       <ArticleTitle>労働市場の完全雇用</ArticleTitle>
       <Sentence>国家の経済安全保障の一環として、希望するすべての国民に就業機会を保障する。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="8">
     <ChapterTitle>監督、立入検査及び行政処分</ChapterTitle>
-    <Article Num="71">
+    <Article Num="1">
       <ArticleTitle>報告の徴収</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、この法律の施行に必要な限度において、関係者に対し業務若しくは経理の報告を求めることができる。</Sentence>
     </Article>
-    <Article Num="72">
+    <Article Num="2">
       <ArticleTitle>立入検査の権限</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長の指定する職員は、関係者の事務所その他の場所に立ち入り、帳簿書類その他の物件を検査することができる。</Sentence>
       <Paragraph Num="2">
         <Sentence>立入検査をする職員は、その身分を示す証明書を携帯し、提示しなければならない。</Sentence>
       </Paragraph>
     </Article>
-    <Article Num="73">
+    <Article Num="3">
       <ArticleTitle>立入検査の制限</ArticleTitle>
       <Sentence>立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
     </Article>
-    <Article Num="74">
+    <Article Num="4">
       <ArticleTitle>帳簿書類等の保存義務</ArticleTitle>
       <Sentence>関係事業者は、法令の定めるところにより、正確な帳簿及び電磁的記録を作成し、五年間保存しなければならない。</Sentence>
     </Article>
-    <Article Num="75">
+    <Article Num="5">
       <ArticleTitle>業務改善勧告</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、適正な運営が確保されていないと認めるときは、期間を定めて必要な改善を勧告することができる。</Sentence>
     </Article>
-    <Article Num="76">
+    <Article Num="6">
       <ArticleTitle>業務改善命令</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、法令違反が明白であるときは、直ちに期限を付して業務方法の改善その他必要な措置を命ずることができる。</Sentence>
     </Article>
-    <Article Num="77">
+    <Article Num="7">
       <ArticleTitle>業務停止命令</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、改善命令に従わない者に対し、六月以内の期間を定めて業務の全部又は一部の停止を命ずることができる。</Sentence>
     </Article>
-    <Article Num="78">
+    <Article Num="8">
       <ArticleTitle>許可又は登録の取消し</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、不正の手段により許可等を受けた者に対し、その許可等を取り消すことができる。</Sentence>
     </Article>
-    <Article Num="79">
+    <Article Num="9">
       <ArticleTitle>行政処分の公表</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、是正命令又は業務停止処分を行ったときは、違反事実及び事業者名を公表することができる。</Sentence>
     </Article>
-    <Article Num="80">
+    <Article Num="10">
       <ArticleTitle>事前の聴聞手続</ArticleTitle>
       <Sentence>不利益処分を行おうとするときは、行政手続法の定めるところにより、必ず事前の聴聞を行わなければならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="9">
     <ChapterTitle>審査請求及び紛争処理手続</ChapterTitle>
-    <Article Num="81">
+    <Article Num="1">
       <ArticleTitle>審査請求の申立て</ArticleTitle>
       <Sentence>この法律に基づく処分又はその不作為に不服がある者は、行政不服審査法に基づき審査請求をすることができる。</Sentence>
     </Article>
-    <Article Num="82">
+    <Article Num="2">
       <ArticleTitle>不服申立期間の教示</ArticleTitle>
       <Sentence>処分を行う書面には、不服申立てができる旨及びその期間を明記しなければならない。</Sentence>
     </Article>
-    <Article Num="83">
+    <Article Num="3">
       <ArticleTitle>行政不服審査会への諮問</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、審査請求を受けたときは、別段の定めがある場合を除き、行政不服審査会に諮問しなければならない。</Sentence>
     </Article>
-    <Article Num="84">
+    <Article Num="4">
       <ArticleTitle>処分の執行停止</ArticleTitle>
       <Sentence>重大な損害を避けるため緊急の必要があるときは、審査庁は職権又は申立てにより処分の執行停止を決定する。</Sentence>
     </Article>
-    <Article Num="85">
+    <Article Num="5">
       <ArticleTitle>裁判所への取消訴訟</ArticleTitle>
       <Sentence>裁決に不服がある者は、行政事件訴訟法に基づき管轄裁判所に取消訴訟を提起することができる。</Sentence>
     </Article>
-    <Article Num="86">
+    <Article Num="6">
       <ArticleTitle>民事調停委員会の設置</ArticleTitle>
       <Sentence>民事上の紛争を迅速に解決するため、裁判所に専門家による民事調停委員会を置くことができる。</Sentence>
     </Article>
-    <Article Num="87">
+    <Article Num="7">
       <ArticleTitle>調停の申立て手続</ArticleTitle>
       <Sentence>当事者は、合意により調停委員会に対し和解のあっせんを申し立てることができる。</Sentence>
     </Article>
-    <Article Num="88">
+    <Article Num="8">
       <ArticleTitle>調停の効力と執行力</ArticleTitle>
       <Sentence>調停が成立し調書に記載されたときは、裁判上の和解と同一の効力を有する。</Sentence>
     </Article>
-    <Article Num="89">
+    <Article Num="9">
       <ArticleTitle>苦情処理窓口の常設</ArticleTitle>
       <Sentence>厚生労働大臣及び公共職業安定所長は、国民からの相談及び苦情に迅速に応じる総合相談窓口を常設しなければならない。</Sentence>
     </Article>
-    <Article Num="90">
+    <Article Num="10">
       <ArticleTitle>公益通報者の保護</ArticleTitle>
       <Sentence>この法律の違反行為を通報した者に対し、解雇その他のいかなる不利益処分も科してはならない。</Sentence>
     </Article>
   </Chapter>
   <Chapter Num="10">
     <ChapterTitle>罰則</ChapterTitle>
-    <Article Num="91">
+    <Article Num="1">
       <ArticleTitle>最重刑規定</ArticleTitle>
       <Sentence>偽りその他不正の手段により許可等を受け、又は業務停止命令に故意に違反した者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
     </Article>
-    <Article Num="92">
+    <Article Num="2">
       <ArticleTitle>重大命令違反の罪</ArticleTitle>
       <Sentence>この法律に基づく重要命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="93">
+    <Article Num="3">
       <ArticleTitle>無許可営業の罪</ArticleTitle>
       <Sentence>所要の許可若しくは登録を受けないで事業を営んだ者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="94">
+    <Article Num="4">
       <ArticleTitle>虚偽報告及び検査忌避の罪</ArticleTitle>
       <Sentence>報告を怠り、虚偽の報告をし、又は立入検査を拒み、妨げ、忌避した者は、一年以下の拘禁刑若しくは百万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="95">
+    <Article Num="5">
       <ArticleTitle>秘密漏洩の罪</ArticleTitle>
       <Sentence>職務上知り得た他人の業務上の秘密又は個人のプライバシーを正当な理由なく漏らした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="96">
+    <Article Num="6">
       <ArticleTitle>帳簿記載不備の罪</ArticleTitle>
       <Sentence>帳簿を備え付けず、又はこれに虚偽の記載をした者は、五十万円以下の罰金に処する。</Sentence>
     </Article>
-    <Article Num="97">
+    <Article Num="7">
       <ArticleTitle>法人の両罰規定</ArticleTitle>
       <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その業務に関して違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各条の罰金刑を科する。</Sentence>
     </Article>
-    <Article Num="98">
+    <Article Num="8">
       <ArticleTitle>秩序罰たる過料の基準</ArticleTitle>
       <Sentence>正当な理由なく届出を怠り、又は登記手続を遅延した者は、三十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="99">
+    <Article Num="9">
       <ArticleTitle>審尋不出頭に対する過料</ArticleTitle>
       <Sentence>裁判所又は審査会の呼出しに応じず、正当な理由なく出頭しなかった者は、十万円以下の過料に処する。</Sentence>
     </Article>
-    <Article Num="100">
+    <Article Num="10">
       <ArticleTitle>過料の裁判管轄</ArticleTitle>
       <Sentence>この法律に定める過料は、地方裁判所の決定をもってこれを科する。</Sentence>
     </Article>
